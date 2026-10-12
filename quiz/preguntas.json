@@ -5843,7 +5843,7 @@
     "pregunta": "¿Qué descubre Leo escondido en el bosque del campamento?",
     "opciones": [
      "La entrada al Laberinto",
-     "El Búnker 9, un taller secreto",
+     "El búnker 9, un taller secreto",
      "Un templo de Hera",
      "Una cueva de Pan"
     ],
@@ -5866,7 +5866,7 @@
     "id": "hoo1-035",
     "nivel": "A",
     "sub": "El Campamento Mestizo",
-    "pregunta": "¿Qué diseño encuentra Leo en el Búnker 9?",
+    "pregunta": "¿Qué diseño encuentra Leo en el búnker 9?",
     "opciones": [
      "Un mapa del Laberinto",
      "Los planos de un barco volador, el Argo II",
@@ -6040,7 +6040,7 @@
      "Navajo",
      "Sioux",
      "Apache",
-     "Cheroqui"
+     "Cherokee"
     ],
     "correcta": "d"
    },
@@ -6050,7 +6050,7 @@
     "sub": "La misión",
     "pregunta": "¿Qué gigante tiene secuestrado al padre de Piper?",
     "opciones": [
-     "Porfirión",
+     "Porfirio",
      "Polibotes",
      "Encélado",
      "Alcioneo"
@@ -6323,7 +6323,7 @@
     "sub": "La Casa del Lobo",
     "pregunta": "¿Qué rey de los gigantes está renaciendo junto a la jaula de Hera?",
     "opciones": [
-     "Porfirión",
+     "Porfirio",
      "Encélado",
      "Alcioneo",
      "Polibotes"
@@ -6373,7 +6373,7 @@
     "id": "hoo1-074",
     "nivel": "I",
     "sub": "La Casa del Lobo",
-    "pregunta": "¿Qué pasa con Porfirión al final?",
+    "pregunta": "¿Qué pasa con Porfirio al final?",
     "opciones": [
      "Escapa bajo tierra",
      "Muere a manos de Jason",
@@ -7167,7 +7167,7 @@
      "Pretor",
      "Centurión",
      "Augur",
-     "Signífero"
+     "Portaestandarte"
     ],
     "correcta": "b"
    },
@@ -7230,7 +7230,7 @@
     "pregunta": "¿Qué ciego adivino tortura a las arpías en Portland?",
     "opciones": [
      "Tiresias",
-     "Fineo",
+     "Fineas",
      "Tántalo",
      "Licaón"
     ],
@@ -7240,7 +7240,7 @@
     "id": "hoo2-058",
     "nivel": "A",
     "sub": "La misión al norte",
-    "pregunta": "¿Cómo vence Percy a Fineo?",
+    "pregunta": "¿Cómo vence Percy a Fineas?",
     "opciones": [
      "Le hace elegir entre dos frascos de sangre de gorgona y bebe el veneno",
      "Lo ahoga en un río",
@@ -7270,7 +7270,7 @@
     "opciones": [
      "Celeno",
      "Ella",
-     "Aelo",
+     "Aella",
      "Juniper"
     ],
     "correcta": "b"
@@ -7336,7 +7336,7 @@
      "Arión",
      "Blackjack",
      "Pegaso",
-     "Escipión"
+     "Scipio"
     ],
     "correcta": "a"
    },
@@ -7387,7 +7387,7 @@
     "opciones": [
      "Alcioneo",
      "Polibotes",
-     "Porfirión",
+     "Porfirio",
      "Encélado"
     ],
     "correcta": "a"
@@ -7452,7 +7452,7 @@
     "opciones": [
      "Polibotes",
      "Alcioneo",
-     "Porfirión",
+     "Porfirio",
      "Clitio"
     ],
     "correcta": "a"
@@ -8289,7 +8289,7 @@
     "id": "hoo3-057",
     "nivel": "A",
     "sub": "El viaje",
-    "pregunta": "¿Quiénes son Bythos y Aphros?",
+    "pregunta": "¿Quiénes son Bitos y Afros?",
     "opciones": [
      "Centauros marinos, medio hermanos de Quirón",
      "Hijos de Poseidón",
@@ -8849,7 +8849,7 @@
      "Bobby",
      "Señor Bigotes",
      "Cerbero Junior",
-     "Bob Pequeño"
+     "Bob el Pequeño"
     ],
     "correcta": "d"
    },
@@ -9693,7 +9693,7 @@
     "opciones": [
      "Damasén",
      "Clitio",
-     "Porfirión",
+     "Porfirio",
      "Encélado"
     ],
     "correcta": "b"
@@ -9770,7 +9770,7 @@
     "pregunta": "¿Cómo se llama el pegaso de Reyna?",
     "opciones": [
      "Blackjack",
-     "Escipión",
+     "Scipio",
      "Arión",
      "Guido"
     ],
@@ -9858,7 +9858,7 @@
     "id": "hoo4-088",
     "nivel": "I",
     "sub": "La Casa de Hades",
-    "pregunta": "¿Qué le pasó a Escipión, el pegaso de Reyna, al llegar al Argo II?",
+    "pregunta": "¿Qué le pasó a Scipio, el pegaso de Reyna, al llegar al Argo II?",
     "opciones": [
      "Escapó volando",
      "Se convirtió en constelación",
@@ -10197,7 +10197,7 @@
      "Blackjack",
      "Arión",
      "Pegaso, el señor de los caballos voladores",
-     "Escipión"
+     "Scipio"
     ],
     "correcta": "c"
    },
@@ -10221,7 +10221,7 @@
     "pregunta": "¿Qué pegaso resulta herido por una flecha de Orión y Reyna lo cura?",
     "opciones": [
      "Pegaso",
-     "Escipión",
+     "Scipio",
      "Blackjack",
      "Guido"
     ],
@@ -10273,7 +10273,7 @@
     "pregunta": "¿Qué diosa menor de las tormentas marinas, hija de Poseidón, convencen de ayudarlos?",
     "opciones": [
      "Anfitrite",
-     "Cimopolea",
+     "Cimopolia",
      "Tetis",
      "Ceto"
     ],
@@ -10530,7 +10530,7 @@
     "id": "hoo5-051",
     "nivel": "I",
     "sub": "El Argo II en Grecia",
-    "pregunta": "¿Por qué Cimopolea llama \"hermano\" a Percy?",
+    "pregunta": "¿Por qué Cimopolia llama \"hermano\" a Percy?",
     "opciones": [
      "Porque se conocieron en el mar",
      "Por burlarse de él",
@@ -10621,7 +10621,7 @@
     "id": "hoo5-058",
     "nivel": "I",
     "sub": "La batalla final",
-    "pregunta": "¿Quién mata al rey de los gigantes, Porfirión?",
+    "pregunta": "¿Quién mata al rey de los gigantes, Porfirio?",
     "opciones": [
      "Jason, junto a Zeus",
      "Percy, junto a Poseidón",
@@ -10855,7 +10855,7 @@
     "id": "hoo5-076",
     "nivel": "E",
     "sub": "La batalla final",
-    "pregunta": "¿Con qué lleva trenzado el pelo Porfirión?",
+    "pregunta": "¿Con qué lleva trenzado el pelo Porfirio?",
     "opciones": [
      "Con serpientes",
      "Con huesos de dragón",
@@ -11811,7 +11811,7 @@
     "sub": "Indianápolis",
     "pregunta": "¿Cómo se llama el refugio secreto donde se esconden?",
     "opciones": [
-     "El Búnker 9",
+     "El búnker 9",
      "La Estación de Paso",
      "La Casa del Lobo",
      "El Puerto Seguro"
@@ -14548,6 +14548,2503 @@
      "Melocotones"
     ],
     "correcta": "d"
+   }
+  ]
+ },
+ {
+  "parte": 41,
+  "saga": "kane",
+  "libro": 1,
+  "corto": "CK 1",
+  "titulo": "La pirámide roja",
+  "preguntas": [
+   {
+    "id": "kane1-001",
+    "nivel": "B",
+    "sub": "Londres y el Museo Británico",
+    "pregunta": "¿Quiénes narran La pirámide roja?",
+    "opciones": [
+     "Carter Kane y Zia Rashid",
+     "Sadie Kane y Amos",
+     "Julius Kane",
+     "Carter y Sadie Kane"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-002",
+    "nivel": "B",
+    "sub": "Londres y el Museo Británico",
+    "pregunta": "¿En qué noche empieza la historia?",
+    "opciones": [
+     "En Nochebuena",
+     "En Año Nuevo",
+     "En Halloween",
+     "En el cumpleaños de Sadie"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-003",
+    "nivel": "I",
+    "sub": "Londres y el Museo Británico",
+    "pregunta": "¿Qué edades tienen Carter y Sadie al comienzo?",
+    "opciones": [
+     "Carter, doce; Sadie, catorce",
+     "Los dos tienen trece",
+     "Carter, catorce; Sadie, doce",
+     "Carter, dieciséis; Sadie, doce"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-004",
+    "nivel": "B",
+    "sub": "Londres y el Museo Británico",
+    "pregunta": "¿Con quién vive Sadie en Londres?",
+    "opciones": [
+     "Con su tío Amos",
+     "Con sus abuelos maternos",
+     "Con su padre",
+     "En un internado"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-005",
+    "nivel": "I",
+    "sub": "Londres y el Museo Británico",
+    "pregunta": "¿Cómo se apellidan los abuelos de Sadie?",
+    "opciones": [
+     "Kane",
+     "Rashid",
+     "Desjardins",
+     "Faust"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-006",
+    "nivel": "B",
+    "sub": "Londres y el Museo Británico",
+    "pregunta": "¿A qué se dedica Julius Kane ante el mundo?",
+    "opciones": [
+     "Es profesor de música",
+     "Es piloto",
+     "Es un famoso egiptólogo",
+     "Es policía"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-007",
+    "nivel": "I",
+    "sub": "Londres y el Museo Británico",
+    "pregunta": "¿Cómo vive Carter desde la muerte de su madre?",
+    "opciones": [
+     "Viajando por el mundo con su padre, con una sola maleta",
+     "En Brooklyn con Amos",
+     "En Londres con Sadie",
+     "En un internado de El Cairo"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-008",
+    "nivel": "I",
+    "sub": "Londres y el Museo Británico",
+    "pregunta": "¿Junto a qué monumento de Londres murió Ruby Kane?",
+    "opciones": [
+     "El Big Ben",
+     "La Torre de Londres",
+     "El Museo Británico",
+     "La Aguja de Cleopatra"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-009",
+    "nivel": "B",
+    "sub": "Londres y el Museo Británico",
+    "pregunta": "¿Qué objeto hace estallar Julius en el Museo Británico?",
+    "opciones": [
+     "La Piedra de Rosetta",
+     "La máscara de Tutankamón",
+     "Un sarcófago",
+     "Un obelisco"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-010",
+    "nivel": "A",
+    "sub": "Londres y el Museo Británico",
+    "pregunta": "¿Por qué es famosa la Piedra de Rosetta, según Carter?",
+    "opciones": [
+     "Tiene la tumba de un faraón",
+     "Fue la clave para descifrar los jeroglíficos",
+     "Es la piedra más vieja del mundo",
+     "La trajo Cleopatra a Londres"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-011",
+    "nivel": "I",
+    "sub": "Londres y el Museo Británico",
+    "pregunta": "¿A qué dios llama Julius frente a la Piedra de Rosetta?",
+    "opciones": [
+     "Ra",
+     "Horus",
+     "Anubis",
+     "Osiris"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-012",
+    "nivel": "A",
+    "sub": "Londres y el Museo Británico",
+    "pregunta": "¿Cuántos dioses libera Julius al romper la piedra?",
+    "opciones": [
+     "Uno",
+     "Tres",
+     "Cinco",
+     "Doce"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-013",
+    "nivel": "I",
+    "sub": "Londres y el Museo Británico",
+    "pregunta": "¿Quién aparece en el museo y encierra a Julius en un ataúd brillante?",
+    "opciones": [
+     "Set, el Señor Rojo",
+     "Anubis",
+     "Apofis",
+     "Desjardins"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-014",
+    "nivel": "I",
+    "sub": "Londres y el Museo Británico",
+    "pregunta": "¿Cómo se llama la gata de Sadie?",
+    "opciones": [
+     "Misifú",
+     "Keops",
+     "Leroy",
+     "Tarta"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-015",
+    "nivel": "B",
+    "sub": "La mansión de Brooklyn",
+    "pregunta": "¿Qué pariente se lleva a Carter y Sadie después de la explosión?",
+    "opciones": [
+     "Su tío Amos",
+     "Su abuela",
+     "Su tía Bast",
+     "Su primo Walt"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-016",
+    "nivel": "I",
+    "sub": "La mansión de Brooklyn",
+    "pregunta": "¿Dónde está la mansión de Amos?",
+    "opciones": [
+     "En una isla del Nilo",
+     "Sobre un almacén en Brooklyn, invisible para los mortales",
+     "Debajo de Central Park",
+     "En un rascacielos de Manhattan"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-017",
+    "nivel": "I",
+    "sub": "La mansión de Brooklyn",
+    "pregunta": "¿Qué animal vive con Amos y tiene nombre de faraón?",
+    "opciones": [
+     "Keops, un babuino",
+     "Ramsés, un halcón",
+     "Tutankamón, un perro",
+     "Seti, un gato"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-018",
+    "nivel": "A",
+    "sub": "La mansión de Brooklyn",
+    "pregunta": "¿Qué tiene de raro la dieta de Keops?",
+    "opciones": [
+     "Solo come cosas rojas",
+     "Solo come cosas que terminan en o",
+     "Solo come de noche",
+     "Solo come plumas"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-019",
+    "nivel": "I",
+    "sub": "La mansión de Brooklyn",
+    "pregunta": "¿Qué deporte le encanta a Keops?",
+    "opciones": [
+     "El fútbol",
+     "El tenis",
+     "El baloncesto",
+     "El béisbol"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-020",
+    "nivel": "A",
+    "sub": "La mansión de Brooklyn",
+    "pregunta": "¿Cómo se llama el cocodrilo albino de la piscina de Amos?",
+    "opciones": [
+     "Sobek Junior",
+     "Filipo de Macedonia",
+     "Alejandro Magno",
+     "Ptolomeo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-021",
+    "nivel": "I",
+    "sub": "La mansión de Brooklyn",
+    "pregunta": "¿Qué es Plastilino?",
+    "opciones": [
+     "Un demonio de la Duat",
+     "Un babuino de juguete",
+     "El ba de Carter",
+     "Una estatuilla de cera de su padre que cobra vida"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-022",
+    "nivel": "A",
+    "sub": "La mansión de Brooklyn",
+    "pregunta": "¿Por qué Plastilino no tiene piernas?",
+    "opciones": [
+     "Se las comió Keops",
+     "Su creador se las cortó para que no escapara",
+     "Se derritieron al sol",
+     "Nunca se las esculpieron"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-023",
+    "nivel": "A",
+    "sub": "La mansión de Brooklyn",
+    "pregunta": "¿Qué palabra divina significa \"unir\"?",
+    "opciones": [
+     "Hi-nehm",
+     "Ha-di",
+     "Maat",
+     "Per-roj"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-024",
+    "nivel": "I",
+    "sub": "La mansión de Brooklyn",
+    "pregunta": "¿Qué hace la palabra ha-di?",
+    "opciones": [
+     "Unir",
+     "Proteger",
+     "Volar",
+     "Destruir"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-025",
+    "nivel": "A",
+    "sub": "La mansión de Brooklyn",
+    "pregunta": "Según Carter, ¿qué significa literalmente la palabra \"faraón\"?",
+    "opciones": [
+     "Hijo del sol",
+     "Rey de reyes",
+     "Gran casa",
+     "Señor del Nilo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-026",
+    "nivel": "A",
+    "sub": "La mansión de Brooklyn",
+    "pregunta": "¿Qué son los días demoníacos?",
+    "opciones": [
+     "Los días de luna llena",
+     "La semana antes del solsticio",
+     "Los días en que Ra no sale",
+     "Los cinco días extra del año egipcio, en que nacieron los dioses"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-027",
+    "nivel": "A",
+    "sub": "La mansión de Brooklyn",
+    "pregunta": "¿Cómo consiguió Nut tener a sus hijos pese a la prohibición de Ra?",
+    "opciones": [
+     "Engañó a Ra con un disfraz",
+     "Los escondió en la Duat",
+     "Se los pidió a Tot",
+     "Le ganó días extra al dios lunar Jonsu jugando a los dados"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-028",
+    "nivel": "I",
+    "sub": "La mansión de Brooklyn",
+    "pregunta": "¿Quiénes son los padres de Osiris, Isis, Set, Neftis y Horus el Viejo?",
+    "opciones": [
+     "Ra y Hathor",
+     "Nut, diosa del cielo, y Geb, dios de la tierra",
+     "Ptah y Sejmet",
+     "Tot y Maat"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-029",
+    "nivel": "B",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Quién es en realidad Tarta, la gata de Sadie?",
+    "opciones": [
+     "La diosa Sejmet",
+     "La diosa Isis",
+     "La diosa Bast",
+     "Un demonio"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-030",
+    "nivel": "I",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Qué armas usa Bast?",
+    "opciones": [
+     "Un arco",
+     "Un báculo",
+     "Dos cuchillos",
+     "Una espada curva"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-031",
+    "nivel": "A",
+    "sub": "La Casa de la Vida",
+    "pregunta": "Según Bast, ¿por qué los magos no visten tejidos de origen animal?",
+    "opciones": [
+     "Porque el aura vital que queda puede interferir con los hechizos",
+     "Porque es de mala suerte",
+     "Porque lo prohíbe Ra",
+     "Porque atraen a los demonios"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-032",
+    "nivel": "B",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Qué maga joven persigue a los Kane desde el museo?",
+    "opciones": [
+     "Jaz",
+     "Zia Rashid",
+     "Cleo",
+     "Alyssa"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-033",
+    "nivel": "I",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Qué diosa con forma de escorpión ataca a los Kane en el museo?",
+    "opciones": [
+     "Sejmet",
+     "Neftis",
+     "Serket",
+     "Tauret"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-034",
+    "nivel": "I",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Dónde está el Nomo Primero, sede de la Casa de la Vida?",
+    "opciones": [
+     "En Londres",
+     "En París",
+     "En Brooklyn",
+     "Bajo El Cairo, en Egipto"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-035",
+    "nivel": "A",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Qué número de nomo es Nueva York?",
+    "opciones": [
+     "El Primero",
+     "El Vigésimo Primero",
+     "El Decimocuarto",
+     "El Decimoséptimo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-036",
+    "nivel": "A",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿En cuántos nomos está repartido el mundo?",
+    "opciones": [
+     "Doce",
+     "Cuarenta y dos",
+     "Trescientos sesenta",
+     "Cien"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-037",
+    "nivel": "I",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Quién es el lector jefe de la Casa de la Vida al llegar los Kane?",
+    "opciones": [
+     "Desjardins",
+     "Amos",
+     "Iskandar",
+     "Vladimir Menshikov"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-038",
+    "nivel": "A",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Qué ley impulsó Iskandar en tiempos del Imperio romano?",
+    "opciones": [
+     "La que prohíbe hablar con los mortales",
+     "La que prohíbe liberar a los dioses o usar su poder",
+     "La que obliga a vivir en Egipto",
+     "La que prohíbe la magia de fuego"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-039",
+    "nivel": "I",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿De qué nacionalidad es Michel Desjardins?",
+    "opciones": [
+     "Ruso",
+     "Francés",
+     "Egipcio",
+     "Inglés"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-040",
+    "nivel": "A",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Qué nomo dirige Desjardins?",
+    "opciones": [
+     "El Primero, en El Cairo",
+     "El Decimoctavo, en Moscú",
+     "El Vigésimo Primero, en Nueva York",
+     "El Decimocuarto, en París"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-041",
+    "nivel": "I",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Qué arma recibe Carter, la favorita de la guardia del faraón?",
+    "opciones": [
+     "Una lanza",
+     "Un hacha de guerra",
+     "Una espada curva (jopesh)",
+     "Un arco"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-042",
+    "nivel": "I",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Qué ve Sadie en el Salón de las Eras sobre Osiris?",
+    "opciones": [
+     "Cómo se casa con Isis",
+     "Cómo Set lo engaña para que se meta en un cofre",
+     "Cómo nace Horus",
+     "Cómo gobierna el inframundo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-043",
+    "nivel": "A",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Qué don tenía Ruby, la madre de los Kane, según Iskandar?",
+    "opciones": [
+     "El de hablar con animales",
+     "El de la presciencia, ver el futuro",
+     "El de volar",
+     "El de controlar el fuego"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-044",
+    "nivel": "I",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Qué dios lleva Carter en su interior?",
+    "opciones": [
+     "Osiris",
+     "Set",
+     "Horus",
+     "Tot"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-045",
+    "nivel": "I",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Qué diosa lleva Sadie en su interior?",
+    "opciones": [
+     "Neftis",
+     "Bast",
+     "Nut",
+     "Isis"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-046",
+    "nivel": "A",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Qué es el ba?",
+    "opciones": [
+     "El alma, que se ve como un pájaro con cabeza humana",
+     "Un demonio guardián",
+     "Un tipo de báculo",
+     "El nombre secreto"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-047",
+    "nivel": "I",
+    "sub": "La Casa de la Vida",
+    "pregunta": "¿Cómo llama Carter a la forma de su propio ba?",
+    "opciones": [
+     "El pavo asesino",
+     "El halcón dorado",
+     "El pollo fantasma",
+     "El ganso del Nilo"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-048",
+    "nivel": "I",
+    "sub": "El viaje por Estados Unidos",
+    "pregunta": "¿En qué se convierten Carter y Sadie para volar hasta París?",
+    "opciones": [
+     "Murciélagos",
+     "Gatos alados",
+     "Aves: Carter en halcón y Sadie en milano",
+     "Nubes"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-049",
+    "nivel": "A",
+    "sub": "El viaje por Estados Unidos",
+    "pregunta": "¿Qué libro buscan en la casa de Desjardins en París?",
+    "opciones": [
+     "El Libro de Tot",
+     "El Libro de dar muerte a Apofis",
+     "El Libro de los muertos",
+     "Los libros sibilinos"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-050",
+    "nivel": "I",
+    "sub": "El viaje por Estados Unidos",
+    "pregunta": "¿A qué ciudad los manda Bast por accidente desde París?",
+    "opciones": [
+     "Washington D. C.",
+     "Nueva York",
+     "Phoenix",
+     "Memphis"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-051",
+    "nivel": "A",
+    "sub": "El viaje por Estados Unidos",
+    "pregunta": "¿Qué conjura Bast para comer cuando le piden comida?",
+    "opciones": [
+     "Pizza",
+     "Pescado crudo",
+     "Hamburguesas",
+     "Latas de comida para gatos y leche"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-052",
+    "nivel": "A",
+    "sub": "El viaje por Estados Unidos",
+    "pregunta": "¿Qué diosa del cielo les regala billetes de avión a Memphis?",
+    "opciones": [
+     "Isis",
+     "Nut",
+     "Hathor",
+     "Bast"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-053",
+    "nivel": "E",
+    "sub": "El viaje por Estados Unidos",
+    "pregunta": "¿Qué personaje interpreta Bast frente a la policía del aeropuerto?",
+    "opciones": [
+     "La tía Misifú de los chicos",
+     "Su madre",
+     "Una agente secreta",
+     "Una azafata"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-054",
+    "nivel": "I",
+    "sub": "El viaje por Estados Unidos",
+    "pregunta": "¿Qué dios vive en Memphis, toca la guitarra eléctrica y lleva bata de laboratorio?",
+    "opciones": [
+     "Tot",
+     "Jonsu",
+     "Ptah",
+     "Anubis"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-055",
+    "nivel": "A",
+    "sub": "El viaje por Estados Unidos",
+    "pregunta": "¿Por qué los babuinos están relacionados con Tot?",
+    "opciones": [
+     "Son sus hijos",
+     "Están bajo su protección",
+     "Él los creó con barro",
+     "Son sus sirvientes castigados"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-056",
+    "nivel": "A",
+    "sub": "El viaje por Estados Unidos",
+    "pregunta": "¿A qué famosa casa de Memphis los manda Tot como examen?",
+    "opciones": [
+     "La casa de Johnny Cash",
+     "La Casa Blanca",
+     "El Museo de Brooklyn",
+     "Graceland, la casa de Elvis"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-057",
+    "nivel": "A",
+    "sub": "El viaje por Estados Unidos",
+    "pregunta": "¿Qué canción de Elvis suena en Graceland mientras Sadie busca?",
+    "opciones": [
+     "Una de cárcel",
+     "Una sobre un perro",
+     "Una de amor tierno",
+     "La de los zapatos de gamuza azul"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-058",
+    "nivel": "A",
+    "sub": "El viaje por Estados Unidos",
+    "pregunta": "Según Tot, ¿qué dos ingredientes necesita el hechizo contra Set?",
+    "opciones": [
+     "La sangre de un faraón y un amuleto",
+     "Un ankh y el ojo de Horus",
+     "El nombre secreto de Set y una pluma de la verdad",
+     "Agua del Nilo y arena del desierto"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-059",
+    "nivel": "A",
+    "sub": "El viaje por Estados Unidos",
+    "pregunta": "Según Tot, ¿cómo consiguió Isis el poder sobre Ra?",
+    "opciones": [
+     "Le robó la barca solar",
+     "Lo convenció de decirle su nombre secreto",
+     "Lo encerró en una piedra",
+     "Lo derrotó en duelo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-060",
+    "nivel": "I",
+    "sub": "La Tierra de los Muertos",
+    "pregunta": "¿Cómo se llama el barco en que viajan a la Tierra de los Muertos?",
+    "opciones": [
+     "La barca de Ra",
+     "El Filo Ensangrentado",
+     "La perla del Nilo",
+     "La reina egipcia"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-061",
+    "nivel": "A",
+    "sub": "La Tierra de los Muertos",
+    "pregunta": "¿Cómo se llama el capitán demonio del barco, que tiene un hacha en lugar de cabeza?",
+    "opciones": [
+     "Rostro de Horror",
+     "Shezmu",
+     "Filo Ensangrentado",
+     "Leroy"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-062",
+    "nivel": "A",
+    "sub": "La Tierra de los Muertos",
+    "pregunta": "¿Qué demonio, \"verdugo real de Osiris\", ataca el barco?",
+    "opciones": [
+     "Shezmu",
+     "Apofis",
+     "Rostro de Horror",
+     "Babi"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-063",
+    "nivel": "A",
+    "sub": "La Tierra de los Muertos",
+    "pregunta": "¿Qué le ofrece Shezmu a Sadie?",
+    "opciones": [
+     "Una muestra gratuita",
+     "Un trato por su alma",
+     "Su nombre secreto",
+     "Un viaje gratis"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-064",
+    "nivel": "I",
+    "sub": "La Tierra de los Muertos",
+    "pregunta": "¿Cómo llama Sadie a Anubis por las vendas de lino que lo rodean?",
+    "opciones": [
+     "El dios momia",
+     "El perro guardián",
+     "El dios del papel higiénico",
+     "El chico de las vendas"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-065",
+    "nivel": "I",
+    "sub": "La Tierra de los Muertos",
+    "pregunta": "¿Qué le da Anubis a Sadie en la Sala del Juicio?",
+    "opciones": [
+     "El nombre secreto de Set",
+     "Un ankh",
+     "Una pluma de la verdad",
+     "Una flecha de plata"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-066",
+    "nivel": "A",
+    "sub": "La Tierra de los Muertos",
+    "pregunta": "¿Qué música oye Sadie en la Sala del Juicio, que le recuerda a su padre?",
+    "opciones": [
+     "Jazz",
+     "Rock",
+     "Música clásica",
+     "Ópera"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-067",
+    "nivel": "I",
+    "sub": "La Tierra de los Muertos",
+    "pregunta": "¿Qué monstruo con cabeza de cocodrilo devora los corazones indignos?",
+    "opciones": [
+     "Ammit la Devoradora",
+     "Sobek",
+     "Apofis",
+     "Babi"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-068",
+    "nivel": "A",
+    "sub": "La Tierra de los Muertos",
+    "pregunta": "¿Contra qué enemigo pelea Bast por toda la eternidad, según cuenta?",
+    "opciones": [
+     "Set",
+     "Sobek",
+     "Sejmet",
+     "Apofis, la serpiente del caos"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-069",
+    "nivel": "I",
+    "sub": "La pirámide roja",
+    "pregunta": "¿Qué dios cocodrilo los ataca en el río cerca de El Paso?",
+    "opciones": [
+     "Ammit",
+     "Filipo",
+     "Sobek",
+     "Set"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-070",
+    "nivel": "A",
+    "sub": "La pirámide roja",
+    "pregunta": "¿Qué ciudad es \"el lugar entrecruzado\" del que habla Geb?",
+    "opciones": [
+     "El Paso",
+     "Phoenix",
+     "Las Cruces",
+     "Memphis"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-071",
+    "nivel": "I",
+    "sub": "La pirámide roja",
+    "pregunta": "¿Cómo le pone Carter al animal de Set?",
+    "opciones": [
+     "Plastilino",
+     "Rostro de Horror",
+     "Filipo",
+     "Leroy"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-072",
+    "nivel": "A",
+    "sub": "La pirámide roja",
+    "pregunta": "¿Con qué engañan a Sejmet en la fábrica de salsa?",
+    "opciones": [
+     "Con leche",
+     "Con un espejo",
+     "Con una canción de cuna",
+     "Con salsa picante roja, que ella cree que es sangre"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-073",
+    "nivel": "E",
+    "sub": "La pirámide roja",
+    "pregunta": "¿Cómo se llama la fábrica donde enfrentan a Sejmet?",
+    "opciones": [
+     "Guindillas del Nilo",
+     "Salsa Mágica, S.A.",
+     "Fuego Rojo, S.L.",
+     "Picantes Phoenix"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-074",
+    "nivel": "I",
+    "sub": "La pirámide roja",
+    "pregunta": "¿En qué ciudad construye Set su pirámide roja?",
+    "opciones": [
+     "Washington",
+     "Phoenix",
+     "Las Vegas",
+     "Nueva York"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-075",
+    "nivel": "A",
+    "sub": "La pirámide roja",
+    "pregunta": "¿Bajo qué montaña de Phoenix está la pirámide?",
+    "opciones": [
+     "Rushmore",
+     "Shasta",
+     "Camelback",
+     "Tamalpais"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane1-076",
+    "nivel": "I",
+    "sub": "La pirámide roja",
+    "pregunta": "¿Cómo se llama el sirviente demonio de Set?",
+    "opciones": [
+     "Rostro de Horror",
+     "Filo Ensangrentado",
+     "Shezmu",
+     "Leroy"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-077",
+    "nivel": "A",
+    "sub": "La pirámide roja",
+    "pregunta": "¿Qué descubren sobre la Zia que los acompañó todo el tiempo?",
+    "opciones": [
+     "Era un shabti; la verdadera Zia duerme en otro lugar",
+     "Era Neftis disfrazada",
+     "Era la hija de Desjardins",
+     "Era una momia"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-078",
+    "nivel": "A",
+    "sub": "La pirámide roja",
+    "pregunta": "¿Cuál es el nombre secreto de Set?",
+    "opciones": [
+     "Señor Rojo",
+     "Rostro de Horror",
+     "Gran Casa",
+     "Día Aciago"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-079",
+    "nivel": "A",
+    "sub": "La pirámide roja",
+    "pregunta": "¿Quién le revela a Sadie el nombre secreto de Set?",
+    "opciones": [
+     "Zia, hablando con la voz de Neftis",
+     "Anubis",
+     "Tot",
+     "Bast"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-080",
+    "nivel": "A",
+    "sub": "La pirámide roja",
+    "pregunta": "¿Qué enemigo real descubre Sadie que estaba usando a Set?",
+    "opciones": [
+     "Desjardins",
+     "Apofis, que poseía a Rostro de Horror",
+     "Sejmet",
+     "Shezmu"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-081",
+    "nivel": "I",
+    "sub": "La pirámide roja",
+    "pregunta": "¿En quién se convierte Julius Kane al final?",
+    "opciones": [
+     "En el anfitrión de Osiris, señor del inframundo",
+     "En faraón",
+     "En lector jefe",
+     "En un shabti"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane1-082",
+    "nivel": "I",
+    "sub": "La pirámide roja",
+    "pregunta": "¿Quién se convierte en lector jefe tras la muerte de Iskandar?",
+    "opciones": [
+     "Amos",
+     "Zia",
+     "Carter",
+     "Desjardins"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane1-083",
+    "nivel": "A",
+    "sub": "La pirámide roja",
+    "pregunta": "¿Qué amuleto, símbolo de Osiris, les regala su padre al final?",
+    "opciones": [
+     "Un ankh",
+     "El dyed, con forma de columna vertebral",
+     "El ojo de Horus",
+     "Un nudo de Isis"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane1-084",
+    "nivel": "I",
+    "sub": "La pirámide roja",
+    "pregunta": "¿Qué deciden hacer los Kane al final del libro?",
+    "opciones": [
+     "Volver a Londres",
+     "Unirse al Nomo Primero",
+     "Reunir a jóvenes con sangre de faraón en la mansión de Brooklyn",
+     "Esconderse en Egipto"
+    ],
+    "correcta": "c"
+   }
+  ]
+ },
+ {
+  "parte": 42,
+  "saga": "kane",
+  "libro": 2,
+  "corto": "CK 2",
+  "titulo": "El trono de fuego",
+  "preguntas": [
+   {
+    "id": "kane2-001",
+    "nivel": "B",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "¿A qué dios quieren despertar Carter y Sadie en este libro?",
+    "opciones": [
+     "Osiris",
+     "Horus",
+     "Tot",
+     "Ra"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane2-002",
+    "nivel": "I",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "¿En cuántas partes se dividió el Libro de Ra?",
+    "opciones": [
+     "Dos",
+     "Tres",
+     "Cinco",
+     "Siete"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane2-003",
+    "nivel": "I",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "¿Qué fecha límite tienen para despertar a Ra?",
+    "opciones": [
+     "El equinoccio de primavera",
+     "El solsticio de invierno",
+     "La próxima luna llena",
+     "El cumpleaños de Sadie"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane2-004",
+    "nivel": "I",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "¿En qué museo empieza la historia, con un robo?",
+    "opciones": [
+     "El Museo Británico",
+     "El Hermitage",
+     "El Museo Brooklyn",
+     "El Museo de El Cairo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane2-005",
+    "nivel": "A",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "¿Qué monstruo liberan por accidente en el Museo Brooklyn?",
+    "opciones": [
+     "Un grifo",
+     "Una esfinge",
+     "Un serpopardo",
+     "Un tjesu heru"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane2-006",
+    "nivel": "I",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "¿Cómo se llama el grifo que adopta Carter?",
+    "opciones": [
+     "Leroy",
+     "Freak",
+     "Filipo",
+     "Keops"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane2-007",
+    "nivel": "A",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "Según Carter, ¿de qué dios eran siervos los grifos?",
+    "opciones": [
+     "De Ra: custodiaban su barca",
+     "De Set: vigilaban su pirámide",
+     "De Horus: tiraban de su carro",
+     "De Isis: llevaban sus mensajes"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane2-008",
+    "nivel": "E",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "¿Con qué personaje de dibujos animados comparan la estatua del museo, por su forma de alce?",
+    "opciones": [
+     "Bugs Bunny",
+     "Bullwinkle",
+     "Scooby-Doo",
+     "Pikachu"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane2-009",
+    "nivel": "I",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "¿Qué maldición protegía la pieza del museo?",
+    "opciones": [
+     "Una plaga de escarabajos",
+     "Una momia guardiana",
+     "El veneno de Apofis",
+     "Símbolos de Sejmet que liberaban enemigos"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane2-010",
+    "nivel": "I",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "¿Qué aprendiz queda en coma tras el robo?",
+    "opciones": [
+     "Walt",
+     "Jaz",
+     "Felix",
+     "Cleo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane2-011",
+    "nivel": "E",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "¿Qué era Jaz antes de llegar a la Casa de Brooklyn?",
+    "opciones": [
+     "Gimnasta en Londres",
+     "Bailarina en Moscú",
+     "Animadora en Nashville",
+     "Nadadora en Texas"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane2-012",
+    "nivel": "E",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "¿Qué pone Felix en la chimenea de la Casa de Brooklyn?",
+    "opciones": [
+     "Un cocodrilo",
+     "Un pingüino vivo en un paisaje antártico",
+     "Una pirámide de hielo",
+     "Un tobogán de lava"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane2-013",
+    "nivel": "A",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "¿Qué tipo de mago es Walt?",
+    "opciones": [
+     "Un sacerdote de Sejmet",
+     "Un nigromante",
+     "Un sau, creador de amuletos",
+     "Un elementalista del fuego"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane2-014",
+    "nivel": "A",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "¿De qué faraón desciende Walt?",
+    "opciones": [
+     "Tutankamón",
+     "Ramsés el Grande",
+     "Akenatón",
+     "Narmer"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane2-015",
+    "nivel": "A",
+    "sub": "La Casa de Brooklyn",
+    "pregunta": "¿Qué maldición tiene la familia de Walt?",
+    "opciones": [
+     "Sus hombres mueren muy jóvenes; su padre murió a los dieciocho",
+     "No pueden hacer magia de fuego",
+     "No pueden entrar en la Duat",
+     "Pierden la memoria"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane2-016",
+    "nivel": "I",
+    "sub": "El cumpleaños de Sadie en Londres",
+    "pregunta": "¿Qué le regala Walt a Sadie por su cumpleaños?",
+    "opciones": [
+     "Un cuchillo mágico",
+     "Una varita nueva",
+     "Un collar de oro con un símbolo egipcio",
+     "Una grabadora"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane2-017",
+    "nivel": "I",
+    "sub": "El cumpleaños de Sadie en Londres",
+    "pregunta": "¿Qué diosa buitre posee a la abuela de Sadie?",
+    "opciones": [
+     "Neftis",
+     "Serket",
+     "Sejmet",
+     "Nejbet"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane2-018",
+    "nivel": "I",
+    "sub": "El cumpleaños de Sadie en Londres",
+    "pregunta": "¿Qué dios babuino posee al abuelo de Sadie?",
+    "opciones": [
+     "Tot",
+     "Keops",
+     "Babi",
+     "Hapi"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane2-019",
+    "nivel": "I",
+    "sub": "El cumpleaños de Sadie en Londres",
+    "pregunta": "¿Cómo se llaman las amigas de Sadie en Londres?",
+    "opciones": [
+     "Liz y Emma",
+     "Jaz y Cleo",
+     "Zia y Alyssa",
+     "Ruby y Ruth"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane2-020",
+    "nivel": "I",
+    "sub": "El cumpleaños de Sadie en Londres",
+    "pregunta": "¿Por qué estación de tren londinense escapan de Babi?",
+    "opciones": [
+     "King's Cross",
+     "Paddington",
+     "Victoria",
+     "Waterloo"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane2-021",
+    "nivel": "B",
+    "sub": "El cumpleaños de Sadie en Londres",
+    "pregunta": "¿Qué dios enano rescata a Sadie en una limusina?",
+    "opciones": [
+     "Ptah",
+     "Jonsu",
+     "Babi",
+     "Bes"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane2-022",
+    "nivel": "I",
+    "sub": "El cumpleaños de Sadie en Londres",
+    "pregunta": "¿Qué hace Bes para espantar a sus enemigos?",
+    "opciones": [
+     "Ruge como un león",
+     "Pone una mueca horrible y grita \"¡UH!\"",
+     "Se hace gigante",
+     "Toca un tambor"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane2-023",
+    "nivel": "A",
+    "sub": "El cumpleaños de Sadie en Londres",
+    "pregunta": "¿Qué ropa suele llevar Bes?",
+    "opciones": [
+     "Camisa hawaiana, pantalones cortos y sandalias",
+     "Un traje negro de chófer",
+     "Una túnica de lino",
+     "Un esmoquin"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane2-024",
+    "nivel": "A",
+    "sub": "El cumpleaños de Sadie en Londres",
+    "pregunta": "Según Jonsu, ¿qué apostó Bes hace eones para estar más tiempo con Bast?",
+    "opciones": [
+     "Su nombre secreto",
+     "Unos cuantos palmos de su altura",
+     "Su sombra",
+     "Su barca"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane2-025",
+    "nivel": "I",
+    "sub": "Rusia",
+    "pregunta": "¿A qué ciudad rusa viajan a buscar la segunda parte del libro?",
+    "opciones": [
+     "San Petersburgo",
+     "Moscú",
+     "Volgogrado",
+     "Novosibirsk"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane2-026",
+    "nivel": "I",
+    "sub": "Rusia",
+    "pregunta": "¿Qué mago ruso trabaja en secreto para liberar a Apofis?",
+    "opciones": [
+     "Kwai",
+     "Desjardins",
+     "Vlad Ménshikov",
+     "Claudio el Enajenado"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane2-027",
+    "nivel": "A",
+    "sub": "Rusia",
+    "pregunta": "¿Qué esconde Ménshikov bajo sus gafas?",
+    "opciones": [
+     "Unos ojos llenos de cicatrices y quemaduras",
+     "Un ojo de cristal",
+     "Unos ojos de serpiente",
+     "Nada: es ciego"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane2-028",
+    "nivel": "A",
+    "sub": "Rusia",
+    "pregunta": "¿Por qué Ménshikov encierra a Set en una sala de malaquita?",
+    "opciones": [
+     "Porque es el color de Set",
+     "Porque la malaquita es indestructible",
+     "La malaquita retiene a los espíritus malignos",
+     "Porque así se lo pidió Apofis"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane2-029",
+    "nivel": "E",
+    "sub": "Rusia",
+    "pregunta": "Según Set, ¿qué organización inventada lo regañaría si matara una serpiente?",
+    "opciones": [
+     "La Casa de la Vida",
+     "El Consejo de los Nomos",
+     "La Liga de Dioses Verdes",
+     "DTEN, Dioses por el Trato Ético a los Monstruos"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane2-030",
+    "nivel": "A",
+    "sub": "Rusia",
+    "pregunta": "¿Qué monstruo de dos cabezas manda Ménshikov contra los Kane?",
+    "opciones": [
+     "Un grifo",
+     "Un serpopardo",
+     "Una anfisbena",
+     "Un tjesu heru"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane2-031",
+    "nivel": "E",
+    "sub": "Rusia",
+    "pregunta": "¿Qué \"recuerdo\" le trae Bes a Sadie del Museo del Chocolate?",
+    "opciones": [
+     "Una cabeza de Lenin de chocolate",
+     "Un tablero de ajedrez de chocolate",
+     "Un león de chocolate",
+     "Una pirámide de chocolate"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane2-032",
+    "nivel": "A",
+    "sub": "Rusia",
+    "pregunta": "¿Qué le da Sadie a Set a cambio de la ubicación del último rollo?",
+    "opciones": [
+     "La pluma de la verdad",
+     "Renuncia a su nombre secreto",
+     "Un amuleto de Isis",
+     "Su varita"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane2-033",
+    "nivel": "A",
+    "sub": "Egipto",
+    "pregunta": "¿Dónde duerme la verdadera Zia?",
+    "opciones": [
+     "En el Nomo Primero",
+     "En la Casa de Brooklyn",
+     "En el Hermitage",
+     "En el Lugar de las Arenas Rojas, en una cripta bajo el agua"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane2-034",
+    "nivel": "I",
+    "sub": "Egipto",
+    "pregunta": "Según Bes, ¿por qué no le gusta el agua corriente a los dioses?",
+    "opciones": [
+     "Les quita la memoria",
+     "Les afloja la conexión con la Duat",
+     "Los vuelve mortales",
+     "Les borra el nombre"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane2-035",
+    "nivel": "I",
+    "sub": "Egipto",
+    "pregunta": "¿Quién escondió a Zia en esa cripta para protegerla?",
+    "opciones": [
+     "Iskandar",
+     "Desjardins",
+     "Amos",
+     "Neftis"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane2-036",
+    "nivel": "I",
+    "sub": "Egipto",
+    "pregunta": "¿En qué oasis está el último rollo del Libro de Ra?",
+    "opciones": [
+     "Siwa",
+     "Farafra",
+     "Bahariya",
+     "Dajla"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane2-037",
+    "nivel": "A",
+    "sub": "Egipto",
+    "pregunta": "¿Cómo se presenta el fantasma romano de las tumbas de Bahariya?",
+    "opciones": [
+     "Claudio el Enajenado",
+     "Julio el Loco",
+     "Nerón el Breve",
+     "Calígula el Triste"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane2-038",
+    "nivel": "I",
+    "sub": "Egipto",
+    "pregunta": "¿Qué dios creador ayuda a Sadie y Walt a escapar de las tumbas?",
+    "opciones": [
+     "Jnum",
+     "Atón",
+     "Ptah",
+     "Geb"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane2-039",
+    "nivel": "I",
+    "sub": "Egipto",
+    "pregunta": "¿Qué juego de mesa antiguo juega Zia contra Bes después de despertar?",
+    "opciones": [
+     "El senet",
+     "El ajedrez",
+     "El mancala",
+     "Las damas"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane2-040",
+    "nivel": "A",
+    "sub": "El viaje por la Duat",
+    "pregunta": "¿Cuáles son los tres aspectos de Ra?",
+    "opciones": [
+     "Jepri por la mañana, Ra al mediodía y Jnum de noche",
+     "Atón, Amón y Ra",
+     "Horus, Osiris e Isis",
+     "Ptah, Tot y Ra"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane2-041",
+    "nivel": "I",
+    "sub": "El viaje por la Duat",
+    "pregunta": "¿Qué forma tiene Jepri?",
+    "opciones": [
+     "Un carnero",
+     "Un escarabajo",
+     "Un halcón",
+     "Un gato"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane2-042",
+    "nivel": "I",
+    "sub": "El viaje por la Duat",
+    "pregunta": "¿Qué forma tiene Jnum, el aspecto nocturno de Ra?",
+    "opciones": [
+     "Un escarabajo",
+     "Un carnero",
+     "Una serpiente",
+     "Un cocodrilo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane2-043",
+    "nivel": "A",
+    "sub": "El viaje por la Duat",
+    "pregunta": "¿Con qué nombre convence Sadie a Jnum?",
+    "opciones": [
+     "Día Aciago",
+     "Señor del Trono de Fuego",
+     "Padre de los Escarabajos",
+     "Aliento a la Arcilla, Carnero del Rebaño de la Noche"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane2-044",
+    "nivel": "A",
+    "sub": "El viaje por la Duat",
+    "pregunta": "¿Qué es Acres Soleados?",
+    "opciones": [
+     "Un hotel de Bes",
+     "El palacio de Osiris",
+     "Un barrio de Brooklyn",
+     "Una residencia en la Duat para dioses olvidados"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane2-045",
+    "nivel": "I",
+    "sub": "El viaje por la Duat",
+    "pregunta": "¿Qué diosa hipopótamo dirige Acres Soleados?",
+    "opciones": [
+     "Hathor",
+     "Tauret",
+     "Nejbet",
+     "Bast"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane2-046",
+    "nivel": "A",
+    "sub": "El viaje por la Duat",
+    "pregunta": "¿Cómo reacciona Bes al ver a Tauret?",
+    "opciones": [
+     "La abraza feliz",
+     "Le grita \"¡UH!\"",
+     "Intenta esconderse detrás de una maceta",
+     "Se desmaya"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane2-047",
+    "nivel": "I",
+    "sub": "El viaje por la Duat",
+    "pregunta": "¿En qué estado encuentran a Ra?",
+    "opciones": [
+     "Viejísimo, desdentado y senil",
+     "Joven y furioso",
+     "Convertido en piedra",
+     "Dormido en un sarcófago de oro"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane2-048",
+    "nivel": "E",
+    "sub": "El viaje por la Duat",
+    "pregunta": "¿Qué animal dice Ra que le gusta?",
+    "opciones": [
+     "Las zarigüeyas",
+     "Los gatos",
+     "Los escarabajos",
+     "Los cocodrilos"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane2-049",
+    "nivel": "A",
+    "sub": "El viaje por la Duat",
+    "pregunta": "¿Qué dios lunar juega al senet apostando horas de vida?",
+    "opciones": [
+     "Tot",
+     "Jonsu",
+     "Ptah",
+     "Shu"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane2-050",
+    "nivel": "A",
+    "sub": "El viaje por la Duat",
+    "pregunta": "¿Qué hace Ra con el escarabajo que es parte de su alma?",
+    "opciones": [
+     "Lo pisa",
+     "Lo suelta en el Nilo",
+     "Lo regala a Sadie",
+     "Se lo traga"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane2-051",
+    "nivel": "A",
+    "sub": "La batalla final",
+    "pregunta": "¿Quién derrota a Ménshikov y destierra a Apofis a costa de su vida?",
+    "opciones": [
+     "Amos",
+     "Bes",
+     "Desjardins",
+     "Horus"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane2-052",
+    "nivel": "I",
+    "sub": "La batalla final",
+    "pregunta": "¿Qué prenda del lector jefe muestra Carter al volver?",
+    "opciones": [
+     "El báculo de serpiente",
+     "La corona doble",
+     "La capa de leopardo",
+     "El anillo de oro"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane2-053",
+    "nivel": "A",
+    "sub": "La batalla final",
+    "pregunta": "¿Qué mago acusa a los Kane de haber matado a Desjardins?",
+    "opciones": [
+     "Ménshikov",
+     "Iskandar",
+     "Julian",
+     "Kwai"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane2-054",
+    "nivel": "A",
+    "sub": "La batalla final",
+    "pregunta": "Tras la muerte de Desjardins, ¿quién pasa a ser el mago más poderoso?",
+    "opciones": [
+     "Carter",
+     "Zia",
+     "Kwai",
+     "Amos"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane2-055",
+    "nivel": "I",
+    "sub": "La batalla final",
+    "pregunta": "¿Qué deja de llevar Horus cuando presenta a Ra ante los dioses?",
+    "opciones": [
+     "Su armadura",
+     "La corona de faraón",
+     "Su máscara de halcón",
+     "Su espada"
+    ],
+    "correcta": "b"
+   }
+  ]
+ },
+ {
+  "parte": 43,
+  "saga": "kane",
+  "libro": 3,
+  "corto": "CK 3",
+  "titulo": "La sombra de la serpiente",
+  "preguntas": [
+   {
+    "id": "kane3-001",
+    "nivel": "B",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Qué enemigo amenaza al mundo en La sombra de la serpiente?",
+    "opciones": [
+     "Set",
+     "Ménshikov",
+     "Apofis, la serpiente del caos",
+     "Sejmet"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane3-002",
+    "nivel": "I",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿En qué ciudad empiezan los problemas del libro?",
+    "opciones": [
+     "Nueva York",
+     "Dallas",
+     "El Cairo",
+     "Londres"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane3-003",
+    "nivel": "A",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Qué exposición destruyen las ovejas que escupen fuego?",
+    "opciones": [
+     "La de Ramsés",
+     "La de Cleopatra",
+     "La del rey Tut",
+     "La de Nefertiti"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane3-004",
+    "nivel": "A",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Qué son las crioesfinges?",
+    "opciones": [
+     "Esfinges de hielo",
+     "Esfinges con cuerpo de león y cabeza de carnero",
+     "Esfinges con alas de buitre",
+     "Esfinges con cabeza de cocodrilo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane3-005",
+    "nivel": "I",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Quién dirige el nomo de Dallas?",
+    "opciones": [
+     "Sarah Jacobi",
+     "Kwai",
+     "J. D. Grissom",
+     "Leonid"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane3-006",
+    "nivel": "E",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Qué pierde Felix en el ataque de Dallas?",
+    "opciones": [
+     "Sus pingüinos",
+     "Su varita",
+     "Su gato",
+     "Su báculo"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane3-007",
+    "nivel": "I",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Quién encabeza a los magos rebeldes contra los Kane?",
+    "opciones": [
+     "Michel Desjardins",
+     "Sarah Jacobi",
+     "Vlad Ménshikov",
+     "Zia Rashid"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane3-008",
+    "nivel": "A",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Qué mago ruso avisa a Sadie de un ataque contra el Nomo Primero?",
+    "opciones": [
+     "Ménshikov",
+     "Leonid",
+     "Petróvich",
+     "Kwai"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane3-009",
+    "nivel": "I",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Qué es la sheut?",
+    "opciones": [
+     "El nombre secreto",
+     "El corazón",
+     "La sombra, una de las cinco partes del alma",
+     "Un amuleto de protección"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane3-010",
+    "nivel": "A",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Qué plan tienen los Kane para vencer a Apofis?",
+    "opciones": [
+     "Encerrarlo en la Piedra de Rosetta",
+     "Despertar a Osiris",
+     "Darle de comer el Libro de Ra",
+     "Atrapar su sombra en una estatuilla y execrarlo"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane3-011",
+    "nivel": "A",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Qué se llevan de Dallas cuando el papiro se pierde?",
+    "opciones": [
+     "El papiro intacto",
+     "Una caja dorada que parece vacía",
+     "Una crioesfinge domada",
+     "La estatua del rey Tut"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane3-012",
+    "nivel": "A",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Quién le dice a Sadie que se quede con la caja dorada, en una visión en la pared?",
+    "opciones": [
+     "Apofis",
+     "El fantasma de Setne",
+     "Anubis",
+     "Tot"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane3-013",
+    "nivel": "E",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Qué le dan a Freak para tenerlo entretenido, y por qué congelados?",
+    "opciones": [
+     "Peces congelados, porque los frescos le dan alergia",
+     "Helado, porque le encanta el frío",
+     "Pavos congelados, porque si no los come tan rápido que le da hipo",
+     "Pollos congelados, porque le duelen los dientes"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane3-014",
+    "nivel": "I",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿En qué forma se le aparece Horus a Carter para aconsejarlo?",
+    "opciones": [
+     "Un palomo",
+     "Un halcón",
+     "Un gato",
+     "Un niño"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane3-015",
+    "nivel": "A",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Qué hace Amos en la sala de guerra del Nomo Primero?",
+    "opciones": [
+     "Lee el Libro de Ra",
+     "Mueve figuritas sobre un gran mapa del mundo",
+     "Entrena a Zia con espadas",
+     "Habla con Set por un cuenco"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane3-016",
+    "nivel": "I",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Qué es Sadie Junior?",
+    "opciones": [
+     "Un shabti de Sadie hecho con macetas",
+     "La hija de Sadie en el futuro",
+     "Una gata",
+     "Un grifo bebé"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane3-017",
+    "nivel": "I",
+    "sub": "Dallas y la Casa de Brooklyn",
+    "pregunta": "¿Qué diosa transporta a Sadie a la residencia de ancianos de los dioses?",
+    "opciones": [
+     "Bast",
+     "Nut",
+     "Neftis",
+     "Isis"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane3-018",
+    "nivel": "I",
+    "sub": "Anubis, Walt y el baile",
+    "pregunta": "¿Qué compañera de colegio, jefa de las chicas populares, molesta a Sadie?",
+    "opciones": [
+     "Liz",
+     "Drew Tanaka",
+     "Emma",
+     "Shelby"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane3-019",
+    "nivel": "A",
+    "sub": "Anubis, Walt y el baile",
+    "pregunta": "¿Dónde baila Anubis con Sadie?",
+    "opciones": [
+     "En el Salón de las Eras",
+     "En un lugar de muerte: el campo de la batalla de Brooklyn Heights de 1776",
+     "En el tejado de la Casa de Brooklyn",
+     "En Graceland"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane3-020",
+    "nivel": "A",
+    "sub": "Anubis, Walt y el baile",
+    "pregunta": "¿Por qué Anubis solo puede aparecer en ciertos lugares?",
+    "opciones": [
+     "Solo se manifiesta en sueños o en lugares de muerte",
+     "Porque está castigado por Ra",
+     "Porque no tiene anfitrión de ningún tipo",
+     "Porque le teme a Set"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane3-021",
+    "nivel": "A",
+    "sub": "Anubis, Walt y el baile",
+    "pregunta": "¿Qué dios del aire, bisabuelo de Anubis, interrumpe el baile?",
+    "opciones": [
+     "Geb",
+     "Jonsu",
+     "Shu",
+     "Ptah"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane3-022",
+    "nivel": "E",
+    "sub": "Anubis, Walt y el baile",
+    "pregunta": "¿Con qué ropa aparece Shu?",
+    "opciones": [
+     "Una túnica de nubes",
+     "Un traje de buzo",
+     "Un esmoquin blanco",
+     "Un traje de aviador de la Segunda Guerra Mundial"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane3-023",
+    "nivel": "I",
+    "sub": "Anubis, Walt y el baile",
+    "pregunta": "¿Qué símbolo tiene el colgante que Walt le regaló a Sadie?",
+    "opciones": [
+     "El ankh",
+     "El ojo de Horus",
+     "El nudo de Isis",
+     "El shen, símbolo de la eternidad"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane3-024",
+    "nivel": "A",
+    "sub": "Anubis, Walt y el baile",
+    "pregunta": "¿Para qué usan Sadie y Walt los amuletos shen?",
+    "opciones": [
+     "Para intercambiar sus posiciones y ganar tiempo",
+     "Para curarse",
+     "Para hablar a distancia",
+     "Para invocar a Anubis"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane3-025",
+    "nivel": "A",
+    "sub": "Anubis, Walt y el baile",
+    "pregunta": "¿Cómo termina la historia de Walt y Anubis?",
+    "opciones": [
+     "Walt muere y Anubis lo juzga",
+     "Walt se convierte en el anfitrión mortal de Anubis",
+     "Anubis le quita la maldición y se va",
+     "Los dos se pelean por Sadie"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane3-026",
+    "nivel": "B",
+    "sub": "Setne",
+    "pregunta": "¿Qué mago malvado del pasado escribió el hechizo de las sombras?",
+    "opciones": [
+     "Setne",
+     "Iskandar",
+     "Ménshikov",
+     "Claudio el Enajenado"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane3-027",
+    "nivel": "A",
+    "sub": "Setne",
+    "pregunta": "¿Con qué otro nombre se conoce a Setne?",
+    "opciones": [
+     "Príncipe Ramsés",
+     "Príncipe Akenatón",
+     "Príncipe Jaemuaset",
+     "Príncipe Narmer"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane3-028",
+    "nivel": "I",
+    "sub": "Setne",
+    "pregunta": "¿Qué libro robó Setne y escondió?",
+    "opciones": [
+     "El Libro de Ra",
+     "El Libro de los muertos",
+     "El Libro de Tot",
+     "El Libro de dar muerte a Apofis"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane3-029",
+    "nivel": "A",
+    "sub": "Setne",
+    "pregunta": "¿Qué dios azul hace de juez en el juicio de Setne?",
+    "opciones": [
+     "Osiris",
+     "Hapi",
+     "Tot",
+     "Perturbador"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane3-030",
+    "nivel": "I",
+    "sub": "Setne",
+    "pregunta": "¿Quién preside el juicio de Setne en la Sala del Juicio?",
+    "opciones": [
+     "Osiris, el padre de los Kane",
+     "Anubis",
+     "Ra",
+     "Amos"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane3-031",
+    "nivel": "A",
+    "sub": "Setne",
+    "pregunta": "¿Qué saca Setne de su americana para peinarse?",
+    "opciones": [
+     "Un hueso de dedo",
+     "Una pluma",
+     "Un peine blanco",
+     "Una navaja"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane3-032",
+    "nivel": "A",
+    "sub": "Setne",
+    "pregunta": "¿Qué dios del Nilo ayuda a Carter y Zia?",
+    "opciones": [
+     "Sobek",
+     "Hapi",
+     "Jnum",
+     "Shu"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane3-033",
+    "nivel": "A",
+    "sub": "Setne",
+    "pregunta": "¿Qué hay que gritar para que Hapi esté contento?",
+    "opciones": [
+     "\"¡Viva el Nilo!\"",
+     "\"¡Uh!\"",
+     "\"¡Gloria a Ra!\"",
+     "\"¡Hapi, Hapi, hurra!\""
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane3-034",
+    "nivel": "I",
+    "sub": "Setne",
+    "pregunta": "¿En qué templo está escondido el Libro de Tot?",
+    "opciones": [
+     "En el serapeum, el templo del toro Apis",
+     "En Karnak",
+     "En Abu Simbel",
+     "En Luxor"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane3-035",
+    "nivel": "A",
+    "sub": "Setne",
+    "pregunta": "¿Qué poder de Ra se manifiesta en Zia contra el toro Apis?",
+    "opciones": [
+     "El de Jnum, el carnero",
+     "El de Sejmet, la leona",
+     "El de Jepri, el sol naciente",
+     "El de Bast, la gata"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane3-036",
+    "nivel": "A",
+    "sub": "Setne",
+    "pregunta": "¿En qué se convierte Carter con el disfraz de Setne para entrar en la Duat?",
+    "opciones": [
+     "En un demonio con cabeza de piraña",
+     "En un babuino dorado",
+     "En un escarabajo gigante",
+     "En un chimpancé de piel fucsia"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane3-037",
+    "nivel": "A",
+    "sub": "Setne",
+    "pregunta": "¿Qué aspecto toma Zia con ese mismo disfraz?",
+    "opciones": [
+     "Una demonio verde con cabeza de piraña",
+     "Una leona",
+     "Una momia",
+     "Una serpiente con alas"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane3-038",
+    "nivel": "I",
+    "sub": "La sombra de Bes",
+    "pregunta": "¿A quién quiere devolver Sadie a la vida con la magia de la sombra?",
+    "opciones": [
+     "A Ruby, su madre",
+     "A Desjardins",
+     "A Bes",
+     "A Iskandar"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane3-039",
+    "nivel": "A",
+    "sub": "La sombra de Bes",
+    "pregunta": "¿Quién le cuenta a Sadie dónde puede estar la sombra de Bes?",
+    "opciones": [
+     "Tauret",
+     "Bast",
+     "Tot",
+     "Anubis"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane3-040",
+    "nivel": "A",
+    "sub": "La sombra de Bes",
+    "pregunta": "¿En qué ciudad del delta del Nilo vivía la diosa Neit?",
+    "opciones": [
+     "Sais",
+     "Alejandría",
+     "Menfis",
+     "Tebas"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane3-041",
+    "nivel": "I",
+    "sub": "La sombra de Bes",
+    "pregunta": "¿De qué es diosa Neit?",
+    "opciones": [
+     "De la música",
+     "De la caza (y del tejido)",
+     "De la medicina",
+     "De los sueños"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "kane3-042",
+    "nivel": "E",
+    "sub": "La sombra de Bes",
+    "pregunta": "¿Qué manualidad dice Neit que puede hacer durante un milenio?",
+    "opciones": [
+     "Cerámica",
+     "Tallado en madera",
+     "Bordado",
+     "Macramé"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane3-043",
+    "nivel": "E",
+    "sub": "La sombra de Bes",
+    "pregunta": "¿Con qué ropa pelea Bes en la batalla final?",
+    "opciones": [
+     "Una camisa hawaiana",
+     "Una armadura de oro",
+     "Un esmoquin",
+     "Un bañador Speedo"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane3-044",
+    "nivel": "I",
+    "sub": "La batalla final",
+    "pregunta": "¿Dónde ataca Apofis para destruir la Casa de la Vida?",
+    "opciones": [
+     "En la Casa de Brooklyn",
+     "En Londres",
+     "En el Nomo Primero, en Egipto",
+     "En el Olimpo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane3-045",
+    "nivel": "I",
+    "sub": "La batalla final",
+    "pregunta": "¿Entre qué monumentos pelea Zia en el desierto?",
+    "opciones": [
+     "Entre Abu Simbel y el Nilo",
+     "Entre Karnak y Luxor",
+     "Entre dos obeliscos de Heliópolis",
+     "Entre la Gran Pirámide y la Gran Esfinge"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane3-046",
+    "nivel": "A",
+    "sub": "La batalla final",
+    "pregunta": "¿Qué animal mágico libera Walt entre sus criaturas durante la batalla?",
+    "opciones": [
+     "Filipo de Macedonia",
+     "Freak",
+     "Leroy",
+     "Keops"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane3-047",
+    "nivel": "A",
+    "sub": "La batalla final",
+    "pregunta": "¿Qué símbolos de la monarquía egipcia recibe Carter?",
+    "opciones": [
+     "El cayado y el látigo",
+     "La corona y el cetro",
+     "El ankh y el uas",
+     "La espada y el escudo"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "kane3-048",
+    "nivel": "I",
+    "sub": "La batalla final",
+    "pregunta": "¿Qué acepta Carter al final de la saga?",
+    "opciones": [
+     "Ser lector jefe",
+     "Ser el anfitrión de Ra",
+     "Volver a Londres",
+     "El trono, como faraón de los magos"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane3-049",
+    "nivel": "A",
+    "sub": "La batalla final",
+    "pregunta": "¿Qué pasa con los dioses después de la execración de Apofis?",
+    "opciones": [
+     "Se vuelven mortales",
+     "Se unen a la Casa de la Vida",
+     "Se apartan del mundo mortal",
+     "Desaparecen para siempre"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "kane3-050",
+    "nivel": "I",
+    "sub": "La batalla final",
+    "pregunta": "¿A quién le pide Ra que Carter cuide, llamándola \"mi favorita\"?",
+    "opciones": [
+     "A Sadie",
+     "A Bast",
+     "A Shelby",
+     "A Zia"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "kane3-051",
+    "nivel": "E",
+    "sub": "La batalla final",
+    "pregunta": "¿Cuál es la aprendiz más pequeña de la Casa de Brooklyn, que dibuja con lápices de cera?",
+    "opciones": [
+     "Cleo",
+     "Shelby",
+     "Alyssa",
+     "Jaz"
+    ],
+    "correcta": "b"
    }
   ]
  },

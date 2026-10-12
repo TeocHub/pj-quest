@@ -4,7 +4,7 @@ Tests para fans del universo de Rick Riordan. Todo corre gratis en **GitHub Page
 
 | Test | Estado | Carpeta |
 | --- | --- | --- |
-| El Cuestionario Definitivo de Percy Jackson | Disponible: 1189 preguntas (15 libros + 2 temporadas) | `quiz/` |
+| El Cuestionario Definitivo de Percy Jackson | Disponible: 1379 preguntas (18 libros + 2 temporadas) | `quiz/` |
 | ¿De qué dios serías hijo o hija? | Próximamente | — |
 
 ## Archivos
@@ -50,7 +50,7 @@ Cada libro o temporada es una "parte". El número nunca cambia, porque el rankin
 | 16-19 | Extras de PJO: Los archivos del semidiós y los libros nuevos de Percy | Pendiente |
 | 21-25 | Héroes del Olimpo | Disponible (82, 81, 89, 88 y 80 preguntas) |
 | 31-35 | Las pruebas de Apolo | Disponible (64, 53, 54, 55 y 50 preguntas) |
-| 41-43 | Las crónicas de los Kane | Pendiente |
+| 41-43 | Las crónicas de Kane | Disponible (84, 55 y 51 preguntas) |
 | 51-53 | Magnus Chase | Pendiente |
 | 61-69 | Cruces y otros (Semidioses y magos, El sol y la estrella…) | Pendiente |
 | 91-92 | Serie de Disney+, temporadas 1 y 2 | Disponible (40 y 40 preguntas) |
@@ -58,7 +58,7 @@ Cada libro o temporada es una "parte". El número nunca cambia, porque el rankin
 
 - Las películas de Fox (2010 y 2013) quedan fuera a propósito: se consideran una franquicia aparte.
 - Las preguntas de la serie se centran en lo que cambia respecto de los libros y se armaron contrastando con resúmenes publicados de cada episodio.
-- Las preguntas de Héroes del Olimpo y Las pruebas de Apolo se ampliaron y verificaron contra el texto de los libros. Los nombres de Las pruebas de Apolo salen de la edición de Salamandra; Héroes del Olimpo se revisó en inglés, así que algunos nombres en español (por ejemplo, "Quíone" o "Cimopolea"), igual que algunos de la primera saga ("Procusto", "Tisífone", "Arcoíris"), podrían diferir de Salamandra: corrígelos si conoces el término exacto.
+- Las preguntas de Héroes del Olimpo, Las pruebas de Apolo y Las crónicas de Kane se verificaron contra el texto de los libros, y sus nombres en español salen de las ediciones de Salamandra. Algunos nombres de la primera saga ("Procusto", "Tisífone", "Arcoíris") todavía podrían diferir de Salamandra: corrígelos si conoces el término exacto.
 
 ## Agregar o corregir preguntas
 
