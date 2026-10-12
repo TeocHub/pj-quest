@@ -7563,12 +7563,12 @@
     "sub": "El Campamento Júpiter",
     "pregunta": "¿Cuáles son los siete mestizos de la Gran Profecía?",
     "opciones": [
-     "Percy, Annabeth, Jason, Piper, Leo, Hazel y Frank",
      "Percy, Annabeth, Jason, Piper, Leo, Nico y Reyna",
+     "Percy, Annabeth, Jason, Piper, Leo, Hazel y Frank",
      "Percy, Jason, Leo, Frank, Nico, Thalia y Hazel",
      "Annabeth, Piper, Hazel, Reyna, Thalia, Clarisse y Rachel"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
     "id": "hoo3-002",
@@ -7577,11 +7577,11 @@
     "pregunta": "¿Qué adulto acompaña a los semidioses en el Argo II como \"chaperón\"?",
     "opciones": [
      "Quirón",
-     "El entrenador Hedge",
      "Argos",
-     "El señor D"
+     "El señor D",
+     "El entrenador Hedge"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
     "id": "hoo3-003",
@@ -7603,11 +7603,11 @@
     "pregunta": "¿Por qué el Argo II dispara contra Nueva Roma?",
     "opciones": [
      "Leo se equivoca de botón",
-     "Un eidolon posee a Leo",
      "Octavio lo sabotea",
+     "Un eidolon posee a Leo",
      "Festo se descontrola"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
     "id": "hoo3-005",
@@ -7615,12 +7615,12 @@
     "sub": "El Campamento Júpiter",
     "pregunta": "¿Qué son los eidolones?",
     "opciones": [
-     "Espíritus que poseen a las personas",
      "Fantasmas romanos del hogar",
+     "Espíritus que poseen a las personas",
      "Estatuas que cobran vida",
      "Ninfas de las nubes"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
     "id": "hoo3-006",
@@ -7642,11 +7642,11 @@
     "pregunta": "¿Quién aprovecha el ataque para impulsar la guerra contra los griegos?",
     "opciones": [
      "Reyna",
-     "Octavio",
      "Término",
+     "Octavio",
      "Dakota"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
     "id": "hoo3-008",
@@ -7654,12 +7654,12 @@
     "sub": "El Campamento Júpiter",
     "pregunta": "¿Con quién se reencuentra Annabeth en el Campamento Júpiter?",
     "opciones": [
-     "Con Percy",
      "Con Luke",
      "Con Thalia",
-     "Con Grover"
+     "Con Grover",
+     "Con Percy"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
     "id": "hoo3-009",
@@ -7667,12 +7667,12 @@
     "sub": "El Campamento Júpiter",
     "pregunta": "¿Qué le hace Annabeth a Percy apenas lo ve?",
     "opciones": [
-     "Lo besa y luego lo tira al suelo con una llave de judo",
      "Le da una bofetada",
+     "Lo besa y luego lo tira al suelo con una llave de judo",
      "Llora sin parar",
      "Lo empuja al Pequeño Tíber"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
     "id": "hoo3-010",
@@ -7693,12 +7693,12 @@
     "sub": "El Campamento Júpiter",
     "pregunta": "¿Qué metal usan los romanos en lugar del bronce celestial?",
     "opciones": [
+     "Oro imperial",
      "Hierro estigio",
      "Plata lunar",
-     "Acero de Vulcano",
-     "Oro imperial"
+     "Acero de Vulcano"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
     "id": "hoo3-012",
@@ -7707,40 +7707,66 @@
     "pregunta": "¿Quién construyó y capitanea el Argo II?",
     "opciones": [
      "Jason",
-     "Annabeth",
      "Leo",
+     "Annabeth",
      "El entrenador Hedge"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
     "id": "hoo3-013",
-    "nivel": "B",
-    "sub": "La marca de Atenea",
-    "pregunta": "¿Qué le pidió Atenea a Annabeth antes del viaje?",
+    "nivel": "I",
+    "sub": "El Campamento Júpiter",
+    "pregunta": "¿Qué dios aparece de golpe en la cubierta del Argo II gritando \"¡Inaceptable!\"?",
     "opciones": [
-     "Sigue la marca de Atenea y véngame",
-     "Destruye Roma",
-     "Busca a Percy",
-     "Construye un templo"
+     "Término",
+     "Marte",
+     "Baco",
+     "Jano"
     ],
     "correcta": "a"
    },
    {
     "id": "hoo3-014",
+    "nivel": "A",
+    "sub": "El Campamento Júpiter",
+    "pregunta": "¿Quién cuida la casa de los McLean mientras el entrenador Hedge viaja en el Argo II?",
+    "opciones": [
+     "Drew",
+     "Tristan McLean solo",
+     "Mellie, su novia",
+     "Juniper"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo3-015",
+    "nivel": "B",
+    "sub": "La marca de Atenea",
+    "pregunta": "¿Qué le pidió Atenea a Annabeth antes del viaje?",
+    "opciones": [
+     "Destruye Roma",
+     "Busca a Percy",
+     "Construye un templo",
+     "Sigue la marca de Atenea y véngame"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo3-016",
     "nivel": "I",
     "sub": "La marca de Atenea",
     "pregunta": "¿Qué objeto le dio Atenea a Annabeth?",
     "opciones": [
      "Una lanza de oro",
+     "Una moneda de plata con una lechuza",
      "Un mapa de Roma",
-     "Un espejo",
-     "Una moneda de plata con una lechuza"
+     "Un espejo"
     ],
-    "correcta": "d"
+    "correcta": "b"
    },
    {
-    "id": "hoo3-015",
+    "id": "hoo3-017",
     "nivel": "A",
     "sub": "La marca de Atenea",
     "pregunta": "¿Por qué Atenea está confundida y desorientada en este libro?",
@@ -7753,20 +7779,20 @@
     "correcta": "a"
    },
    {
-    "id": "hoo3-016",
+    "id": "hoo3-018",
     "nivel": "I",
     "sub": "La marca de Atenea",
     "pregunta": "¿Qué es la marca de Atenea?",
     "opciones": [
+     "Un símbolo de lechuza que guía hacia una estatua perdida",
      "Una cicatriz en la mano",
      "Un templo en Atenas",
-     "Un tatuaje romano",
-     "Un símbolo de lechuza que guía hacia una estatua perdida"
+     "Un tatuaje romano"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
-    "id": "hoo3-017",
+    "id": "hoo3-019",
     "nivel": "B",
     "sub": "La marca de Atenea",
     "pregunta": "¿Qué estatua busca Annabeth?",
@@ -7779,33 +7805,33 @@
     "correcta": "c"
    },
    {
-    "id": "hoo3-018",
+    "id": "hoo3-020",
     "nivel": "A",
     "sub": "La marca de Atenea",
     "pregunta": "¿Dónde estaba originalmente la Atenea Partenos?",
     "opciones": [
-     "En el Partenón de Atenas",
      "En el Coliseo de Roma",
      "En el monte Olimpo",
-     "En Delfos"
-    ],
-    "correcta": "a"
-   },
-   {
-    "id": "hoo3-019",
-    "nivel": "A",
-    "sub": "La marca de Atenea",
-    "pregunta": "¿Por qué es tan importante encontrar esa estatua?",
-    "opciones": [
-     "Es la única arma contra Gea",
-     "Contiene el alma de Atenea",
-     "Abre las Puertas de la Muerte",
-     "Podría reconciliar a griegos y romanos"
+     "En Delfos",
+     "En el Partenón de Atenas"
     ],
     "correcta": "d"
    },
    {
-    "id": "hoo3-020",
+    "id": "hoo3-021",
+    "nivel": "A",
+    "sub": "La marca de Atenea",
+    "pregunta": "¿Por qué es tan importante encontrar esa estatua?",
+    "opciones": [
+     "Podría reconciliar a griegos y romanos",
+     "Es la única arma contra Gea",
+     "Contiene el alma de Atenea",
+     "Abre las Puertas de la Muerte"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo3-022",
     "nivel": "I",
     "sub": "La marca de Atenea",
     "pregunta": "Según la profecía, ¿cómo debe hacer Annabeth la búsqueda?",
@@ -7818,7 +7844,7 @@
     "correcta": "a"
    },
    {
-    "id": "hoo3-021",
+    "id": "hoo3-023",
     "nivel": "B",
     "sub": "La marca de Atenea",
     "pregunta": "¿Qué animal le da terror a Annabeth?",
@@ -7831,20 +7857,20 @@
     "correcta": "d"
    },
    {
-    "id": "hoo3-022",
+    "id": "hoo3-024",
     "nivel": "A",
     "sub": "La marca de Atenea",
     "pregunta": "¿Por qué los hijos de Atenea temen a las arañas?",
     "opciones": [
      "Por una maldición de Hera",
-     "Por la rivalidad entre Atenea y Aracne",
      "Por la picadura de un escorpión",
-     "Porque las arañas sirven a Gea"
+     "Porque las arañas sirven a Gea",
+     "Por la rivalidad entre Atenea y Aracne"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
-    "id": "hoo3-023",
+    "id": "hoo3-025",
     "nivel": "I",
     "sub": "La marca de Atenea",
     "pregunta": "¿Cómo sigue el verso \"Siete mestizos responderán a la llamada\"?",
@@ -7857,59 +7883,59 @@
     "correcta": "b"
    },
    {
-    "id": "hoo3-024",
+    "id": "hoo3-026",
     "nivel": "A",
     "sub": "La marca de Atenea",
     "pregunta": "¿Qué dice el verso de la Profecía de los Siete sobre un juramento?",
     "opciones": [
+     "Un juramento a cumplir con el último aliento",
      "Un juramento que romperá a los dioses",
      "Un juramento hecho sobre el Estigio",
-     "Un juramento que unirá las dos coronas",
-     "Un juramento a cumplir con el último aliento"
+     "Un juramento que unirá las dos coronas"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
-    "id": "hoo3-025",
+    "id": "hoo3-027",
     "nivel": "E",
     "sub": "La marca de Atenea",
     "pregunta": "¿Con qué verso termina la Profecía de los Siete?",
     "opciones": [
-     "Y perder un amor peor que la muerte",
      "Y los enemigos en armas ante las Puertas de la Muerte",
+     "Y perder un amor peor que la muerte",
      "Y la tierra despertará de su sueño",
      "Y el Olimpo arderá en llamas"
     ],
-    "correcta": "b"
+    "correcta": "a"
    },
    {
-    "id": "hoo3-026",
+    "id": "hoo3-028",
     "nivel": "A",
     "sub": "La marca de Atenea",
     "pregunta": "¿De qué materiales está hecha la Atenea Partenos?",
     "opciones": [
      "Mármol blanco",
      "Bronce celestial",
-     "Plata y ébano",
-     "Oro y marfil"
+     "Oro y marfil",
+     "Plata y ébano"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
-    "id": "hoo3-027",
+    "id": "hoo3-029",
     "nivel": "I",
     "sub": "La marca de Atenea",
     "pregunta": "¿Quién era Aracne en el mito?",
     "opciones": [
-     "Una hija de Zeus",
      "Una tejedora que desafió a Atenea",
+     "Una hija de Zeus",
      "Una ninfa del río",
      "Una sacerdotisa de Hera"
     ],
-    "correcta": "b"
+    "correcta": "a"
    },
    {
-    "id": "hoo3-028",
+    "id": "hoo3-030",
     "nivel": "A",
     "sub": "La marca de Atenea",
     "pregunta": "¿Qué dios del río romano ayuda a Annabeth en Roma?",
@@ -7922,7 +7948,7 @@
     "correcta": "c"
    },
    {
-    "id": "hoo3-029",
+    "id": "hoo3-031",
     "nivel": "I",
     "sub": "El viaje",
     "pregunta": "¿Qué dios del vino encuentran en un campo de Kansas?",
@@ -7935,72 +7961,72 @@
     "correcta": "c"
    },
    {
-    "id": "hoo3-030",
+    "id": "hoo3-032",
     "nivel": "I",
     "sub": "El viaje",
     "pregunta": "¿Qué dios marino viejo y su esposa capturan a Percy y Frank en un acuario de Atlanta?",
     "opciones": [
-     "Forcis y Ceto",
      "Nereo y Doris",
      "Océano y Tetis",
-     "Tritón y Anfitrite"
+     "Tritón y Anfitrite",
+     "Forcis y Ceto"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
-    "id": "hoo3-031",
+    "id": "hoo3-033",
     "nivel": "I",
     "sub": "El viaje",
     "pregunta": "¿Qué héroe custodia las Columnas de Hércules?",
     "opciones": [
      "Teseo",
-     "Atlas",
      "Hércules",
+     "Atlas",
      "Perseo"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
-    "id": "hoo3-032",
+    "id": "hoo3-034",
     "nivel": "A",
     "sub": "El viaje",
     "pregunta": "¿Qué le pide Hércules a Jason a cambio de dejarlos pasar?",
     "opciones": [
      "La cabeza de Medusa",
      "Las manzanas de las Hespérides",
-     "La piel del león de Nemea",
-     "El cuerno del dios río Aqueloo"
+     "El cuerno del dios río Aqueloo",
+     "La piel del león de Nemea"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
-    "id": "hoo3-033",
+    "id": "hoo3-035",
     "nivel": "A",
     "sub": "El viaje",
     "pregunta": "¿En qué se convierte el cuerno que consigue Piper?",
     "opciones": [
+     "En una cornucopia que produce comida",
      "En una lanza",
      "En un instrumento musical",
-     "En una copa de néctar",
-     "En una cornucopia que produce comida"
+     "En una copa de néctar"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
-    "id": "hoo3-034",
+    "id": "hoo3-036",
     "nivel": "I",
     "sub": "El viaje",
     "pregunta": "¿Quién se queda con el cuerno en vez de dárselo a Hércules?",
     "opciones": [
      "Jason",
-     "Piper",
      "Leo",
-     "Hazel"
+     "Hazel",
+     "Piper"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
-    "id": "hoo3-035",
+    "id": "hoo3-037",
     "nivel": "I",
     "sub": "El viaje",
     "pregunta": "¿Qué tipo de espada usa Hazel?",
@@ -8013,33 +8039,33 @@
     "correcta": "b"
    },
    {
-    "id": "hoo3-036",
+    "id": "hoo3-038",
     "nivel": "I",
     "sub": "El viaje",
     "pregunta": "¿Qué muestran las visiones de la daga de Piper sobre Nico?",
     "opciones": [
-     "Que está atrapado en una gran vasija de bronce",
      "Que está en el Campamento Júpiter",
      "Que se unió a Gea",
-     "Que está en Ogigia"
-    ],
-    "correcta": "a"
-   },
-   {
-    "id": "hoo3-037",
-    "nivel": "A",
-    "sub": "El viaje",
-    "pregunta": "¿Cómo sobrevive Nico dentro de la vasija?",
-    "opciones": [
-     "Con néctar",
-     "Durmiendo un sueño mágico",
-     "Gracias a Hazel",
-     "Comiendo semillas de granada del Inframundo"
+     "Que está en Ogigia",
+     "Que está atrapado en una gran vasija de bronce"
     ],
     "correcta": "d"
    },
    {
-    "id": "hoo3-038",
+    "id": "hoo3-039",
+    "nivel": "A",
+    "sub": "El viaje",
+    "pregunta": "¿Cómo sobrevive Nico dentro de la vasija?",
+    "opciones": [
+     "Comiendo semillas de granada del Inframundo",
+     "Con néctar",
+     "Durmiendo un sueño mágico",
+     "Gracias a Hazel"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo3-040",
     "nivel": "I",
     "sub": "El viaje",
     "pregunta": "¿Qué gigantes gemelos tienen prisionero a Nico?",
@@ -8052,7 +8078,7 @@
     "correcta": "b"
    },
    {
-    "id": "hoo3-039",
+    "id": "hoo3-041",
     "nivel": "A",
     "sub": "El viaje",
     "pregunta": "¿Qué les apasiona a los gigantes gemelos?",
@@ -8065,20 +8091,20 @@
     "correcta": "c"
    },
    {
-    "id": "hoo3-040",
+    "id": "hoo3-042",
     "nivel": "I",
     "sub": "El viaje",
     "pregunta": "¿Qué buscaba Nico cuando lo capturaron?",
     "opciones": [
+     "Las Puertas de la Muerte",
      "A Percy",
      "La Atenea Partenos",
-     "Las Puertas de la Muerte",
      "A su padre"
     ],
-    "correcta": "c"
+    "correcta": "a"
    },
    {
-    "id": "hoo3-041",
+    "id": "hoo3-043",
     "nivel": "B",
     "sub": "El viaje",
     "pregunta": "¿Dónde están las Puertas de la Muerte del lado mortal?",
@@ -8091,7 +8117,7 @@
     "correcta": "d"
    },
    {
-    "id": "hoo3-042",
+    "id": "hoo3-044",
     "nivel": "B",
     "sub": "El viaje",
     "pregunta": "¿Qué océano cruza el Argo II rumbo a Europa?",
@@ -8104,98 +8130,280 @@
     "correcta": "b"
    },
    {
-    "id": "hoo3-043",
+    "id": "hoo3-045",
     "nivel": "I",
     "sub": "El viaje",
     "pregunta": "¿En qué estrecho están las Columnas de Hércules?",
     "opciones": [
      "En el Bósforo",
      "En el estrecho de Mesina",
-     "En el estrecho de Gibraltar",
-     "En el canal de la Mancha"
-    ],
-    "correcta": "c"
-   },
-   {
-    "id": "hoo3-044",
-    "nivel": "I",
-    "sub": "Roma",
-    "pregunta": "¿Quiénes van a rescatar a Nico en Roma?",
-    "opciones": [
-     "Leo, Hazel y Frank",
-     "Percy, Jason y Piper",
-     "Annabeth y Percy",
-     "Todos los siete"
-    ],
-    "correcta": "b"
-   },
-   {
-    "id": "hoo3-045",
-    "nivel": "I",
-    "sub": "Roma",
-    "pregunta": "¿Qué dios ayuda a Percy y Jason a pelear contra los gemelos?",
-    "opciones": [
-     "Marte",
-     "Hermes",
-     "Apolo",
-     "Baco"
+     "En el canal de la Mancha",
+     "En el estrecho de Gibraltar"
     ],
     "correcta": "d"
    },
    {
     "id": "hoo3-046",
     "nivel": "A",
-    "sub": "Roma",
-    "pregunta": "¿Qué descubren Leo, Hazel y Frank bajo Roma?",
+    "sub": "El viaje",
+    "pregunta": "¿Con qué apariencia se presenta Némesis ante Leo?",
     "opciones": [
-     "El taller de Arquímedes",
-     "El taller de Dédalo",
-     "La tumba de Rómulo",
-     "El tesoro de Midas"
+     "Como su madre",
+     "Como la tía Callida",
+     "Como Calipso",
+     "Como su tía Rosa"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
     "id": "hoo3-047",
     "nivel": "I",
-    "sub": "Roma",
-    "pregunta": "¿Qué invento de Arquímedes se lleva Leo?",
+    "sub": "El viaje",
+    "pregunta": "¿Dónde encuentran a Némesis y a Narciso?",
     "opciones": [
-     "Un espejo solar",
-     "Una esfera mecánica",
-     "Una catapulta",
-     "Un reloj"
+     "En las cataratas del Niágara",
+     "En el Gran Lago Salado de Utah",
+     "En el lago Michigan",
+     "En el río Misisipi"
     ],
     "correcta": "b"
    },
    {
     "id": "hoo3-048",
     "nivel": "A",
-    "sub": "Roma",
-    "pregunta": "¿Qué le pasa a Annabeth en el pie durante su búsqueda?",
+    "sub": "El viaje",
+    "pregunta": "¿Qué advierte Némesis sobre la buena suerte?",
     "opciones": [
-     "La muerde una araña",
-     "Lo pierde en una trampa",
-     "Se rompe el tobillo",
-     "Se le congela"
+     "Que el éxito de verdad exige un sacrificio",
+     "Que siempre llega a los valientes",
+     "Que se puede comprar con oro",
+     "Que solo la tienen los hijos de Zeus"
     ],
-    "correcta": "c"
+    "correcta": "a"
    },
    {
     "id": "hoo3-049",
-    "nivel": "B",
-    "sub": "Roma",
-    "pregunta": "¿Quién custodia la Atenea Partenos?",
+    "nivel": "I",
+    "sub": "El viaje",
+    "pregunta": "¿Qué ninfa, que solo repite lo último que oye, ayuda a la tripulación?",
     "opciones": [
-     "Medusa",
-     "Equidna",
-     "Campe",
-     "Aracne"
+     "Juniper",
+     "Calipso",
+     "Mellie",
+     "Eco"
     ],
     "correcta": "d"
    },
    {
     "id": "hoo3-050",
+    "nivel": "I",
+    "sub": "El viaje",
+    "pregunta": "¿Quiénes pelean a muerte en Kansas, poseídos por los eidolones?",
+    "opciones": [
+     "Leo y Frank",
+     "Hazel y Piper",
+     "Jason y Leo",
+     "Percy y Jason"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo3-051",
+    "nivel": "A",
+    "sub": "El viaje",
+    "pregunta": "Según Baco, ¿con qué mató él a los gemelos Oto y Efialtes en el pasado?",
+    "opciones": [
+     "Con vino envenenado",
+     "Con piñas, de un golpe en la cara",
+     "Con un rayo prestado",
+     "Con una vid gigante"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo3-052",
+    "nivel": "A",
+    "sub": "El viaje",
+    "pregunta": "¿Cómo escapa Frank de las \"esposas chinas\" en el acuario?",
+    "opciones": [
+     "Convirtiéndose en iguana",
+     "Cortándolas con su arco",
+     "Pidiéndole ayuda a Percy",
+     "Quemándolas"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo3-053",
+    "nivel": "A",
+    "sub": "El viaje",
+    "pregunta": "¿Qué idea le dan esas esposas chinas a Annabeth más adelante?",
+    "opciones": [
+     "La trampa con la que atrapa a Aracne",
+     "Un nuevo diseño para el Argo II",
+     "Una forma de cerrar las Puertas",
+     "Un código secreto"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo3-054",
+    "nivel": "A",
+    "sub": "El viaje",
+    "pregunta": "¿Qué recuerda Afrodita en Charleston?",
+    "opciones": [
+     "Su boda con Hefesto",
+     "La guerra de Troya",
+     "Una fiesta la noche en que empezó la Guerra Civil, con el bombardeo del fuerte Sumter",
+     "El día en que nació Piper"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo3-055",
+    "nivel": "I",
+    "sub": "El viaje",
+    "pregunta": "¿Qué atacan a Annabeth en el fuerte Sumter?",
+    "opciones": [
+     "Fantasmas confederados",
+     "Arañas",
+     "Serpientes",
+     "Murciélagos"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo3-056",
+    "nivel": "A",
+    "sub": "El viaje",
+    "pregunta": "¿Qué ve Leo en la visión del pasado que le muestra Hazel?",
+    "opciones": [
+     "El incendio del taller de su madre",
+     "A Hazel muriendo en Alaska",
+     "A Sammy, ya anciano, bendiciendo a Leo cuando era bebé",
+     "A Hefesto en su fragua"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo3-057",
+    "nivel": "A",
+    "sub": "El viaje",
+    "pregunta": "¿Quiénes son Bythos y Aphros?",
+    "opciones": [
+     "Centauros marinos, medio hermanos de Quirón",
+     "Hijos de Poseidón",
+     "Tritones al servicio de Forcis",
+     "Ponis de Fiesta"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo3-058",
+    "nivel": "E",
+    "sub": "El viaje",
+    "pregunta": "¿Qué necesitará Annabeth para que Tiberino la ayude en Roma?",
+    "opciones": [
+     "Una moneda de oro",
+     "Una carta de presentación",
+     "Una ofrenda de vino",
+     "La lechuza de Atenea"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo3-059",
+    "nivel": "A",
+    "sub": "El viaje",
+    "pregunta": "¿Quién es Crisaor, el pirata de la máscara de oro?",
+    "opciones": [
+     "Un hijo de Ares",
+     "El hermano de Forcis",
+     "El hijo de Poseidón y Medusa",
+     "Un gigante de Gea"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo3-060",
+    "nivel": "I",
+    "sub": "Roma",
+    "pregunta": "¿Quiénes van a rescatar a Nico en Roma?",
+    "opciones": [
+     "Leo, Hazel y Frank",
+     "Annabeth y Percy",
+     "Percy, Jason y Piper",
+     "Todos los siete"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo3-061",
+    "nivel": "I",
+    "sub": "Roma",
+    "pregunta": "¿Qué dios ayuda a Percy y Jason a pelear contra los gemelos?",
+    "opciones": [
+     "Baco",
+     "Marte",
+     "Hermes",
+     "Apolo"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo3-062",
+    "nivel": "A",
+    "sub": "Roma",
+    "pregunta": "¿Qué descubren Leo, Hazel y Frank bajo Roma?",
+    "opciones": [
+     "El taller de Dédalo",
+     "La tumba de Rómulo",
+     "El tesoro de Midas",
+     "El taller de Arquímedes"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo3-063",
+    "nivel": "I",
+    "sub": "Roma",
+    "pregunta": "¿Qué invento de Arquímedes se lleva Leo?",
+    "opciones": [
+     "Un espejo solar",
+     "Una catapulta",
+     "Una esfera mecánica",
+     "Un reloj"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo3-064",
+    "nivel": "A",
+    "sub": "Roma",
+    "pregunta": "¿Qué le pasa a Annabeth en el pie durante su búsqueda?",
+    "opciones": [
+     "La muerde una araña",
+     "Se rompe el tobillo",
+     "Lo pierde en una trampa",
+     "Se le congela"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo3-065",
+    "nivel": "B",
+    "sub": "Roma",
+    "pregunta": "¿Quién custodia la Atenea Partenos?",
+    "opciones": [
+     "Medusa",
+     "Aracne",
+     "Equidna",
+     "Campe"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo3-066",
     "nivel": "A",
     "sub": "Roma",
     "pregunta": "¿Con qué truco atrapa Annabeth a Aracne?",
@@ -8208,46 +8416,46 @@
     "correcta": "c"
    },
    {
-    "id": "hoo3-051",
+    "id": "hoo3-067",
     "nivel": "I",
     "sub": "Roma",
     "pregunta": "¿Qué le pasa a Aracne al final?",
     "opciones": [
      "Se convierte en piedra",
+     "Cae al Tártaro",
      "Huye a Grecia",
-     "La mata Percy",
-     "Cae al Tártaro"
-    ],
-    "correcta": "d"
-   },
-   {
-    "id": "hoo3-052",
-    "nivel": "B",
-    "sub": "Roma",
-    "pregunta": "¿Quiénes caen al Tártaro al final del libro?",
-    "opciones": [
-     "Percy y Annabeth",
-     "Jason y Piper",
-     "Hazel y Frank",
-     "Leo y Nico"
-    ],
-    "correcta": "a"
-   },
-   {
-    "id": "hoo3-053",
-    "nivel": "A",
-    "sub": "Roma",
-    "pregunta": "¿Qué le pide Percy a Nico antes de caer?",
-    "opciones": [
-     "Que cuide a su madre",
-     "Que lleve a los demás a las Puertas de la Muerte y los espere allí",
-     "Que destruya la estatua",
-     "Que avise a Quirón"
+     "La mata Percy"
     ],
     "correcta": "b"
    },
    {
-    "id": "hoo3-054",
+    "id": "hoo3-068",
+    "nivel": "B",
+    "sub": "Roma",
+    "pregunta": "¿Quiénes caen al Tártaro al final del libro?",
+    "opciones": [
+     "Jason y Piper",
+     "Hazel y Frank",
+     "Leo y Nico",
+     "Percy y Annabeth"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo3-069",
+    "nivel": "A",
+    "sub": "Roma",
+    "pregunta": "¿Qué le pide Percy a Nico antes de caer?",
+    "opciones": [
+     "Que lleve a los demás a las Puertas de la Muerte y los espere allí",
+     "Que cuide a su madre",
+     "Que destruya la estatua",
+     "Que avise a Quirón"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo3-070",
     "nivel": "I",
     "sub": "Roma",
     "pregunta": "¿Qué sabe Nico del Tártaro que nadie más sabe?",
@@ -8260,7 +8468,7 @@
     "correcta": "d"
    },
    {
-    "id": "hoo3-055",
+    "id": "hoo3-071",
     "nivel": "I",
     "sub": "Roma",
     "pregunta": "¿Qué deben hacer con las Puertas de la Muerte?",
@@ -8273,33 +8481,85 @@
     "correcta": "a"
    },
    {
-    "id": "hoo3-056",
+    "id": "hoo3-072",
     "nivel": "I",
     "sub": "Roma",
     "pregunta": "Al final del libro, ¿hacia dónde pone rumbo el Argo II?",
     "opciones": [
+     "Hacia Epiro, en Grecia",
      "De vuelta al Campamento Mestizo",
      "Hacia Alaska",
-     "Hacia Epiro, en Grecia",
      "Hacia Egipto"
-    ],
-    "correcta": "c"
-   },
-   {
-    "id": "hoo3-057",
-    "nivel": "I",
-    "sub": "La tripulación",
-    "pregunta": "¿Qué hace el entrenador Hedge en sus ratos libres en el barco?",
-    "opciones": [
-     "Ve peleas y películas de artes marciales",
-     "Teje bufandas",
-     "Lee poesía",
-     "Cocina enchiladas"
     ],
     "correcta": "a"
    },
    {
-    "id": "hoo3-058",
+    "id": "hoo3-073",
+    "nivel": "A",
+    "sub": "Roma",
+    "pregunta": "¿Qué encuentra Annabeth en la cámara de una de sus pruebas?",
+    "opciones": [
+     "Un mapa de Roma",
+     "Una estatua de Minerva",
+     "Al fantasma de Luke",
+     "Los huesos de hijos de Atenea que fracasaron antes"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo3-074",
+    "nivel": "A",
+    "sub": "Roma",
+    "pregunta": "¿Los fantasmas de qué culto romano enfrenta Annabeth en una caverna?",
+    "opciones": [
+     "El de Mitra",
+     "El de Vesta",
+     "El de Jano",
+     "El de Saturno"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo3-075",
+    "nivel": "A",
+    "sub": "Roma",
+    "pregunta": "¿Cómo llegaron a Roma los inventos de Arquímedes?",
+    "opciones": [
+     "Arquímedes se mudó a Roma",
+     "Los compró un emperador",
+     "Un general romano los saqueó tras destruir Siracusa",
+     "Los llevó Dédalo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo3-076",
+    "nivel": "E",
+    "sub": "Roma",
+    "pregunta": "Según la profecía de Ella, ¿qué hacen los gemelos?",
+    "opciones": [
+     "Abren las Puertas de la Muerte",
+     "Rompen la marca de Atenea",
+     "Apagan el aliento del ángel",
+     "Despiertan a Gea"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo3-077",
+    "nivel": "I",
+    "sub": "La tripulación",
+    "pregunta": "¿Qué hace el entrenador Hedge en sus ratos libres en el barco?",
+    "opciones": [
+     "Teje bufandas",
+     "Ve peleas y películas de artes marciales",
+     "Lee poesía",
+     "Cocina enchiladas"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo3-078",
     "nivel": "I",
     "sub": "La tripulación",
     "pregunta": "¿Qué parte del Argo II es el antiguo dragón de Leo?",
@@ -8312,7 +8572,7 @@
     "correcta": "d"
    },
    {
-    "id": "hoo3-059",
+    "id": "hoo3-079",
     "nivel": "A",
     "sub": "La tripulación",
     "pregunta": "¿Quién es la pretora romana que se queda en el Campamento Júpiter?",
@@ -8325,20 +8585,20 @@
     "correcta": "c"
    },
    {
-    "id": "hoo3-060",
+    "id": "hoo3-080",
     "nivel": "I",
     "sub": "La tripulación",
     "pregunta": "¿Qué siente Leo cuando conoce a Hazel?",
     "opciones": [
      "Lo odia a primera vista",
-     "Lo reconoce como su hermano",
      "Se impresiona porque se parece a su antiguo novio Sammy",
+     "Lo reconoce como su hermano",
      "Le tiene miedo por su fuego"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
-    "id": "hoo3-061",
+    "id": "hoo3-081",
     "nivel": "E",
     "sub": "La tripulación",
     "pregunta": "¿Qué parentesco hay entre Sammy y Leo?",
@@ -8351,72 +8611,72 @@
     "correcta": "d"
    },
    {
-    "id": "hoo3-062",
+    "id": "hoo3-082",
     "nivel": "B",
     "sub": "Griegos y romanos",
     "pregunta": "¿Cómo se llama Ares en su forma romana?",
     "opciones": [
+     "Marte",
      "Mercurio",
      "Vulcano",
-     "Marte",
      "Quirino"
-    ],
-    "correcta": "c"
-   },
-   {
-    "id": "hoo3-063",
-    "nivel": "B",
-    "sub": "Griegos y romanos",
-    "pregunta": "¿Cómo se llama Poseidón en su forma romana?",
-    "opciones": [
-     "Neptuno",
-     "Júpiter",
-     "Plutón",
-     "Saturno"
     ],
     "correcta": "a"
    },
    {
-    "id": "hoo3-064",
+    "id": "hoo3-083",
+    "nivel": "B",
+    "sub": "Griegos y romanos",
+    "pregunta": "¿Cómo se llama Poseidón en su forma romana?",
+    "opciones": [
+     "Júpiter",
+     "Plutón",
+     "Saturno",
+     "Neptuno"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo3-084",
     "nivel": "B",
     "sub": "Griegos y romanos",
     "pregunta": "¿Cómo se llama Hades en su forma romana?",
     "opciones": [
      "Saturno",
      "Orco",
-     "Plutón",
-     "Neptuno"
+     "Neptuno",
+     "Plutón"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
-    "id": "hoo3-065",
+    "id": "hoo3-085",
     "nivel": "I",
     "sub": "Griegos y romanos",
     "pregunta": "¿Cómo se llama Hefesto en su forma romana?",
     "opciones": [
-     "Marte",
      "Vulcano",
+     "Marte",
      "Mercurio",
      "Jano"
-    ],
-    "correcta": "b"
-   },
-   {
-    "id": "hoo3-066",
-    "nivel": "I",
-    "sub": "Griegos y romanos",
-    "pregunta": "¿Cómo se llama Atenea en su forma romana?",
-    "opciones": [
-     "Minerva",
-     "Belona",
-     "Juno",
-     "Diana"
     ],
     "correcta": "a"
    },
    {
-    "id": "hoo3-067",
+    "id": "hoo3-086",
+    "nivel": "I",
+    "sub": "Griegos y romanos",
+    "pregunta": "¿Cómo se llama Atenea en su forma romana?",
+    "opciones": [
+     "Belona",
+     "Juno",
+     "Minerva",
+     "Diana"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo3-087",
     "nivel": "I",
     "sub": "Griegos y romanos",
     "pregunta": "¿Cómo se llama Afrodita en su forma romana?",
@@ -8429,30 +8689,30 @@
     "correcta": "c"
    },
    {
-    "id": "hoo3-068",
+    "id": "hoo3-088",
     "nivel": "I",
     "sub": "Griegos y romanos",
     "pregunta": "¿Cómo se llama Hermes en su forma romana?",
     "opciones": [
-     "Mercurio",
      "Jano",
+     "Mercurio",
      "Término",
      "Apolo"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
-    "id": "hoo3-069",
+    "id": "hoo3-089",
     "nivel": "A",
     "sub": "Griegos y romanos",
     "pregunta": "¿Cómo se llama Cronos en su forma romana?",
     "opciones": [
-     "Saturno",
      "Jano",
      "Término",
+     "Saturno",
      "Orco"
     ],
-    "correcta": "a"
+    "correcta": "c"
    }
   ]
  },
@@ -8469,12 +8729,12 @@
     "sub": "El Tártaro",
     "pregunta": "¿Dónde están Percy y Annabeth al comienzo del libro?",
     "opciones": [
+     "En el Tártaro",
      "En el Inframundo de Hades",
      "En Ogigia",
-     "En el Argo II",
-     "En el Tártaro"
+     "En el Argo II"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
     "id": "hoo4-002",
@@ -8483,11 +8743,11 @@
     "pregunta": "¿De qué río beben para sobrevivir en el Tártaro, aunque les quema?",
     "opciones": [
      "El Lete, el río del olvido",
-     "El Estigio",
      "El Flegetonte, el río de fuego",
+     "El Estigio",
      "El Aqueronte"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
     "id": "hoo4-003",
@@ -8496,11 +8756,11 @@
     "pregunta": "¿Qué río de lamentos encuentran en el Tártaro, que contagia tristeza?",
     "opciones": [
      "El Lete",
-     "El Cocito",
      "El Pequeño Tíber",
-     "El Alfeo"
+     "El Alfeo",
+     "El Cocito"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
     "id": "hoo4-004",
@@ -8510,10 +8770,10 @@
     "opciones": [
      "Arpías del Tártaro",
      "Hijas de Nix",
-     "Fantasmas de semidioses",
-     "Espíritus de las maldiciones lanzadas contra ellos"
+     "Espíritus de las maldiciones lanzadas contra ellos",
+     "Fantasmas de semidioses"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
     "id": "hoo4-005",
@@ -8522,11 +8782,11 @@
     "pregunta": "¿Qué le pasa a Annabeth por una de esas maldiciones?",
     "opciones": [
      "Pierde la voz",
-     "Olvida a Percy",
      "Se queda ciega por un tiempo",
+     "Olvida a Percy",
      "Se convierte en piedra"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
     "id": "hoo4-006",
@@ -8536,10 +8796,10 @@
     "opciones": [
      "Atlas",
      "Hiperión",
-     "Prometeo",
-     "Jápeto, a quien llaman Bob"
+     "Jápeto, a quien llaman Bob",
+     "Prometeo"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
     "id": "hoo4-007",
@@ -8560,12 +8820,12 @@
     "sub": "El Tártaro",
     "pregunta": "¿En qué trabajaba Bob en el palacio de Hades?",
     "opciones": [
-     "De conserje",
      "De cocinero",
      "De guardia del trono",
+     "De conserje",
      "De jardinero"
     ],
-    "correcta": "a"
+    "correcta": "c"
    },
    {
     "id": "hoo4-009",
@@ -8574,11 +8834,11 @@
     "pregunta": "¿Qué arma esconde la escoba de Bob?",
     "opciones": [
      "Una guadaña",
+     "Una lanza",
      "Una espada",
-     "Un tridente",
-     "Una lanza"
+     "Un tridente"
     ],
-    "correcta": "d"
+    "correcta": "b"
    },
    {
     "id": "hoo4-010",
@@ -8587,11 +8847,11 @@
     "pregunta": "¿Cómo se llama el gatito de Bob?",
     "opciones": [
      "Bobby",
-     "Bob Pequeño",
      "Señor Bigotes",
-     "Cerbero Junior"
+     "Cerbero Junior",
+     "Bob Pequeño"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
     "id": "hoo4-011",
@@ -8599,12 +8859,12 @@
     "sub": "El Tártaro",
     "pregunta": "¿En qué se convierte el gatito de Bob cuando crece?",
     "opciones": [
+     "En un tigre dientes de sable",
      "En un león de Nemea",
      "En un perro del infierno",
-     "En una esfinge",
-     "En un tigre dientes de sable"
+     "En una esfinge"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
     "id": "hoo4-012",
@@ -8613,11 +8873,11 @@
     "pregunta": "¿Qué título tenía Jápeto como titán?",
     "opciones": [
      "Titán de la Luz",
-     "Titán del Oeste",
      "Titán del Tiempo",
+     "Titán del Oeste",
      "Titán del Mar"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
     "id": "hoo4-013",
@@ -8625,12 +8885,12 @@
     "sub": "El Tártaro",
     "pregunta": "¿Qué gigante pacífico los acoge en su cabaña del Tártaro?",
     "opciones": [
-     "Damasén",
      "Clitio",
      "Polibotes",
+     "Damasén",
      "Encélado"
     ],
-    "correcta": "a"
+    "correcta": "c"
    },
    {
     "id": "hoo4-014",
@@ -8638,12 +8898,12 @@
     "sub": "El Tártaro",
     "pregunta": "¿Cuál es el castigo de Damasén en el Tártaro?",
     "opciones": [
+     "Pelear para siempre contra un drakon que renace",
      "Cargar una roca colina arriba",
      "No poder dormir jamás",
-     "Estar encadenado a un volcán",
-     "Pelear para siempre contra un drakon que renace"
+     "Estar encadenado a un volcán"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
     "id": "hoo4-015",
@@ -8651,12 +8911,12 @@
     "sub": "El Tártaro",
     "pregunta": "¿Por qué los demás gigantes despreciaban a Damasén?",
     "opciones": [
-     "Porque era pequeño",
      "Porque era pacífico y no quería pelear contra los dioses",
+     "Porque era pequeño",
      "Porque era hijo de Zeus",
      "Porque traicionó a Gea por amor"
     ],
-    "correcta": "b"
+    "correcta": "a"
    },
    {
     "id": "hoo4-016",
@@ -8666,10 +8926,10 @@
     "opciones": [
      "Nix",
      "Hécate",
-     "Némesis",
-     "Aclis"
+     "Aclis",
+     "Némesis"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
     "id": "hoo4-017",
@@ -8679,10 +8939,10 @@
     "opciones": [
      "La ahoga en el Flegetonte",
      "La convierte en piedra",
-     "Controla el veneno y lo vuelve contra ella",
-     "Le borra la memoria"
+     "Le borra la memoria",
+     "Controla el veneno y lo vuelve contra ella"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
     "id": "hoo4-018",
@@ -8690,12 +8950,12 @@
     "sub": "El Tártaro",
     "pregunta": "¿Qué usa Bob para ocultarlos al cruzar el Tártaro?",
     "opciones": [
+     "La Niebla de la Muerte, que los hace parecer cadáveres",
      "La gorra de Annabeth",
      "La sombra de Nix",
-     "La Niebla de la Muerte, que los hace parecer cadáveres",
      "Un manto de piel de león"
     ],
-    "correcta": "c"
+    "correcta": "a"
    },
    {
     "id": "hoo4-019",
@@ -8703,12 +8963,12 @@
     "sub": "El Tártaro",
     "pregunta": "¿Qué diosa primordial de la noche se encuentran?",
     "opciones": [
-     "Nix",
      "Hécate",
      "Hemera",
+     "Nix",
      "Selene"
     ],
-    "correcta": "a"
+    "correcta": "c"
    },
    {
     "id": "hoo4-020",
@@ -8716,12 +8976,12 @@
     "sub": "El Tártaro",
     "pregunta": "¿Qué descubren sobre el propio Tártaro?",
     "opciones": [
+     "Es un dios vivo y el abismo es su cuerpo",
      "Es solo un río",
      "Lo gobierna Cronos",
-     "Es un dios vivo y el abismo es su cuerpo",
      "Es una cárcel de Hades"
     ],
-    "correcta": "c"
+    "correcta": "a"
    },
    {
     "id": "hoo4-021",
@@ -8743,24 +9003,24 @@
     "pregunta": "¿Quiénes se quedan atrás en el Tártaro para que Percy y Annabeth escapen?",
     "opciones": [
      "Nico y Hazel",
+     "Bob y Damasén",
      "Bob y Nix",
-     "Aracne y Damasén",
-     "Bob y Damasén"
+     "Aracne y Damasén"
     ],
-    "correcta": "d"
+    "correcta": "b"
    },
    {
     "id": "hoo4-023",
     "nivel": "A",
     "sub": "El Tártaro",
-    "pregunta": "¿Qué le había prometido Percy a Bob tiempo atrás, y no cumplió?",
+    "pregunta": "¿Quién visitó a Bob en el palacio de Hades y le habló bien de Percy?",
     "opciones": [
-     "Liberarlo del Inframundo",
-     "Visitarlo",
-     "Devolverle la memoria",
-     "Llevarlo al Olimpo"
+     "Hazel",
+     "Perséfone",
+     "Nico",
+     "Caronte"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
     "id": "hoo4-024",
@@ -8782,11 +9042,11 @@
     "pregunta": "¿Qué permiten las Puertas de la Muerte abiertas?",
     "opciones": [
      "Que los dioses entren al Tártaro",
-     "Que los monstruos regresen del Tártaro casi de inmediato",
      "Que los mortales vean a los muertos",
-     "Que los semidioses sean inmortales"
+     "Que los semidioses sean inmortales",
+     "Que los monstruos regresen del Tártaro casi de inmediato"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
     "id": "hoo4-026",
@@ -8794,28 +9054,158 @@
     "sub": "El Tártaro",
     "pregunta": "¿Cómo consiguen la ayuda de Bob en el Tártaro?",
     "opciones": [
-     "Percy lo llama por su nombre",
      "Bob los encuentra por casualidad en el río",
      "Nico se lo envía",
-     "Annabeth lo invoca con un sacrificio"
+     "Annabeth lo invoca con un sacrificio",
+     "Percy lo llama por su nombre"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo4-027",
+    "nivel": "I",
+    "sub": "El Tártaro",
+    "pregunta": "¿Qué empusa conocida reaparece en el Tártaro al mando de otras empusas?",
+    "opciones": [
+     "Tammi",
+     "Medusa",
+     "Kelli",
+     "Aracne"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo4-028",
+    "nivel": "I",
+    "sub": "El Tártaro",
+    "pregunta": "¿Cómo va vestido Bob cuando aparece?",
+    "opciones": [
+     "Una armadura de hierro estigio",
+     "Una túnica griega",
+     "Un traje de buceo",
+     "Un uniforme azul de conserje"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo4-029",
+    "nivel": "A",
+    "sub": "El Tártaro",
+    "pregunta": "¿Qué veneno casi mata a Percy en el Tártaro?",
+    "opciones": [
+     "Sangre de gorgona",
+     "Veneno de hidra",
+     "Agua del Cocito",
+     "Veneno de Aclis"
     ],
     "correcta": "a"
    },
    {
-    "id": "hoo4-027",
+    "id": "hoo4-030",
+    "nivel": "A",
+    "sub": "El Tártaro",
+    "pregunta": "¿De qué está hecha la espada que consigue Annabeth en el Tártaro?",
+    "opciones": [
+     "De hierro estigio",
+     "De hueso de drakon",
+     "De bronce celestial",
+     "De obsidiana"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo4-031",
+    "nivel": "E",
+    "sub": "El Tártaro",
+    "pregunta": "¿De qué está hecha la cabaña de Damasén?",
+    "opciones": [
+     "De huesos, barro y piel de drakon",
+     "De piedra volcánica",
+     "De madera de fresno",
+     "De hielo negro"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo4-032",
+    "nivel": "E",
+    "sub": "El Tártaro",
+    "pregunta": "¿Qué tipo de drakon enfrenta Damasén una y otra vez?",
+    "opciones": [
+     "Un drakon lidio",
+     "Un drakon etíope",
+     "Un dragón de Cólquide",
+     "Un drakon meonio"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo4-033",
+    "nivel": "E",
+    "sub": "El Tártaro",
+    "pregunta": "¿Qué dios de la vejez aparece entre los hijos de Nix?",
+    "opciones": [
+     "Cronos",
+     "Tánatos",
+     "Hipnos",
+     "Geras"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo4-034",
+    "nivel": "E",
+    "sub": "El Tártaro",
+    "pregunta": "¿Cuándo es el cumpleaños de Annabeth?",
+    "opciones": [
+     "El 18 de agosto",
+     "El 1 de agosto",
+     "El 12 de julio",
+     "El 21 de junio"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo4-035",
+    "nivel": "A",
+    "sub": "El Tártaro",
+    "pregunta": "¿Qué dos titanes vigilan las Puertas de la Muerte en el Tártaro?",
+    "opciones": [
+     "Atlas y Océano",
+     "Crío e Hiperión",
+     "Cronos y Jápeto",
+     "Prometeo y Ceo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo4-036",
+    "nivel": "I",
+    "sub": "El Tártaro",
+    "pregunta": "¿Qué aspecto tienen las Puertas de la Muerte?",
+    "opciones": [
+     "Puertas de ascensor plateadas y negras",
+     "Un arco de huesos",
+     "Un portón de bronce",
+     "Una cortina de humo"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo4-037",
     "nivel": "I",
     "sub": "El Argo II",
     "pregunta": "¿Quién manda a Leo lejos del barco de un golpe de viento helado?",
     "opciones": [
      "Bóreas",
      "Gea",
-     "Quíone",
-     "Eolo"
+     "Eolo",
+     "Quíone"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
-    "id": "hoo4-028",
+    "id": "hoo4-038",
     "nivel": "B",
     "sub": "El Argo II",
     "pregunta": "¿A qué isla llega Leo?",
@@ -8828,163 +9218,163 @@
     "correcta": "c"
    },
    {
-    "id": "hoo4-029",
+    "id": "hoo4-039",
     "nivel": "I",
     "sub": "El Argo II",
     "pregunta": "¿Cómo se llevan Leo y Calipso al principio?",
     "opciones": [
-     "Se enamoran a primera vista",
      "Fatal: discuten todo el tiempo",
+     "Se enamoran a primera vista",
      "Calipso lo ignora",
      "Leo le tiene miedo"
     ],
-    "correcta": "b"
+    "correcta": "a"
    },
    {
-    "id": "hoo4-030",
+    "id": "hoo4-040",
     "nivel": "A",
     "sub": "El Argo II",
     "pregunta": "¿Qué le promete Leo a Calipso al irse?",
     "opciones": [
-     "Llevarla al Olimpo",
      "Volver a buscarla",
+     "Llevarla al Olimpo",
      "Liberar a su padre Atlas",
      "Construirle un barco"
     ],
-    "correcta": "b"
+    "correcta": "a"
    },
    {
-    "id": "hoo4-031",
+    "id": "hoo4-041",
     "nivel": "I",
     "sub": "El Argo II",
     "pregunta": "¿Qué diosa de la magia se le aparece a Hazel en una encrucijada?",
     "opciones": [
      "Némesis",
+     "Hécate",
      "Circe",
-     "Nix",
-     "Hécate"
+     "Nix"
     ],
-    "correcta": "d"
+    "correcta": "b"
    },
    {
-    "id": "hoo4-032",
+    "id": "hoo4-042",
     "nivel": "A",
     "sub": "El Argo II",
     "pregunta": "¿Qué animal acompaña siempre a esa diosa?",
     "opciones": [
      "Un búho",
      "Un cuervo",
-     "Un turón llamado Gale",
-     "Una serpiente"
+     "Una serpiente",
+     "Un turón llamado Gale"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
-    "id": "hoo4-033",
+    "id": "hoo4-043",
     "nivel": "I",
     "sub": "El Argo II",
     "pregunta": "¿Qué aprende Hazel a manipular gracias a esa diosa?",
     "opciones": [
      "Las sombras",
-     "El agua",
      "La Niebla",
+     "El agua",
      "El fuego"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
-    "id": "hoo4-034",
+    "id": "hoo4-044",
     "nivel": "I",
     "sub": "El Argo II",
     "pregunta": "¿Qué cambia en Frank durante este libro?",
     "opciones": [
-     "Da un estirón y gana fuerza y confianza",
      "Pierde sus poderes",
      "Se vuelve inmortal",
+     "Da un estirón y gana fuerza y confianza",
      "Olvida a Hazel"
     ],
-    "correcta": "a"
+    "correcta": "c"
    },
    {
-    "id": "hoo4-035",
+    "id": "hoo4-045",
     "nivel": "I",
     "sub": "El Argo II",
     "pregunta": "¿En qué palacio de Croacia buscan el cetro de Diocleciano?",
     "opciones": [
+     "El palacio de Diocleciano en Split",
      "El castillo de Dubrovnik",
      "El Coliseo de Pula",
-     "El palacio de Zagreb",
-     "El palacio de Diocleciano en Split"
+     "El palacio de Zagreb"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
-    "id": "hoo4-036",
+    "id": "hoo4-046",
     "nivel": "A",
     "sub": "El Argo II",
     "pregunta": "¿Qué poder tiene el cetro de Diocleciano?",
     "opciones": [
      "Abrir las Puertas de la Muerte",
-     "Invocar tormentas",
      "Controlar a los legionarios muertos",
+     "Invocar tormentas",
      "Dar invisibilidad"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
-    "id": "hoo4-037",
+    "id": "hoo4-047",
     "nivel": "I",
     "sub": "El Argo II",
     "pregunta": "¿Quiénes van al palacio de Diocleciano?",
     "opciones": [
      "Percy y Annabeth",
-     "Hazel y Leo",
      "Jason y Nico",
+     "Hazel y Leo",
      "Piper y Frank"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
-    "id": "hoo4-038",
+    "id": "hoo4-048",
     "nivel": "A",
     "sub": "El Argo II",
     "pregunta": "¿Qué dios obliga a Nico a contar su secreto en Split?",
     "opciones": [
-     "Cupido",
      "Baco",
      "Marte",
+     "Cupido",
      "Mercurio"
     ],
-    "correcta": "a"
+    "correcta": "c"
    },
    {
-    "id": "hoo4-039",
+    "id": "hoo4-049",
     "nivel": "A",
     "sub": "El Argo II",
     "pregunta": "¿Qué dios del viento del oeste ronda el palacio de Split?",
     "opciones": [
      "Aquilón",
-     "Favonio",
      "Austro",
+     "Favonio",
      "Eolo"
-    ],
-    "correcta": "b"
-   },
-   {
-    "id": "hoo4-040",
-    "nivel": "I",
-    "sub": "El Argo II",
-    "pregunta": "¿Qué secreto revela Nico frente a Jason?",
-    "opciones": [
-     "Que es hijo de Zeus",
-     "Que traicionó al campamento",
-     "Que estuvo enamorado de Percy",
-     "Que vio morir a Hazel"
     ],
     "correcta": "c"
    },
    {
-    "id": "hoo4-041",
+    "id": "hoo4-050",
+    "nivel": "I",
+    "sub": "El Argo II",
+    "pregunta": "¿Qué secreto revela Nico frente a Jason?",
+    "opciones": [
+     "Que estuvo enamorado de Percy",
+     "Que es hijo de Zeus",
+     "Que traicionó al campamento",
+     "Que vio morir a Hazel"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo4-051",
     "nivel": "I",
     "sub": "El Argo II",
     "pregunta": "¿Cómo reacciona Jason ante el secreto de Nico?",
@@ -8997,98 +9387,306 @@
     "correcta": "b"
    },
    {
-    "id": "hoo4-042",
+    "id": "hoo4-052",
     "nivel": "E",
     "sub": "El Argo II",
     "pregunta": "¿Qué duendes ladrones gemelos les roban objetos a la tripulación?",
     "opciones": [
-     "Los Cercopes",
      "Los Aloadas",
      "Los Boréadas",
-     "Los telquines"
+     "Los telquines",
+     "Los Cercopes"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
-    "id": "hoo4-043",
+    "id": "hoo4-053",
     "nivel": "I",
     "sub": "El Argo II",
     "pregunta": "¿Qué noticia da el entrenador Hedge sobre Mellie?",
     "opciones": [
      "Que se unió a Gea",
+     "Que está esperando un bebé",
      "Que se mudó a Ogigia",
-     "Que lo dejó",
-     "Que está esperando un bebé"
+     "Que lo dejó"
     ],
-    "correcta": "d"
+    "correcta": "b"
    },
    {
-    "id": "hoo4-044",
+    "id": "hoo4-054",
     "nivel": "A",
     "sub": "El Argo II",
     "pregunta": "¿Qué monstruos parecidos a vacas, con aliento venenoso, encuentran en Venecia?",
     "opciones": [
-     "Catoblepas",
      "Toros de Cólquide",
+     "Catoblepas",
      "Minotauros",
      "Bueyes de Gerión"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
-    "id": "hoo4-045",
+    "id": "hoo4-055",
     "nivel": "E",
     "sub": "El Argo II",
     "pregunta": "¿Cómo se llama la perra negra que también acompaña a Hécate?",
     "opciones": [
-     "Hécuba",
      "Laelaps",
      "Ortro",
+     "Hécuba",
      "Argos"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo4-056",
+    "nivel": "A",
+    "sub": "El Argo II",
+    "pregunta": "¿En qué animal suele dormir Frank para descansar mejor?",
+    "opciones": [
+     "En un bulldog",
+     "En un oso",
+     "En un gato",
+     "En una pitón"
     ],
     "correcta": "a"
    },
    {
-    "id": "hoo4-046",
+    "id": "hoo4-057",
+    "nivel": "I",
+    "sub": "El Argo II",
+    "pregunta": "¿Qué dios agricultor cura a Hazel en Venecia?",
+    "opciones": [
+     "Triptólemo",
+     "Deméter",
+     "Príapo",
+     "Baco"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo4-058",
+    "nivel": "E",
+    "sub": "El Argo II",
+    "pregunta": "¿Qué objeto le devuelven a Triptólemo?",
+    "opciones": [
+     "Su hoz",
+     "Su carro de serpientes",
+     "Su semilla de trigo",
+     "Su almanaque"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo4-059",
+    "nivel": "A",
+    "sub": "El Argo II",
+    "pregunta": "¿Qué voces escucha Frank en su cabeza?",
+    "opciones": [
+     "La de su madre",
+     "Las de Marte y Ares, que le gritan órdenes",
+     "La de Gea",
+     "La de Periclímeno"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo4-060",
+    "nivel": "I",
+    "sub": "El Argo II",
+    "pregunta": "¿Qué ruta le indica Hécate a la tripulación?",
+    "opciones": [
+     "Roma, Nápoles y Sicilia",
+     "Atenas, Esparta y Delos",
+     "Malta, Creta y Rodas",
+     "Bolonia, Venecia y el Adriático hasta Epiro"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo4-061",
+    "nivel": "A",
+    "sub": "El Argo II",
+    "pregunta": "¿De qué lado estuvo Hécate en la primera guerra contra los titanes?",
+    "opciones": [
+     "Del de Cronos",
+     "De ninguno",
+     "Del de Zeus",
+     "Del de Gea"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo4-062",
+    "nivel": "A",
+    "sub": "El Argo II",
+    "pregunta": "¿Qué era Gale antes de ser un turón?",
+    "opciones": [
+     "Una ninfa",
+     "Una princesa troyana",
+     "Una sacerdotisa de Hera",
+     "Una bruja humana"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo4-063",
+    "nivel": "A",
+    "sub": "El Argo II",
+    "pregunta": "¿Quién era Hécuba, la perra de Hécate, antes de su transformación?",
+    "opciones": [
+     "Una hija de Zeus",
+     "La antigua reina de Troya",
+     "Una cazadora de Artemisa",
+     "La esposa de Minos"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo4-064",
+    "nivel": "I",
+    "sub": "El Argo II",
+    "pregunta": "¿Qué les roban los Cercopes a Leo?",
+    "opciones": [
+     "La esfera de Arquímedes",
+     "El timón del Argo II",
+     "Su chaqueta",
+     "Cosas de su cinturón de herramientas"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo4-065",
+    "nivel": "A",
+    "sub": "El Argo II",
+    "pregunta": "¿Qué bandido obliga a Jason a elegir qué pie lavarle?",
+    "opciones": [
+     "Escirón",
+     "Procusto",
+     "Sinis",
+     "Cerción"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo4-066",
+    "nivel": "I",
+    "sub": "El Argo II",
+    "pregunta": "¿Cómo salva Piper a Jason cuando cae del cielo inconsciente?",
+    "opciones": [
+     "Lo atrapa con la cornucopia",
+     "Le lanza una cuerda",
+     "Llama a Festo",
+     "Le grita \"¡DESPIERTA!\" con su voz persuasiva"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo4-067",
+    "nivel": "A",
+    "sub": "El Argo II",
+    "pregunta": "¿Qué le da a Leo la galleta de la fortuna de Némesis?",
+    "opciones": [
+     "La ubicación de Ogigia",
+     "La debilidad de Clitio",
+     "El código para activar la esfera de Arquímedes",
+     "El nombre de su bisabuelo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo4-068",
+    "nivel": "I",
+    "sub": "El Argo II",
+    "pregunta": "¿Qué dispara la cornucopia de Piper cuando Quíone aparece?",
+    "opciones": [
+     "Manzanas doradas",
+     "Magdalenas de arándanos",
+     "Granadas",
+     "Pan de maíz"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo4-069",
+    "nivel": "A",
+    "sub": "El Argo II",
+    "pregunta": "¿En el palacio de qué dios quedan retenidos varios días?",
+    "opciones": [
+     "El de Eolo",
+     "El de Bóreas",
+     "El de Poseidón",
+     "El del viento del sur, Noto (Austro en su forma romana)"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo4-070",
+    "nivel": "A",
+    "sub": "El Argo II",
+    "pregunta": "¿En qué isla se reencuentran con Leo?",
+    "opciones": [
+     "Malta",
+     "Creta",
+     "Sicilia",
+     "Ítaca"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo4-071",
+    "nivel": "E",
+    "sub": "El Argo II",
+    "pregunta": "¿Qué ropa lleva Leo cuando lo encuentran en la cafetería?",
+    "opciones": [
+     "Un traje de gala",
+     "La misma que el día que llegó al Campamento Mestizo",
+     "Ropa de Calipso",
+     "Un uniforme de la legión"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo4-072",
     "nivel": "I",
     "sub": "La Casa de Hades",
     "pregunta": "¿Cómo se llama el templo de la Casa de Hades en Epiro?",
     "opciones": [
      "El Partenón",
-     "El Necromanteion",
      "El Oráculo de Dodona",
-     "El Panteón"
+     "El Panteón",
+     "El Necromanteion"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
-    "id": "hoo4-047",
+    "id": "hoo4-073",
     "nivel": "A",
     "sub": "La Casa de Hades",
     "pregunta": "¿Qué hechicera, esposa de Minos, los espera en la Casa de Hades?",
     "opciones": [
      "Medea",
-     "Circe",
      "Pasífae",
+     "Circe",
      "Ariadna"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
-    "id": "hoo4-048",
+    "id": "hoo4-074",
     "nivel": "A",
     "sub": "La Casa de Hades",
     "pregunta": "¿Cómo vence Hazel a esa hechicera?",
     "opciones": [
      "La atraviesa con su espada",
-     "La engaña con la Niebla, haciéndole creer en un laberinto falso",
      "La encierra en una piedra preciosa",
+     "La engaña con la Niebla, haciéndole creer en un laberinto falso",
      "La entrega a Hécate"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
-    "id": "hoo4-049",
+    "id": "hoo4-075",
     "nivel": "I",
     "sub": "La Casa de Hades",
     "pregunta": "¿Qué gigante está envuelto en oscuridad y fue creado para oponerse a Hécate?",
@@ -9101,7 +9699,7 @@
     "correcta": "b"
    },
    {
-    "id": "hoo4-050",
+    "id": "hoo4-076",
     "nivel": "A",
     "sub": "La Casa de Hades",
     "pregunta": "¿Qué tiene de peligroso la oscuridad de Clitio?",
@@ -9114,46 +9712,46 @@
     "correcta": "a"
    },
    {
-    "id": "hoo4-051",
+    "id": "hoo4-077",
     "nivel": "I",
     "sub": "La Casa de Hades",
     "pregunta": "¿Quién llega a tiempo a la Casa de Hades tras su viaje a Ogigia?",
     "opciones": [
      "Jason",
      "Nico",
-     "Frank",
-     "Leo"
+     "Leo",
+     "Frank"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
-    "id": "hoo4-052",
+    "id": "hoo4-078",
     "nivel": "I",
     "sub": "La Casa de Hades",
     "pregunta": "¿Qué deben hacer en el lado mortal de las Puertas de la Muerte?",
     "opciones": [
-     "Cortar las cadenas que las sujetan",
      "Abrirlas de una patada",
      "Quemarlas",
-     "Rezar a Tánatos"
+     "Rezar a Tánatos",
+     "Cortar las cadenas que las sujetan"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
-    "id": "hoo4-053",
+    "id": "hoo4-079",
     "nivel": "B",
     "sub": "La Casa de Hades",
     "pregunta": "¿Quiénes salen por las Puertas de la Muerte al final?",
     "opciones": [
-     "Bob y Damasén",
      "Percy y Annabeth",
+     "Bob y Damasén",
      "Nico y Bianca",
      "Luke y Ethan"
     ],
-    "correcta": "b"
+    "correcta": "a"
    },
    {
-    "id": "hoo4-054",
+    "id": "hoo4-080",
     "nivel": "I",
     "sub": "La Casa de Hades",
     "pregunta": "¿Quién llega a Grecia volando en su pegaso al final del libro?",
@@ -9166,33 +9764,33 @@
     "correcta": "a"
    },
    {
-    "id": "hoo4-055",
+    "id": "hoo4-081",
     "nivel": "E",
     "sub": "La Casa de Hades",
     "pregunta": "¿Cómo se llama el pegaso de Reyna?",
     "opciones": [
      "Blackjack",
-     "Arión",
      "Escipión",
+     "Arión",
      "Guido"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
-    "id": "hoo4-056",
+    "id": "hoo4-082",
     "nivel": "A",
     "sub": "La Casa de Hades",
     "pregunta": "¿Quiénes se encargarán de llevar la Atenea Partenos al Campamento Mestizo?",
     "opciones": [
      "Percy, Annabeth y Leo",
      "Jason, Piper y Frank",
-     "Hazel, Frank y Reyna",
-     "Reyna, Nico y el entrenador Hedge"
+     "Reyna, Nico y el entrenador Hedge",
+     "Hazel, Frank y Reyna"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
-    "id": "hoo4-057",
+    "id": "hoo4-083",
     "nivel": "A",
     "sub": "La Casa de Hades",
     "pregunta": "¿Cómo planean transportar la estatua?",
@@ -9205,43 +9803,69 @@
     "correcta": "d"
    },
    {
-    "id": "hoo4-058",
+    "id": "hoo4-084",
     "nivel": "I",
     "sub": "La Casa de Hades",
     "pregunta": "¿Qué le cuesta a Nico viajar por las sombras tan seguido?",
     "opciones": [
      "Envejece años",
-     "Pierde la memoria",
      "Lo debilita y empieza a desvanecerse",
+     "Pierde la memoria",
      "Atrae a las Furias"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
-    "id": "hoo4-059",
+    "id": "hoo4-085",
     "nivel": "A",
     "sub": "La Casa de Hades",
     "pregunta": "¿Qué diosa ayuda a Hazel y Leo a vencer a Clitio?",
     "opciones": [
      "Atenea",
-     "Hécate",
      "Némesis",
+     "Hécate",
      "Juno"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo4-086",
+    "nivel": "A",
+    "sub": "La Casa de Hades",
+    "pregunta": "Cuando Nico invoca la legión fantasma con el cetro de Diocleciano, ¿a quién terminan obedeciendo los muertos?",
+    "opciones": [
+     "Jason",
+     "Nico",
+     "Hazel",
+     "Frank"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo4-087",
+    "nivel": "A",
+    "sub": "La Casa de Hades",
+    "pregunta": "¿Qué dios se le aparece a Hazel para advertirle sobre Pasífae?",
+    "opciones": [
+     "Hécate",
+     "Plutón, su padre",
+     "Marte",
+     "Jano"
     ],
     "correcta": "b"
    },
    {
-    "id": "hoo4-060",
-    "nivel": "A",
+    "id": "hoo4-088",
+    "nivel": "I",
     "sub": "La Casa de Hades",
-    "pregunta": "¿Quién usa el cetro de Diocleciano para comandar a los legionarios muertos en Epiro?",
+    "pregunta": "¿Qué le pasó a Escipión, el pegaso de Reyna, al llegar al Argo II?",
     "opciones": [
-     "Frank",
-     "Jason",
-     "Nico",
-     "Hazel"
+     "Escapó volando",
+     "Se convirtió en constelación",
+     "Se desplomó envenenado por las garras de un grifo, y Reyna tuvo que dejarlo descansar",
+     "Lo capturó Orión"
     ],
-    "correcta": "a"
+    "correcta": "c"
    }
   ]
  },
@@ -9259,11 +9883,11 @@
     "pregunta": "¿Qué deben llevar Reyna, Nico y el entrenador Hedge al Campamento Mestizo?",
     "opciones": [
      "El Vellocino de Oro",
-     "La Atenea Partenos",
      "Las Puertas de la Muerte",
+     "La Atenea Partenos",
      "El águila de la legión"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
     "id": "hoo5-002",
@@ -9271,12 +9895,12 @@
     "sub": "La estatua viaja al oeste",
     "pregunta": "¿Qué gigante cazador persigue a Reyna, Nico y Hedge?",
     "opciones": [
+     "Orión",
      "Polibotes",
      "Clitio",
-     "Orión",
      "Alcioneo"
     ],
-    "correcta": "c"
+    "correcta": "a"
    },
    {
     "id": "hoo5-003",
@@ -9295,69 +9919,56 @@
     "id": "hoo5-004",
     "nivel": "I",
     "sub": "La estatua viaja al oeste",
-    "pregunta": "¿Qué le pasa a Escipión, el pegaso de Reyna?",
-    "opciones": [
-     "Se escapa al Olimpo",
-     "Lo captura Orión",
-     "Queda envenenado y Reyna tiene que dejarlo descansar para siempre",
-     "Se convierte en constelación"
-    ],
-    "correcta": "c"
-   },
-   {
-    "id": "hoo5-005",
-    "nivel": "I",
-    "sub": "La estatua viaja al oeste",
     "pregunta": "¿De dónde es Reyna?",
     "opciones": [
-     "De San Juan, Puerto Rico",
      "De Ciudad de México",
+     "De San Juan, Puerto Rico",
      "De Roma",
      "De Miami"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
-    "id": "hoo5-006",
+    "id": "hoo5-005",
     "nivel": "A",
     "sub": "La estatua viaja al oeste",
     "pregunta": "¿Qué le pasó al padre de Reyna?",
     "opciones": [
-     "Se volvió loco y su fantasma quedó atrapado en la casa familiar",
      "Murió en una guerra romana",
      "Se unió a Gea",
-     "Vive en Nueva Roma"
+     "Vive en Nueva Roma",
+     "Se volvió loco y su fantasma quedó atrapado en la casa familiar"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
-    "id": "hoo5-007",
+    "id": "hoo5-006",
     "nivel": "I",
     "sub": "La estatua viaja al oeste",
     "pregunta": "¿Quién envía Octavio a cazar a Reyna?",
     "opciones": [
      "Dakota",
-     "Bryce Lawrence",
      "Michael Varus",
+     "Bryce Lawrence",
      "Ethan Nakamura"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
-    "id": "hoo5-008",
+    "id": "hoo5-007",
     "nivel": "A",
     "sub": "La estatua viaja al oeste",
     "pregunta": "¿De qué dios es hijo Bryce Lawrence?",
     "opciones": [
      "Marte",
+     "Orco",
      "Plutón",
-     "Némesis",
-     "Orco"
+     "Némesis"
     ],
-    "correcta": "d"
+    "correcta": "b"
    },
    {
-    "id": "hoo5-009",
+    "id": "hoo5-008",
     "nivel": "A",
     "sub": "La estatua viaja al oeste",
     "pregunta": "¿Qué le hace Nico a Bryce Lawrence?",
@@ -9370,46 +9981,46 @@
     "correcta": "b"
    },
    {
-    "id": "hoo5-010",
+    "id": "hoo5-009",
     "nivel": "I",
     "sub": "La estatua viaja al oeste",
     "pregunta": "¿Quiénes ayudan a Reyna y Nico contra Orión?",
     "opciones": [
      "Los Ponis de Fiesta",
      "Los cíclopes de Tyson",
-     "La Quinta Cohorte",
-     "Las Cazadoras de Artemisa"
+     "Las Cazadoras de Artemisa",
+     "La Quinta Cohorte"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo5-010",
+    "nivel": "B",
+    "sub": "La estatua viaja al oeste",
+    "pregunta": "¿Qué hijo de Apolo cuida a Nico y le prohíbe viajar por las sombras?",
+    "opciones": [
+     "Michael Yew",
+     "Lee Fletcher",
+     "Austin",
+     "Will Solace"
     ],
     "correcta": "d"
    },
    {
     "id": "hoo5-011",
-    "nivel": "B",
-    "sub": "La estatua viaja al oeste",
-    "pregunta": "¿Qué hijo de Apolo cuida a Nico y le prohíbe viajar por las sombras?",
-    "opciones": [
-     "Will Solace",
-     "Michael Yew",
-     "Lee Fletcher",
-     "Austin"
-    ],
-    "correcta": "a"
-   },
-   {
-    "id": "hoo5-012",
     "nivel": "I",
     "sub": "La estatua viaja al oeste",
     "pregunta": "¿Qué relación empiezan Nico y Will?",
     "opciones": [
      "Son medio hermanos",
-     "Una relación romántica",
      "Son rivales",
-     "Will es su tutor"
+     "Will es su tutor",
+     "Una relación romántica"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
-    "id": "hoo5-013",
+    "id": "hoo5-012",
     "nivel": "I",
     "sub": "La estatua viaja al oeste",
     "pregunta": "¿Qué noticia feliz trae el entrenador Hedge al final?",
@@ -9422,33 +10033,33 @@
     "correcta": "b"
    },
    {
-    "id": "hoo5-014",
-    "nivel": "E",
+    "id": "hoo5-013",
+    "nivel": "A",
     "sub": "La estatua viaja al oeste",
-    "pregunta": "¿Cómo llaman al bebé de Hedge y Mellie, en honor a un héroe caído?",
+    "pregunta": "¿Cómo se llama el bebé de Hedge y Mellie?",
     "opciones": [
-     "Chuck (Charles Beckendorf Hedge)",
+     "Chuck",
      "Luke",
-     "Silena",
-     "Lee"
+     "Gleeson Junior",
+     "Pan"
     ],
     "correcta": "a"
    },
    {
-    "id": "hoo5-015",
+    "id": "hoo5-014",
     "nivel": "A",
     "sub": "La estatua viaja al oeste",
     "pregunta": "¿Dónde colocan la Atenea Partenos al llegar?",
     "opciones": [
-     "En la Colina Mestiza",
      "Dentro de la Casa Grande",
+     "En la Colina Mestiza",
      "En el centro de Nueva Roma",
      "En el lago"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
-    "id": "hoo5-016",
+    "id": "hoo5-015",
     "nivel": "A",
     "sub": "La estatua viaja al oeste",
     "pregunta": "¿Qué efecto tiene la estatua al llegar?",
@@ -9461,7 +10072,7 @@
     "correcta": "c"
    },
    {
-    "id": "hoo5-017",
+    "id": "hoo5-016",
     "nivel": "E",
     "sub": "La estatua viaja al oeste",
     "pregunta": "¿Cuál es el nombre completo de Reyna?",
@@ -9474,20 +10085,20 @@
     "correcta": "a"
    },
    {
-    "id": "hoo5-018",
+    "id": "hoo5-017",
     "nivel": "A",
     "sub": "La estatua viaja al oeste",
     "pregunta": "¿Qué poder tiene Reyna como hija de Belona?",
     "opciones": [
+     "Puede transmitir su fuerza a otros",
      "Puede ver el futuro",
      "Puede invocar armaduras",
-     "Puede volverse invisible",
-     "Puede transmitir su fuerza a otros"
+     "Puede volverse invisible"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
-    "id": "hoo5-019",
+    "id": "hoo5-018",
     "nivel": "B",
     "sub": "La estatua viaja al oeste",
     "pregunta": "¿Qué hace especialmente bien Will Solace?",
@@ -9500,7 +10111,124 @@
     "correcta": "d"
    },
    {
+    "id": "hoo5-019",
+    "nivel": "I",
+    "sub": "La estatua viaja al oeste",
+    "pregunta": "¿Dónde aterrizan Reyna, Nico y Hedge en su primer viaje por las sombras?",
+    "opciones": [
+     "En Roma",
+     "En Pompeya, junto al Vesubio",
+     "En Madrid",
+     "En Atenas"
+    ],
+    "correcta": "b"
+   },
+   {
     "id": "hoo5-020",
+    "nivel": "E",
+    "sub": "La estatua viaja al oeste",
+    "pregunta": "¿En qué lugar de Nueva Roma empieza Reyna sus sueños para controlarlos?",
+    "opciones": [
+     "En el templo de Belona",
+     "En el Jardín de Baco",
+     "En la Casa del Senado",
+     "En el foro"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo5-021",
+    "nivel": "A",
+    "sub": "La estatua viaja al oeste",
+    "pregunta": "¿Por qué Bryce Lawrence había sido expulsado de la legión?",
+    "opciones": [
+     "Por robar el águila",
+     "Por desertar",
+     "Por traicionar a Reyna",
+     "Por matar a su propio centurión"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo5-022",
+    "nivel": "A",
+    "sub": "La estatua viaja al oeste",
+    "pregunta": "¿Qué le pasa a Nico tras desatar su ira contra Bryce?",
+    "opciones": [
+     "Pierde la memoria",
+     "Se convierte en fantasma",
+     "Recupera toda su fuerza",
+     "Queda casi sin sustancia y pasa tres días inconsciente"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo5-023",
+    "nivel": "I",
+    "sub": "La estatua viaja al oeste",
+    "pregunta": "¿Qué cazadora veterana pelea junto a Reyna en Puerto Rico?",
+    "opciones": [
+     "Thalia",
+     "Zoë",
+     "Phoebe",
+     "Bianca"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo5-024",
+    "nivel": "A",
+    "sub": "La estatua viaja al oeste",
+    "pregunta": "¿Por qué Orión fue expulsado de la cacería de Artemisa?",
+    "opciones": [
+     "Se enamoró de Artemisa",
+     "Mató a una cazadora",
+     "Robó el arco de Apolo",
+     "Traicionó a Zeus"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo5-025",
+    "nivel": "A",
+    "sub": "La estatua viaja al oeste",
+    "pregunta": "¿Qué famoso caballo alado lleva a Reyna al Campamento Mestizo?",
+    "opciones": [
+     "Blackjack",
+     "Arión",
+     "Pegaso, el señor de los caballos voladores",
+     "Escipión"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo5-026",
+    "nivel": "A",
+    "sub": "La estatua viaja al oeste",
+    "pregunta": "¿Quién vence finalmente a Orión?",
+    "opciones": [
+     "Thalia",
+     "Artemisa",
+     "Nico",
+     "Reyna"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo5-027",
+    "nivel": "I",
+    "sub": "La estatua viaja al oeste",
+    "pregunta": "¿Qué pegaso resulta herido por una flecha de Orión y Reyna lo cura?",
+    "opciones": [
+     "Pegaso",
+     "Escipión",
+     "Blackjack",
+     "Guido"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo5-028",
     "nivel": "I",
     "sub": "El Argo II en Grecia",
     "pregunta": "¿Qué casa legendaria visitan Jason y Piper en Ítaca?",
@@ -9513,20 +10241,20 @@
     "correcta": "c"
    },
    {
-    "id": "hoo5-021",
+    "id": "hoo5-029",
     "nivel": "A",
     "sub": "El Argo II en Grecia",
     "pregunta": "¿Qué descubren en Ítaca sobre el plan de Gea?",
     "opciones": [
+     "Necesita la sangre de un semidiós y una semidiosa para despertar",
      "Quiere hundir Grecia",
      "Planea liberar a Cronos",
-     "Necesita la sangre de un semidiós y una semidiosa para despertar",
      "Busca la Atenea Partenos"
     ],
-    "correcta": "c"
+    "correcta": "a"
    },
    {
-    "id": "hoo5-022",
+    "id": "hoo5-030",
     "nivel": "E",
     "sub": "El Argo II en Grecia",
     "pregunta": "¿Qué antiguo centurión romano aparece entre los fantasmas de Ítaca?",
@@ -9539,20 +10267,20 @@
     "correcta": "d"
    },
    {
-    "id": "hoo5-023",
+    "id": "hoo5-031",
     "nivel": "A",
     "sub": "El Argo II en Grecia",
     "pregunta": "¿Qué diosa menor de las tormentas marinas, hija de Poseidón, convencen de ayudarlos?",
     "opciones": [
      "Anfitrite",
+     "Cimopolea",
      "Tetis",
-     "Ceto",
-     "Cimopolea"
+     "Ceto"
     ],
-    "correcta": "d"
+    "correcta": "b"
    },
    {
-    "id": "hoo5-024",
+    "id": "hoo5-032",
     "nivel": "I",
     "sub": "El Argo II en Grecia",
     "pregunta": "¿Qué diosa de la victoria capturan en Olimpia?",
@@ -9565,137 +10293,137 @@
     "correcta": "c"
    },
    {
-    "id": "hoo5-025",
+    "id": "hoo5-033",
     "nivel": "A",
     "sub": "El Argo II en Grecia",
     "pregunta": "¿Por qué Nike está tan alterada?",
     "opciones": [
      "Gea la envenenó",
      "Perdió su corona",
-     "Está dividida entre su forma griega y la romana, Victoria",
-     "Hércules la humilló"
-    ],
-    "correcta": "c"
-   },
-   {
-    "id": "hoo5-026",
-    "nivel": "B",
-    "sub": "El Argo II en Grecia",
-    "pregunta": "¿Qué dios de la medicina tiene la cura del médico?",
-    "opciones": [
-     "Apolo",
-     "Asclepio",
-     "Hermes",
-     "Quirón"
-    ],
-    "correcta": "b"
-   },
-   {
-    "id": "hoo5-027",
-    "nivel": "A",
-    "sub": "El Argo II en Grecia",
-    "pregunta": "¿Dónde está el templo de Asclepio que visitan?",
-    "opciones": [
-     "En Epidauro",
-     "En Delfos",
-     "En Esparta",
-     "En Delos"
-    ],
-    "correcta": "a"
-   },
-   {
-    "id": "hoo5-028",
-    "nivel": "I",
-    "sub": "El Argo II en Grecia",
-    "pregunta": "¿Para qué sirve la cura del médico?",
-    "opciones": [
-     "Para devolver a la vida a alguien que acaba de morir",
-     "Para curar la locura",
-     "Para volver inmortal",
-     "Para borrar maldiciones"
-    ],
-    "correcta": "a"
-   },
-   {
-    "id": "hoo5-029",
-    "nivel": "I",
-    "sub": "El Argo II en Grecia",
-    "pregunta": "¿En qué isla se esconde Apolo, avergonzado?",
-    "opciones": [
-     "Creta",
-     "Ítaca",
-     "Rodas",
-     "Delos"
+     "Hércules la humilló",
+     "Está dividida entre su forma griega y la romana, Victoria"
     ],
     "correcta": "d"
    },
    {
-    "id": "hoo5-030",
-    "nivel": "A",
+    "id": "hoo5-034",
+    "nivel": "B",
     "sub": "El Argo II en Grecia",
-    "pregunta": "¿Qué espíritus de la batalla encuentran en Esparta?",
+    "pregunta": "¿Qué dios de la medicina tiene la cura del médico?",
     "opciones": [
-     "Los makhai",
-     "Las keres",
-     "Las furias",
-     "Los lares"
+     "Asclepio",
+     "Apolo",
+     "Hermes",
+     "Quirón"
     ],
     "correcta": "a"
    },
    {
-    "id": "hoo5-031",
+    "id": "hoo5-035",
+    "nivel": "A",
+    "sub": "El Argo II en Grecia",
+    "pregunta": "¿Dónde está el templo de Asclepio que visitan?",
+    "opciones": [
+     "En Delfos",
+     "En Esparta",
+     "En Delos",
+     "En Epidauro"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo5-036",
+    "nivel": "I",
+    "sub": "El Argo II en Grecia",
+    "pregunta": "¿Para qué sirve la cura del médico?",
+    "opciones": [
+     "Para curar la locura",
+     "Para devolver a la vida a alguien que acaba de morir",
+     "Para volver inmortal",
+     "Para borrar maldiciones"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo5-037",
+    "nivel": "I",
+    "sub": "El Argo II en Grecia",
+    "pregunta": "¿En qué isla se esconde Apolo, avergonzado?",
+    "opciones": [
+     "Delos",
+     "Creta",
+     "Ítaca",
+     "Rodas"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo5-038",
+    "nivel": "A",
+    "sub": "El Argo II en Grecia",
+    "pregunta": "¿Qué espíritus de la batalla encuentran en Esparta?",
+    "opciones": [
+     "Las keres",
+     "Los makhai",
+     "Las furias",
+     "Los lares"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo5-039",
     "nivel": "I",
     "sub": "El Argo II en Grecia",
     "pregunta": "¿Por qué Apolo está avergonzado en este libro?",
     "opciones": [
      "Porque perdió el carro del sol",
-     "Porque animó a su descendiente Octavio, que ahora ataca a los griegos",
      "Porque Zeus le quitó el arco",
-     "Porque Gea lo engañó"
+     "Porque Gea lo engañó",
+     "Porque animó a su descendiente Octavio, que ahora ataca a los griegos"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
-    "id": "hoo5-032",
+    "id": "hoo5-040",
     "nivel": "I",
     "sub": "El Argo II en Grecia",
     "pregunta": "¿Por qué los dioses no pueden ayudar al principio del libro?",
     "opciones": [
      "Están encerrados en el Tártaro",
      "Zeus les prohibió intervenir",
-     "Están dormidos",
-     "Están divididos entre sus formas griega y romana"
+     "Están divididos entre sus formas griega y romana",
+     "Están dormidos"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
-    "id": "hoo5-033",
+    "id": "hoo5-041",
     "nivel": "I",
     "sub": "El Argo II en Grecia",
     "pregunta": "¿A qué hace referencia \"la sangre del Olimpo\"?",
     "opciones": [
-     "La sangre de semidioses que Gea necesita para despertar",
      "El icor de los dioses",
      "El vino de Dioniso",
-     "El río Flegetonte"
+     "El río Flegetonte",
+     "La sangre de semidioses que Gea necesita para despertar"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
-    "id": "hoo5-034",
+    "id": "hoo5-042",
     "nivel": "A",
     "sub": "El Argo II en Grecia",
     "pregunta": "¿Qué le pasa a Jason en Ítaca?",
     "opciones": [
      "Pierde la memoria otra vez",
-     "Lo hieren con una espada de oro imperial",
      "Lo poseen los eidolones",
+     "Lo hieren con una espada de oro imperial",
      "Se queda ciego"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
-    "id": "hoo5-035",
+    "id": "hoo5-043",
     "nivel": "I",
     "sub": "El Argo II en Grecia",
     "pregunta": "¿Quién acompaña a Apolo en Delos?",
@@ -9708,7 +10436,7 @@
     "correcta": "c"
    },
    {
-    "id": "hoo5-036",
+    "id": "hoo5-044",
     "nivel": "A",
     "sub": "El Argo II en Grecia",
     "pregunta": "¿A quiénes les cuenta Leo en secreto su plan para vencer a Gea?",
@@ -9721,20 +10449,137 @@
     "correcta": "b"
    },
    {
-    "id": "hoo5-037",
+    "id": "hoo5-045",
+    "nivel": "A",
+    "sub": "El Argo II en Grecia",
+    "pregunta": "¿Con qué disfraz entra Jason entre los pretendientes de Ítaca?",
+    "opciones": [
+     "El de un pretendiente rico",
+     "El de un sirviente de Odiseo",
+     "El de un anciano mendigo",
+     "El de un fantasma"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo5-046",
+    "nivel": "I",
+    "sub": "El Argo II en Grecia",
+    "pregunta": "¿Quién lidera a los fantasmas de los pretendientes en Ítaca?",
+    "opciones": [
+     "Michael Varus",
+     "Eurímaco",
+     "Antínoo",
+     "Odiseo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo5-047",
+    "nivel": "A",
+    "sub": "El Argo II en Grecia",
+    "pregunta": "¿A qué fantasma de su familia ve Jason en Ítaca?",
+    "opciones": [
+     "A Thalia",
+     "A su madre, Beryl Grace",
+     "A su abuelo",
+     "A Zeus"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo5-048",
+    "nivel": "A",
+    "sub": "El Argo II en Grecia",
+    "pregunta": "¿Qué tres ingredientes necesita la cura del médico, según Nike?",
+    "opciones": [
+     "Sangre de gorgona, agua del Lete y fuego de Helios",
+     "El cuerno de Aqueloo, una manzana dorada y néctar",
+     "El Vellocino, una pluma de grifo y ambrosía",
+     "El veneno de Pilos, el latido del dios encadenado en Esparta y la maldición de Delos"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "hoo5-049",
+    "nivel": "I",
+    "sub": "El Argo II en Grecia",
+    "pregunta": "¿Quiénes van a buscar el veneno a Pilos?",
+    "opciones": [
+     "Piper y Frank",
+     "Hazel y Leo",
+     "Percy y Annabeth",
+     "Jason y Nico"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo5-050",
+    "nivel": "I",
+    "sub": "El Argo II en Grecia",
+    "pregunta": "¿Qué hace la mesa Buford en el Argo II?",
+    "opciones": [
+     "Vigila como chaperón, con un holograma del entrenador Hedge",
+     "Sirve comida",
+     "Guía el barco",
+     "Guarda los mapas"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo5-051",
+    "nivel": "I",
+    "sub": "El Argo II en Grecia",
+    "pregunta": "¿Por qué Cimopolea llama \"hermano\" a Percy?",
+    "opciones": [
+     "Porque se conocieron en el mar",
+     "Por burlarse de él",
+     "Porque los dos son hijos de Poseidón",
+     "Porque los dos son semidioses"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo5-052",
+    "nivel": "E",
+    "sub": "El Argo II en Grecia",
+    "pregunta": "¿Qué instrumento rompe Apolo en Delos al oír el plan de la cura?",
+    "opciones": [
+     "Una lira",
+     "Un ukelele",
+     "Una guitarra",
+     "Una flauta"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo5-053",
+    "nivel": "A",
+    "sub": "El Argo II en Grecia",
+    "pregunta": "¿Con quiénes planea Leo en secreto su sacrificio?",
+    "opciones": [
+     "Con Jason y Piper",
+     "Con Hazel y Frank",
+     "Con Percy y Annabeth",
+     "Con Calipso"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo5-054",
     "nivel": "B",
     "sub": "La batalla final",
     "pregunta": "¿Dónde se libra la batalla contra los gigantes?",
     "opciones": [
      "En el Coliseo",
-     "En el Partenón de Atenas",
      "En el monte Olimpo",
+     "En el Partenón de Atenas",
      "En Delfos"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
-    "id": "hoo5-038",
+    "id": "hoo5-055",
     "nivel": "I",
     "sub": "La batalla final",
     "pregunta": "¿Qué hace falta para matar a un gigante?",
@@ -9747,85 +10592,85 @@
     "correcta": "d"
    },
    {
-    "id": "hoo5-039",
+    "id": "hoo5-056",
     "nivel": "A",
     "sub": "La batalla final",
     "pregunta": "¿Qué despierta finalmente a Gea?",
     "opciones": [
      "Un sacrificio de Octavio",
      "La sangre de Leo",
-     "Una gota de sangre de la nariz de Percy que cae al suelo",
-     "Un rayo de Zeus"
-    ],
-    "correcta": "c"
-   },
-   {
-    "id": "hoo5-040",
-    "nivel": "I",
-    "sub": "La batalla final",
-    "pregunta": "¿Dónde despierta Gea?",
-    "opciones": [
-     "Junto al Campamento Mestizo",
-     "En Atenas",
-     "En el Campamento Júpiter",
-     "En Alaska"
-    ],
-    "correcta": "a"
-   },
-   {
-    "id": "hoo5-041",
-    "nivel": "I",
-    "sub": "La batalla final",
-    "pregunta": "¿Quién mata al rey de los gigantes, Porfirión?",
-    "opciones": [
-     "Percy, junto a Poseidón",
-     "Annabeth, junto a Atenea",
-     "Leo, junto a Hefesto",
-     "Jason, junto a Zeus"
+     "Un rayo de Zeus",
+     "Una gota de sangre de la nariz de Percy que cae al suelo"
     ],
     "correcta": "d"
    },
    {
-    "id": "hoo5-042",
+    "id": "hoo5-057",
+    "nivel": "I",
+    "sub": "La batalla final",
+    "pregunta": "¿Dónde despierta Gea?",
+    "opciones": [
+     "En Atenas",
+     "En el Campamento Júpiter",
+     "Junto al Campamento Mestizo",
+     "En Alaska"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo5-058",
+    "nivel": "I",
+    "sub": "La batalla final",
+    "pregunta": "¿Quién mata al rey de los gigantes, Porfirión?",
+    "opciones": [
+     "Jason, junto a Zeus",
+     "Percy, junto a Poseidón",
+     "Annabeth, junto a Atenea",
+     "Leo, junto a Hefesto"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo5-059",
     "nivel": "A",
     "sub": "La batalla final",
     "pregunta": "¿Por qué Jason mantiene a Gea en el aire durante la pelea final?",
     "opciones": [
      "Para lanzarla al mar",
-     "Porque lejos de la tierra está más débil",
      "Para que Zeus la vea",
-     "Para que no escape bajo tierra hacia Roma"
+     "Para que no escape bajo tierra hacia Roma",
+     "Porque lejos de la tierra está más débil"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
-    "id": "hoo5-043",
+    "id": "hoo5-060",
     "nivel": "A",
     "sub": "La batalla final",
     "pregunta": "¿Qué hace Piper contra Gea?",
     "opciones": [
+     "La hace dormir con su voz",
      "La apuñala con Katoptris",
      "La convence de rendirse",
-     "La hace dormir con su voz",
      "La encierra en la cornucopia"
     ],
-    "correcta": "c"
+    "correcta": "a"
    },
    {
-    "id": "hoo5-044",
+    "id": "hoo5-061",
     "nivel": "B",
     "sub": "La batalla final",
     "pregunta": "¿Quién destruye finalmente a Gea?",
     "opciones": [
      "Percy, con una ola",
+     "Leo, con Festo, en una explosión de fuego",
      "Annabeth, con la Atenea Partenos",
-     "Reyna, con su lanza",
-     "Leo, con Festo, en una explosión de fuego"
+     "Reyna, con su lanza"
     ],
-    "correcta": "d"
+    "correcta": "b"
    },
    {
-    "id": "hoo5-045",
+    "id": "hoo5-062",
     "nivel": "A",
     "sub": "La batalla final",
     "pregunta": "¿Qué le pasa a Leo tras destruir a Gea?",
@@ -9838,12 +10683,12 @@
     "correcta": "d"
    },
    {
-    "id": "hoo5-046",
+    "id": "hoo5-063",
     "nivel": "A",
     "sub": "La batalla final",
     "pregunta": "¿Quién le administra la cura a Leo?",
     "opciones": [
-     "Festo, con la esfera de Arquímedes",
+     "Festo, con una inyección automática",
      "Piper",
      "Hazel",
      "Asclepio en persona"
@@ -9851,85 +10696,85 @@
     "correcta": "a"
    },
    {
-    "id": "hoo5-047",
+    "id": "hoo5-064",
     "nivel": "I",
     "sub": "La batalla final",
     "pregunta": "¿A dónde va Leo después de volver a la vida?",
     "opciones": [
      "Al Campamento Júpiter",
      "Al Olimpo",
-     "A Ogigia, a buscar a Calipso",
-     "A su casa en Houston"
+     "A su casa en Houston",
+     "A Ogigia, a buscar a Calipso"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
-    "id": "hoo5-048",
+    "id": "hoo5-065",
     "nivel": "A",
     "sub": "La batalla final",
     "pregunta": "¿Qué le pasa a Octavio al final?",
     "opciones": [
      "Lo destierra Reyna",
-     "Sale disparado enredado en su propia catapulta",
      "Lo convierten en peluche",
-     "Se une a Gea"
+     "Se une a Gea",
+     "Sale disparado enredado en su propia catapulta"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
-    "id": "hoo5-049",
+    "id": "hoo5-066",
     "nivel": "I",
     "sub": "La batalla final",
     "pregunta": "¿Quién se convierte en el nuevo pretor junto a Reyna?",
     "opciones": [
      "Percy",
+     "Frank",
      "Jason",
-     "Hazel",
-     "Frank"
+     "Hazel"
     ],
-    "correcta": "d"
+    "correcta": "b"
    },
    {
-    "id": "hoo5-050",
+    "id": "hoo5-067",
     "nivel": "A",
     "sub": "La batalla final",
     "pregunta": "¿Qué decide hacer Jason después de la guerra?",
     "opciones": [
+     "Construir santuarios para todos los dioses menores",
      "Volver a ser pretor",
      "Unirse a las Cazadoras",
-     "Construir santuarios para todos los dioses menores",
      "Vivir en el Olimpo"
-    ],
-    "correcta": "c"
-   },
-   {
-    "id": "hoo5-051",
-    "nivel": "I",
-    "sub": "La batalla final",
-    "pregunta": "¿Qué planean Percy y Annabeth para su futuro?",
-    "opciones": [
-     "Ir a la universidad en Nueva Roma",
-     "Quedarse para siempre en el campamento",
-     "Volverse dioses",
-     "Unirse a la legión"
     ],
     "correcta": "a"
    },
    {
-    "id": "hoo5-052",
+    "id": "hoo5-068",
+    "nivel": "I",
+    "sub": "La batalla final",
+    "pregunta": "¿Qué planean Percy y Annabeth para su futuro?",
+    "opciones": [
+     "Quedarse para siempre en el campamento",
+     "Volverse dioses",
+     "Ir a la universidad en Nueva Roma",
+     "Unirse a la legión"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo5-069",
     "nivel": "I",
     "sub": "La batalla final",
     "pregunta": "¿Dónde decide quedarse Nico al final?",
     "opciones": [
+     "En el Campamento Mestizo",
      "En el Inframundo",
      "En Nueva Roma",
-     "Con las Cazadoras",
-     "En el Campamento Mestizo"
+     "Con las Cazadoras"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
-    "id": "hoo5-053",
+    "id": "hoo5-070",
     "nivel": "I",
     "sub": "La batalla final",
     "pregunta": "¿Quién aparece volando en el epílogo?",
@@ -9942,41 +10787,132 @@
     "correcta": "b"
    },
    {
-    "id": "hoo5-054",
+    "id": "hoo5-071",
     "nivel": "A",
     "sub": "La batalla final",
     "pregunta": "¿Qué usa Octavio para atacar el Campamento Mestizo?",
     "opciones": [
      "Elefantes de guerra",
      "Un ejército de lares",
-     "Catapultas (onagros) cargadas de fuego",
-     "Las Puertas de la Muerte"
+     "Las Puertas de la Muerte",
+     "Catapultas (onagros) cargadas de fuego"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
-    "id": "hoo5-055",
+    "id": "hoo5-072",
     "nivel": "I",
     "sub": "La batalla final",
     "pregunta": "¿Quién ayuda a defender el Campamento Mestizo además de los campistas?",
     "opciones": [
+     "Los romanos, cuando se ponen del lado de Reyna",
      "Los titanes",
      "Los gigantes pacíficos",
-     "Los romanos, cuando se ponen del lado de Reyna",
      "Los cíclopes de Polifemo"
     ],
-    "correcta": "c"
+    "correcta": "a"
    },
    {
-    "id": "hoo5-056",
+    "id": "hoo5-073",
     "nivel": "A",
     "sub": "La batalla final",
     "pregunta": "¿Qué título se autoproclama Octavio?",
     "opciones": [
-     "Pontífice máximo",
      "Emperador",
+     "Pontífice máximo",
      "Pretor único",
      "Augur supremo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo5-074",
+    "nivel": "A",
+    "sub": "La batalla final",
+    "pregunta": "¿En qué fecha planea despertar Gea?",
+    "opciones": [
+     "El 1 de agosto",
+     "El 21 de junio",
+     "El 12 de julio",
+     "El 18 de agosto"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo5-075",
+    "nivel": "A",
+    "sub": "La batalla final",
+    "pregunta": "¿Qué rey mitad serpiente guía a los semidioses por las alcantarillas de Atenas?",
+    "opciones": [
+     "Cécrope",
+     "Erictonio",
+     "Teseo",
+     "Minos"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo5-076",
+    "nivel": "E",
+    "sub": "La batalla final",
+    "pregunta": "¿Con qué lleva trenzado el pelo Porfirión?",
+    "opciones": [
+     "Con serpientes",
+     "Con huesos de dragón",
+     "Con armas de semidioses muertos",
+     "Con oro imperial"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo5-077",
+    "nivel": "A",
+    "sub": "La batalla final",
+    "pregunta": "¿Cómo manda Zeus el Argo II hacia el Campamento Mestizo?",
+    "opciones": [
+     "Lo lleva en su carro",
+     "Lo lanza de un remate, como una pelota de vóleibol",
+     "Abre un portal",
+     "Le presta sus águilas"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "hoo5-078",
+    "nivel": "A",
+    "sub": "La batalla final",
+    "pregunta": "¿Quiénes acompañan a Nico a sabotear los onagros romanos?",
+    "opciones": [
+     "Percy y Annabeth",
+     "Reyna y Hedge",
+     "Will, Cecil y Lou Ellen",
+     "Los Stoll"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "hoo5-079",
+    "nivel": "I",
+    "sub": "La batalla final",
+    "pregunta": "¿Con quién comparte Nico la cabaña de Hades al final?",
+    "opciones": [
+     "Con Hazel",
+     "Con Will",
+     "Con Reyna",
+     "Con nadie"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "hoo5-080",
+    "nivel": "I",
+    "sub": "La batalla final",
+    "pregunta": "¿Quién es la segunda al mando de Piper en la cabaña de Afrodita?",
+    "opciones": [
+     "Drew Tanaka",
+     "Lacy",
+     "Silena",
+     "Mitchell"
     ],
     "correcta": "a"
    }
@@ -9995,12 +10931,12 @@
     "sub": "La caída de un dios",
     "pregunta": "¿Quién castiga a Apolo convirtiéndolo en mortal?",
     "opciones": [
+     "Zeus, su padre",
      "Hera",
      "Hades",
-     "Las Moiras",
-     "Zeus, su padre"
+     "Las Moiras"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
     "id": "toa1-002",
@@ -10048,11 +10984,11 @@
     "pregunta": "¿Por qué Zeus castiga a Apolo?",
     "opciones": [
      "Por perder el carro del sol",
-     "Por enamorarse de una mortal",
      "Lo culpa de haber animado a Octavio, su descendiente, en la guerra contra Gea",
+     "Por enamorarse de una mortal",
      "Por robarle el rayo"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
     "id": "toa1-006",
@@ -10062,10 +10998,10 @@
     "opciones": [
      "Es musculoso y atlético",
      "Brilla como el sol",
-     "Tiene acné, está fuera de forma y es torpe",
-     "Tiene alas"
+     "Tiene alas",
+     "Tiene acné, está fuera de forma y es torpe"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
     "id": "toa1-007",
@@ -10073,12 +11009,12 @@
     "sub": "La caída de un dios",
     "pregunta": "¿Quién rescata a Apolo de unos matones en el callejón?",
     "opciones": [
-     "Meg McCaffrey",
      "Percy Jackson",
      "Rachel Dare",
-     "Will Solace"
+     "Will Solace",
+     "Meg McCaffrey"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
     "id": "toa1-008",
@@ -10088,10 +11024,10 @@
     "opciones": [
      "Con una espada",
      "Con piedras",
-     "Con un bate",
-     "Con fruta podrida"
+     "Con fruta podrida",
+     "Con un bate"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
     "id": "toa1-009",
@@ -10113,11 +11049,11 @@
     "pregunta": "¿Qué relación queda entre Meg y Apolo?",
     "opciones": [
      "Ella se vuelve su sacerdotisa",
-     "Son hermanos",
      "Él queda obligado a servirla mientras dure su castigo",
+     "Son hermanos",
      "Ella es su guardaespaldas pagada"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
     "id": "toa1-011",
@@ -10126,11 +11062,11 @@
     "pregunta": "¿De qué diosa es hija Meg?",
     "opciones": [
      "Perséfone",
+     "Deméter",
      "Hécate",
-     "Artemisa",
-     "Deméter"
+     "Artemisa"
     ],
-    "correcta": "d"
+    "correcta": "b"
    },
    {
     "id": "toa1-012",
@@ -10140,10 +11076,10 @@
     "opciones": [
      "Dos dagas de bronce",
      "Un arco y una flecha",
-     "Una lanza",
-     "Dos hoces de oro imperial"
+     "Dos hoces de oro imperial",
+     "Una lanza"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
     "id": "toa1-013",
@@ -10152,11 +11088,11 @@
     "pregunta": "¿Qué tipo de criatura es Melocotones, el compañero de Meg?",
     "opciones": [
      "Una dríade",
-     "Un sátiro",
      "Un karpos, un espíritu de los cereales",
+     "Un sátiro",
      "Un perro del infierno"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
     "id": "toa1-014",
@@ -10164,12 +11100,12 @@
     "sub": "La caída de un dios",
     "pregunta": "¿Cuándo aparece Melocotones?",
     "opciones": [
+     "Cuando Meg está en peligro",
      "Cuando alguien dice su nombre",
      "Solo de noche",
-     "Cuando Meg está en peligro",
      "Cuando Apolo canta"
     ],
-    "correcta": "c"
+    "correcta": "a"
    },
    {
     "id": "toa1-015",
@@ -10177,12 +11113,12 @@
     "sub": "La caída de un dios",
     "pregunta": "¿A casa de quién van primero Apolo y Meg en Nueva York?",
     "opciones": [
-     "De Percy Jackson",
      "De Rachel Dare",
      "De Annabeth",
-     "De Nico"
+     "De Nico",
+     "De Percy Jackson"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
     "id": "toa1-016",
@@ -10190,67 +11126,158 @@
     "sub": "La caída de un dios",
     "pregunta": "¿Qué espíritus de la enfermedad los atacan camino al campamento?",
     "opciones": [
-     "Los nosoi",
      "Las keres",
      "Las arai",
-     "Los makhai"
+     "Los makhai",
+     "Los nosoi"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-017",
+    "nivel": "A",
+    "sub": "La caída de un dios",
+    "pregunta": "¿Cómo se llaman los matones que golpean a Apolo en el callejón?",
+    "opciones": [
+     "Cade y Mikey",
+     "Travis y Connor",
+     "Bobby y Matthew",
+     "Sherman y Harley"
     ],
     "correcta": "a"
    },
    {
-    "id": "toa1-017",
+    "id": "toa1-018",
+    "nivel": "I",
+    "sub": "La caída de un dios",
+    "pregunta": "¿Qué le deja Meg a Apolo en la billetera después de quitarle el dinero?",
+    "opciones": [
+     "Una moneda de oro",
+     "Una nota de disculpa",
+     "Una semilla",
+     "Solo su licencia de conducir de aprendiz"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-019",
+    "nivel": "A",
+    "sub": "La caída de un dios",
+    "pregunta": "¿Qué sella el vínculo de servicio entre Meg y Apolo?",
+    "opciones": [
+     "Un apretón de manos",
+     "Un trueno",
+     "Un juramento sobre el Estigio",
+     "Un beso en la frente"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-020",
+    "nivel": "I",
+    "sub": "La caída de un dios",
+    "pregunta": "¿Qué noticia familiar le cuenta Percy a Apolo?",
+    "opciones": [
+     "Que se va a casar",
+     "Que se muda a California",
+     "Que su madre está embarazada de una niña",
+     "Que Tyson vive con ellos"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-021",
+    "nivel": "A",
+    "sub": "La caída de un dios",
+    "pregunta": "¿A qué rey tuvo que servir Apolo como castigo en el pasado?",
+    "opciones": [
+     "Admeto, rey de Tesalia",
+     "Minos, rey de Creta",
+     "Midas, rey de Frigia",
+     "Príamo, rey de Troya"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-022",
+    "nivel": "A",
+    "sub": "La caída de un dios",
+    "pregunta": "¿Por qué Zeus castigó así a Apolo aquella vez?",
+    "opciones": [
+     "Por robar el carro del sol",
+     "Por matar a los cíclopes que forjaron el rayo que mató a uno de sus hijos",
+     "Por desafiar a Hera",
+     "Por enamorarse de una ninfa"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-023",
+    "nivel": "I",
+    "sub": "La caída de un dios",
+    "pregunta": "¿Por qué Meg llama \"Melocotones\" al karpos?",
+    "opciones": [
+     "Porque huele a durazno",
+     "Porque es lo único que dice",
+     "Porque nació de un árbol de su casa",
+     "Porque así se llamaba su perro"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-024",
     "nivel": "I",
     "sub": "El Campamento Mestizo",
     "pregunta": "¿Qué problema tiene el campamento cuando llega Apolo?",
     "opciones": [
      "Lo ocupó el ejército romano",
      "Se secó el lago",
-     "Quirón desapareció",
-     "Fallan las comunicaciones y desaparecen campistas en el bosque"
+     "Fallan las comunicaciones y desaparecen campistas en el bosque",
+     "Quirón desapareció"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
-    "id": "toa1-018",
+    "id": "toa1-025",
     "nivel": "I",
     "sub": "El Campamento Mestizo",
     "pregunta": "¿Qué le pasa a Rachel, el Oráculo?",
     "opciones": [
      "Perdió la vista",
      "Se fue con las Cazadoras",
-     "No puede pronunciar profecías",
-     "Se volvió loca"
+     "Se volvió loca",
+     "No puede pronunciar profecías"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
-    "id": "toa1-019",
+    "id": "toa1-026",
     "nivel": "A",
     "sub": "El Campamento Mestizo",
     "pregunta": "¿Qué monstruo ocupa Delfos, el oráculo de Apolo?",
     "opciones": [
-     "Pitón",
      "La Hidra",
+     "Pitón",
      "Equidna",
      "Tifón"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
-    "id": "toa1-020",
+    "id": "toa1-027",
     "nivel": "I",
     "sub": "El Campamento Mestizo",
     "pregunta": "¿Qué hijos de Apolo desaparecieron del campamento?",
     "opciones": [
      "Will y Lee",
-     "Kayla y Austin",
      "Michael y Will",
-     "Lee y Austin"
+     "Lee y Austin",
+     "Kayla y Austin"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
-    "id": "toa1-021",
+    "id": "toa1-028",
     "nivel": "I",
     "sub": "El Campamento Mestizo",
     "pregunta": "¿Qué juramento hace Apolo al principio y luego rompe?",
@@ -10263,7 +11290,7 @@
     "correcta": "b"
    },
    {
-    "id": "toa1-022",
+    "id": "toa1-029",
     "nivel": "A",
     "sub": "El Campamento Mestizo",
     "pregunta": "¿Por qué rompe Apolo su juramento?",
@@ -10276,7 +11303,7 @@
     "correcta": "a"
    },
    {
-    "id": "toa1-023",
+    "id": "toa1-030",
     "nivel": "I",
     "sub": "El Campamento Mestizo",
     "pregunta": "¿Qué criaturas parecidas a hormigas gigantes secuestran a Meg?",
@@ -10289,72 +11316,72 @@
     "correcta": "a"
    },
    {
-    "id": "toa1-024",
+    "id": "toa1-031",
     "nivel": "I",
     "sub": "El Campamento Mestizo",
     "pregunta": "¿Qué diosa titánide ayuda a Apolo y le da unas campanillas de viento?",
     "opciones": [
      "Mnemósine",
+     "Rea",
      "Temis",
-     "Leto",
-     "Rea"
-    ],
-    "correcta": "d"
-   },
-   {
-    "id": "toa1-025",
-    "nivel": "I",
-    "sub": "El Campamento Mestizo",
-    "pregunta": "¿Qué antiguo oráculo está escondido en el bosque del campamento?",
-    "opciones": [
-     "La cueva de Trofonio",
-     "El bosque de Dodona",
-     "La sibila de Cumas",
-     "El oráculo de Delfos"
+     "Leto"
     ],
     "correcta": "b"
    },
    {
-    "id": "toa1-026",
+    "id": "toa1-032",
+    "nivel": "I",
+    "sub": "El Campamento Mestizo",
+    "pregunta": "¿Qué antiguo oráculo está escondido en el bosque del campamento?",
+    "opciones": [
+     "El bosque de Dodona",
+     "La cueva de Trofonio",
+     "La sibila de Cumas",
+     "El oráculo de Delfos"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-033",
     "nivel": "A",
     "sub": "El Campamento Mestizo",
     "pregunta": "¿Cómo dan sus profecías los árboles de Dodona?",
     "opciones": [
      "Escribiendo en las hojas",
      "A través de un sátiro",
-     "Hablando todos a la vez, con susurros",
-     "Con sueños"
+     "Con sueños",
+     "Hablando todos a la vez, con susurros"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
-    "id": "toa1-027",
+    "id": "toa1-034",
     "nivel": "A",
     "sub": "El Campamento Mestizo",
     "pregunta": "¿Qué hacen las dríades para salvar el bosque del fuego griego?",
     "opciones": [
-     "Absorben el fuego y mueren",
      "Llaman a la lluvia",
+     "Absorben el fuego y mueren",
      "Huyen con los árboles",
      "Se lo devuelven a Nerón"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
-    "id": "toa1-028",
+    "id": "toa1-035",
     "nivel": "I",
     "sub": "El Campamento Mestizo",
     "pregunta": "¿Qué objeto que habla consigue Apolo en el bosque de Dodona?",
     "opciones": [
      "Una lira",
-     "Una flecha",
      "Una hoja dorada",
+     "Una flecha",
      "Un escudo"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
-    "id": "toa1-029",
+    "id": "toa1-036",
     "nivel": "A",
     "sub": "El Campamento Mestizo",
     "pregunta": "¿Qué tiene de peculiar la manera de hablar de la flecha de Dodona?",
@@ -10367,98 +11394,267 @@
     "correcta": "c"
    },
    {
-    "id": "toa1-030",
+    "id": "toa1-037",
+    "nivel": "I",
+    "sub": "El Campamento Mestizo",
+    "pregunta": "¿Quién es el consejero de la cabaña de Apolo cuando llega Lester?",
+    "opciones": [
+     "Austin",
+     "Kayla",
+     "Lee Fletcher",
+     "Will Solace"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-038",
+    "nivel": "I",
+    "sub": "El Campamento Mestizo",
+    "pregunta": "¿Cuándo escapó Pitón del Tártaro para tomar Delfos?",
+    "opciones": [
+     "Durante la guerra contra Gea, el agosto anterior",
+     "Hace mil años",
+     "Cuando Apolo cayó del Olimpo",
+     "En la batalla de Manhattan"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-039",
+    "nivel": "A",
+    "sub": "El Campamento Mestizo",
+    "pregunta": "¿Qué es Seymour, en la Casa Grande?",
+    "opciones": [
+     "El perro de Quirón",
+     "Un sátiro portero",
+     "Una cabeza disecada de leopardo que come golosinas",
+     "Una armadura encantada"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-040",
+    "nivel": "E",
+    "sub": "El Campamento Mestizo",
+    "pregunta": "¿De qué diosa es hijo Paolo Montes, el campista brasileño?",
+    "opciones": [
+     "Nike",
+     "Iris",
+     "Hebe",
+     "Némesis"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-041",
+    "nivel": "I",
+    "sub": "El Campamento Mestizo",
+    "pregunta": "¿Qué le hacen Connor Stoll y Sherman Yang a Meg como \"bienvenida\"?",
+    "opciones": [
+     "Le cortan el pelo",
+     "Le roban los anillos",
+     "La encierran en la cabaña de Ares",
+     "Le lanzan una red dorada para tirarla al lago"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-042",
+    "nivel": "E",
+    "sub": "El Campamento Mestizo",
+    "pregunta": "¿Qué sátiro da las clases de música a las que asiste Apolo?",
+    "opciones": [
+     "Woodrow",
+     "Grover",
+     "Don",
+     "Gleeson"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-043",
+    "nivel": "A",
+    "sub": "El Campamento Mestizo",
+    "pregunta": "¿Quién es el otro padre de Kayla, además de Apolo?",
+    "opciones": [
+     "Un piloto de avión",
+     "Un músico de jazz",
+     "Un médico de Toronto",
+     "Un entrenador canadiense de tiro con arco"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-044",
+    "nivel": "I",
+    "sub": "El Campamento Mestizo",
+    "pregunta": "¿En qué competencia corren Apolo y Meg atados de una pierna?",
+    "opciones": [
+     "En la carrera de tres piernas",
+     "En la carrera de carros",
+     "En captura la bandera",
+     "En la carrera de canoas"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-045",
+    "nivel": "A",
+    "sub": "El Campamento Mestizo",
+    "pregunta": "¿Qué titánide plantó originalmente el bosque de Dodona?",
+    "opciones": [
+     "Gea",
+     "Temis",
+     "Rea",
+     "Leto"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-046",
+    "nivel": "A",
+    "sub": "El Campamento Mestizo",
+    "pregunta": "¿Qué aspecto tiene Rea cuando se le aparece a Apolo?",
+    "opciones": [
+     "El de una anciana con un bastón",
+     "El de una hippie, acompañada de leones",
+     "El de una reina con corona de oro",
+     "El de una niña pequeña"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-047",
+    "nivel": "E",
+    "sub": "El Campamento Mestizo",
+    "pregunta": "¿Cómo llama Apolo a la reina de los mirmekes cuando lo deja ir?",
+    "opciones": [
+     "Mamá",
+     "Majestad",
+     "Su Hormiguidad",
+     "Gran Madre"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-048",
+    "nivel": "E",
+    "sub": "El Campamento Mestizo",
+    "pregunta": "¿Qué espíritus de los géiseres conocen en el bosque?",
+    "opciones": [
+     "Las náyades",
+     "Los palikoi",
+     "Los ventus",
+     "Los karpoi"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-049",
+    "nivel": "A",
+    "sub": "El Campamento Mestizo",
+    "pregunta": "¿Qué antiguo amor de Apolo se convirtió en árbol?",
+    "opciones": [
+     "Jacinto, que se convirtió en roble",
+     "Coronis, que se convirtió en ciprés",
+     "Dafne, que se convirtió en laurel",
+     "Casandra, que se convirtió en olivo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-050",
     "nivel": "B",
     "sub": "Nerón",
     "pregunta": "¿Qué emperador romano es el villano del libro?",
     "opciones": [
      "Calígula",
-     "Nerón",
      "Cómodo",
-     "Julio César"
+     "Julio César",
+     "Nerón"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
-    "id": "toa1-031",
+    "id": "toa1-051",
     "nivel": "I",
     "sub": "Nerón",
     "pregunta": "¿Cómo se llama la empresa de los emperadores?",
     "opciones": [
      "Olimpo S.A.",
      "Imperio Holdings",
-     "Roma Corp.",
-     "Triunvirato"
+     "Triunvirato",
+     "Roma Corp."
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
-    "id": "toa1-032",
+    "id": "toa1-052",
     "nivel": "A",
     "sub": "Nerón",
     "pregunta": "¿Por qué los emperadores siguen vivos?",
     "opciones": [
-     "Bebieron néctar",
      "Fueron adorados como dioses y eso los mantiene",
+     "Bebieron néctar",
      "Los revivió Gea",
      "Viven en el Hotel Loto"
     ],
-    "correcta": "b"
+    "correcta": "a"
    },
    {
-    "id": "toa1-033",
+    "id": "toa1-053",
     "nivel": "A",
     "sub": "Nerón",
     "pregunta": "¿Qué relación tiene Nerón con Meg?",
     "opciones": [
      "Es su padre biológico",
-     "Es su padrastro, que la crió y la maltrató",
      "Es su tío",
+     "Es su padrastro, que la crió y la maltrató",
      "Es su maestro de esgrima"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
-    "id": "toa1-034",
+    "id": "toa1-054",
     "nivel": "I",
     "sub": "Nerón",
     "pregunta": "¿Cómo llama Meg a quien mató a su padre, sin saber que es Nerón?",
     "opciones": [
      "El Monstruo",
      "El Rey",
-     "La Sombra",
-     "La Bestia"
+     "La Bestia",
+     "La Sombra"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
-    "id": "toa1-035",
+    "id": "toa1-055",
     "nivel": "I",
     "sub": "Nerón",
     "pregunta": "¿Qué gigantesca estatua envía Nerón contra el campamento?",
     "opciones": [
      "El Coloso de Rodas",
-     "Un Talos",
      "El Coloso Neroniano",
+     "Un Talos",
      "La Atenea Partenos"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
-    "id": "toa1-036",
+    "id": "toa1-056",
     "nivel": "A",
     "sub": "Nerón",
     "pregunta": "¿Cómo vence Apolo al Coloso?",
     "opciones": [
      "Lo ahoga en el estrecho",
-     "Con una flecha cargada de una plaga",
      "Le desatornilla la cabeza",
-     "Lo derrite con fuego griego"
+     "Lo derrite con fuego griego",
+     "Con una flecha cargada de una plaga"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
-    "id": "toa1-037",
+    "id": "toa1-057",
     "nivel": "I",
     "sub": "Nerón",
     "pregunta": "¿Qué hace Meg al final del libro?",
@@ -10471,7 +11667,7 @@
     "correcta": "a"
    },
    {
-    "id": "toa1-038",
+    "id": "toa1-058",
     "nivel": "I",
     "sub": "Nerón",
     "pregunta": "¿Quiénes llegan al campamento al final del libro?",
@@ -10484,7 +11680,7 @@
     "correcta": "b"
    },
    {
-    "id": "toa1-039",
+    "id": "toa1-059",
     "nivel": "A",
     "sub": "Nerón",
     "pregunta": "¿En qué llegan Leo y Calipso?",
@@ -10497,15 +11693,67 @@
     "correcta": "b"
    },
    {
-    "id": "toa1-040",
+    "id": "toa1-060",
     "nivel": "I",
     "sub": "Nerón",
     "pregunta": "¿Cuántos oráculos antiguos debe liberar Apolo?",
     "opciones": [
-     "Cinco",
      "Tres",
      "Siete",
+     "Cinco",
      "Doce"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-061",
+    "nivel": "A",
+    "sub": "Nerón",
+    "pregunta": "¿Qué guardaespaldas de la antigüedad acompañan a Nerón?",
+    "opciones": [
+     "Espartanos",
+     "Pretorianos zombis",
+     "Germanos de la guardia imperial",
+     "Amazonas"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-062",
+    "nivel": "I",
+    "sub": "Nerón",
+    "pregunta": "¿Quiénes llegan montados en la perra del infierno a pelear contra el Coloso?",
+    "opciones": [
+     "Leo y Calipso",
+     "Nico y Will",
+     "Rachel y Meg",
+     "Percy (con la Señorita O'Leary) y Quirón al galope"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-063",
+    "nivel": "A",
+    "sub": "Nerón",
+    "pregunta": "¿Qué forma poética tiene parte de la profecía de los árboles de Dodona?",
+    "opciones": [
+     "Un limerick",
+     "Un soneto",
+     "Una terza rima",
+     "Un haiku"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-064",
+    "nivel": "I",
+    "sub": "Nerón",
+    "pregunta": "¿Qué investiga Rachel sobre los dueños del Triunvirato?",
+    "opciones": [
+     "Que tienen tanto dinero que hacen ver pequeña a la empresa de su padre",
+     "Que viven en el Olimpo",
+     "Que son hijos de Gea",
+     "Que son tres hermanos"
     ],
     "correcta": "a"
    }
@@ -10525,11 +11773,11 @@
     "pregunta": "¿Con quiénes viaja Apolo al comienzo de La profecía oscura?",
     "opciones": [
      "Meg y Grover",
-     "Leo y Calipso",
      "Percy y Annabeth",
-     "Jason y Piper"
+     "Jason y Piper",
+     "Leo y Calipso"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
     "id": "toa2-002",
@@ -10537,12 +11785,12 @@
     "sub": "Indianápolis",
     "pregunta": "¿En qué ciudad transcurre la mayor parte del libro?",
     "opciones": [
+     "Indianápolis",
      "Chicago",
      "Detroit",
-     "Saint Louis",
-     "Indianápolis"
+     "Saint Louis"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
     "id": "toa2-003",
@@ -10551,11 +11799,11 @@
     "pregunta": "¿Qué monstruos sin cabeza, con la cara en el pecho, los atacan?",
     "opciones": [
      "Los cinocéfalos",
+     "Los eurinomos",
      "Los blemias",
-     "Los eurinomios",
      "Los pandos"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
     "id": "toa2-004",
@@ -10578,10 +11826,10 @@
     "opciones": [
      "Un estadio de fútbol americano",
      "Un museo de arte",
-     "La estación de trenes Union Station de Indianápolis",
-     "Un rascacielos"
+     "Un rascacielos",
+     "La estación de trenes Union Station de Indianápolis"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
     "id": "toa2-006",
@@ -10590,17 +11838,17 @@
     "pregunta": "¿Qué diosa de las redes es dueña del refugio?",
     "opciones": [
      "Artemisa",
-     "Hécate",
      "Britomartis",
+     "Hécate",
      "Iris"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
     "id": "toa2-007",
     "nivel": "A",
     "sub": "Indianápolis",
-    "pregunta": "¿Quiénes son Hemitea (Emmie) y Josefina (Jo)?",
+    "pregunta": "¿Quiénes son Hemítea (Emmie) y Josephine (Jo)?",
     "opciones": [
      "Hijas de Apolo",
      "Ninfas de Calipso",
@@ -10615,12 +11863,12 @@
     "sub": "Indianápolis",
     "pregunta": "¿Cómo se llama la hija adoptiva de Emmie y Jo?",
     "opciones": [
-     "Georgina",
      "Lavinia",
      "Julia",
+     "Georgina",
      "Kayla"
     ],
-    "correcta": "a"
+    "correcta": "c"
    },
    {
     "id": "toa2-009",
@@ -10629,11 +11877,11 @@
     "pregunta": "¿Qué le pasó a Georgina antes de que llegaran?",
     "opciones": [
      "La raptaron los grifos",
-     "Desapareció tras consultar al oráculo de Trofonio y quedó dañada",
      "Se unió a Cómodo",
+     "Desapareció tras consultar al oráculo de Trofonio y quedó dañada",
      "Se fue con las Cazadoras"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
     "id": "toa2-010",
@@ -10642,11 +11890,11 @@
     "pregunta": "¿Qué animales le pide Britomartis a Apolo que rescate?",
     "opciones": [
      "Pegasos",
-     "Grifos",
      "Unicornios",
-     "Hipocampos"
+     "Hipocampos",
+     "Grifos"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
     "id": "toa2-011",
@@ -10654,12 +11902,12 @@
     "sub": "Indianápolis",
     "pregunta": "¿Qué emperador romano domina Indianápolis?",
     "opciones": [
-     "Cómodo",
      "Nerón",
      "Calígula",
+     "Cómodo",
      "Tarquinio"
     ],
-    "correcta": "a"
+    "correcta": "c"
    },
    {
     "id": "toa2-012",
@@ -10667,12 +11915,12 @@
     "sub": "Indianápolis",
     "pregunta": "¿Por qué Cómodo odia tanto a Apolo?",
     "opciones": [
-     "Apolo lo mató en el pasado",
      "Apolo le robó el trono",
+     "Apolo lo mató en el pasado",
      "Apolo maldijo a su padre",
      "Apolo lo dejó ciego en Roma"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
     "id": "toa2-013",
@@ -10681,11 +11929,11 @@
     "pregunta": "¿De quién es hijo Lit (Litierses), aliado de Cómodo?",
     "opciones": [
      "De Marte",
-     "Del rey Midas",
      "De Cómodo",
-     "De Hefesto"
+     "De Hefesto",
+     "Del rey Midas"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
     "id": "toa2-014",
@@ -10693,12 +11941,12 @@
     "sub": "Indianápolis",
     "pregunta": "¿Por qué Lit le guarda rencor a Leo?",
     "opciones": [
+     "Por lo que Leo le hizo a su padre Midas",
      "Porque Leo le robó un dragón",
      "Por un duelo en el campamento",
-     "Por lo que Leo le hizo a su padre Midas",
      "Porque Leo lo dejó en Ogigia"
     ],
-    "correcta": "c"
+    "correcta": "a"
    },
    {
     "id": "toa2-015",
@@ -10706,12 +11954,12 @@
     "sub": "Indianápolis",
     "pregunta": "¿Quién aparece a ayudar y pelea a duelo contra Lit?",
     "opciones": [
-     "Leo",
      "Meg",
+     "Leo",
      "Calipso",
      "Thalia"
     ],
-    "correcta": "b"
+    "correcta": "a"
    },
    {
     "id": "toa2-016",
@@ -10720,11 +11968,11 @@
     "pregunta": "¿Qué trono buscan en la guarida de Cómodo?",
     "opciones": [
      "El trono de Zeus",
-     "El trono de Cronos",
      "El Trono de la Memoria",
+     "El trono de Cronos",
      "El trono del sol"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
     "id": "toa2-017",
@@ -10732,54 +11980,249 @@
     "sub": "Indianápolis",
     "pregunta": "¿Qué le pasa a Calipso en este libro?",
     "opciones": [
+     "Perdió el control de su magia y trabaja para recuperarla",
      "Recuperó su inmortalidad",
      "Vuelve a Ogigia",
-     "Se convierte en Cazadora",
-     "Perdió el control de su magia y trabaja para recuperarla"
+     "Se convierte en Cazadora"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
     "id": "toa2-018",
-    "nivel": "I",
-    "sub": "El oráculo de Trofonio",
-    "pregunta": "¿Qué oráculo deben enfrentar en este libro?",
+    "nivel": "A",
+    "sub": "Indianápolis",
+    "pregunta": "¿Qué objeto usan Hemítea y Josephine para intentar sacarle información a Georgina?",
     "opciones": [
-     "El de Trofonio",
-     "El de Dodona",
-     "La sibila de Eritrea",
-     "El de Delfos"
+     "Una bola de cristal",
+     "Una baraja de tarot",
+     "Una bola 8 mágica",
+     "Un espejo de Hécate"
     ],
-    "correcta": "a"
+    "correcta": "c"
    },
    {
     "id": "toa2-019",
-    "nivel": "A",
-    "sub": "El oráculo de Trofonio",
-    "pregunta": "¿Qué parentesco tiene Trofonio con Apolo?",
+    "nivel": "I",
+    "sub": "Indianápolis",
+    "pregunta": "¿Cómo se llaman los grifos de la Estación de Paso que robó Cómodo?",
     "opciones": [
-     "Es su hijo",
-     "Es su hermano",
-     "Es su tío",
-     "Es su sacerdote"
+     "Castor y Pólux",
+     "Romeo y Julieta",
+     "Heloise y Abelard",
+     "Aurum y Argentum"
     ],
-    "correcta": "a"
+    "correcta": "c"
    },
    {
     "id": "toa2-020",
     "nivel": "A",
-    "sub": "El oráculo de Trofonio",
-    "pregunta": "¿De qué dos ríos debe beber quien consulta a Trofonio?",
+    "sub": "Indianápolis",
+    "pregunta": "¿Qué tiene de especial Heloise cuando la rescatan?",
     "opciones": [
-     "El Estigio y el Lete",
-     "El de Fuego y el de Hielo",
-     "El de la Vida y el de la Muerte",
-     "El de la Memoria y el del Olvido"
+     "Habla latín",
+     "Es de oro",
+     "Es ciega",
+     "Está embarazada"
     ],
     "correcta": "d"
    },
    {
     "id": "toa2-021",
+    "nivel": "I",
+    "sub": "Indianápolis",
+    "pregunta": "¿De qué está hecho el vestido de Britomartis?",
+    "opciones": [
+     "De hojas",
+     "De redes",
+     "De plata",
+     "De plumas"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa2-022",
+    "nivel": "A",
+    "sub": "Indianápolis",
+    "pregunta": "Según Apolo, ¿qué le pasó la vez que Britomartis lo citó en un bosque de Tebas?",
+    "opciones": [
+     "Lo encerró en una red",
+     "Lo convirtió en ciervo",
+     "Lo dejó plantado bajo la lluvia",
+     "Acabó pisoteado por un jabalí gigante"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa2-023",
+    "nivel": "E",
+    "sub": "Indianápolis",
+    "pregunta": "¿Qué tarea de limpieza le toca a Apolo en la Estación de Paso?",
+    "opciones": [
+     "Cepillar a los grifos",
+     "Barrer el andén",
+     "Limpiar los váteres",
+     "Pulir las ballestas"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa2-024",
+    "nivel": "E",
+    "sub": "Indianápolis",
+    "pregunta": "¿Con quién casaron a Cómodo cuando era joven?",
+    "opciones": [
+     "Livia",
+     "Agripina",
+     "Lucila",
+     "Brutia Crispina"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa2-025",
+    "nivel": "A",
+    "sub": "Indianápolis",
+    "pregunta": "¿Qué nombre le puso Cómodo a Roma cuando era emperador?",
+    "opciones": [
+     "Nueva Cómoda",
+     "Colonia Comodiana",
+     "Roma Áurea",
+     "Ciudad del Sol"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa2-026",
+    "nivel": "A",
+    "sub": "Indianápolis",
+    "pregunta": "¿Cómo sobrevivió Litierses a la muerte de su padre Midas?",
+    "opciones": [
+     "Huyó por el Laberinto",
+     "Estaba en el Campamento Júpiter",
+     "Lo protegió Cómodo",
+     "Midas lo había convertido en una estatua de oro tapada con una alfombra"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa2-027",
+    "nivel": "I",
+    "sub": "Indianápolis",
+    "pregunta": "¿Qué animales arrollan a Litierses en el zoológico de Cómodo?",
+    "opciones": [
+     "Rinocerontes",
+     "Toros de bronce",
+     "Avestruces acorazados",
+     "Grifos"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa2-028",
+    "nivel": "A",
+    "sub": "Indianápolis",
+    "pregunta": "¿Qué elefanta ayuda a Apolo contra Cómodo?",
+    "opciones": [
+     "Dumbo",
+     "Livia",
+     "Hanna",
+     "Elsa"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa2-029",
+    "nivel": "A",
+    "sub": "Indianápolis",
+    "pregunta": "¿Qué le quita Apolo a la elefanta antes de que ataque?",
+    "opciones": [
+     "Un casco de fútbol americano",
+     "Una cadena de oro",
+     "Una armadura de bronce",
+     "Un bozal de cuero"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa2-030",
+    "nivel": "I",
+    "sub": "Indianápolis",
+    "pregunta": "¿Qué planta hace crecer Meg para guiarlos por la guarida de Cómodo?",
+    "opciones": [
+     "Hiedra",
+     "Chía",
+     "Trigo",
+     "Bambú"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa2-031",
+    "nivel": "E",
+    "sub": "Indianápolis",
+    "pregunta": "¿Qué arte marcial nigeriana practica Josephine?",
+    "opciones": [
+     "La capoeira",
+     "El gidigbo, de su pueblo yoruba",
+     "El krav magá",
+     "El sumo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa2-032",
+    "nivel": "A",
+    "sub": "Indianápolis",
+    "pregunta": "¿Qué líquido secreto usan las cazadoras para curarse?",
+    "opciones": [
+     "Agua de luna",
+     "Néctar de plata",
+     "Rocío del Olimpo",
+     "Agua del Lete"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa2-033",
+    "nivel": "I",
+    "sub": "El oráculo de Trofonio",
+    "pregunta": "¿Qué oráculo deben enfrentar en este libro?",
+    "opciones": [
+     "El de Dodona",
+     "La sibila de Eritrea",
+     "El de Delfos",
+     "El de Trofonio"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa2-034",
+    "nivel": "A",
+    "sub": "El oráculo de Trofonio",
+    "pregunta": "¿Qué parentesco tiene Trofonio con Apolo?",
+    "opciones": [
+     "Es su hermano",
+     "Es su tío",
+     "Es su hijo",
+     "Es su sacerdote"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa2-035",
+    "nivel": "A",
+    "sub": "El oráculo de Trofonio",
+    "pregunta": "¿De qué dos ríos debe beber quien consulta a Trofonio?",
+    "opciones": [
+     "El de la Memoria y el del Olvido",
+     "El Estigio y el Lete",
+     "El de Fuego y el de Hielo",
+     "El de la Vida y el de la Muerte"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa2-036",
     "nivel": "I",
     "sub": "El oráculo de Trofonio",
     "pregunta": "¿Qué le pasa a Apolo al beber de esos ríos?",
@@ -10792,59 +12235,137 @@
     "correcta": "a"
    },
    {
-    "id": "toa2-022",
+    "id": "toa2-037",
     "nivel": "A",
     "sub": "El oráculo de Trofonio",
     "pregunta": "¿Qué hace Meg para traer de vuelta a Apolo?",
     "opciones": [
      "Le da néctar",
      "Lo golpea con sus hoces",
-     "Canta una canción sobre sus penas",
-     "Llama a Melocotones"
+     "Llama a Melocotones",
+     "Canta una canción sobre sus penas"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
-    "id": "toa2-023",
+    "id": "toa2-038",
     "nivel": "I",
     "sub": "El oráculo de Trofonio",
     "pregunta": "¿Qué deseo le pide Trofonio a Apolo?",
     "opciones": [
-     "Que destruya su oráculo",
      "Que lo resucite",
+     "Que destruya su oráculo",
      "Que mate a Cómodo",
      "Que lo lleve al Olimpo"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
-    "id": "toa2-024",
+    "id": "toa2-039",
     "nivel": "E",
     "sub": "El oráculo de Trofonio",
     "pregunta": "¿Cómo se llama el fantasma sin cabeza, hermano de Trofonio?",
     "opciones": [
      "Agamenón",
      "Agatón",
-     "Agamedes",
-     "Arquímedes"
+     "Arquímedes",
+     "Agamedes"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
-    "id": "toa2-025",
+    "id": "toa2-040",
     "nivel": "A",
     "sub": "El oráculo de Trofonio",
     "pregunta": "¿Qué hace Apolo para salvar a Meg después de la profecía?",
     "opciones": [
      "La lleva al Olimpo",
-     "Le hace reanimación cardiopulmonar",
      "Le da su inmortalidad",
+     "Le hace reanimación cardiopulmonar",
      "Le pide ayuda a Asclepio"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa2-041",
+    "nivel": "A",
+    "sub": "El oráculo de Trofonio",
+    "pregunta": "¿Qué criaturas de cuernos giratorios custodian la entrada de la cueva?",
+    "opciones": [
+     "Unicornios",
+     "Yales",
+     "Minotauros",
+     "Toros de Cólquide"
     ],
     "correcta": "b"
    },
    {
-    "id": "toa2-026",
+    "id": "toa2-042",
+    "nivel": "A",
+    "sub": "El oráculo de Trofonio",
+    "pregunta": "¿Qué diosa enfrenta Apolo junto al río, furiosa porque rompió su juramento?",
+    "opciones": [
+     "Estigia",
+     "Némesis",
+     "Hécate",
+     "Mnemósine"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa2-043",
+    "nivel": "I",
+    "sub": "El oráculo de Trofonio",
+    "pregunta": "¿Qué tiene que hacer alguien para destruir la sala del oráculo?",
+    "opciones": [
+     "Cantar la canción de Trofonio",
+     "Nadar hasta el fondo de un túnel con una bomba y activarla",
+     "Romper el Trono de la Memoria",
+     "Secar los ríos"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa2-044",
+    "nivel": "A",
+    "sub": "El oráculo de Trofonio",
+    "pregunta": "¿Qué verso de la profecía anuncia que un sátiro los guiará?",
+    "opciones": [
+     "Solo el guía ungulado sabe cómo no perderse",
+     "Siete mestizos responderán a la llamada",
+     "El dios del sol irá hacia el sur",
+     "La hija de la sabiduría camina sola"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa2-045",
+    "nivel": "E",
+    "sub": "El oráculo de Trofonio",
+    "pregunta": "Según la profecía, ¿qué deberá recorrer Apolo con el camino?",
+    "opciones": [
+     "Con los ojos vendados",
+     "Con la lira en la mano",
+     "Con las botas de su adversario",
+     "Descalzo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa2-046",
+    "nivel": "I",
+    "sub": "El oráculo de Trofonio",
+    "pregunta": "¿Quién interpreta que el verso del sol que va al sur se refiere a Apolo?",
+    "opciones": [
+     "Leo",
+     "Thalia",
+     "Josephine",
+     "Calipso"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa2-047",
     "nivel": "A",
     "sub": "La batalla",
     "pregunta": "¿Cómo vence Apolo a Cómodo en la batalla final?",
@@ -10857,59 +12378,59 @@
     "correcta": "a"
    },
    {
-    "id": "toa2-027",
+    "id": "toa2-048",
     "nivel": "I",
     "sub": "La batalla",
     "pregunta": "¿Quiénes ayudan en la defensa de la Estación de Paso?",
     "opciones": [
+     "Thalia y las Cazadoras de Artemisa",
      "La legión romana",
      "Los Ponis de Fiesta",
-     "Los cíclopes de Tyson",
-     "Thalia y las Cazadoras de Artemisa"
+     "Los cíclopes de Tyson"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
-    "id": "toa2-028",
+    "id": "toa2-049",
     "nivel": "A",
     "sub": "La batalla",
     "pregunta": "¿Qué forma poética tiene la profecía de este libro?",
     "opciones": [
      "Un haiku",
+     "Un soneto",
      "Una terza rima",
-     "Un limerick",
-     "Un soneto"
+     "Un limerick"
     ],
-    "correcta": "d"
+    "correcta": "b"
    },
    {
-    "id": "toa2-029",
+    "id": "toa2-050",
     "nivel": "I",
     "sub": "La batalla",
     "pregunta": "¿Qué deben advertir según la profecía?",
     "opciones": [
+     "Un ataque al Campamento Júpiter",
      "Un ataque al Olimpo",
      "La llegada de Pitón",
-     "Un ataque al Campamento Júpiter",
      "La caída de Delfos"
     ],
-    "correcta": "c"
+    "correcta": "a"
    },
    {
-    "id": "toa2-030",
+    "id": "toa2-051",
     "nivel": "I",
     "sub": "La batalla",
     "pregunta": "¿A qué sátiro invoca Meg al final para que los guíe?",
     "opciones": [
      "Gleeson Hedge",
      "Don",
-     "Leneo",
-     "Grover Underwood"
+     "Grover Underwood",
+     "Leneo"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
-    "id": "toa2-031",
+    "id": "toa2-052",
     "nivel": "I",
     "sub": "La batalla",
     "pregunta": "¿Qué decide hacer Lit después de que lo rescatan?",
@@ -10922,17 +12443,17 @@
     "correcta": "d"
    },
    {
-    "id": "toa2-032",
+    "id": "toa2-053",
     "nivel": "I",
     "sub": "La batalla",
     "pregunta": "¿Quiénes siguen con Apolo hacia el oeste al final del libro?",
     "opciones": [
+     "Meg y Grover",
      "Leo y Calipso",
      "Emmie y Jo",
-     "Meg y Grover",
      "Thalia y Lit"
     ],
-    "correcta": "c"
+    "correcta": "a"
    }
   ]
  },
@@ -10941,7 +12462,7 @@
   "saga": "toa",
   "libro": 3,
   "corto": "PDA 3",
-  "titulo": "El laberinto de fuego",
+  "titulo": "Laberinto en llamas",
   "preguntas": [
    {
     "id": "toa3-001",
@@ -10964,10 +12485,10 @@
     "opciones": [
      "Está inundado",
      "Está congelado",
-     "Está en llamas y causa incendios y sequía en la superficie",
-     "Está lleno de oro"
+     "Está lleno de oro",
+     "Está en llamas y causa incendios y sequía en la superficie"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
     "id": "toa3-003",
@@ -10975,12 +12496,12 @@
     "sub": "El sur de California",
     "pregunta": "¿Qué título tiene Grover en esta época?",
     "opciones": [
+     "Señor de lo Salvaje",
      "Rey de los Sátiros",
      "Pretor de los faunos",
-     "Señor de lo Salvaje",
      "Consejero de Pan"
     ],
-    "correcta": "c"
+    "correcta": "a"
    },
    {
     "id": "toa3-004",
@@ -10990,10 +12511,10 @@
     "opciones": [
      "El barco de Calígula",
      "Un oráculo de Apolo",
-     "La cueva de Herófila",
-     "La casa de infancia de Meg en Palm Springs"
+     "La casa de infancia de Meg en Palm Springs",
+     "La cueva de Herófila"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
     "id": "toa3-005",
@@ -11001,25 +12522,25 @@
     "sub": "El sur de California",
     "pregunta": "¿Qué pareja de amigos vive escondida en Aeithales con su bebé?",
     "opciones": [
-     "El entrenador Hedge y Mellie",
      "Emmie y Jo",
+     "El entrenador Hedge y Mellie",
      "Frank y Hazel",
      "Leo y Calipso"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
     "id": "toa3-006",
     "nivel": "A",
     "sub": "El sur de California",
-    "pregunta": "¿En qué tipo de tienda conocen a Macro, sirviente del emperador?",
+    "pregunta": "¿En qué tipo de tienda conocen a Macrón, sirviente del emperador?",
     "opciones": [
      "Una tienda de mascotas",
-     "Una tienda de excedentes militares",
      "Un supermercado",
-     "Una armería medieval"
+     "Una armería medieval",
+     "Una tienda de excedentes militares"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
     "id": "toa3-007",
@@ -11027,12 +12548,12 @@
     "sub": "El sur de California",
     "pregunta": "¿Qué caballo parlante sirve al tercer emperador?",
     "opciones": [
+     "Incitatus",
      "Arión",
      "Blackjack",
-     "Escipión",
-     "Incitato"
+     "Escipión"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
     "id": "toa3-008",
@@ -11042,10 +12563,10 @@
     "opciones": [
      "Nerón",
      "Cómodo",
-     "Tarquinio",
-     "Calígula"
+     "Calígula",
+     "Tarquinio"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
     "id": "toa3-009",
@@ -11055,10 +12576,10 @@
     "opciones": [
      "Circe",
      "Pasífae",
-     "Medea",
-     "Hécate"
+     "Hécate",
+     "Medea"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
     "id": "toa3-010",
@@ -11067,11 +12588,11 @@
     "pregunta": "¿Qué quiere conseguir Calígula?",
     "opciones": [
      "Destruir el Olimpo",
-     "Conquistar el Campamento Mestizo",
      "Convertirse en el nuevo dios del sol",
+     "Conquistar el Campamento Mestizo",
      "Volver a Roma"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
     "id": "toa3-011",
@@ -11079,12 +12600,12 @@
     "sub": "El sur de California",
     "pregunta": "¿De qué dios del sol está usando Medea el fuego?",
     "opciones": [
-     "Helios",
      "Apolo",
      "Hiperión",
-     "Ra"
+     "Ra",
+     "Helios"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
     "id": "toa3-012",
@@ -11093,14 +12614,157 @@
     "pregunta": "¿Qué aves monstruosas los atacan en el Laberinto?",
     "opciones": [
      "Arpías",
-     "Estriges",
      "Aves del Estínfalo",
+     "Estriges",
      "Grifos"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa3-013",
+    "nivel": "A",
+    "sub": "El sur de California",
+    "pregunta": "¿Qué verso de la profecía de Indiana habla del pasado de Meg?",
+    "opciones": [
+     "La hija de la sabiduría camina sola",
+     "La hija de la paloma romperá la jaula",
+     "La hija de Deméter encontrará sus raíces de antaño",
+     "La hija de la tierra despertará"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa3-014",
+    "nivel": "A",
+    "sub": "El sur de California",
+    "pregunta": "¿Qué canción tocan Grover y Apolo para enfrentar a las estriges?",
+    "opciones": [
+     "Strawberry Fields Forever",
+     "Hey Jude",
+     "Bohemian Rhapsody",
+     "Here Comes the Sun"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-015",
+    "nivel": "I",
+    "sub": "El sur de California",
+    "pregunta": "¿Qué instrumento toca Grover?",
+    "opciones": [
+     "La zampoña (flauta de Pan)",
+     "El violín",
+     "El ukelele",
+     "El tambor"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-016",
+    "nivel": "A",
+    "sub": "El sur de California",
+    "pregunta": "¿Qué hace brotar Meg con sus semillas para golpear a las estriges?",
+    "opciones": [
+     "Calabazas",
+     "Cocos",
+     "Boniatos",
+     "Sandías"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa3-017",
+    "nivel": "I",
+    "sub": "El sur de California",
+    "pregunta": "¿Qué es la Cisterna?",
+    "opciones": [
+     "El refugio de las dríades del desierto",
+     "El yate de Calígula",
+     "La cárcel de Herófila",
+     "La tienda de Macrón"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-018",
+    "nivel": "A",
+    "sub": "El sur de California",
+    "pregunta": "¿Qué significa el apodo \"Calígula\"?",
+    "opciones": [
+     "Pequeño león",
+     "Botitas",
+     "Hijo del sol",
+     "El cruel"
     ],
     "correcta": "b"
    },
    {
-    "id": "toa3-013",
+    "id": "toa3-019",
+    "nivel": "A",
+    "sub": "El sur de California",
+    "pregunta": "¿Qué parentesco tiene Nerón con Calígula?",
+    "opciones": [
+     "Es su hijo",
+     "Es su hermano",
+     "Es su sobrino",
+     "No son parientes"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa3-020",
+    "nivel": "I",
+    "sub": "El sur de California",
+    "pregunta": "¿Qué dríade de árbol de Josué ayuda al grupo?",
+    "opciones": [
+     "Pita",
+     "Josué",
+     "Aloe Vera",
+     "Juniper"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa3-021",
+    "nivel": "I",
+    "sub": "El sur de California",
+    "pregunta": "¿Qué dríade quiere curar a todos con su propia planta?",
+    "opciones": [
+     "Pita",
+     "Josué",
+     "Melia",
+     "Aloe Vera"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa3-022",
+    "nivel": "A",
+    "sub": "El sur de California",
+    "pregunta": "¿Qué le pasó a la casa de Meg en Aeithales cuando era niña?",
+    "opciones": [
+     "Se la tragó un terremoto",
+     "Calígula la redujo a cenizas",
+     "La inundó Poseidón",
+     "La vendió su padre"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa3-023",
+    "nivel": "A",
+    "sub": "El sur de California",
+    "pregunta": "¿Cómo llaman las melíades a Meg?",
+    "opciones": [
+     "La Gran Meg, hija del creador",
+     "Reina del Desierto",
+     "Señora de las Hoces",
+     "Hija de Pan"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-024",
     "nivel": "I",
     "sub": "Jason y Piper",
     "pregunta": "¿Por qué Piper se está mudando?",
@@ -11113,46 +12777,46 @@
     "correcta": "d"
    },
    {
-    "id": "toa3-014",
+    "id": "toa3-025",
     "nivel": "E",
     "sub": "Jason y Piper",
     "pregunta": "¿A qué ciudad de Oklahoma se muda Piper?",
     "opciones": [
      "Tulsa",
-     "Oklahoma City",
      "Tahlequah",
+     "Oklahoma City",
      "Norman"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
-    "id": "toa3-015",
+    "id": "toa3-026",
     "nivel": "I",
     "sub": "Jason y Piper",
     "pregunta": "¿Qué situación tienen Jason y Piper en este libro?",
     "opciones": [
      "Se van a casar",
-     "Terminaron su relación",
      "Viven juntos en Nueva Roma",
+     "Terminaron su relación",
      "No se conocen"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
-    "id": "toa3-016",
+    "id": "toa3-027",
     "nivel": "A",
     "sub": "Jason y Piper",
     "pregunta": "¿Qué advertencia le había dado la sibila a Jason y él guardó en secreto?",
     "opciones": [
      "Que Piper lo traicionaría",
+     "Que uno de los dos moriría la próxima vez que entraran al Laberinto",
      "Que perdería la memoria",
-     "Que Calígula era su padre",
-     "Que uno de los dos moriría la próxima vez que entraran al Laberinto"
+     "Que Calígula era su padre"
     ],
-    "correcta": "d"
+    "correcta": "b"
    },
    {
-    "id": "toa3-017",
+    "id": "toa3-028",
     "nivel": "I",
     "sub": "Jason y Piper",
     "pregunta": "¿Qué deben robar del barco de Calígula?",
@@ -11165,33 +12829,33 @@
     "correcta": "d"
    },
    {
-    "id": "toa3-018",
+    "id": "toa3-029",
     "nivel": "I",
     "sub": "Jason y Piper",
     "pregunta": "¿Qué seres de orejas enormes sirven a Calígula?",
     "opciones": [
-     "Los pandos",
      "Los blemias",
      "Los cinocéfalos",
-     "Los telquines"
+     "Los telquines",
+     "Los pandos"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
-    "id": "toa3-019",
+    "id": "toa3-030",
     "nivel": "A",
     "sub": "Jason y Piper",
     "pregunta": "¿Qué pandos joven ayuda a Apolo y quiere aprender música?",
     "opciones": [
-     "Crest",
      "Tristan",
-     "Macro",
+     "Macrón",
+     "Crest",
      "Bob"
     ],
-    "correcta": "a"
+    "correcta": "c"
    },
    {
-    "id": "toa3-020",
+    "id": "toa3-031",
     "nivel": "B",
     "sub": "Jason y Piper",
     "pregunta": "¿Quién muere en el barco de Calígula?",
@@ -11204,33 +12868,33 @@
     "correcta": "b"
    },
    {
-    "id": "toa3-021",
+    "id": "toa3-032",
     "nivel": "I",
     "sub": "Jason y Piper",
     "pregunta": "¿Qué hace Jason antes de morir para que los demás escapen?",
     "opciones": [
-     "Invoca a Zeus",
      "Llama a sus ventus",
+     "Invoca a Zeus",
      "Hunde el barco",
      "Le pide ayuda a Piper"
-    ],
-    "correcta": "b"
-   },
-   {
-    "id": "toa3-022",
-    "nivel": "A",
-    "sub": "Jason y Piper",
-    "pregunta": "¿A quién culpa Piper de la muerte de Jason?",
-    "opciones": [
-     "A Apolo",
-     "A Meg",
-     "A Grover",
-     "A sí misma"
     ],
     "correcta": "a"
    },
    {
-    "id": "toa3-023",
+    "id": "toa3-033",
+    "nivel": "A",
+    "sub": "Jason y Piper",
+    "pregunta": "¿A quién culpa Piper de la muerte de Jason?",
+    "opciones": [
+     "A Meg",
+     "A Grover",
+     "A Apolo",
+     "A sí misma"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa3-034",
     "nivel": "I",
     "sub": "Jason y Piper",
     "pregunta": "¿A dónde lleva Apolo el cuerpo de Jason?",
@@ -11243,20 +12907,124 @@
     "correcta": "c"
    },
    {
-    "id": "toa3-024",
+    "id": "toa3-035",
     "nivel": "I",
     "sub": "Jason y Piper",
     "pregunta": "¿Hacia dónde zarpa Calígula con su flota?",
     "opciones": [
+     "Hacia el Campamento Júpiter",
      "Hacia Nueva York",
      "Hacia Grecia",
-     "Hacia el Campamento Júpiter",
      "Hacia Hawái"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-036",
+    "nivel": "A",
+    "sub": "Jason y Piper",
+    "pregunta": "¿Qué arma cheroqui le hizo a Piper su abuelo Tom?",
+    "opciones": [
+     "Un arco corto",
+     "Un hacha",
+     "Una lanza",
+     "Una cerbatana"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa3-037",
+    "nivel": "A",
+    "sub": "Jason y Piper",
+    "pregunta": "¿Qué maqueta está construyendo Jason en su escuela?",
+    "opciones": [
+     "Una maqueta del Argo II",
+     "Una maqueta de la Colina de los Templos del Campamento Júpiter",
+     "Una maqueta del Olimpo",
+     "Una maqueta del Campamento Mestizo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa3-038",
+    "nivel": "I",
+    "sub": "Jason y Piper",
+    "pregunta": "¿Cómo se llama el espíritu de la tormenta con forma de caballo que acompaña a Jason?",
+    "opciones": [
+     "Arión",
+     "Blackjack",
+     "Céfiro",
+     "Tempestad"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa3-039",
+    "nivel": "A",
+    "sub": "Jason y Piper",
+    "pregunta": "Según Calígula, ¿para qué tiene un superyate aparte?",
+    "opciones": [
+     "Para sus caballos",
+     "Para sus prisioneros",
+     "Para guardar sus zapatos",
+     "Para sus fiestas"
     ],
     "correcta": "c"
    },
    {
-    "id": "toa3-025",
+    "id": "toa3-040",
+    "nivel": "A",
+    "sub": "Jason y Piper",
+    "pregunta": "¿Qué animales tiran del carro de Medea?",
+    "opciones": [
+     "Caballos de fuego",
+     "Dragones del sol",
+     "Grifos",
+     "Serpientes aladas de bronce"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa3-041",
+    "nivel": "E",
+    "sub": "Jason y Piper",
+    "pregunta": "¿Cómo se llama el sirviente de Calígula dueño de la tienda militar?",
+    "opciones": [
+     "Macrón",
+     "Crest",
+     "Amax",
+     "Wah-Wah"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-042",
+    "nivel": "E",
+    "sub": "Jason y Piper",
+    "pregunta": "¿Cómo se llama uno de los pandos que vigilan los zapatos de Calígula?",
+    "opciones": [
+     "Crest",
+     "Grunk",
+     "Macrón",
+     "Wah-Wah"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa3-043",
+    "nivel": "I",
+    "sub": "Jason y Piper",
+    "pregunta": "¿Qué le pasa a Piper cuando Incitatus embiste en el yate?",
+    "opciones": [
+     "La pisotea y le rompe la pierna",
+     "La lanza contra la pared de un cabezazo",
+     "La tira al mar",
+     "La deja inconsciente con una coz"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa3-044",
     "nivel": "B",
     "sub": "La sibila de Eritrea",
     "pregunta": "¿Qué oráculo está prisionero en el Laberinto de fuego?",
@@ -11269,95 +13037,134 @@
     "correcta": "b"
    },
    {
-    "id": "toa3-026",
+    "id": "toa3-045",
     "nivel": "A",
     "sub": "La sibila de Eritrea",
     "pregunta": "¿Cómo da sus profecías Herófila?",
     "opciones": [
-     "Con acertijos de palabras, como crucigramas",
      "Con sonetos",
      "En sueños",
+     "Con acertijos de palabras, como crucigramas",
      "Escribiendo en hojas de árbol"
     ],
-    "correcta": "a"
+    "correcta": "c"
    },
    {
-    "id": "toa3-027",
+    "id": "toa3-046",
     "nivel": "I",
     "sub": "La sibila de Eritrea",
     "pregunta": "¿Qué espíritus de los fresnos ayudan a escapar al grupo?",
     "opciones": [
-     "Las náyades",
      "Las melíades",
+     "Las náyades",
      "Las hamadríades",
      "Las auras"
     ],
-    "correcta": "b"
+    "correcta": "a"
    },
    {
-    "id": "toa3-028",
+    "id": "toa3-047",
     "nivel": "A",
     "sub": "La sibila de Eritrea",
     "pregunta": "¿Quién había plantado a esas melíades tiempo atrás?",
     "opciones": [
      "Grover",
-     "Deméter",
      "Meg",
+     "Deméter",
      "El padre de Apolo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa3-048",
+    "nivel": "I",
+    "sub": "La sibila de Eritrea",
+    "pregunta": "¿Qué les pasa a Medea e Incitatus al final?",
+    "opciones": [
+     "Escapan con Calígula",
+     "Se unen a Apolo",
+     "Mueren",
+     "Quedan en el Laberinto"
     ],
     "correcta": "c"
    },
    {
-    "id": "toa3-029",
-    "nivel": "I",
-    "sub": "La sibila de Eritrea",
-    "pregunta": "¿Qué les pasa a Medea e Incitato al final?",
-    "opciones": [
-     "Escapan con Calígula",
-     "Se unen a Apolo",
-     "Quedan en el Laberinto",
-     "Mueren"
-    ],
-    "correcta": "d"
-   },
-   {
-    "id": "toa3-030",
+    "id": "toa3-049",
     "nivel": "A",
     "sub": "La sibila de Eritrea",
     "pregunta": "¿Qué le pasa a Crest al final?",
     "opciones": [
-     "Muere en la pelea",
      "Se queda en Aeithales",
+     "Muere en la pelea",
      "Se va con Calígula",
      "Se convierte en árbol"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
-    "id": "toa3-031",
+    "id": "toa3-050",
     "nivel": "I",
     "sub": "La sibila de Eritrea",
     "pregunta": "¿Quién lleva a Piper, Hedge y Mellie a Oklahoma?",
     "opciones": [
+     "Leo",
      "Apolo",
      "Grover",
-     "Jason",
-     "Leo"
+     "Jason"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
-    "id": "toa3-032",
+    "id": "toa3-051",
     "nivel": "A",
     "sub": "La sibila de Eritrea",
     "pregunta": "¿Qué encuentra Apolo al investigar los fuegos del Laberinto?",
     "opciones": [
      "Una puerta al Tártaro",
-     "Lo que queda de Helios, debilitado pero aún ardiendo",
      "La forja de Hefesto",
-     "El carro del sol robado"
+     "El carro del sol robado",
+     "Lo que queda de Helios, debilitado pero aún ardiendo"
     ],
-    "correcta": "b"
+    "correcta": "d"
+   },
+   {
+    "id": "toa3-052",
+    "nivel": "A",
+    "sub": "La sibila de Eritrea",
+    "pregunta": "¿A qué poeta romano cita una de las pistas del laberinto de Herófila?",
+    "opciones": [
+     "Ovidio",
+     "Virgilio",
+     "Horacio",
+     "Catulo"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-053",
+    "nivel": "I",
+    "sub": "La sibila de Eritrea",
+    "pregunta": "¿Qué le dice Apolo a Helios para que no lo queme?",
+    "opciones": [
+     "Que es su hermano",
+     "Que Zeus lo envía",
+     "Que lo liberará de Medea si se calma",
+     "Que es su heredero legítimo"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa3-054",
+    "nivel": "E",
+    "sub": "La sibila de Eritrea",
+    "pregunta": "¿Qué música lleva el entrenador Hedge para el viaje en su viejo coche?",
+    "opciones": [
+     "Bon Jovi en casete",
+     "Los Beatles en vinilo",
+     "Ópera en CD",
+     "Música country en la radio"
+    ],
+    "correcta": "a"
    }
   ]
  },
@@ -11374,12 +13181,12 @@
     "sub": "Camino al Campamento Júpiter",
     "pregunta": "¿Qué llevan Apolo y Meg al Campamento Júpiter?",
     "opciones": [
+     "El ataúd de Jason",
      "La Atenea Partenos",
      "Los libros sibilinos",
-     "El águila de la legión",
-     "El ataúd de Jason"
+     "El águila de la legión"
     ],
-    "correcta": "d"
+    "correcta": "a"
    },
    {
     "id": "toa4-002",
@@ -11387,12 +13194,12 @@
     "sub": "Camino al Campamento Júpiter",
     "pregunta": "¿Qué monstruos devoradores de muertos los atacan en el camino?",
     "opciones": [
+     "Los eurinomos",
      "Los nosoi",
-     "Los eurinomios",
      "Los blemias",
      "Los mirmekes"
     ],
-    "correcta": "b"
+    "correcta": "a"
    },
    {
     "id": "toa4-003",
@@ -11402,10 +13209,10 @@
     "opciones": [
      "Pierde la voz",
      "Recupera sus poderes",
-     "Empieza a convertirse en zombi",
-     "Se queda ciego"
+     "Se queda ciego",
+     "Empieza a convertirse en zombi"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
     "id": "toa4-004",
@@ -11414,11 +13221,11 @@
     "pregunta": "¿Qué chica de pelo rosado los rescata?",
     "opciones": [
      "Kayla",
-     "Julia",
      "Lavinia Asimov",
+     "Julia",
      "Reyna"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
     "id": "toa4-005",
@@ -11426,12 +13233,12 @@
     "sub": "Camino al Campamento Júpiter",
     "pregunta": "¿De qué musa es hija Lavinia?",
     "opciones": [
-     "Calíope, musa de la poesía",
      "Terpsícore, musa de la danza",
+     "Calíope, musa de la poesía",
      "Clío, musa de la historia",
      "Urania, musa de la astronomía"
     ],
-    "correcta": "b"
+    "correcta": "a"
    },
    {
     "id": "toa4-006",
@@ -11440,11 +13247,11 @@
     "pregunta": "¿Quiénes son los pretores que reciben a Apolo?",
     "opciones": [
      "Percy y Reyna",
+     "Frank y Reyna",
      "Hazel y Frank",
-     "Jason y Reyna",
-     "Frank y Reyna"
+     "Jason y Reyna"
     ],
-    "correcta": "d"
+    "correcta": "b"
    },
    {
     "id": "toa4-007",
@@ -11452,12 +13259,12 @@
     "sub": "Camino al Campamento Júpiter",
     "pregunta": "¿Qué proyecto de Jason decide continuar el campamento?",
     "opciones": [
+     "Construir templos para todos los dioses",
      "Reconstruir el Argo II",
      "Unir las dos legiones",
-     "Construir templos para todos los dioses",
      "Escribir sus memorias"
     ],
-    "correcta": "c"
+    "correcta": "a"
    },
    {
     "id": "toa4-008",
@@ -11479,11 +13286,11 @@
     "pregunta": "¿Quiénes están reescribiendo los libros sibilinos?",
     "opciones": [
      "Rachel y Meg",
-     "Ella y Tyson",
      "Octavio y Reyna",
+     "Ella y Tyson",
      "Frank y Hazel"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
     "id": "toa4-010",
@@ -11492,53 +13299,144 @@
     "pregunta": "¿Dónde trabajan Ella y Tyson?",
     "opciones": [
      "En el templo de Júpiter",
-     "En una librería",
      "En la Casa del Senado",
-     "En una panadería"
+     "En una panadería",
+     "En una librería"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa4-011",
+    "nivel": "A",
+    "sub": "Camino al Campamento Júpiter",
+    "pregunta": "¿Qué apodo le pone Apolo al eurinomo que lleva un taparrabos de plumas de buitre?",
+    "opciones": [
+     "Plumas Rancias",
+     "Pañal de Buitre",
+     "Señor Carroña",
+     "Taparrabos Azul"
     ],
     "correcta": "b"
    },
    {
-    "id": "toa4-011",
+    "id": "toa4-012",
     "nivel": "I",
-    "sub": "Tarquinio y Harpócrates",
-    "pregunta": "¿Qué antiguo rey de Roma ha regresado como muerto viviente?",
+    "sub": "Camino al Campamento Júpiter",
+    "pregunta": "¿Qué arma romana pesada lleva Lavinia?",
     "opciones": [
-     "Tarquinio, el último rey de Roma",
-     "Rómulo",
-     "Numa",
-     "Julio César"
+     "Una manubalista",
+     "Un pilum",
+     "Un escorpión",
+     "Una falcata"
     ],
     "correcta": "a"
    },
    {
-    "id": "toa4-012",
-    "nivel": "A",
-    "sub": "Tarquinio y Harpócrates",
-    "pregunta": "¿Qué dios del silencio tenía escondido Tarquinio?",
-    "opciones": [
-     "Morfeo",
-     "Harpócrates",
-     "Hipnos",
-     "Tánatos"
-    ],
-    "correcta": "b"
-   },
-   {
     "id": "toa4-013",
     "nivel": "A",
-    "sub": "Tarquinio y Harpócrates",
-    "pregunta": "¿En qué torre de San Francisco está ese dios?",
+    "sub": "Camino al Campamento Júpiter",
+    "pregunta": "¿Qué baile prefiere Lavinia, en contra de la tradición de su familia?",
     "opciones": [
-     "La torre Coit",
-     "La Transamerica",
-     "El puente Golden Gate",
-     "La torre Sutro"
+     "El ballet",
+     "El tango",
+     "El hip-hop",
+     "El claqué"
     ],
     "correcta": "d"
    },
    {
     "id": "toa4-014",
+    "nivel": "E",
+    "sub": "Camino al Campamento Júpiter",
+    "pregunta": "¿Quién es el padre mortal de Lavinia?",
+    "opciones": [
+     "Un general del ejército ruso",
+     "Sergei Asimov, un famoso bailarín de ballet",
+     "Un profesor de música",
+     "Un actor de Hollywood"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-015",
+    "nivel": "I",
+    "sub": "Camino al Campamento Júpiter",
+    "pregunta": "¿Qué fauno anda con Lavinia y siempre pide dinero suelto?",
+    "opciones": [
+     "Woodrow",
+     "Grover",
+     "Don",
+     "Reggie"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-016",
+    "nivel": "I",
+    "sub": "Camino al Campamento Júpiter",
+    "pregunta": "¿Qué hace Lavinia mientras ayuda a cargar el ataúd de Jason?",
+    "opciones": [
+     "Cantar",
+     "Hablar por teléfono",
+     "Mascar chicle",
+     "Comer palomitas"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-017",
+    "nivel": "E",
+    "sub": "Camino al Campamento Júpiter",
+    "pregunta": "¿Qué le roba un águila gigante a Lavinia de la mano?",
+    "opciones": [
+     "Su manubalista",
+     "Su sándwich de queso fundido",
+     "Su chicle",
+     "Su teléfono"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-018",
+    "nivel": "I",
+    "sub": "Tarquinio y Harpócrates",
+    "pregunta": "¿Qué antiguo rey de Roma ha regresado como muerto viviente?",
+    "opciones": [
+     "Rómulo",
+     "Numa",
+     "Tarquinio, el último rey de Roma",
+     "Julio César"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-019",
+    "nivel": "A",
+    "sub": "Tarquinio y Harpócrates",
+    "pregunta": "¿Qué dios del silencio tenía escondido Tarquinio?",
+    "opciones": [
+     "Harpócrates",
+     "Morfeo",
+     "Hipnos",
+     "Tánatos"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa4-020",
+    "nivel": "A",
+    "sub": "Tarquinio y Harpócrates",
+    "pregunta": "¿En qué torre de San Francisco está ese dios?",
+    "opciones": [
+     "La torre Coit",
+     "La torre Sutro",
+     "La Transamerica",
+     "El puente Golden Gate"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-021",
     "nivel": "I",
     "sub": "Tarquinio y Harpócrates",
     "pregunta": "¿Qué guarda Harpócrates en una vasija?",
@@ -11551,72 +13449,163 @@
     "correcta": "a"
    },
    {
-    "id": "toa4-015",
+    "id": "toa4-022",
     "nivel": "I",
     "sub": "Tarquinio y Harpócrates",
     "pregunta": "¿A quiénes manda el Senado a investigar?",
     "opciones": [
-     "Apolo, Meg, Lavinia y Hazel",
      "Apolo, Frank y Reyna",
      "Meg, Reyna y Dakota",
-     "Apolo, Ella y Tyson"
+     "Apolo, Ella y Tyson",
+     "Apolo, Meg, Lavinia y Hazel"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
-    "id": "toa4-016",
+    "id": "toa4-023",
     "nivel": "A",
     "sub": "Tarquinio y Harpócrates",
     "pregunta": "¿Qué forma tiene la profecía que dan Ella y Tyson al final?",
     "opciones": [
      "Un soneto",
      "Un crucigrama",
-     "Terza rima, como Dante",
-     "Un haiku"
+     "Un haiku",
+     "Terza rima, como Dante"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa4-024",
+    "nivel": "I",
+    "sub": "Tarquinio y Harpócrates",
+    "pregunta": "¿Cómo se llama el gato de Ella?",
+    "opciones": [
+     "Aristófanes",
+     "Sócrates",
+     "Homero",
+     "Platón"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa4-025",
+    "nivel": "A",
+    "sub": "Tarquinio y Harpócrates",
+    "pregunta": "¿Dónde llevan Tyson y Ella los versos de la profecía que van recuperando?",
+    "opciones": [
+     "En un libro de cuero",
+     "En las paredes de la librería",
+     "Tatuados en la espalda de Tyson",
+     "En pergaminos de Ella"
     ],
     "correcta": "c"
    },
    {
-    "id": "toa4-017",
+    "id": "toa4-026",
+    "nivel": "A",
+    "sub": "Tarquinio y Harpócrates",
+    "pregunta": "Según Apolo, ¿por qué le compró la sibila los libros a Tarquinio?",
+    "opciones": [
+     "Se los regaló a cambio de su protección",
+     "Él se los robó",
+     "Quemó seis de los nueve libros y le ofreció los tres restantes al mismo precio",
+     "Los cambió por su corona"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-027",
+    "nivel": "A",
+    "sub": "Tarquinio y Harpócrates",
+    "pregunta": "¿Qué le escribió Apolo a Harpócrates en la toga hace siglos?",
+    "opciones": [
+     "\"Silencio, por favor\"",
+     "\"Propiedad de Apolo\"",
+     "Su propio nombre",
+     "\"Fulmíname\" en letras brillantes"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa4-028",
+    "nivel": "E",
+    "sub": "Tarquinio y Harpócrates",
+    "pregunta": "¿Dónde encerraba Apolo a Harpócrates por la noche?",
+    "opciones": [
+     "En el templo de Delfos",
+     "En una vasija de cobre",
+     "En la cuadra de sus caballos de fuego",
+     "En el Tártaro"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-029",
+    "nivel": "E",
+    "sub": "Tarquinio y Harpócrates",
+    "pregunta": "¿Qué escriben para abrir la puerta de la tumba de Tarquinio?",
+    "opciones": [
+     "Su nombre en griego",
+     "El número de libros sibilinos",
+     "La fecha de su coronación",
+     "CCLIV, el año aproximado de su muerte contado desde la fundación de Roma"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa4-030",
+    "nivel": "I",
+    "sub": "Tarquinio y Harpócrates",
+    "pregunta": "¿Qué aves gigantes vigilan la torre Sutro?",
+    "opciones": [
+     "Águilas",
+     "Estriges",
+     "Cuervos",
+     "Grifos"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-031",
     "nivel": "I",
     "sub": "La batalla del Campamento Júpiter",
     "pregunta": "¿Qué dos emperadores atacan juntos el Campamento Júpiter?",
     "opciones": [
      "Nerón y Calígula",
      "Nerón y Cómodo",
-     "Tarquinio y Nerón",
-     "Calígula y Cómodo"
+     "Calígula y Cómodo",
+     "Tarquinio y Nerón"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
-    "id": "toa4-018",
+    "id": "toa4-032",
     "nivel": "I",
     "sub": "La batalla del Campamento Júpiter",
     "pregunta": "¿Con qué arma planean destruir el campamento desde sus yates?",
     "opciones": [
-     "Fuego griego",
      "Cañones de oro",
      "Rayos robados",
-     "Veneno de gorgona"
+     "Veneno de gorgona",
+     "Fuego griego"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
-    "id": "toa4-019",
+    "id": "toa4-033",
     "nivel": "A",
     "sub": "La batalla del Campamento Júpiter",
     "pregunta": "¿Qué diosa invoca Apolo en la colina de los templos?",
     "opciones": [
-     "Diana, su hermana",
      "Juno",
      "Venus",
-     "Belona"
+     "Belona",
+     "Diana, su hermana"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
-    "id": "toa4-020",
+    "id": "toa4-034",
     "nivel": "A",
     "sub": "La batalla del Campamento Júpiter",
     "pregunta": "¿Cómo acaba Frank con Calígula?",
@@ -11629,137 +13618,137 @@
     "correcta": "b"
    },
    {
-    "id": "toa4-021",
+    "id": "toa4-035",
     "nivel": "A",
     "sub": "La batalla del Campamento Júpiter",
     "pregunta": "¿Qué pasa con Frank después de su sacrificio?",
     "opciones": [
      "Muere",
      "Se convierte en dios",
-     "Queda en el Tártaro",
-     "Sobrevive: Arión lo rescata"
+     "Sobrevive: Arión lo rescata",
+     "Queda en el Tártaro"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
-    "id": "toa4-022",
+    "id": "toa4-036",
     "nivel": "I",
     "sub": "La batalla del Campamento Júpiter",
     "pregunta": "¿Quién mata a Cómodo?",
     "opciones": [
      "Reyna",
-     "Apolo",
      "Frank",
+     "Apolo",
      "Lavinia"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
-    "id": "toa4-023",
+    "id": "toa4-037",
     "nivel": "I",
     "sub": "La batalla del Campamento Júpiter",
     "pregunta": "¿Quién mata a Tarquinio?",
     "opciones": [
      "Meg",
-     "Hazel",
      "Diana",
+     "Hazel",
      "Apolo"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
-    "id": "toa4-024",
+    "id": "toa4-038",
     "nivel": "I",
     "sub": "La batalla del Campamento Júpiter",
     "pregunta": "¿Qué decide hacer Reyna al final?",
     "opciones": [
      "Seguir siendo pretora para siempre",
      "Irse a Puerto Rico",
-     "Unirse a las Cazadoras de Diana",
-     "Volver con las amazonas"
-    ],
-    "correcta": "c"
-   },
-   {
-    "id": "toa4-025",
-    "nivel": "I",
-    "sub": "La batalla del Campamento Júpiter",
-    "pregunta": "¿Quién es elegida pretora en lugar de Reyna?",
-    "opciones": [
-     "Lavinia",
-     "Meg",
-     "Ella",
-     "Hazel"
+     "Volver con las amazonas",
+     "Unirse a las Cazadoras de Diana"
     ],
     "correcta": "d"
    },
    {
-    "id": "toa4-026",
+    "id": "toa4-039",
     "nivel": "I",
     "sub": "La batalla del Campamento Júpiter",
-    "pregunta": "¿Qué cargo recibe Lavinia?",
+    "pregunta": "¿Quién es elegida pretora en lugar de Reyna?",
     "opciones": [
-     "Centuriona de la Quinta Cohorte",
-     "Pretora",
-     "Augur",
-     "Senadora"
+     "Hazel",
+     "Lavinia",
+     "Meg",
+     "Ella"
     ],
     "correcta": "a"
    },
    {
-    "id": "toa4-027",
+    "id": "toa4-040",
+    "nivel": "I",
+    "sub": "La batalla del Campamento Júpiter",
+    "pregunta": "¿Qué cargo recibe Lavinia?",
+    "opciones": [
+     "Pretora",
+     "Centuriona de la Quinta Cohorte",
+     "Augur",
+     "Senadora"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-041",
     "nivel": "A",
     "sub": "La batalla del Campamento Júpiter",
     "pregunta": "¿Qué centurión hijo de Baco muere por las heridas de la batalla?",
     "opciones": [
      "Gwen",
-     "Dakota",
      "Bobby",
+     "Dakota",
      "Larry"
-    ],
-    "correcta": "b"
-   },
-   {
-    "id": "toa4-028",
-    "nivel": "A",
-    "sub": "La batalla del Campamento Júpiter",
-    "pregunta": "¿En qué se convierte Don, el fauno, al morir?",
-    "opciones": [
-     "En una estrella",
-     "En una piedra",
-     "En un laurel",
-     "En un roble"
     ],
     "correcta": "c"
    },
    {
-    "id": "toa4-029",
+    "id": "toa4-042",
+    "nivel": "A",
+    "sub": "La batalla del Campamento Júpiter",
+    "pregunta": "¿En qué se convierte Don, el fauno, al morir?",
+    "opciones": [
+     "En un laurel",
+     "En una estrella",
+     "En una piedra",
+     "En un roble"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa4-043",
     "nivel": "I",
     "sub": "La batalla del Campamento Júpiter",
     "pregunta": "¿Qué le regala el Campamento Júpiter a Apolo?",
     "opciones": [
      "Una corona de laurel",
-     "Un pegaso",
      "Su antiguo arco divino",
+     "Un pegaso",
      "Una espada de oro"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
-    "id": "toa4-030",
+    "id": "toa4-044",
     "nivel": "I",
     "sub": "La batalla del Campamento Júpiter",
     "pregunta": "¿Qué recibe Meg como regalo del campamento?",
     "opciones": [
-     "Semillas",
      "Un escudo",
+     "Semillas",
      "Un caballo",
      "Un anillo"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
-    "id": "toa4-031",
+    "id": "toa4-045",
     "nivel": "I",
     "sub": "La batalla del Campamento Júpiter",
     "pregunta": "¿Hacia dónde parten Apolo y Meg al final?",
@@ -11768,6 +13757,136 @@
      "Hacia Delfos",
      "Hacia Indianápolis",
      "Hacia Alaska"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa4-046",
+    "nivel": "I",
+    "sub": "La batalla del Campamento Júpiter",
+    "pregunta": "¿Cómo se llama el elefante de la legión?",
+    "opciones": [
+     "Livia",
+     "Escipión",
+     "Julio",
+     "Hannibal"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa4-047",
+    "nivel": "A",
+    "sub": "La batalla del Campamento Júpiter",
+    "pregunta": "¿Qué fenómeno marca el momento del ataque de los emperadores?",
+    "opciones": [
+     "Un eclipse de sol",
+     "El solsticio de invierno",
+     "Una luna de sangre",
+     "Una lluvia de estrellas"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-048",
+    "nivel": "I",
+    "sub": "La batalla del Campamento Júpiter",
+    "pregunta": "¿Cuántos yates traen los emperadores contra el campamento?",
+    "opciones": [
+     "Siete",
+     "Cincuenta",
+     "Doce",
+     "Cien"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-049",
+    "nivel": "A",
+    "sub": "La batalla del Campamento Júpiter",
+    "pregunta": "¿En qué pájaro se convierte Frank para atacar la cara de Calígula?",
+    "opciones": [
+     "Un vencejo",
+     "Un halcón",
+     "Un águila",
+     "Un cuervo"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa4-050",
+    "nivel": "I",
+    "sub": "La batalla del Campamento Júpiter",
+    "pregunta": "¿Qué criaturas con cabeza de perro viven en la Nueva Roma?",
+    "opciones": [
+     "Pandos",
+     "Blemias",
+     "Lares",
+     "Cinocéfalos"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa4-051",
+    "nivel": "E",
+    "sub": "La batalla del Campamento Júpiter",
+    "pregunta": "¿Quién es el dueño bicéfalo de la cafetería donde se aloja Apolo?",
+    "opciones": [
+     "Macrón",
+     "Bombilo",
+     "Pranjal",
+     "Larry"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-052",
+    "nivel": "E",
+    "sub": "La batalla del Campamento Júpiter",
+    "pregunta": "¿Qué cargo tiene Pranjal en la legión?",
+    "opciones": [
+     "Augur",
+     "Adiestrador de elefantes",
+     "Curandero jefe",
+     "Aquilífero"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-053",
+    "nivel": "A",
+    "sub": "La batalla del Campamento Júpiter",
+    "pregunta": "¿Qué destino de Reyna reveló Venus ante los dioses?",
+    "opciones": [
+     "Que ningún semidiós podría curar su corazón",
+     "Que moriría joven",
+     "Que sería reina de Roma",
+     "Que nunca dejaría de ser pretora"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa4-054",
+    "nivel": "I",
+    "sub": "La batalla del Campamento Júpiter",
+    "pregunta": "¿Qué diosa le dice a Apolo \"hermanito\" y lo cura?",
+    "opciones": [
+     "Venus",
+     "Diana",
+     "Ceres",
+     "Minerva"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-055",
+    "nivel": "E",
+    "sub": "La batalla del Campamento Júpiter",
+    "pregunta": "¿Quién entrenaba al elefante de la legión y murió en la batalla anterior?",
+    "opciones": [
+     "Bobby",
+     "Larry",
+     "Dakota",
+     "Michael Kahale"
     ],
     "correcta": "a"
    }
@@ -11788,10 +13907,10 @@
     "opciones": [
      "Roma",
      "Indianápolis",
-     "Nueva York",
-     "San Francisco"
+     "San Francisco",
+     "Nueva York"
     ],
-    "correcta": "c"
+    "correcta": "d"
    },
    {
     "id": "toa5-002",
@@ -11800,11 +13919,11 @@
     "pregunta": "¿Con qué amenaza Nerón a Apolo y Meg?",
     "opciones": [
      "Destruir el Campamento Mestizo",
-     "Quemar Manhattan si no se rinden en dos días",
      "Matar a Percy",
-     "Liberar a Cronos"
+     "Liberar a Cronos",
+     "Quemar Manhattan si no se rinden en dos días"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
     "id": "toa5-003",
@@ -11812,12 +13931,12 @@
     "sub": "Nueva York",
     "pregunta": "¿Qué mujer gala, antigua sirvienta de Nerón, ayuda a Apolo y Meg?",
     "opciones": [
-     "Josefina",
-     "Luguselwa (Lu)",
-     "Hemitea",
+     "Luguselva (Lu)",
+     "Josephine",
+     "Hemítea",
      "Boudica"
     ],
-    "correcta": "b"
+    "correcta": "a"
    },
    {
     "id": "toa5-004",
@@ -11838,12 +13957,12 @@
     "sub": "Nueva York",
     "pregunta": "¿Qué pareja de semidioses acompaña a Apolo en Nueva York?",
     "opciones": [
-     "Will Solace y Nico di Angelo",
      "Percy y Annabeth",
+     "Will Solace y Nico di Angelo",
      "Frank y Hazel",
      "Leo y Calipso"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
     "id": "toa5-006",
@@ -11878,11 +13997,11 @@
     "pregunta": "¿Qué pueblo subterráneo ayuda a sabotear los planes de Nerón?",
     "opciones": [
      "Los telquines",
-     "Los trogloditas",
      "Los enanos Cercopes",
+     "Los trogloditas",
      "Los pandos"
     ],
-    "correcta": "b"
+    "correcta": "c"
    },
    {
     "id": "toa5-009",
@@ -11904,170 +14023,391 @@
     "pregunta": "¿Qué cosa curiosa coleccionan los trogloditas?",
     "opciones": [
      "Llaves",
-     "Sombreros",
      "Zapatos",
-     "Relojes"
+     "Relojes",
+     "Sombreros"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa5-011",
+    "nivel": "A",
+    "sub": "Nueva York",
+    "pregunta": "¿Qué monstruo sube al tren de Apolo y Meg en Union Station?",
+    "opciones": [
+     "Una quimera",
+     "Una dracaena",
+     "Una anfisbena, una serpiente con una cabeza en cada punta",
+     "Un basilisco"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa5-012",
+    "nivel": "I",
+    "sub": "Nueva York",
+    "pregunta": "¿Cómo llama Luguselva a Meg?",
+    "opciones": [
+     "Pequeña reina",
+     "Semillita",
+     "Retoño",
+     "Hija mía"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa5-013",
+    "nivel": "E",
+    "sub": "Nueva York",
+    "pregunta": "¿Cómo se llama el guardia germano al que le encanta decapitar gente?",
+    "opciones": [
+     "Casio",
+     "Gunther",
+     "Helmut",
+     "Gerhard"
     ],
     "correcta": "b"
    },
    {
-    "id": "toa5-011",
+    "id": "toa5-014",
+    "nivel": "I",
+    "sub": "Nueva York",
+    "pregunta": "¿Cómo se llama la hermanita bebé de Percy?",
+    "opciones": [
+     "Sally",
+     "Emma",
+     "Grace",
+     "Estelle"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa5-015",
+    "nivel": "E",
+    "sub": "Nueva York",
+    "pregunta": "¿Qué cenan en casa de Sally y Paul?",
+    "opciones": [
+     "Pizza",
+     "Galletas azules",
+     "Lasaña con ensalada",
+     "Hamburguesas"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa5-016",
+    "nivel": "I",
+    "sub": "Nueva York",
+    "pregunta": "¿Quiénes llevan a Apolo y Meg en su taxi?",
+    "opciones": [
+     "Las Furias",
+     "Las Hermanas Grises",
+     "Las Parcas",
+     "Las Gorgonas"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa5-017",
+    "nivel": "A",
+    "sub": "Nueva York",
+    "pregunta": "¿Cuánto tiempo le da Nerón a Apolo para entregarse antes de destruir la ciudad?",
+    "opciones": [
+     "Cuarenta y ocho horas",
+     "Una semana",
+     "Hasta la medianoche",
+     "Siete días"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-018",
+    "nivel": "I",
+    "sub": "Nueva York",
+    "pregunta": "¿En qué distrito de Nueva York los vigilan las vacas monstruosas?",
+    "opciones": [
+     "Brooklyn",
+     "Queens",
+     "El Bronx",
+     "Staten Island"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-019",
+    "nivel": "E",
+    "sub": "Nueva York",
+    "pregunta": "¿Qué instrumento usa Apolo para enfrentar a las vacas?",
+    "opciones": [
+     "Una lira",
+     "Un ukelele",
+     "Una flauta",
+     "Una guitarra eléctrica"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa5-020",
     "nivel": "I",
     "sub": "La torre",
     "pregunta": "¿A qué objeto está atada la vida de Nerón?",
     "opciones": [
-     "A su corona",
      "A sus fasces",
+     "A su corona",
      "A un trozo de leña",
      "A una estatua"
     ],
-    "correcta": "b"
+    "correcta": "a"
    },
    {
-    "id": "toa5-012",
+    "id": "toa5-021",
     "nivel": "A",
     "sub": "La torre",
     "pregunta": "¿Qué guardián con cabeza de león custodia las fasces?",
     "opciones": [
      "La esfinge",
      "El león de Nemea",
-     "El leontocéfalo, creado por Mitra",
-     "Ladón"
-    ],
-    "correcta": "c"
-   },
-   {
-    "id": "toa5-013",
-    "nivel": "A",
-    "sub": "La torre",
-    "pregunta": "¿Qué exige el leontocéfalo para dejarlos pasar?",
-    "opciones": [
-     "Una canción",
-     "Una pluma de grifo",
-     "La flecha de Dodona",
-     "El sacrificio de la inmortalidad de alguien"
+     "Ladón",
+     "El leontocéfalo, creado por Mitra"
     ],
     "correcta": "d"
    },
    {
-    "id": "toa5-014",
+    "id": "toa5-022",
+    "nivel": "A",
+    "sub": "La torre",
+    "pregunta": "¿Qué exige el leontocéfalo para dejarlos pasar?",
+    "opciones": [
+     "El sacrificio de la inmortalidad de alguien",
+     "Una canción",
+     "Una pluma de grifo",
+     "La flecha de Dodona"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-023",
     "nivel": "I",
     "sub": "La torre",
     "pregunta": "¿Quién entrega su inmortalidad?",
     "opciones": [
      "Meg",
-     "Rachel",
      "Lu",
+     "Rachel",
      "Kayla"
     ],
-    "correcta": "c"
+    "correcta": "b"
    },
    {
-    "id": "toa5-015",
+    "id": "toa5-024",
     "nivel": "I",
     "sub": "La torre",
     "pregunta": "¿Qué hijos de Apolo lo guían dentro de la torre?",
     "opciones": [
-     "Kayla y Austin",
      "Will y Lee",
+     "Kayla y Austin",
      "Michael y Will",
      "Trofonio y Georgina"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
-    "id": "toa5-016",
+    "id": "toa5-025",
     "nivel": "A",
     "sub": "La torre",
     "pregunta": "¿Qué descubre Nerón obligado a admitir?",
     "opciones": [
      "Que era hijo de Apolo",
      "Que mató a Calígula",
-     "Que Meg es su hija",
-     "Que era un peón de Pitón"
+     "Que era un peón de Pitón",
+     "Que Meg es su hija"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
-    "id": "toa5-017",
+    "id": "toa5-026",
     "nivel": "A",
     "sub": "La torre",
     "pregunta": "¿Cómo acaba Apolo con Nerón?",
     "opciones": [
      "Lo arroja desde la torre",
+     "Rompe sus fasces y le quita la divinidad",
      "Le dispara la flecha de Dodona",
-     "Lo encierra en el Laberinto",
-     "Rompe sus fasces y le quita la divinidad"
+     "Lo encierra en el Laberinto"
     ],
-    "correcta": "d"
+    "correcta": "b"
    },
    {
-    "id": "toa5-018",
+    "id": "toa5-027",
+    "nivel": "I",
+    "sub": "La torre",
+    "pregunta": "¿Qué le regala Nico al rey de los trogloditas como ofrenda de paz?",
+    "opciones": [
+     "Un escinco (un lagarto)",
+     "Un sombrero de copa",
+     "Una espada de hierro estigio",
+     "Un saco de piedras preciosas"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-028",
+    "nivel": "E",
+    "sub": "La torre",
+    "pregunta": "¿Cómo se llama el rey de los trogloditas?",
+    "opciones": [
+     "Criii-Bling",
+     "Clic-Mal",
+     "Grrr-Ploc",
+     "Escinco"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-029",
+    "nivel": "A",
+    "sub": "La torre",
+    "pregunta": "¿Qué escritor romano, según Apolo, se inventó a los trogloditas?",
+    "opciones": [
+     "Plinio",
+     "Ovidio",
+     "Eliano",
+     "Virgilio"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa5-030",
+    "nivel": "I",
+    "sub": "La torre",
+    "pregunta": "¿Qué hijo adoptivo de Nerón le quita a Meg sus anillos?",
+    "opciones": [
+     "Lucio",
+     "Casio",
+     "Emma",
+     "Aemilia"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa5-031",
+    "nivel": "A",
+    "sub": "La torre",
+    "pregunta": "¿Qué se ata Lu en los muñones para seguir peleando?",
+    "opciones": [
+     "Dos espadas",
+     "Un tenedor y un cuchillo",
+     "Garfios de pirata",
+     "Dos escudos"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa5-032",
+    "nivel": "I",
+    "sub": "La torre",
+    "pregunta": "¿Cómo se llama la personalidad alternativa y cruel de Nerón que Meg conoció de niña?",
+    "opciones": [
+     "La Bestia",
+     "El Emperador",
+     "El Sol Naciente",
+     "El Padre"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-033",
+    "nivel": "E",
+    "sub": "La torre",
+    "pregunta": "¿Qué espíritus de plantas de interior pelean dentro de la torre?",
+    "opciones": [
+     "Karpoi de manzana",
+     "Melíades",
+     "Dríades de ficus",
+     "Náyades de pecera"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa5-034",
+    "nivel": "A",
+    "sub": "La torre",
+    "pregunta": "¿Qué propone Ares cuando los dioses discuten un nuevo duodécimo dios?",
+    "opciones": [
+     "Un dios de los videojuegos",
+     "Un dios de los desastres climáticos",
+     "Un dios de la guerra nuclear",
+     "Él mismo, dos veces"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa5-035",
     "nivel": "I",
     "sub": "Delfos",
     "pregunta": "¿A dónde viaja Apolo para la batalla final?",
     "opciones": [
      "Al Olimpo",
-     "A Roma",
      "A Delfos",
+     "A Roma",
      "A Delos"
-    ],
-    "correcta": "c"
-   },
-   {
-    "id": "toa5-019",
-    "nivel": "B",
-    "sub": "Delfos",
-    "pregunta": "¿Contra quién es la batalla final de Apolo?",
-    "opciones": [
-     "Nerón",
-     "Pitón",
-     "Zeus",
-     "Gea"
     ],
     "correcta": "b"
    },
    {
-    "id": "toa5-020",
+    "id": "toa5-036",
+    "nivel": "B",
+    "sub": "Delfos",
+    "pregunta": "¿Contra quién es la batalla final de Apolo?",
+    "opciones": [
+     "Pitón",
+     "Nerón",
+     "Zeus",
+     "Gea"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-037",
     "nivel": "A",
     "sub": "Delfos",
     "pregunta": "¿Qué hace la flecha de Dodona en la pelea final?",
     "opciones": [
      "Mata a Pitón",
-     "Se sacrifica para dejar ciego a Pitón",
      "Lleva a Apolo al Olimpo",
-     "Se convierte en lira"
+     "Se convierte en lira",
+     "Se sacrifica para dejar ciego a Pitón"
     ],
-    "correcta": "b"
+    "correcta": "d"
    },
    {
-    "id": "toa5-021",
+    "id": "toa5-038",
     "nivel": "A",
     "sub": "Delfos",
     "pregunta": "¿Dónde arroja Apolo finalmente a Pitón?",
     "opciones": [
-     "Al Caos, debajo del Tártaro",
      "Al río Estigio",
      "Al mar Egeo",
+     "Al Caos, debajo del Tártaro",
      "Al Inframundo"
     ],
-    "correcta": "a"
+    "correcta": "c"
    },
    {
-    "id": "toa5-022",
+    "id": "toa5-039",
     "nivel": "A",
     "sub": "Delfos",
     "pregunta": "¿Qué diosa lo seguía desde que rompió su juramento?",
     "opciones": [
-     "Estigia",
      "Némesis",
+     "Estigia",
      "Hécate",
      "Nix"
     ],
-    "correcta": "a"
+    "correcta": "b"
    },
    {
-    "id": "toa5-023",
+    "id": "toa5-040",
     "nivel": "I",
     "sub": "Delfos",
     "pregunta": "¿Qué aprendió Apolo según esa diosa?",
@@ -12080,46 +14420,46 @@
     "correcta": "c"
    },
    {
-    "id": "toa5-024",
+    "id": "toa5-041",
     "nivel": "B",
     "sub": "Delfos",
     "pregunta": "¿Qué recupera Apolo al final?",
     "opciones": [
-     "Su carro",
      "Su divinidad",
+     "Su carro",
      "Su memoria",
      "Su hermana"
-    ],
-    "correcta": "b"
-   },
-   {
-    "id": "toa5-025",
-    "nivel": "I",
-    "sub": "Delfos",
-    "pregunta": "¿Dónde vive Meg al final?",
-    "opciones": [
-     "En Palm Springs, con Lu",
-     "En el Campamento Mestizo",
-     "En el Olimpo",
-     "En Nueva Roma"
     ],
     "correcta": "a"
    },
    {
-    "id": "toa5-026",
+    "id": "toa5-042",
+    "nivel": "I",
+    "sub": "Delfos",
+    "pregunta": "¿Dónde vive Meg al final?",
+    "opciones": [
+     "En el Campamento Mestizo",
+     "En el Olimpo",
+     "En Nueva Roma",
+     "En Palm Springs, con Lu"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa5-043",
     "nivel": "A",
     "sub": "Delfos",
     "pregunta": "¿Qué hace Meg con los niños que crió Nerón?",
     "opciones": [
      "Los entrena para pelear",
      "Los lleva a la legión",
-     "Los manda con sus familias",
-     "Les enseña jardinería"
+     "Les enseña jardinería",
+     "Los manda con sus familias"
     ],
-    "correcta": "d"
+    "correcta": "c"
    },
    {
-    "id": "toa5-027",
+    "id": "toa5-044",
     "nivel": "A",
     "sub": "Delfos",
     "pregunta": "¿Qué planean Nico y Will al final?",
@@ -12132,20 +14472,20 @@
     "correcta": "c"
    },
    {
-    "id": "toa5-028",
+    "id": "toa5-045",
     "nivel": "I",
     "sub": "Delfos",
     "pregunta": "¿Dónde estudian Percy y Annabeth al final de la saga?",
     "opciones": [
-     "En Nueva Roma",
      "En Nueva York",
      "En Atenas",
-     "En San Francisco"
+     "En San Francisco",
+     "En Nueva Roma"
     ],
-    "correcta": "a"
+    "correcta": "d"
    },
    {
-    "id": "toa5-029",
+    "id": "toa5-046",
     "nivel": "I",
     "sub": "Delfos",
     "pregunta": "¿Con quién vive Piper en Oklahoma?",
@@ -12158,15 +14498,54 @@
     "correcta": "a"
    },
    {
-    "id": "toa5-030",
+    "id": "toa5-047",
     "nivel": "I",
     "sub": "Delfos",
     "pregunta": "¿Cómo visita Apolo a todos sus amigos a la vez?",
     "opciones": [
+     "Se divide en varias copias",
      "Usa mensajes Iris",
      "Viaja por las sombras",
-     "Envía a sus hijos",
-     "Se divide en varias copias"
+     "Envía a sus hijos"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-048",
+    "nivel": "I",
+    "sub": "Delfos",
+    "pregunta": "¿Qué se plantea estudiar Percy en la Universidad de la Nueva Roma?",
+    "opciones": [
+     "Arquitectura",
+     "Historia antigua",
+     "Educación física",
+     "Biología marina o acuicultura"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa5-049",
+    "nivel": "A",
+    "sub": "Delfos",
+    "pregunta": "¿Por qué Nico decide no ir a buscar a Jason al inframundo?",
+    "opciones": [
+     "Porque Hades se lo prohibió",
+     "Porque Jason tomó una decisión y deshacerla no honraría su sacrificio",
+     "Porque Jason ya renació",
+     "Porque Will no lo dejó"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa5-050",
+    "nivel": "I",
+    "sub": "Delfos",
+    "pregunta": "¿Quién acompaña a Meg en el Campamento Mestizo cuando Apolo regresa?",
+    "opciones": [
+     "Seymour",
+     "Arión",
+     "Festo",
+     "Melocotones"
     ],
     "correcta": "d"
    }
