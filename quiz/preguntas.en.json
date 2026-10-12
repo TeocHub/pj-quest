@@ -9983,6 +9983,2196 @@
   ]
  },
  {
+  "parte": 31,
+  "saga": "toa",
+  "libro": 1,
+  "corto": "ToA 1",
+  "titulo": "The Hidden Oracle",
+  "preguntas": [
+   {
+    "id": "toa1-001",
+    "nivel": "B",
+    "sub": "The fall of a god",
+    "pregunta": "Who punishes Apollo by turning him mortal?",
+    "opciones": [
+     "Hera",
+     "Hades",
+     "The Fates",
+     "Zeus, his father"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-002",
+    "nivel": "B",
+    "sub": "The fall of a god",
+    "pregunta": "What mortal name does Apollo get?",
+    "opciones": [
+     "Lester Papadopoulos",
+     "Lester Jackson",
+     "Leo Papadopoulos",
+     "Lucas Apollonius"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-003",
+    "nivel": "I",
+    "sub": "The fall of a god",
+    "pregunta": "How old does Lester appear to be?",
+    "opciones": [
+     "12",
+     "20",
+     "16",
+     "14"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-004",
+    "nivel": "I",
+    "sub": "The fall of a god",
+    "pregunta": "Where does Apollo land when he falls from Olympus?",
+    "opciones": [
+     "In the Camp Half-Blood lake",
+     "On the roof of the Empire State Building",
+     "In Central Park",
+     "In a dumpster in a New York alley"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-005",
+    "nivel": "A",
+    "sub": "The fall of a god",
+    "pregunta": "Why does Zeus punish Apollo?",
+    "opciones": [
+     "For losing the sun chariot",
+     "For falling for a mortal",
+     "He blames him for encouraging his descendant Octavian during the war with Gaea",
+     "For stealing his bolt"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-006",
+    "nivel": "I",
+    "sub": "The fall of a god",
+    "pregunta": "What is Apollo's mortal body like?",
+    "opciones": [
+     "He's muscular and athletic",
+     "He glows like the sun",
+     "He has acne, is out of shape and clumsy",
+     "He has wings"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-007",
+    "nivel": "B",
+    "sub": "The fall of a god",
+    "pregunta": "Who rescues Apollo from some thugs in the alley?",
+    "opciones": [
+     "Meg McCaffrey",
+     "Percy Jackson",
+     "Rachel Dare",
+     "Will Solace"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-008",
+    "nivel": "A",
+    "sub": "The fall of a god",
+    "pregunta": "What does Meg attack the thugs with?",
+    "opciones": [
+     "A sword",
+     "Rocks",
+     "A bat",
+     "Rotten fruit"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-009",
+    "nivel": "I",
+    "sub": "The fall of a god",
+    "pregunta": "How old is Meg when she meets Apollo?",
+    "opciones": [
+     "16",
+     "10",
+     "14",
+     "12"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-010",
+    "nivel": "I",
+    "sub": "The fall of a god",
+    "pregunta": "What bond forms between Meg and Apollo?",
+    "opciones": [
+     "She becomes his priestess",
+     "They're siblings",
+     "He's bound to serve her for the length of his punishment",
+     "She's his paid bodyguard"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-011",
+    "nivel": "B",
+    "sub": "The fall of a god",
+    "pregunta": "Whose daughter is Meg?",
+    "opciones": [
+     "Persephone",
+     "Hecate",
+     "Artemis",
+     "Demeter"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-012",
+    "nivel": "I",
+    "sub": "The fall of a god",
+    "pregunta": "What weapons come out of Meg's gold rings?",
+    "opciones": [
+     "Two bronze daggers",
+     "A bow and arrow",
+     "A spear",
+     "Two imperial gold sickles"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-013",
+    "nivel": "I",
+    "sub": "The fall of a god",
+    "pregunta": "What kind of creature is Peaches, Meg's companion?",
+    "opciones": [
+     "A dryad",
+     "A satyr",
+     "A karpos, a grain spirit",
+     "A hellhound"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-014",
+    "nivel": "A",
+    "sub": "The fall of a god",
+    "pregunta": "When does Peaches show up?",
+    "opciones": [
+     "When someone says his name",
+     "Only at night",
+     "When Meg is in danger",
+     "When Apollo sings"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-015",
+    "nivel": "I",
+    "sub": "The fall of a god",
+    "pregunta": "Whose home do Apollo and Meg visit first in New York?",
+    "opciones": [
+     "Percy Jackson's",
+     "Rachel Dare's",
+     "Annabeth's",
+     "Nico's"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-016",
+    "nivel": "A",
+    "sub": "The fall of a god",
+    "pregunta": "Which plague spirits attack them on the way to camp?",
+    "opciones": [
+     "The nosoi",
+     "The keres",
+     "The arai",
+     "The makhai"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-017",
+    "nivel": "I",
+    "sub": "Camp Half-Blood",
+    "pregunta": "What's wrong at camp when Apollo arrives?",
+    "opciones": [
+     "The Roman army occupied it",
+     "The lake dried up",
+     "Chiron is missing",
+     "Communications fail and campers vanish into the woods"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-018",
+    "nivel": "I",
+    "sub": "Camp Half-Blood",
+    "pregunta": "What's wrong with Rachel, the Oracle?",
+    "opciones": [
+     "She lost her sight",
+     "She left with the Hunters",
+     "She can't give prophecies",
+     "She went mad"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-019",
+    "nivel": "A",
+    "sub": "Camp Half-Blood",
+    "pregunta": "Which monster has taken over Delphi, Apollo's oracle?",
+    "opciones": [
+     "Python",
+     "The Hydra",
+     "Echidna",
+     "Typhon"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-020",
+    "nivel": "I",
+    "sub": "Camp Half-Blood",
+    "pregunta": "Which of Apollo's children went missing from camp?",
+    "opciones": [
+     "Will and Lee",
+     "Kayla and Austin",
+     "Michael and Will",
+     "Lee and Austin"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-021",
+    "nivel": "I",
+    "sub": "Camp Half-Blood",
+    "pregunta": "What oath does Apollo swear early on and later break?",
+    "opciones": [
+     "Never to return to Olympus",
+     "Not to use his bow or music until he's a god again",
+     "Never to lie",
+     "Not to fight Nero"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-022",
+    "nivel": "A",
+    "sub": "Camp Half-Blood",
+    "pregunta": "Why does Apollo break his oath?",
+    "opciones": [
+     "To drive off the myrmekes attacking Meg with music",
+     "To impress the campers",
+     "To wake Rachel",
+     "To beat the Colossus"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-023",
+    "nivel": "I",
+    "sub": "Camp Half-Blood",
+    "pregunta": "Which giant ant-like creatures kidnap Meg?",
+    "opciones": [
+     "The myrmekes",
+     "The telkhines",
+     "The strixes",
+     "The blemmyae"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-024",
+    "nivel": "I",
+    "sub": "Camp Half-Blood",
+    "pregunta": "Which Titaness helps Apollo and gives him wind chimes?",
+    "opciones": [
+     "Mnemosyne",
+     "Themis",
+     "Leto",
+     "Rhea"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-025",
+    "nivel": "I",
+    "sub": "Camp Half-Blood",
+    "pregunta": "Which ancient oracle is hidden in the camp woods?",
+    "opciones": [
+     "The cave of Trophonius",
+     "The Grove of Dodona",
+     "The Sibyl of Cumae",
+     "The Oracle of Delphi"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-026",
+    "nivel": "A",
+    "sub": "Camp Half-Blood",
+    "pregunta": "How do the trees of Dodona give prophecies?",
+    "opciones": [
+     "Writing on their leaves",
+     "Through a satyr",
+     "All speaking at once, in whispers",
+     "In dreams"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-027",
+    "nivel": "A",
+    "sub": "Camp Half-Blood",
+    "pregunta": "What do the dryads do to save the grove from Greek fire?",
+    "opciones": [
+     "They absorb the fire and die",
+     "They call down rain",
+     "They flee with the trees",
+     "They throw it back at Nero"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-028",
+    "nivel": "I",
+    "sub": "Camp Half-Blood",
+    "pregunta": "What talking object does Apollo get at the Grove of Dodona?",
+    "opciones": [
+     "A lyre",
+     "An arrow",
+     "A golden leaf",
+     "A shield"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-029",
+    "nivel": "A",
+    "sub": "Camp Half-Blood",
+    "pregunta": "What's peculiar about the way the Arrow of Dodona talks?",
+    "opciones": [
+     "It speaks Latin",
+     "It only speaks in riddles",
+     "It speaks old-fashioned English, Shakespeare-style",
+     "It speaks in nursery rhymes"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-030",
+    "nivel": "B",
+    "sub": "Nero",
+    "pregunta": "Which Roman emperor is the book's villain?",
+    "opciones": [
+     "Caligula",
+     "Nero",
+     "Commodus",
+     "Julius Caesar"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-031",
+    "nivel": "I",
+    "sub": "Nero",
+    "pregunta": "What's the name of the emperors' company?",
+    "opciones": [
+     "Olympus Inc.",
+     "Empire Holdings",
+     "Rome Corp.",
+     "Triumvirate Holdings"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-032",
+    "nivel": "A",
+    "sub": "Nero",
+    "pregunta": "Why are the emperors still alive?",
+    "opciones": [
+     "They drank nectar",
+     "They were worshipped as gods and that sustains them",
+     "Gaea revived them",
+     "They live in the Lotus Hotel"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-033",
+    "nivel": "A",
+    "sub": "Nero",
+    "pregunta": "How is Nero connected to Meg?",
+    "opciones": [
+     "He's her biological father",
+     "He's her stepfather, who raised and abused her",
+     "He's her uncle",
+     "He's her fencing teacher"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-034",
+    "nivel": "I",
+    "sub": "Nero",
+    "pregunta": "What does Meg call her father's killer, not realizing he's Nero?",
+    "opciones": [
+     "The Monster",
+     "The King",
+     "The Shadow",
+     "The Beast"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa1-035",
+    "nivel": "I",
+    "sub": "Nero",
+    "pregunta": "What giant statue does Nero send against the camp?",
+    "opciones": [
+     "The Colossus of Rhodes",
+     "A Talos",
+     "The Colossus Neronis",
+     "The Athena Parthenos"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa1-036",
+    "nivel": "A",
+    "sub": "Nero",
+    "pregunta": "How does Apollo defeat the Colossus?",
+    "opciones": [
+     "He drowns it in the Sound",
+     "With a plague-enchanted arrow",
+     "He unscrews its head",
+     "He melts it with Greek fire"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-037",
+    "nivel": "I",
+    "sub": "Nero",
+    "pregunta": "What does Meg do at the end of the book?",
+    "opciones": [
+     "She releases Apollo from her service and runs back to Nero",
+     "She stays at camp",
+     "She joins the Hunters",
+     "She goes to find her mother"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa1-038",
+    "nivel": "I",
+    "sub": "Nero",
+    "pregunta": "Who arrives at camp at the end of the book?",
+    "opciones": [
+     "Percy and Annabeth",
+     "Leo and Calypso",
+     "Thalia and the Hunters",
+     "Jason and Piper"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-039",
+    "nivel": "A",
+    "sub": "Nero",
+    "pregunta": "How do Leo and Calypso arrive?",
+    "opciones": [
+     "On the Argo II",
+     "Riding Festus",
+     "On a pegasus",
+     "Through the Labyrinth"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa1-040",
+    "nivel": "I",
+    "sub": "Nero",
+    "pregunta": "How many ancient oracles must Apollo free?",
+    "opciones": [
+     "Five",
+     "Three",
+     "Seven",
+     "Twelve"
+    ],
+    "correcta": "a"
+   }
+  ]
+ },
+ {
+  "parte": 32,
+  "saga": "toa",
+  "libro": 2,
+  "corto": "ToA 2",
+  "titulo": "The Dark Prophecy",
+  "preguntas": [
+   {
+    "id": "toa2-001",
+    "nivel": "B",
+    "sub": "Indianapolis",
+    "pregunta": "Who is Apollo traveling with at the start of The Dark Prophecy?",
+    "opciones": [
+     "Meg and Grover",
+     "Leo and Calypso",
+     "Percy and Annabeth",
+     "Jason and Piper"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa2-002",
+    "nivel": "I",
+    "sub": "Indianapolis",
+    "pregunta": "In which city does most of the book take place?",
+    "opciones": [
+     "Chicago",
+     "Detroit",
+     "St. Louis",
+     "Indianapolis"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa2-003",
+    "nivel": "I",
+    "sub": "Indianapolis",
+    "pregunta": "Which headless monsters, with faces on their chests, attack them?",
+    "opciones": [
+     "The cynocephali",
+     "The blemmyae",
+     "The eurynomoi",
+     "The pandai"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa2-004",
+    "nivel": "I",
+    "sub": "Indianapolis",
+    "pregunta": "What's the name of the secret refuge where they hide?",
+    "opciones": [
+     "Bunker 9",
+     "The Waystation",
+     "The Wolf House",
+     "Safe Harbor"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa2-005",
+    "nivel": "A",
+    "sub": "Indianapolis",
+    "pregunta": "Inside which building is that refuge?",
+    "opciones": [
+     "A football stadium",
+     "An art museum",
+     "Indianapolis Union Station",
+     "A skyscraper"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa2-006",
+    "nivel": "I",
+    "sub": "Indianapolis",
+    "pregunta": "Which goddess of nets owns the refuge?",
+    "opciones": [
+     "Artemis",
+     "Hecate",
+     "Britomartis",
+     "Iris"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa2-007",
+    "nivel": "A",
+    "sub": "Indianapolis",
+    "pregunta": "Who are Hemithea (Emmie) and Josephine (Jo)?",
+    "opciones": [
+     "Daughters of Apollo",
+     "Calypso's nymphs",
+     "Hylla's Amazons",
+     "Former Hunters of Artemis who chose to live as mortals"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa2-008",
+    "nivel": "I",
+    "sub": "Indianapolis",
+    "pregunta": "What's the name of Emmie and Jo's adopted daughter?",
+    "opciones": [
+     "Georgina",
+     "Lavinia",
+     "Julia",
+     "Kayla"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa2-009",
+    "nivel": "A",
+    "sub": "Indianapolis",
+    "pregunta": "What happened to Georgina before they arrived?",
+    "opciones": [
+     "Griffins carried her off",
+     "She vanished after consulting the Oracle of Trophonius and was left damaged",
+     "She joined Commodus",
+     "She left with the Hunters"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa2-010",
+    "nivel": "I",
+    "sub": "Indianapolis",
+    "pregunta": "Which animals does Britomartis ask Apollo to rescue?",
+    "opciones": [
+     "Pegasi",
+     "Griffins",
+     "Unicorns",
+     "Hippocampi"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa2-011",
+    "nivel": "B",
+    "sub": "Indianapolis",
+    "pregunta": "Which Roman emperor controls Indianapolis?",
+    "opciones": [
+     "Commodus",
+     "Nero",
+     "Caligula",
+     "Tarquin"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa2-012",
+    "nivel": "A",
+    "sub": "Indianapolis",
+    "pregunta": "Why does Commodus hate Apollo so much?",
+    "opciones": [
+     "Apollo killed him in the past",
+     "Apollo stole his throne",
+     "Apollo cursed his father",
+     "Apollo blinded him in Rome"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa2-013",
+    "nivel": "I",
+    "sub": "Indianapolis",
+    "pregunta": "Whose son is Lit (Lityerses), Commodus's ally?",
+    "opciones": [
+     "Mars",
+     "King Midas",
+     "Commodus",
+     "Hephaestus"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa2-014",
+    "nivel": "A",
+    "sub": "Indianapolis",
+    "pregunta": "Why does Lit hold a grudge against Leo?",
+    "opciones": [
+     "Because Leo stole his dragon",
+     "Because of a duel at camp",
+     "Because of what Leo did to his father Midas",
+     "Because Leo left him on Ogygia"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa2-015",
+    "nivel": "I",
+    "sub": "Indianapolis",
+    "pregunta": "Who shows up to help and duels Lit?",
+    "opciones": [
+     "Leo",
+     "Meg",
+     "Calypso",
+     "Thalia"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa2-016",
+    "nivel": "A",
+    "sub": "Indianapolis",
+    "pregunta": "Which throne are they looking for in Commodus's lair?",
+    "opciones": [
+     "Zeus's throne",
+     "Kronos's throne",
+     "The Throne of Memory",
+     "The throne of the sun"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa2-017",
+    "nivel": "I",
+    "sub": "Indianapolis",
+    "pregunta": "What's happening with Calypso in this book?",
+    "opciones": [
+     "She regains her immortality",
+     "She goes back to Ogygia",
+     "She becomes a Hunter",
+     "She's lost control of her magic and works to regain it"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa2-018",
+    "nivel": "I",
+    "sub": "The Oracle of Trophonius",
+    "pregunta": "Which oracle must they face in this book?",
+    "opciones": [
+     "Trophonius's",
+     "Dodona's",
+     "The Erythraean Sibyl",
+     "Delphi's"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa2-019",
+    "nivel": "A",
+    "sub": "The Oracle of Trophonius",
+    "pregunta": "How is Trophonius related to Apollo?",
+    "opciones": [
+     "He's his son",
+     "He's his brother",
+     "He's his uncle",
+     "He's his priest"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa2-020",
+    "nivel": "A",
+    "sub": "The Oracle of Trophonius",
+    "pregunta": "Which two rivers must someone consulting Trophonius drink from?",
+    "opciones": [
+     "The Styx and the Lethe",
+     "Fire and Ice",
+     "Life and Death",
+     "The River of Memory and the River of Forgetfulness"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa2-021",
+    "nivel": "I",
+    "sub": "The Oracle of Trophonius",
+    "pregunta": "What happens to Apollo when he drinks from those rivers?",
+    "opciones": [
+     "He temporarily loses his sanity",
+     "He becomes a god again",
+     "He sleeps for days",
+     "He forgets Meg"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa2-022",
+    "nivel": "A",
+    "sub": "The Oracle of Trophonius",
+    "pregunta": "What does Meg do to bring Apollo back?",
+    "opciones": [
+     "She gives him nectar",
+     "She hits him with her sickles",
+     "She sings a song about her sorrows",
+     "She calls Peaches"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa2-023",
+    "nivel": "I",
+    "sub": "The Oracle of Trophonius",
+    "pregunta": "What wish does Trophonius ask of Apollo?",
+    "opciones": [
+     "To destroy his oracle",
+     "To bring him back to life",
+     "To kill Commodus",
+     "To take him to Olympus"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa2-024",
+    "nivel": "E",
+    "sub": "The Oracle of Trophonius",
+    "pregunta": "What's the name of the headless ghost who is Trophonius's brother?",
+    "opciones": [
+     "Agamemnon",
+     "Agathon",
+     "Agamethus",
+     "Archimedes"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa2-025",
+    "nivel": "A",
+    "sub": "The Oracle of Trophonius",
+    "pregunta": "What does Apollo do to save Meg after the prophecy?",
+    "opciones": [
+     "He takes her to Olympus",
+     "He performs CPR on her",
+     "He gives her his immortality",
+     "He asks Asclepius for help"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa2-026",
+    "nivel": "A",
+    "sub": "The battle",
+    "pregunta": "How does Apollo beat Commodus in the final battle?",
+    "opciones": [
+     "He briefly reveals his divine form and blinds him",
+     "He shoots him with an arrow",
+     "He traps him in Britomartis's net",
+     "He drowns him in the River of Forgetfulness"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa2-027",
+    "nivel": "I",
+    "sub": "The battle",
+    "pregunta": "Who helps defend the Waystation?",
+    "opciones": [
+     "The Roman legion",
+     "The Party Ponies",
+     "Tyson's Cyclopes",
+     "Thalia and the Hunters of Artemis"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa2-028",
+    "nivel": "A",
+    "sub": "The battle",
+    "pregunta": "What poetic form does this book's prophecy take?",
+    "opciones": [
+     "A haiku",
+     "Terza rima",
+     "A limerick",
+     "A sonnet"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa2-029",
+    "nivel": "I",
+    "sub": "The battle",
+    "pregunta": "What does the prophecy say they must warn about?",
+    "opciones": [
+     "An attack on Olympus",
+     "Python's arrival",
+     "An attack on Camp Jupiter",
+     "The fall of Delphi"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa2-030",
+    "nivel": "I",
+    "sub": "The battle",
+    "pregunta": "Which satyr does Meg summon at the end to guide them?",
+    "opciones": [
+     "Gleeson Hedge",
+     "Don",
+     "Leneus",
+     "Grover Underwood"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa2-031",
+    "nivel": "I",
+    "sub": "The battle",
+    "pregunta": "What does Lit decide to do after he's rescued?",
+    "opciones": [
+     "Go back to Commodus",
+     "Go off with his father",
+     "Join Nero",
+     "Switch to Apollo's side"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa2-032",
+    "nivel": "I",
+    "sub": "The battle",
+    "pregunta": "Who continues west with Apollo at the end of the book?",
+    "opciones": [
+     "Leo and Calypso",
+     "Emmie and Jo",
+     "Meg and Grover",
+     "Thalia and Lit"
+    ],
+    "correcta": "c"
+   }
+  ]
+ },
+ {
+  "parte": 33,
+  "saga": "toa",
+  "libro": 3,
+  "corto": "ToA 3",
+  "titulo": "The Burning Maze",
+  "preguntas": [
+   {
+    "id": "toa3-001",
+    "nivel": "B",
+    "sub": "Southern California",
+    "pregunta": "Who travels together through the Labyrinth at the start of the book?",
+    "opciones": [
+     "Apollo, Meg and Grover",
+     "Apollo, Leo and Calypso",
+     "Apollo, Percy and Annabeth",
+     "Apollo, Jason and Piper"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-002",
+    "nivel": "I",
+    "sub": "Southern California",
+    "pregunta": "What's special about the Labyrinth in this part of California?",
+    "opciones": [
+     "It's flooded",
+     "It's frozen",
+     "It's on fire, causing wildfires and drought above",
+     "It's full of gold"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa3-003",
+    "nivel": "I",
+    "sub": "Southern California",
+    "pregunta": "What title does Grover hold by this time?",
+    "opciones": [
+     "King of the Satyrs",
+     "Praetor of the fauns",
+     "Lord of the Wild",
+     "Pan's advisor"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa3-004",
+    "nivel": "A",
+    "sub": "Southern California",
+    "pregunta": "What is Aeithales?",
+    "opciones": [
+     "Caligula's ship",
+     "An oracle of Apollo",
+     "Herophile's cave",
+     "Meg's childhood home in Palm Springs"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa3-005",
+    "nivel": "I",
+    "sub": "Southern California",
+    "pregunta": "Which couple of friends is hiding at Aeithales with their baby?",
+    "opciones": [
+     "Coach Hedge and Mellie",
+     "Emmie and Jo",
+     "Frank and Hazel",
+     "Leo and Calypso"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-006",
+    "nivel": "A",
+    "sub": "Southern California",
+    "pregunta": "In what kind of store do they meet Macro, the emperor's servant?",
+    "opciones": [
+     "A pet store",
+     "A military surplus store",
+     "A supermarket",
+     "A medieval armory"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa3-007",
+    "nivel": "I",
+    "sub": "Southern California",
+    "pregunta": "Which talking horse serves the third emperor?",
+    "opciones": [
+     "Arion",
+     "Blackjack",
+     "Scipio",
+     "Incitatus"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa3-008",
+    "nivel": "B",
+    "sub": "Southern California",
+    "pregunta": "Who is the third emperor of the Triumvirate?",
+    "opciones": [
+     "Nero",
+     "Commodus",
+     "Tarquin",
+     "Caligula"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa3-009",
+    "nivel": "I",
+    "sub": "Southern California",
+    "pregunta": "Which sorceress is helping Caligula?",
+    "opciones": [
+     "Circe",
+     "Pasiphaë",
+     "Medea",
+     "Hecate"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa3-010",
+    "nivel": "A",
+    "sub": "Southern California",
+    "pregunta": "What does Caligula want to achieve?",
+    "opciones": [
+     "To destroy Olympus",
+     "To conquer Camp Half-Blood",
+     "To become the new sun god",
+     "To return to Rome"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa3-011",
+    "nivel": "A",
+    "sub": "Southern California",
+    "pregunta": "Which sun god's fire is Medea using?",
+    "opciones": [
+     "Helios",
+     "Apollo",
+     "Hyperion",
+     "Ra"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-012",
+    "nivel": "I",
+    "sub": "Southern California",
+    "pregunta": "Which monstrous birds attack them in the Labyrinth?",
+    "opciones": [
+     "Harpies",
+     "Strixes",
+     "Stymphalian birds",
+     "Griffins"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa3-013",
+    "nivel": "I",
+    "sub": "Jason and Piper",
+    "pregunta": "Why is Piper moving?",
+    "opciones": [
+     "She was expelled",
+     "She's moving to camp",
+     "Aphrodite ordered it",
+     "Her dad lost his fortune and they're moving to Oklahoma"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa3-014",
+    "nivel": "E",
+    "sub": "Jason and Piper",
+    "pregunta": "Which Oklahoma town is Piper moving to?",
+    "opciones": [
+     "Tulsa",
+     "Oklahoma City",
+     "Tahlequah",
+     "Norman"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa3-015",
+    "nivel": "I",
+    "sub": "Jason and Piper",
+    "pregunta": "What's going on between Jason and Piper in this book?",
+    "opciones": [
+     "They're getting married",
+     "They've broken up",
+     "They live together in New Rome",
+     "They don't know each other"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa3-016",
+    "nivel": "A",
+    "sub": "Jason and Piper",
+    "pregunta": "What warning had the Sibyl given Jason that he kept secret?",
+    "opciones": [
+     "That Piper would betray him",
+     "That he'd lose his memory",
+     "That Caligula was his father",
+     "That one of them would die the next time they entered the Labyrinth"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa3-017",
+    "nivel": "I",
+    "sub": "Jason and Piper",
+    "pregunta": "What must they steal from Caligula's ship?",
+    "opciones": [
+     "His crown",
+     "His fasces",
+     "His sword",
+     "Caligula's shoes"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa3-018",
+    "nivel": "I",
+    "sub": "Jason and Piper",
+    "pregunta": "Which huge-eared beings serve Caligula?",
+    "opciones": [
+     "The pandai",
+     "The blemmyae",
+     "The cynocephali",
+     "The telkhines"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-019",
+    "nivel": "A",
+    "sub": "Jason and Piper",
+    "pregunta": "Which young pandos helps Apollo and wants to learn music?",
+    "opciones": [
+     "Crest",
+     "Tristan",
+     "Macro",
+     "Bob"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-020",
+    "nivel": "B",
+    "sub": "Jason and Piper",
+    "pregunta": "Who dies on Caligula's ship?",
+    "opciones": [
+     "Piper McLean",
+     "Jason Grace",
+     "Grover",
+     "Leo Valdez"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa3-021",
+    "nivel": "I",
+    "sub": "Jason and Piper",
+    "pregunta": "What does Jason do before he dies so the others can escape?",
+    "opciones": [
+     "Summons Zeus",
+     "Calls his venti",
+     "Sinks the ship",
+     "Asks Piper for help"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa3-022",
+    "nivel": "A",
+    "sub": "Jason and Piper",
+    "pregunta": "Who does Piper blame for Jason's death?",
+    "opciones": [
+     "Apollo",
+     "Meg",
+     "Grover",
+     "Herself"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-023",
+    "nivel": "I",
+    "sub": "Jason and Piper",
+    "pregunta": "Where does Apollo take Jason's body?",
+    "opciones": [
+     "To Camp Half-Blood",
+     "To Olympus",
+     "To Camp Jupiter",
+     "To Malibu"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa3-024",
+    "nivel": "I",
+    "sub": "Jason and Piper",
+    "pregunta": "Where does Caligula sail with his fleet?",
+    "opciones": [
+     "Toward New York",
+     "Toward Greece",
+     "Toward Camp Jupiter",
+     "Toward Hawaii"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa3-025",
+    "nivel": "B",
+    "sub": "The Erythraean Sibyl",
+    "pregunta": "Which oracle is imprisoned in the Burning Maze?",
+    "opciones": [
+     "The Sibyl of Cumae",
+     "The Erythraean Sibyl, Herophile",
+     "Trophonius",
+     "The Grove of Dodona"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa3-026",
+    "nivel": "A",
+    "sub": "The Erythraean Sibyl",
+    "pregunta": "How does Herophile give her prophecies?",
+    "opciones": [
+     "With word puzzles, like crosswords",
+     "With sonnets",
+     "In dreams",
+     "Writing on tree leaves"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-027",
+    "nivel": "I",
+    "sub": "The Erythraean Sibyl",
+    "pregunta": "Which ash-tree spirits help the group escape?",
+    "opciones": [
+     "The naiads",
+     "The meliai",
+     "The hamadryads",
+     "The aurae"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa3-028",
+    "nivel": "A",
+    "sub": "The Erythraean Sibyl",
+    "pregunta": "Who had planted those meliai long ago?",
+    "opciones": [
+     "Grover",
+     "Demeter",
+     "Meg",
+     "Apollo's father"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa3-029",
+    "nivel": "I",
+    "sub": "The Erythraean Sibyl",
+    "pregunta": "What happens to Medea and Incitatus at the end?",
+    "opciones": [
+     "They escape with Caligula",
+     "They join Apollo",
+     "They're left in the Labyrinth",
+     "They die"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa3-030",
+    "nivel": "A",
+    "sub": "The Erythraean Sibyl",
+    "pregunta": "What happens to Crest in the end?",
+    "opciones": [
+     "He dies in the fight",
+     "He stays at Aeithales",
+     "He leaves with Caligula",
+     "He turns into a tree"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa3-031",
+    "nivel": "I",
+    "sub": "The Erythraean Sibyl",
+    "pregunta": "Who takes Piper, Hedge and Mellie to Oklahoma?",
+    "opciones": [
+     "Apollo",
+     "Grover",
+     "Jason",
+     "Leo"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa3-032",
+    "nivel": "A",
+    "sub": "The Erythraean Sibyl",
+    "pregunta": "What does Apollo find when he investigates the Labyrinth's fires?",
+    "opciones": [
+     "A door to Tartarus",
+     "What remains of Helios, faded but still burning",
+     "Hephaestus's forge",
+     "The stolen sun chariot"
+    ],
+    "correcta": "b"
+   }
+  ]
+ },
+ {
+  "parte": 34,
+  "saga": "toa",
+  "libro": 4,
+  "corto": "ToA 4",
+  "titulo": "The Tyrant's Tomb",
+  "preguntas": [
+   {
+    "id": "toa4-001",
+    "nivel": "B",
+    "sub": "Toward Camp Jupiter",
+    "pregunta": "What are Apollo and Meg carrying to Camp Jupiter?",
+    "opciones": [
+     "The Athena Parthenos",
+     "The Sibylline Books",
+     "The legion's eagle",
+     "Jason's coffin"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa4-002",
+    "nivel": "I",
+    "sub": "Toward Camp Jupiter",
+    "pregunta": "Which corpse-eating monsters attack them on the way?",
+    "opciones": [
+     "The nosoi",
+     "The eurynomoi",
+     "The blemmyae",
+     "The myrmekes"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-003",
+    "nivel": "A",
+    "sub": "Toward Camp Jupiter",
+    "pregunta": "What happens to Apollo after one of those monsters scratches him?",
+    "opciones": [
+     "He loses his voice",
+     "He gets his powers back",
+     "He starts turning into a zombie",
+     "He goes blind"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-004",
+    "nivel": "I",
+    "sub": "Toward Camp Jupiter",
+    "pregunta": "Which pink-haired girl rescues them?",
+    "opciones": [
+     "Kayla",
+     "Julia",
+     "Lavinia Asimov",
+     "Reyna"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-005",
+    "nivel": "E",
+    "sub": "Toward Camp Jupiter",
+    "pregunta": "Which Muse is Lavinia's mother?",
+    "opciones": [
+     "Calliope, Muse of poetry",
+     "Terpsichore, Muse of dance",
+     "Clio, Muse of history",
+     "Urania, Muse of astronomy"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-006",
+    "nivel": "I",
+    "sub": "Toward Camp Jupiter",
+    "pregunta": "Who are the praetors who greet Apollo?",
+    "opciones": [
+     "Percy and Reyna",
+     "Hazel and Frank",
+     "Jason and Reyna",
+     "Frank and Reyna"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa4-007",
+    "nivel": "I",
+    "sub": "Toward Camp Jupiter",
+    "pregunta": "Which of Jason's projects does the camp decide to carry on?",
+    "opciones": [
+     "Rebuilding the Argo II",
+     "Merging the two legions",
+     "Building temples to all the gods",
+     "Writing his memoirs"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-008",
+    "nivel": "I",
+    "sub": "Toward Camp Jupiter",
+    "pregunta": "Which wolf goddess advises Apollo to seek divine help?",
+    "opciones": [
+     "Bellona",
+     "Diana",
+     "Juno",
+     "Lupa"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa4-009",
+    "nivel": "B",
+    "sub": "Toward Camp Jupiter",
+    "pregunta": "Who is rewriting the Sibylline Books?",
+    "opciones": [
+     "Rachel and Meg",
+     "Ella and Tyson",
+     "Octavian and Reyna",
+     "Frank and Hazel"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-010",
+    "nivel": "A",
+    "sub": "Toward Camp Jupiter",
+    "pregunta": "Where do Ella and Tyson work?",
+    "opciones": [
+     "In Jupiter's temple",
+     "In a bookshop",
+     "In the Senate House",
+     "In a bakery"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-011",
+    "nivel": "I",
+    "sub": "Tarquin and Harpocrates",
+    "pregunta": "Which ancient king of Rome has returned as an undead?",
+    "opciones": [
+     "Tarquin, the last king of Rome",
+     "Romulus",
+     "Numa",
+     "Julius Caesar"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa4-012",
+    "nivel": "A",
+    "sub": "Tarquin and Harpocrates",
+    "pregunta": "Which god of silence was Tarquin hiding?",
+    "opciones": [
+     "Morpheus",
+     "Harpocrates",
+     "Hypnos",
+     "Thanatos"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-013",
+    "nivel": "A",
+    "sub": "Tarquin and Harpocrates",
+    "pregunta": "Which San Francisco tower is that god in?",
+    "opciones": [
+     "Coit Tower",
+     "The Transamerica Pyramid",
+     "The Golden Gate Bridge",
+     "Sutro Tower"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa4-014",
+    "nivel": "I",
+    "sub": "Tarquin and Harpocrates",
+    "pregunta": "What does Harpocrates keep in a jar?",
+    "opciones": [
+     "The voice of the Sibyl of Cumae",
+     "Jason's soul",
+     "Helios's fire",
+     "Python's last breath"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa4-015",
+    "nivel": "I",
+    "sub": "Tarquin and Harpocrates",
+    "pregunta": "Who does the Senate send to investigate?",
+    "opciones": [
+     "Apollo, Meg, Lavinia and Hazel",
+     "Apollo, Frank and Reyna",
+     "Meg, Reyna and Dakota",
+     "Apollo, Ella and Tyson"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa4-016",
+    "nivel": "A",
+    "sub": "Tarquin and Harpocrates",
+    "pregunta": "What form does the prophecy Ella and Tyson give at the end take?",
+    "opciones": [
+     "A sonnet",
+     "A crossword",
+     "Terza rima, like Dante",
+     "A haiku"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-017",
+    "nivel": "I",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "Which two emperors attack Camp Jupiter together?",
+    "opciones": [
+     "Nero and Caligula",
+     "Nero and Commodus",
+     "Tarquin and Nero",
+     "Caligula and Commodus"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa4-018",
+    "nivel": "I",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "What weapon do they plan to destroy the camp with from their yachts?",
+    "opciones": [
+     "Greek fire",
+     "Gold cannons",
+     "Stolen lightning",
+     "Gorgon venom"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa4-019",
+    "nivel": "A",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "Which goddess does Apollo call on at Temple Hill?",
+    "opciones": [
+     "Diana, his sister",
+     "Juno",
+     "Venus",
+     "Bellona"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa4-020",
+    "nivel": "A",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "How does Frank finish off Caligula?",
+    "opciones": [
+     "With a gold arrow",
+     "By burning his firewood and sacrificing himself",
+     "By turning into a dragon",
+     "With Diocletian's scepter"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-021",
+    "nivel": "A",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "What happens to Frank after his sacrifice?",
+    "opciones": [
+     "He dies",
+     "He becomes a god",
+     "He ends up in Tartarus",
+     "He survives: Arion rescues him"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa4-022",
+    "nivel": "I",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "Who kills Commodus?",
+    "opciones": [
+     "Reyna",
+     "Apollo",
+     "Frank",
+     "Lavinia"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-023",
+    "nivel": "I",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "Who kills Tarquin?",
+    "opciones": [
+     "Meg",
+     "Hazel",
+     "Diana",
+     "Apollo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-024",
+    "nivel": "I",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "What does Reyna decide to do at the end?",
+    "opciones": [
+     "Stay praetor forever",
+     "Move to Puerto Rico",
+     "Join Diana's Hunters",
+     "Go back to the Amazons"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-025",
+    "nivel": "I",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "Who is chosen praetor in Reyna's place?",
+    "opciones": [
+     "Lavinia",
+     "Meg",
+     "Ella",
+     "Hazel"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa4-026",
+    "nivel": "I",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "What position does Lavinia receive?",
+    "opciones": [
+     "Centurion of the Fifth Cohort",
+     "Praetor",
+     "Augur",
+     "Senator"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa4-027",
+    "nivel": "A",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "Which centurion son of Bacchus dies of his battle wounds?",
+    "opciones": [
+     "Gwen",
+     "Dakota",
+     "Bobby",
+     "Larry"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa4-028",
+    "nivel": "A",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "What does Don the faun become when he dies?",
+    "opciones": [
+     "A star",
+     "A stone",
+     "A laurel tree",
+     "An oak"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-029",
+    "nivel": "I",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "What does Camp Jupiter give Apollo?",
+    "opciones": [
+     "A laurel crown",
+     "A pegasus",
+     "His old godly bow",
+     "A gold sword"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa4-030",
+    "nivel": "I",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "What does Meg receive as a gift from the camp?",
+    "opciones": [
+     "Seeds",
+     "A shield",
+     "A horse",
+     "A ring"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa4-031",
+    "nivel": "I",
+    "sub": "The battle for Camp Jupiter",
+    "pregunta": "Where do Apollo and Meg head at the end?",
+    "opciones": [
+     "Toward New York",
+     "Toward Delphi",
+     "Toward Indianapolis",
+     "Toward Alaska"
+    ],
+    "correcta": "a"
+   }
+  ]
+ },
+ {
+  "parte": 35,
+  "saga": "toa",
+  "libro": 5,
+  "corto": "ToA 5",
+  "titulo": "The Tower of Nero",
+  "preguntas": [
+   {
+    "id": "toa5-001",
+    "nivel": "B",
+    "sub": "New York",
+    "pregunta": "Which city does the last book of the series take place in?",
+    "opciones": [
+     "Rome",
+     "Indianapolis",
+     "New York",
+     "San Francisco"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa5-002",
+    "nivel": "I",
+    "sub": "New York",
+    "pregunta": "What does Nero threaten Apollo and Meg with?",
+    "opciones": [
+     "Destroying Camp Half-Blood",
+     "Burning Manhattan unless they surrender within two days",
+     "Killing Percy",
+     "Freeing Kronos"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa5-003",
+    "nivel": "I",
+    "sub": "New York",
+    "pregunta": "Which Gaulish woman, once Nero's servant, helps Apollo and Meg?",
+    "opciones": [
+     "Josephine",
+     "Luguselwa (Lu)",
+     "Hemithea",
+     "Boudicca"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa5-004",
+    "nivel": "A",
+    "sub": "New York",
+    "pregunta": "What is done to Lu when Nero discovers her betrayal?",
+    "opciones": [
+     "She's turned to stone",
+     "She's sent to Tartarus",
+     "She's erased from memory",
+     "Her hands are cut off"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa5-005",
+    "nivel": "I",
+    "sub": "New York",
+    "pregunta": "Which demigod couple joins Apollo in New York?",
+    "opciones": [
+     "Will Solace and Nico di Angelo",
+     "Percy and Annabeth",
+     "Frank and Hazel",
+     "Leo and Calypso"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-006",
+    "nivel": "I",
+    "sub": "New York",
+    "pregunta": "What curious power does Will show in this book?",
+    "opciones": [
+     "He flies",
+     "He turns invisible",
+     "He glows in the dark",
+     "He talks to arrows"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa5-007",
+    "nivel": "I",
+    "sub": "New York",
+    "pregunta": "Which wild bulls attack the group?",
+    "opciones": [
+     "The tauri silvestres",
+     "The Colchis bulls",
+     "Minotaurs",
+     "Geryon's oxen"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-008",
+    "nivel": "I",
+    "sub": "New York",
+    "pregunta": "Which underground people help sabotage Nero's plans?",
+    "opciones": [
+     "The telkhines",
+     "The troglodytes",
+     "The Kerkopes",
+     "The pandai"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa5-009",
+    "nivel": "A",
+    "sub": "New York",
+    "pregunta": "What do those allies sabotage in the tower?",
+    "opciones": [
+     "The elevator",
+     "The fasces",
+     "The power generator",
+     "The Greek fire vats and the gas trap"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa5-010",
+    "nivel": "A",
+    "sub": "New York",
+    "pregunta": "What odd thing do the troglodytes collect?",
+    "opciones": [
+     "Keys",
+     "Hats",
+     "Shoes",
+     "Watches"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa5-011",
+    "nivel": "I",
+    "sub": "The tower",
+    "pregunta": "What object is Nero's life tied to?",
+    "opciones": [
+     "His crown",
+     "His fasces",
+     "A piece of firewood",
+     "A statue"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa5-012",
+    "nivel": "A",
+    "sub": "The tower",
+    "pregunta": "Which lion-headed guardian watches over the fasces?",
+    "opciones": [
+     "The sphinx",
+     "The Nemean Lion",
+     "The leontocephaline, created by Mithras",
+     "Ladon"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa5-013",
+    "nivel": "A",
+    "sub": "The tower",
+    "pregunta": "What does the leontocephaline demand to let them through?",
+    "opciones": [
+     "A song",
+     "A griffin feather",
+     "The Arrow of Dodona",
+     "Someone sacrificing their immortality"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa5-014",
+    "nivel": "I",
+    "sub": "The tower",
+    "pregunta": "Who gives up her immortality?",
+    "opciones": [
+     "Meg",
+     "Rachel",
+     "Lu",
+     "Kayla"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa5-015",
+    "nivel": "I",
+    "sub": "The tower",
+    "pregunta": "Which of Apollo's children guide him inside the tower?",
+    "opciones": [
+     "Kayla and Austin",
+     "Will and Lee",
+     "Michael and Will",
+     "Trophonius and Georgina"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-016",
+    "nivel": "A",
+    "sub": "The tower",
+    "pregunta": "What is Nero forced to admit?",
+    "opciones": [
+     "That he was Apollo's son",
+     "That he killed Caligula",
+     "That Meg is his daughter",
+     "That he was Python's pawn"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa5-017",
+    "nivel": "A",
+    "sub": "The tower",
+    "pregunta": "How does Apollo end Nero?",
+    "opciones": [
+     "He throws him off the tower",
+     "He shoots him with the Arrow of Dodona",
+     "He locks him in the Labyrinth",
+     "He breaks his fasces and strips his divinity"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa5-018",
+    "nivel": "I",
+    "sub": "Delphi",
+    "pregunta": "Where does Apollo go for the final battle?",
+    "opciones": [
+     "Olympus",
+     "Rome",
+     "Delphi",
+     "Delos"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa5-019",
+    "nivel": "B",
+    "sub": "Delphi",
+    "pregunta": "Who is Apollo's final battle against?",
+    "opciones": [
+     "Nero",
+     "Python",
+     "Zeus",
+     "Gaea"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa5-020",
+    "nivel": "A",
+    "sub": "Delphi",
+    "pregunta": "What does the Arrow of Dodona do in the final fight?",
+    "opciones": [
+     "It kills Python",
+     "It sacrifices itself to blind Python",
+     "It carries Apollo to Olympus",
+     "It turns into a lyre"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa5-021",
+    "nivel": "A",
+    "sub": "Delphi",
+    "pregunta": "Where does Apollo finally throw Python?",
+    "opciones": [
+     "Into Chaos, below Tartarus",
+     "Into the River Styx",
+     "Into the Aegean Sea",
+     "Into the Underworld"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-022",
+    "nivel": "A",
+    "sub": "Delphi",
+    "pregunta": "Which goddess had been following him since he broke his oath?",
+    "opciones": [
+     "Styx",
+     "Nemesis",
+     "Hecate",
+     "Nyx"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-023",
+    "nivel": "I",
+    "sub": "Delphi",
+    "pregunta": "What did Apollo learn, according to that goddess?",
+    "opciones": [
+     "To play the lyre better",
+     "To be humble before Zeus",
+     "To keep his promises",
+     "To forgive Meg"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa5-024",
+    "nivel": "B",
+    "sub": "Delphi",
+    "pregunta": "What does Apollo get back in the end?",
+    "opciones": [
+     "His chariot",
+     "His godhood",
+     "His memory",
+     "His sister"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "toa5-025",
+    "nivel": "I",
+    "sub": "Delphi",
+    "pregunta": "Where does Meg live at the end?",
+    "opciones": [
+     "In Palm Springs, with Lu",
+     "At Camp Half-Blood",
+     "On Olympus",
+     "In New Rome"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-026",
+    "nivel": "A",
+    "sub": "Delphi",
+    "pregunta": "What does Meg do with the children Nero raised?",
+    "opciones": [
+     "She trains them to fight",
+     "She takes them to the legion",
+     "She sends them home",
+     "She teaches them gardening"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "toa5-027",
+    "nivel": "A",
+    "sub": "Delphi",
+    "pregunta": "What do Nico and Will plan at the end?",
+    "opciones": [
+     "To go to college",
+     "To join the Hunters",
+     "To rescue Bob from Tartarus",
+     "To rebuild Delphi"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "toa5-028",
+    "nivel": "I",
+    "sub": "Delphi",
+    "pregunta": "Where are Percy and Annabeth studying at the end of the series?",
+    "opciones": [
+     "In New Rome",
+     "In New York",
+     "In Athens",
+     "In San Francisco"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-029",
+    "nivel": "I",
+    "sub": "Delphi",
+    "pregunta": "Who does Piper live with in Oklahoma?",
+    "opciones": [
+     "Her father and her girlfriend Shel",
+     "Leo",
+     "Her mother",
+     "Coach Hedge"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "toa5-030",
+    "nivel": "I",
+    "sub": "Delphi",
+    "pregunta": "How does Apollo visit all his friends at once?",
+    "opciones": [
+     "He uses Iris-messages",
+     "He shadow-travels",
+     "He sends his children",
+     "He splits into several copies"
+    ],
+    "correcta": "d"
+   }
+  ]
+ },
+ {
   "parte": 91,
   "saga": "tv",
   "libro": 1,
