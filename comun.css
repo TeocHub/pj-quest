@@ -1,0 +1,86 @@
+/* Estilos compartidos por la portada y todos los tests de Percy Jackson. */
+:root{
+  --bg:#eef2f6; --panel:#f9fbfd; --panel-2:#e2e9f0; --line:#cdd7e2;
+  --text:#13243a; --muted:#56677b; --bronze:#9a6a1f; --accent:#9a6a1f;
+  --camp:#d9620f; --camp-ink:#fffaf4;
+  --ok:#23784a; --ok-soft:#d6eedf; --bad:#b3302b; --bad-soft:#f6dbd9;
+  --s-pjo:#2a76b0; --s-hoo:#7a45b0; --s-toa:#b8860b; --s-kane:#1f5fa8; --s-mag:#4f7a8c; --s-x:#8a5a3c; --s-tv:#d9620f;
+  --display:"Cinzel","Trajan Pro",Georgia,serif;
+  --body:"Alegreya Sans","Segoe UI",Roboto,Arial,sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#08121f; --panel:#0f1d30; --panel-2:#162a43; --line:#24405f;
+    --text:#e6edf5; --muted:#93a6bc; --bronze:#d9ad62; --accent:#d9ad62;
+    --camp:#ff8a33; --camp-ink:#1b0e02;
+    --ok:#62d08f; --ok-soft:#12321f; --bad:#ff7d72; --bad-soft:#3a1715;
+    --s-pjo:#5fb2ee; --s-hoo:#b58ae6; --s-toa:#f0c24b; --s-kane:#6fa0ea; --s-mag:#8fc0d3; --s-x:#d39a73; --s-tv:#ff8a33;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#08121f; --panel:#0f1d30; --panel-2:#162a43; --line:#24405f;
+  --text:#e6edf5; --muted:#93a6bc; --bronze:#d9ad62; --accent:#d9ad62;
+  --camp:#ff8a33; --camp-ink:#1b0e02;
+  --ok:#62d08f; --ok-soft:#12321f; --bad:#ff7d72; --bad-soft:#3a1715;
+  --s-pjo:#5fb2ee; --s-hoo:#b58ae6; --s-toa:#f0c24b; --s-kane:#6fa0ea; --s-mag:#8fc0d3; --s-x:#d39a73; --s-tv:#ff8a33;
+  color-scheme:dark;
+}
+:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+*,*::before,*::after{box-sizing:inherit}
+html,body{margin:0}
+body{background:var(--bg);color:var(--text);font-family:var(--body);font-size:18px;line-height:1.5;min-height:100vh;-webkit-font-smoothing:antialiased}
+button,input{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--bronze);outline-offset:2px}
+.wrap{max-width:660px;margin:0 auto;padding:16px 16px 48px}
+.hidden{display:none!important}
+
+/* barra superior */
+.langbar{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:4px;margin-bottom:6px}
+.langs{display:flex;gap:6px}
+.langbtn{border:2px solid var(--line);background:transparent;border-radius:6px;padding:1px 10px;font-weight:700;font-size:15px;line-height:1.5;cursor:pointer;color:var(--muted)}
+.langbtn.on{border-color:var(--bronze);color:var(--text)}
+.link{background:none;border:0;color:var(--muted);text-decoration:underline;text-underline-offset:3px;cursor:pointer;padding:6px 0;font-size:16px}
+.link:hover{color:var(--text)}
+
+/* símbolos de las sagas */
+.glyphs{display:flex;gap:10px;flex-wrap:wrap}
+.glyph{width:44px;height:44px;border-radius:50%;display:grid;place-items:center;border:2px solid currentColor;flex:0 0 auto}
+.glyph svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.g-pjo{color:var(--s-pjo)} .g-hoo{color:var(--s-hoo)} .g-toa{color:var(--s-toa)} .g-kane{color:var(--s-kane)} .g-mag{color:var(--s-mag)} .g-x{color:var(--s-x)} .g-tv{color:var(--s-tv)}
+
+/* greca griega: el único adorno fuerte del sitio */
+.meander{height:22px;margin:18px 0 0;color:var(--bronze);
+  background:currentColor;
+  -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='44' height='22' viewBox='0 0 44 22'%3E%3Cpath d='M0 20h4V6h14v10H10v-4h4' fill='none' stroke='%23000' stroke-width='2.4' stroke-linecap='square'/%3E%3Cpath d='M22 2v18h4V6h14v10h-8v-4h4' fill='none' stroke='%23000' stroke-width='2.4' stroke-linecap='square' transform='translate(-4 0)'/%3E%3Cpath d='M0 1h44M0 21h44' stroke='%23000' stroke-width='1.6'/%3E%3C/svg%3E") repeat-x left center/44px 22px;
+          mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='44' height='22' viewBox='0 0 44 22'%3E%3Cpath d='M0 20h4V6h14v10H10v-4h4' fill='none' stroke='%23000' stroke-width='2.4' stroke-linecap='square'/%3E%3Cpath d='M22 2v18h4V6h14v10h-8v-4h4' fill='none' stroke='%23000' stroke-width='2.4' stroke-linecap='square' transform='translate(-4 0)'/%3E%3Cpath d='M0 1h44M0 21h44' stroke='%23000' stroke-width='1.6'/%3E%3C/svg%3E") repeat-x left center/44px 22px}
+
+/* títulos y texto */
+.title-block{padding:22px 0 6px}
+.title-block h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,8.6vw,56px);line-height:1.04;margin:16px 0 0;letter-spacing:.01em}
+.title-block h1 span{display:block}
+.title-block h1 .small{font-size:.5em;font-weight:400;color:var(--muted);letter-spacing:.04em;margin-bottom:4px}
+.lede{color:var(--muted);max-width:54ch;margin:16px 0 0;font-size:19px}
+h2.sec{font-family:var(--display);font-weight:600;font-size:26px;margin:32px 0 4px;line-height:1.15}
+.hint{color:var(--muted);margin:0 0 12px;font-size:17px}
+.note{font-size:15px;color:var(--muted);margin:8px 0 0}
+
+/* botones */
+.cta{display:block;width:100%;margin:26px 0 0;padding:15px;border:0;border-radius:10px;background:var(--camp);color:var(--camp-ink);font-family:var(--body);font-weight:800;font-size:21px;cursor:pointer;transition:transform .1s}
+.cta:active{transform:scale(.98)}
+.cta:disabled{opacity:.4;cursor:not-allowed}
+.ghost{display:block;width:100%;margin:10px 0 0;padding:13px;border:2px solid var(--line);border-radius:10px;background:transparent;font-weight:700;cursor:pointer}
+.ghost:hover{border-color:var(--bronze)}
+.chip{border:2px solid var(--line);background:transparent;border-radius:999px;padding:5px 14px;cursor:pointer;font-weight:700;font-size:16px}
+.chip:hover,.chip.on{border-color:var(--bronze)}
+.chip.on{background:var(--panel-2)}
+
+/* formularios */
+label.field{display:block;margin:20px 0 6px;font-weight:700}
+input[type=text],input[type=password]{width:100%;padding:12px 14px;border:2px solid var(--line);border-radius:8px;background:var(--panel);font-size:19px}
+.form-msg{min-height:22px;font-size:16px;margin:8px 0 0}
+.form-msg.ok{color:var(--ok)} .form-msg.bad{color:var(--bad)} .form-msg.info{color:var(--muted)}
+
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--text);color:var(--bg);padding:10px 18px;border-radius:999px;font-weight:700;font-size:16px;z-index:20;max-width:90vw;text-align:center}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}

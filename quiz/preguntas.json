@@ -1,0 +1,3614 @@
+[
+ {
+  "parte": 11,
+  "saga": "pjo",
+  "libro": 1,
+  "corto": "PJO 1",
+  "titulo": "El ladrón del rayo",
+  "preguntas": [
+   {
+    "id": "pjo1-001",
+    "nivel": "B",
+    "sub": "La Academia Yancy",
+    "pregunta": "¿A qué museo va de excursión la clase de Percy al comienzo del libro?",
+    "opciones": [
+     "El Museo Metropolitano de Arte",
+     "El Museo de Historia Natural",
+     "El Museo Británico",
+     "El Museo Guggenheim"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-002",
+    "nivel": "B",
+    "sub": "La Academia Yancy",
+    "pregunta": "¿En qué se transforma la señora Dodds cuando ataca a Percy en el museo?",
+    "opciones": [
+     "En una arpía",
+     "En una Furia",
+     "En una empusa",
+     "En una gorgona"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-003",
+    "nivel": "B",
+    "sub": "La Academia Yancy",
+    "pregunta": "¿Qué le lanza el señor Brunner a Percy para defenderse de la señora Dodds?",
+    "opciones": [
+     "Un arco y flechas",
+     "Un escudo de bronce",
+     "Una lanza eléctrica",
+     "Un bolígrafo que se convierte en espada"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-004",
+    "nivel": "I",
+    "sub": "La Academia Yancy",
+    "pregunta": "¿Qué asignatura enseña el señor Brunner en la Academia Yancy?",
+    "opciones": [
+     "Matemáticas",
+     "Historia de Estados Unidos",
+     "Educación física",
+     "Latín"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-005",
+    "nivel": "I",
+    "sub": "La Academia Yancy",
+    "pregunta": "¿Cómo se llama la compañera que molesta a Percy y termina empapada en la fuente del museo?",
+    "opciones": [
+     "Nancy Bobofit",
+     "Clarisse La Rue",
+     "Kelli",
+     "Rachel Elizabeth Dare"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-006",
+    "nivel": "B",
+    "sub": "La Academia Yancy",
+    "pregunta": "¿Qué dos diagnósticos tiene Percy, que en realidad son señales de ser semidiós?",
+    "opciones": [
+     "Asma y miopía",
+     "Dislexia y TDAH",
+     "Insomnio y ansiedad",
+     "Daltonismo y dislexia"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-007",
+    "nivel": "A",
+    "sub": "La Academia Yancy",
+    "pregunta": "Según el libro, ¿por qué el cerebro de los semidioses está programado para el griego antiguo y les cuesta leer en inglés?",
+    "opciones": [
+     "Porque la Niebla les nubla la vista",
+     "Porque su mente está hecha para el griego antiguo",
+     "Por una maldición de Hera",
+     "Porque los monstruos los distraen al leer"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-008",
+    "nivel": "B",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Cómo se llama el padrastro de Percy?",
+    "opciones": [
+     "Gabe Ugliano",
+     "Paul Blofis",
+     "Frederick Chase",
+     "Gabe Castellan"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-009",
+    "nivel": "I",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Por qué Sally Jackson cocina comida azul?",
+    "opciones": [
+     "Porque el azul es el color de Poseidón y lo honra",
+     "Para llevarle la contraria a Gabe, que dijo que la comida azul no existía",
+     "Para proteger a Percy de los monstruos",
+     "Porque a Percy no le gustan otros colores"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-010",
+    "nivel": "I",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿A qué lugar de la playa van Percy y su mamá cuando aparece el Minotauro?",
+    "opciones": [
+     "Una casa en Santa Mónica",
+     "Un hotel en Miami",
+     "Una cabaña en Montauk",
+     "Un faro en Maine"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-011",
+    "nivel": "I",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Con qué mata Percy al Minotauro?",
+    "opciones": [
+     "Con Contracorriente",
+     "Con una rama del pino de Thalia",
+     "Con uno de los cuernos del propio Minotauro",
+     "Con una flecha de Annabeth"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-012",
+    "nivel": "B",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Qué es realmente Grover Underwood?",
+    "opciones": [
+     "Un sátiro",
+     "Un centauro",
+     "Un fauno romano",
+     "Un cíclope"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-013",
+    "nivel": "B",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Qué criatura es Quirón?",
+    "opciones": [
+     "Un sátiro",
+     "Un centauro",
+     "Un titán",
+     "Un minotauro domesticado"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-014",
+    "nivel": "B",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Qué dios dirige el Campamento Mestizo como castigo?",
+    "opciones": [
+     "Dioniso",
+     "Hermes",
+     "Apolo",
+     "Ares"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-015",
+    "nivel": "I",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Cómo llama el señor D a Percy, equivocándose a propósito con su nombre?",
+    "opciones": [
+     "Perry Johansson",
+     "Peter Johnson",
+     "Percival Jones",
+     "Paul Jackson"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-016",
+    "nivel": "A",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Por qué Zeus castigó a Dioniso a dirigir el campamento?",
+    "opciones": [
+     "Por convertir a Hera en una vid",
+     "Por robar el néctar del Olimpo",
+     "Por perseguir a una ninfa del bosque que estaba prohibida",
+     "Por perder una apuesta contra Apolo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-017",
+    "nivel": "I",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Dónde se encuentra el Campamento Mestizo?",
+    "opciones": [
+     "En Long Island",
+     "En Staten Island",
+     "En las montañas de Maine",
+     "En Nueva Jersey"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-018",
+    "nivel": "I",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿En qué cabaña duermen los campistas que aún no son reconocidos por su padre o madre divinos?",
+    "opciones": [
+     "La de Hestia",
+     "La de Dioniso",
+     "La de Atenea",
+     "La de Hermes"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-019",
+    "nivel": "B",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Quién es el consejero de la cabaña de Hermes cuando Percy llega?",
+    "opciones": [
+     "Luke Castellan",
+     "Travis Stoll",
+     "Charles Beckendorf",
+     "Michael Yew"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-020",
+    "nivel": "B",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿De qué diosa es hija Annabeth Chase?",
+    "opciones": [
+     "Afrodita",
+     "Artemisa",
+     "Deméter",
+     "Atenea"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-021",
+    "nivel": "I",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Qué le hace Percy a Clarisse y sus amigas en el baño del campamento?",
+    "opciones": [
+     "Hace estallar el agua de los inodoros y las empapa",
+     "Las encierra con candado",
+     "Les arroja un cubo de barro",
+     "Las asusta con una serpiente"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-022",
+    "nivel": "I",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Qué criatura vigila el campamento y tiene ojos por todo el cuerpo?",
+    "opciones": [
+     "Ladón",
+     "Cerbero",
+     "Tifón",
+     "Argos"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-023",
+    "nivel": "I",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Qué hay en la cima de la Colina Mestiza y protege las fronteras del campamento?",
+    "opciones": [
+     "Una estatua de Atenea",
+     "El Vellocino de Oro",
+     "El pino de Thalia",
+     "Un roble sagrado de Zeus"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-024",
+    "nivel": "I",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Qué señal aparece sobre la cabeza de Percy cuando su padre lo reconoce?",
+    "opciones": [
+     "Una ola azul",
+     "Un caballo dorado",
+     "Un rayo de luz blanca",
+     "Un tridente verde y brillante"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-025",
+    "nivel": "A",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Qué pasa cuando Percy pisa el arroyo durante captura la bandera?",
+    "opciones": [
+     "Se queda congelado",
+     "Aparece una náyade a pelear por él",
+     "El arroyo se seca de golpe",
+     "El agua le devuelve las fuerzas y lo cura"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-026",
+    "nivel": "A",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Qué acordaron los Tres Grandes después de la Segunda Guerra Mundial?",
+    "opciones": [
+     "No tener más hijos con mortales",
+     "No volver a pisar el Olimpo",
+     "Repartirse el mundo de nuevo",
+     "Encerrar a Cronos en el Tártaro"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-027",
+    "nivel": "I",
+    "sub": "Del hogar al campamento",
+    "pregunta": "¿Dónde vive el Oráculo del campamento?",
+    "opciones": [
+     "En una cueva junto al lago",
+     "Bajo el pino de Thalia",
+     "En el desván de la Casa Grande",
+     "En la cabaña 2"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-028",
+    "nivel": "B",
+    "sub": "La misión",
+    "pregunta": "¿De qué se acusa a Percy de haber robado?",
+    "opciones": [
+     "El tridente de Poseidón",
+     "El Vellocino de Oro",
+     "El rayo maestro de Zeus",
+     "La lira de Apolo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-029",
+    "nivel": "I",
+    "sub": "La misión",
+    "pregunta": "¿Qué plazo tiene Percy para devolver lo robado antes de que estalle la guerra?",
+    "opciones": [
+     "El solsticio de verano",
+     "El equinoccio de otoño",
+     "Su cumpleaños número trece",
+     "La siguiente luna llena"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-030",
+    "nivel": "A",
+    "sub": "La misión",
+    "pregunta": "¿Qué dice el último verso de la profecía que recibe Percy?",
+    "opciones": [
+     "Que uno perecerá a manos de un padre",
+     "Que perderá un amor peor que la muerte",
+     "Que al final no conseguirá salvar lo más importante",
+     "Que una elección pondrá fin a sus días"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-031",
+    "nivel": "B",
+    "sub": "La misión",
+    "pregunta": "¿Cuál es el nombre de la espada de Percy?",
+    "opciones": [
+     "Rompeolas",
+     "Marea alta",
+     "Contracorriente",
+     "Tempestad"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-032",
+    "nivel": "I",
+    "sub": "La misión",
+    "pregunta": "¿Qué objeto mágico tiene Annabeth que la vuelve invisible?",
+    "opciones": [
+     "Una capa de piel de león",
+     "Un anillo de plata",
+     "Un casco de bronce",
+     "Una gorra de los Yankees"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-033",
+    "nivel": "I",
+    "sub": "La misión",
+    "pregunta": "¿Qué regalo le da Luke a Percy antes de partir?",
+    "opciones": [
+     "Un escudo plegable",
+     "Unas zapatillas con alas",
+     "Un termo con vientos",
+     "Una brújula que apunta al oeste"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-034",
+    "nivel": "I",
+    "sub": "La misión",
+    "pregunta": "¿Quién es la \"tía Eme\" que los recibe en su tienda de estatuas de jardín?",
+    "opciones": [
+     "Equidna",
+     "Circe",
+     "Una de las Furias",
+     "Medusa"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-035",
+    "nivel": "A",
+    "sub": "La misión",
+    "pregunta": "¿Qué hace Percy con la cabeza de Medusa después de derrotarla?",
+    "opciones": [
+     "La envía por correo a los dioses del Olimpo",
+     "La entierra en el desierto",
+     "Se la entrega a Annabeth como trofeo",
+     "La lanza al río Misisipi"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-036",
+    "nivel": "I",
+    "sub": "La misión",
+    "pregunta": "¿En qué monumento de San Luis los ataca Equidna junto a la Quimera?",
+    "opciones": [
+     "La Estatua de la Libertad",
+     "El estadio de béisbol",
+     "El puente sobre el Misisipi",
+     "El Arco Gateway"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-037",
+    "nivel": "A",
+    "sub": "La misión",
+    "pregunta": "¿Qué forma tiene la Quimera cuando aparece por primera vez junto a Equidna?",
+    "opciones": [
+     "Un gato negro",
+     "Un pitbull",
+     "Un chihuahua",
+     "Un loro"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-038",
+    "nivel": "I",
+    "sub": "La misión",
+    "pregunta": "¿Qué dios les pide recuperar su escudo en un parque acuático abandonado?",
+    "opciones": [
+     "Hefesto",
+     "Ares",
+     "Hermes",
+     "Apolo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-039",
+    "nivel": "A",
+    "sub": "La misión",
+    "pregunta": "¿Qué trampa encuentran en el parque acuático, que da especial miedo a Annabeth?",
+    "opciones": [
+     "Serpientes de bronce",
+     "Arañas mecánicas",
+     "Murciélagos gigantes",
+     "Escorpiones del foso"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-040",
+    "nivel": "I",
+    "sub": "La misión",
+    "pregunta": "¿Qué animales liberan del camión en el que viajan hacia el oeste?",
+    "opciones": [
+     "Una cebra, un león y un antílope",
+     "Tres caballos y un poni",
+     "Un oso, un lobo y un águila",
+     "Dos tigres y un elefante"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-041",
+    "nivel": "B",
+    "sub": "La misión",
+    "pregunta": "¿En qué ciudad queda el Hotel Casino Loto?",
+    "opciones": [
+     "Los Ángeles",
+     "Denver",
+     "Phoenix",
+     "Las Vegas"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-042",
+    "nivel": "A",
+    "sub": "La misión",
+    "pregunta": "¿Cuánto tiempo pasó afuera mientras estaban en el Casino Loto?",
+    "opciones": [
+     "Una hora",
+     "Cinco días",
+     "Tres meses",
+     "Un año"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-043",
+    "nivel": "E",
+    "sub": "La misión",
+    "pregunta": "¿Qué personaje mítico, dueño de una tienda de camas de agua, quiere \"ajustar\" a los héroes al tamaño de sus camas?",
+    "opciones": [
+     "Anteo",
+     "Gerión",
+     "Sísifo",
+     "Procusto (Crusty)"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-044",
+    "nivel": "I",
+    "sub": "La misión",
+    "pregunta": "¿Qué le da a Percy la nereida en el muelle de Santa Mónica?",
+    "opciones": [
+     "Tres perlas",
+     "Una caracola",
+     "Un tridente pequeño",
+     "Un frasco de agua del mar"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-045",
+    "nivel": "I",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿Dónde está la entrada al Inframundo en Los Ángeles?",
+    "opciones": [
+     "Bajo el letrero de Hollywood",
+     "En un cementerio de Beverly Hills",
+     "En los Estudios de Grabación DOA",
+     "En el muelle de Santa Mónica"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-046",
+    "nivel": "B",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿Quién lleva las almas en barca a través del río Estigio?",
+    "opciones": [
+     "Hades",
+     "Tánatos",
+     "Hermes",
+     "Caronte"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-047",
+    "nivel": "I",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿Cómo logra Annabeth pasar junto a Cerbero?",
+    "opciones": [
+     "Dándole carne de minotauro",
+     "Jugando con él con una pelota roja de goma",
+     "Cantándole una canción de cuna",
+     "Volviéndose invisible con su gorra"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-048",
+    "nivel": "A",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿Qué intentan hacer las zapatillas aladas con Grover en el Inframundo?",
+    "opciones": [
+     "Llevarlo de regreso al campamento",
+     "Hacerlo volar hasta el Olimpo",
+     "Arrastrarlo hacia el Tártaro",
+     "Quemarle las pezuñas"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-049",
+    "nivel": "I",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿Qué objeto le han robado a Hades?",
+    "opciones": [
+     "Su cetro",
+     "Su anillo de calaveras",
+     "Su carro",
+     "Su yelmo de oscuridad"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-050",
+    "nivel": "A",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿Dónde estaba escondido el rayo maestro durante la misión?",
+    "opciones": [
+     "En las zapatillas de Luke",
+     "En la mochila que Ares les dio",
+     "En la caja de la cabeza de Medusa",
+     "Dentro de Contracorriente"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-051",
+    "nivel": "I",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿Cuántas perlas pueden usar y por qué Percy no rescata a su madre?",
+    "opciones": [
+     "Solo tres, una por cada miembro de la misión",
+     "Solo dos, y Grover necesita una",
+     "Solo una, que se rompe",
+     "Cuatro, pero Hades no deja salir a Sally"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-052",
+    "nivel": "I",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿En qué parte del cuerpo hiere Percy a Ares en la playa?",
+    "opciones": [
+     "En el hombro",
+     "En la mano de la espada",
+     "En la cara",
+     "En el talón"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-053",
+    "nivel": "A",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿Qué maldición le lanza Ares a Percy después de la pelea?",
+    "opciones": [
+     "Que nunca podrá volver a cruzar el mar",
+     "Que todos sus amigos lo traicionarán",
+     "Que su espada le fallará cuando más la necesite",
+     "Que sus sueños serán siempre pesadillas"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-054",
+    "nivel": "B",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿En qué edificio está la entrada al Olimpo?",
+    "opciones": [
+     "El Empire State",
+     "El edificio Chrysler",
+     "La Torre Trump",
+     "El Rockefeller Center"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-055",
+    "nivel": "I",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿A qué piso secreto hay que subir para llegar al Olimpo?",
+    "opciones": [
+     "El piso 100",
+     "El piso 600",
+     "El piso 13",
+     "El piso 1000"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-056",
+    "nivel": "B",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿Quién es el verdadero ladrón del rayo?",
+    "opciones": [
+     "Ares",
+     "Clarisse La Rue",
+     "Luke Castellan",
+     "Hades"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-057",
+    "nivel": "I",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿Con qué intenta Luke matar a Percy al final del libro?",
+    "opciones": [
+     "Una espada envenenada",
+     "Un perro del infierno",
+     "Un escorpión del foso",
+     "Una víbora de coral"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-058",
+    "nivel": "A",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿Para quién trabaja Luke en secreto?",
+    "opciones": [
+     "Hades",
+     "Cronos",
+     "Ares",
+     "Tifón"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-059",
+    "nivel": "I",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿Qué hace Sally Jackson con la cabeza de Medusa al final?",
+    "opciones": [
+     "La devuelve al Olimpo",
+     "La entierra en Montauk",
+     "Convierte a Gabe en una estatua",
+     "La lanza al mar"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-060",
+    "nivel": "A",
+    "sub": "El Inframundo y el final",
+    "pregunta": "¿Qué recibe Grover por su valentía al final del libro?",
+    "opciones": [
+     "Un asiento en el Consejo de los Sabios Ungulados",
+     "Su licencia de buscador para encontrar a Pan",
+     "Unas zapatillas aladas nuevas",
+     "La flauta de Pan"
+    ],
+    "correcta": "b"
+   }
+  ]
+ },
+ {
+  "parte": 12,
+  "saga": "pjo",
+  "libro": 2,
+  "corto": "PJO 2",
+  "titulo": "El Mar de los Monstruos",
+  "preguntas": [
+   {
+    "id": "pjo2-001",
+    "nivel": "B",
+    "sub": "La escuela y el campamento en peligro",
+    "pregunta": "¿Qué amigo de Percy en la escuela resulta ser un cíclope?",
+    "opciones": [
+     "Grover",
+     "Nico",
+     "Tyson",
+     "Ethan"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-002",
+    "nivel": "I",
+    "sub": "La escuela y el campamento en peligro",
+    "pregunta": "¿En qué juego de gimnasia atacan a Percy unos gigantes caníbales?",
+    "opciones": [
+     "Básquetbol",
+     "Fútbol americano",
+     "Carreras de relevos",
+     "Quemados (dodgeball)"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-003",
+    "nivel": "E",
+    "sub": "La escuela y el campamento en peligro",
+    "pregunta": "¿Qué clase de gigantes atacan a Percy en el gimnasio?",
+    "opciones": [
+     "Lestrigones",
+     "Hiperbóreos",
+     "Telquines",
+     "Gigantes de hielo"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-004",
+    "nivel": "B",
+    "sub": "La escuela y el campamento en peligro",
+    "pregunta": "¿De quién es hijo Tyson?",
+    "opciones": [
+     "Hefesto",
+     "Zeus",
+     "Hades",
+     "Poseidón"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-005",
+    "nivel": "I",
+    "sub": "La escuela y el campamento en peligro",
+    "pregunta": "¿Qué le pasa al pino de Thalia al comienzo del libro?",
+    "opciones": [
+     "Lo partió un rayo",
+     "Se convirtió en piedra",
+     "Fue envenenado y se está muriendo",
+     "Lo arrancaron de raíz"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-006",
+    "nivel": "I",
+    "sub": "La escuela y el campamento en peligro",
+    "pregunta": "¿Qué atacan el campamento en la frontera cuando Percy, Annabeth y Tyson llegan?",
+    "opciones": [
+     "Un dragón de bronce",
+     "Una manada de perros del infierno",
+     "Dos toros de bronce de Cólquide",
+     "Un grifo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-007",
+    "nivel": "I",
+    "sub": "La escuela y el campamento en peligro",
+    "pregunta": "¿A quién culpan del envenenamiento del árbol y despiden del campamento?",
+    "opciones": [
+     "El señor D",
+     "Argos",
+     "Luke",
+     "Quirón"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-008",
+    "nivel": "I",
+    "sub": "La escuela y el campamento en peligro",
+    "pregunta": "¿Quién reemplaza a Quirón como director de actividades?",
+    "opciones": [
+     "Tántalo",
+     "Sísifo",
+     "Quintus",
+     "Dédalo"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-009",
+    "nivel": "A",
+    "sub": "La escuela y el campamento en peligro",
+    "pregunta": "¿Cuál es el castigo eterno de Tántalo que sigue sufriendo en el campamento?",
+    "opciones": [
+     "Debe empujar una roca colina arriba",
+     "La comida y la bebida siempre se le escapan",
+     "Un águila le come el hígado",
+     "No puede dormir jamás"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-010",
+    "nivel": "I",
+    "sub": "La escuela y el campamento en peligro",
+    "pregunta": "¿Qué aves atacan durante la carrera de carros?",
+    "opciones": [
+     "Las arpías",
+     "Las sirenas",
+     "Las aves del Estínfalo",
+     "Las águilas de Zeus"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-011",
+    "nivel": "I",
+    "sub": "La escuela y el campamento en peligro",
+    "pregunta": "¿Cómo logran ahuyentar a esas aves durante la carrera?",
+    "opciones": [
+     "Con fuego griego",
+     "Con flechas de plata",
+     "Con un silbato para perros",
+     "Con música muy fuerte que no soportan"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-012",
+    "nivel": "B",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Qué objeto puede salvar el árbol de Thalia?",
+    "opciones": [
+     "El Vellocino de Oro",
+     "El rayo maestro",
+     "La vasija de Pandora",
+     "El yelmo de oscuridad"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-013",
+    "nivel": "I",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿A quién le asigna Tántalo oficialmente la misión de buscar el Vellocino?",
+    "opciones": [
+     "Percy",
+     "Annabeth",
+     "Luke",
+     "Clarisse"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-014",
+    "nivel": "A",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Cómo empieza la profecía de Clarisse?",
+    "opciones": [
+     "Irás al oeste y te enfrentarás al dios",
+     "Navegarás en el barco de hierro con guerreros de hueso",
+     "Cinco buscarán a la diosa encadenada",
+     "Buscarás en la oscuridad del laberinto"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-015",
+    "nivel": "I",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Cómo sabe Percy que Grover está en peligro?",
+    "opciones": [
+     "Por un mensaje Iris",
+     "Por sueños a través de un vínculo empático",
+     "Por una carta de Quirón",
+     "Por un aviso de Hermes"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-016",
+    "nivel": "A",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Cómo se disfraza Grover para que su captor no se lo coma?",
+    "opciones": [
+     "De novia cíclope, con vestido de novia",
+     "De oveja",
+     "De estatua de piedra",
+     "De arbusto"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-017",
+    "nivel": "I",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Qué dios aparece para ayudar a Percy antes de la misión?",
+    "opciones": [
+     "Poseidón",
+     "Hermes",
+     "Apolo",
+     "Dioniso"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-018",
+    "nivel": "A",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Qué dos regalos le da ese dios a Percy?",
+    "opciones": [
+     "Unas zapatillas aladas y un mapa",
+     "Un termo con vientos y unas vitaminas",
+     "Una caracola y una perla",
+     "Una lira y un arco"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-019",
+    "nivel": "I",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Quiénes conducen el taxi que lleva a Percy, Annabeth y Tyson de vuelta al campamento?",
+    "opciones": [
+     "Las Hermanas Grises",
+     "Las Furias",
+     "Las Moiras",
+     "Las Gorgonas"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-020",
+    "nivel": "A",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Qué tienen que compartir esas tres hermanas?",
+    "opciones": [
+     "Una sola mano",
+     "Un solo corazón",
+     "Un solo ojo",
+     "Un solo diente y un solo oído"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-021",
+    "nivel": "A",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Qué les dan esas hermanas a cambio de recuperar lo que les quitaron?",
+    "opciones": [
+     "Un hilo dorado",
+     "Unas coordenadas",
+     "Una moneda del Inframundo",
+     "Un mapa del Laberinto"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-022",
+    "nivel": "B",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Cómo se llama el crucero de Luke lleno de monstruos?",
+    "opciones": [
+     "Reina Hera",
+     "Estrella de Atlas",
+     "Perla Negra",
+     "Princesa Andrómeda"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-023",
+    "nivel": "I",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Qué guarda Luke en un ataúd dorado a bordo de su barco?",
+    "opciones": [
+     "Los restos de Cronos que se van reformando",
+     "El cuerpo de Thalia",
+     "El Vellocino de Oro",
+     "La cabeza de Medusa"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-024",
+    "nivel": "A",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Qué monstruo los ataca en Charleston y obliga a subir al barco de Clarisse?",
+    "opciones": [
+     "Escila",
+     "El Minotauro",
+     "La Hidra",
+     "Un dragón marino"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-025",
+    "nivel": "E",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Quiénes forman la tripulación del barco de hierro de Clarisse?",
+    "opciones": [
+     "Campistas de la cabaña de Ares",
+     "Esqueletos espartanos",
+     "Soldados zombis confederados",
+     "Sátiros marineros"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-026",
+    "nivel": "I",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Qué dos monstruos marinos destruyen el barco de Clarisse?",
+    "opciones": [
+     "Escila y Caribdis",
+     "La Hidra y Ceto",
+     "Las sirenas y Escila",
+     "Caribdis y el Kraken"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-027",
+    "nivel": "B",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿En qué animal convierte Circe a Percy?",
+    "opciones": [
+     "En un cerdo",
+     "En un hámster",
+     "En un ratón",
+     "En un conejillo de Indias"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-028",
+    "nivel": "A",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Cómo deshace Annabeth la transformación de Percy?",
+    "opciones": [
+     "Con las vitaminas de Hermes",
+     "Con agua del mar",
+     "Con un beso",
+     "Con una perla mágica"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-029",
+    "nivel": "A",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿A qué famosos prisioneros liberan en la isla de Circe?",
+    "opciones": [
+     "A Barbanegra y sus piratas",
+     "A los argonautas",
+     "A Ulises y su tripulación",
+     "A los hijos de Ares"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-030",
+    "nivel": "I",
+    "sub": "La misión del Vellocino",
+    "pregunta": "¿Qué hace Annabeth para escuchar el canto de las sirenas sin morir?",
+    "opciones": [
+     "Se tapa los oídos con cera",
+     "Se hace atar al mástil",
+     "Se vuelve invisible",
+     "Se sumerge bajo el agua"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-031",
+    "nivel": "A",
+    "sub": "La misión del Vellocino",
+    "pregunta": "Según Annabeth, ¿cuál es su defecto fatal?",
+    "opciones": [
+     "El orgullo excesivo (hybris)",
+     "La lealtad excesiva",
+     "La ira",
+     "La envidia"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-032",
+    "nivel": "B",
+    "sub": "La isla de Polifemo y el regreso",
+    "pregunta": "¿Qué cíclope tiene prisionero a Grover?",
+    "opciones": [
+     "Brontes",
+     "Argos",
+     "Ciclón",
+     "Polifemo"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-033",
+    "nivel": "A",
+    "sub": "La isla de Polifemo y el regreso",
+    "pregunta": "¿Qué nombre falso usa Annabeth ante Polifemo, igual que Ulises?",
+    "opciones": [
+     "Alguien",
+     "Nadie",
+     "Ninguno",
+     "Ulises"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-034",
+    "nivel": "I",
+    "sub": "La isla de Polifemo y el regreso",
+    "pregunta": "¿Qué animales vigilan el Vellocino en la isla de Polifemo?",
+    "opciones": [
+     "Ovejas carnívoras",
+     "Perros de tres cabezas",
+     "Serpientes marinas",
+     "Cabras gigantes"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-035",
+    "nivel": "A",
+    "sub": "La isla de Polifemo y el regreso",
+    "pregunta": "¿Cómo se llama el hipocampo amigo de Tyson?",
+    "opciones": [
+     "Blackjack",
+     "Arcoíris",
+     "Espuma",
+     "Galope"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-036",
+    "nivel": "I",
+    "sub": "La isla de Polifemo y el regreso",
+    "pregunta": "¿Quién se lleva el Vellocino al campamento en avión?",
+    "opciones": [
+     "Annabeth",
+     "Tyson",
+     "Clarisse",
+     "Grover"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-037",
+    "nivel": "A",
+    "sub": "La isla de Polifemo y el regreso",
+    "pregunta": "¿Cómo logra Percy limpiar el nombre de Quirón?",
+    "opciones": [
+     "Le muestra a Tántalo una carta de Luke",
+     "Le pide a Poseidón que testifique",
+     "Hace que Luke confiese en un mensaje Iris que todo el campamento ve",
+     "Encuentra el veneno en la cabaña de Hermes"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-038",
+    "nivel": "A",
+    "sub": "La isla de Polifemo y el regreso",
+    "pregunta": "¿Qué parientes de Quirón llegan a rescatarlos en Miami?",
+    "opciones": [
+     "Los centauros del bosque",
+     "Los hijos de Hermes",
+     "Las Cazadoras de Artemisa",
+     "Los Ponis de Fiesta"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-039",
+    "nivel": "B",
+    "sub": "La isla de Polifemo y el regreso",
+    "pregunta": "¿Qué inesperado efecto tiene el Vellocino al curar el árbol?",
+    "opciones": [
+     "El campamento se vuelve invisible",
+     "Thalia vuelve a la vida",
+     "Luke pierde sus poderes",
+     "Quirón rejuvenece"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-040",
+    "nivel": "I",
+    "sub": "La isla de Polifemo y el regreso",
+    "pregunta": "¿Dónde va a trabajar Tyson al final del libro?",
+    "opciones": [
+     "En la fragua de Hefesto",
+     "En la cocina del campamento",
+     "En el Olimpo como guardia",
+     "En las fraguas de Poseidón bajo el mar"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-041",
+    "nivel": "A",
+    "sub": "La isla de Polifemo y el regreso",
+    "pregunta": "¿Qué le ocurre a Tántalo cuando se descubre la verdad?",
+    "opciones": [
+     "Lo convierten en árbol",
+     "Lo nombran director",
+     "Lo devuelven al Inframundo",
+     "Huye con Luke"
+    ],
+    "correcta": "c"
+   }
+  ]
+ },
+ {
+  "parte": 13,
+  "saga": "pjo",
+  "libro": 3,
+  "corto": "PJO 3",
+  "titulo": "La maldición del titán",
+  "preguntas": [
+   {
+    "id": "pjo3-001",
+    "nivel": "I",
+    "sub": "Westover Hall",
+    "pregunta": "¿En qué estado está el internado Westover Hall?",
+    "opciones": [
+     "Nueva York",
+     "Maine",
+     "Vermont",
+     "California"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-002",
+    "nivel": "B",
+    "sub": "Westover Hall",
+    "pregunta": "¿Qué dos hermanos semidioses encuentra Grover en Westover Hall?",
+    "opciones": [
+     "Travis y Connor Stoll",
+     "Lee y Michael Fletcher",
+     "Nico y Bianca di Angelo",
+     "Jason y Thalia Grace"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-003",
+    "nivel": "I",
+    "sub": "Westover Hall",
+    "pregunta": "¿Qué monstruo se hace pasar por el subdirector, el doctor Espino?",
+    "opciones": [
+     "Una esfinge",
+     "Una quimera",
+     "Una mantícora",
+     "Un grifo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-004",
+    "nivel": "I",
+    "sub": "Westover Hall",
+    "pregunta": "¿Qué juego de cartas le apasiona a Nico?",
+    "opciones": [
+     "Pokémon",
+     "Yu-Gi-Oh!",
+     "Pai Sho",
+     "Mitomagia"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-005",
+    "nivel": "B",
+    "sub": "Westover Hall",
+    "pregunta": "¿Qué grupo llega a rescatarlos en Westover Hall?",
+    "opciones": [
+     "Los campistas de Ares",
+     "Los Ponis de Fiesta",
+     "Las Cazadoras de Artemisa",
+     "Las ninfas del bosque"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-006",
+    "nivel": "I",
+    "sub": "Westover Hall",
+    "pregunta": "¿Quién desaparece cayendo por el acantilado junto a la mantícora?",
+    "opciones": [
+     "Annabeth",
+     "Thalia",
+     "Bianca",
+     "Grover"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-007",
+    "nivel": "I",
+    "sub": "Westover Hall",
+    "pregunta": "¿Qué deben jurar las Cazadoras de Artemisa?",
+    "opciones": [
+     "No volver a hablar con hombres",
+     "No usar nunca armas de bronce",
+     "Vivir en el bosque sin salir jamás",
+     "Renunciar al amor romántico para siempre"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-008",
+    "nivel": "I",
+    "sub": "Westover Hall",
+    "pregunta": "¿Quién decide unirse a las Cazadoras tras el rescate?",
+    "opciones": [
+     "Annabeth",
+     "Thalia",
+     "Clarisse",
+     "Bianca di Angelo"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-009",
+    "nivel": "I",
+    "sub": "El dios del sol y la profecía",
+    "pregunta": "¿Qué forma tiene el carro del sol de Apolo cuando lo conoce Percy?",
+    "opciones": [
+     "Un autobús escolar",
+     "Una motocicleta dorada",
+     "Un auto deportivo rojo",
+     "Una carroza de caballos de fuego"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-010",
+    "nivel": "A",
+    "sub": "El dios del sol y la profecía",
+    "pregunta": "¿Quién termina conduciendo el carro del sol, pese a su miedo a las alturas?",
+    "opciones": [
+     "Thalia",
+     "Percy",
+     "Zoë",
+     "Grover"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-011",
+    "nivel": "A",
+    "sub": "El dios del sol y la profecía",
+    "pregunta": "¿Qué tipo de poemas le gusta recitar a Apolo?",
+    "opciones": [
+     "Sonetos",
+     "Limericks",
+     "Odas",
+     "Haikus"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-012",
+    "nivel": "B",
+    "sub": "El dios del sol y la profecía",
+    "pregunta": "¿Quién es la lugarteniente de las Cazadoras?",
+    "opciones": [
+     "Thalia Grace",
+     "Zoë Belladona",
+     "Phoebe",
+     "Bianca di Angelo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-013",
+    "nivel": "I",
+    "sub": "El dios del sol y la profecía",
+    "pregunta": "¿Qué diosa es secuestrada en este libro?",
+    "opciones": [
+     "Atenea",
+     "Hera",
+     "Deméter",
+     "Artemisa"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-014",
+    "nivel": "A",
+    "sub": "El dios del sol y la profecía",
+    "pregunta": "¿Cómo empieza la profecía que recibe Zoë?",
+    "opciones": [
+     "Irás al oeste y te enfrentarás al dios",
+     "Siete mestizos responderán a la llamada",
+     "Navegarás en el barco de hierro",
+     "Cinco buscarán a la diosa encadenada en el oeste"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-015",
+    "nivel": "A",
+    "sub": "El dios del sol y la profecía",
+    "pregunta": "Según la profecía, ¿cómo perecerá uno de los miembros de la misión?",
+    "opciones": [
+     "A manos de un padre",
+     "Ahogado en el mar",
+     "Bajo una montaña",
+     "Por el veneno de un escorpión"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-016",
+    "nivel": "I",
+    "sub": "El dios del sol y la profecía",
+    "pregunta": "¿Quiénes son los miembros oficiales de la misión para rescatar a la diosa?",
+    "opciones": [
+     "Zoë, Bianca, Thalia, Grover y Phoebe",
+     "Percy, Annabeth, Grover, Thalia y Nico",
+     "Zoë, Thalia, Percy, Luke y Grover",
+     "Bianca, Nico, Percy, Zoë y Clarisse"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-017",
+    "nivel": "A",
+    "sub": "El dios del sol y la profecía",
+    "pregunta": "¿Por qué Phoebe no puede ir a la misión y Percy ocupa su lugar?",
+    "opciones": [
+     "Se rompe una pierna en captura la bandera",
+     "Artemisa le prohíbe salir",
+     "Se pone una camiseta con sangre de centauro que le dejaron los Stoll",
+     "La muerde un perro del infierno"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-018",
+    "nivel": "I",
+    "sub": "El dios del sol y la profecía",
+    "pregunta": "¿Qué criatura marina con cuerpo de vaca y cola de serpiente protege Percy?",
+    "opciones": [
+     "El ofiotauro, al que llama Bessie",
+     "Un hipocampo llamado Arcoíris",
+     "Un kraken bebé",
+     "Una nereida"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-019",
+    "nivel": "A",
+    "sub": "El dios del sol y la profecía",
+    "pregunta": "¿Por qué es tan peligrosa esa criatura si cae en malas manos?",
+    "opciones": [
+     "Su sangre resucita a los titanes",
+     "Su leche da inmortalidad",
+     "Su aliento envenena el mar",
+     "Quien queme sus entrañas obtiene poder para destruir el Olimpo"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-020",
+    "nivel": "I",
+    "sub": "La misión al oeste",
+    "pregunta": "¿Contra qué monstruo pelean en el Museo del Aire y del Espacio, en Washington?",
+    "opciones": [
+     "La Hidra",
+     "El jabalí de Erimanto",
+     "El Minotauro",
+     "El león de Nemea"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-021",
+    "nivel": "A",
+    "sub": "La misión al oeste",
+    "pregunta": "¿Cómo derrota Percy a ese monstruo de piel impenetrable?",
+    "opciones": [
+     "Le mete comida de astronauta en la boca y lo atacan por dentro",
+     "Lo estrangula como Hércules",
+     "Lo ahoga en una fuente",
+     "Le clava Contracorriente en un ojo"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-022",
+    "nivel": "I",
+    "sub": "La misión al oeste",
+    "pregunta": "¿Qué guerreros persiguen a la misión, brotados de dientes sembrados en la tierra?",
+    "opciones": [
+     "Zombis confederados",
+     "Guerreros esqueleto (los espartos)",
+     "Mirmidones",
+     "Telquines"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-023",
+    "nivel": "I",
+    "sub": "La misión al oeste",
+    "pregunta": "¿Qué toma Bianca del depósito de chatarra de los dioses para su hermano?",
+    "opciones": [
+     "Una espada de bronce",
+     "Un casco",
+     "Una figurita de un dios",
+     "Una moneda de oro"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-024",
+    "nivel": "I",
+    "sub": "La misión al oeste",
+    "pregunta": "¿Qué despierta Bianca en el depósito al tomar ese objeto?",
+    "opciones": [
+     "Un dragón de metal",
+     "Un gigante de bronce, como Talos",
+     "Un ejército de autómatas",
+     "Un cíclope dormido"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-025",
+    "nivel": "B",
+    "sub": "La misión al oeste",
+    "pregunta": "¿Qué le pasa a Bianca di Angelo?",
+    "opciones": [
+     "Muere al detener al gigante de bronce",
+     "La captura Luke",
+     "Se convierte en estrella",
+     "Vuelve al Hotel Casino Loto"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-026",
+    "nivel": "I",
+    "sub": "La misión al oeste",
+    "pregunta": "¿En qué gran obra de ingeniería conocen a Rachel Elizabeth Dare?",
+    "opciones": [
+     "La presa Hoover",
+     "El puente Golden Gate",
+     "La Estatua de la Libertad",
+     "El Gran Cañón"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-027",
+    "nivel": "A",
+    "sub": "La misión al oeste",
+    "pregunta": "¿Qué tiene de especial Rachel, aunque es mortal?",
+    "opciones": [
+     "Puede hablar con los animales",
+     "Puede ver a través de la Niebla",
+     "Es inmune a los monstruos",
+     "Puede ver el futuro en sueños desde niña"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-028",
+    "nivel": "I",
+    "sub": "La misión al oeste",
+    "pregunta": "¿Quién era la dueña original de Contracorriente?",
+    "opciones": [
+     "Hércules",
+     "Teseo",
+     "Annabeth",
+     "Zoë Belladona"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-029",
+    "nivel": "A",
+    "sub": "La misión al oeste",
+    "pregunta": "¿A qué héroe le dio Zoë esa espada, y luego la traicionó?",
+    "opciones": [
+     "Teseo",
+     "Jasón",
+     "Heracles (Hércules)",
+     "Perseo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-030",
+    "nivel": "A",
+    "sub": "La misión al oeste",
+    "pregunta": "¿De quién es hija Zoë Belladona?",
+    "opciones": [
+     "De Cronos",
+     "De Atlas",
+     "De Hiperión",
+     "De Prometeo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-031",
+    "nivel": "I",
+    "sub": "El monte Otris",
+    "pregunta": "¿Qué monte de California es la base del monte Otris de los titanes?",
+    "opciones": [
+     "El monte Shasta",
+     "El monte Tamalpais",
+     "El monte Whitney",
+     "El monte Santa Helena"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-032",
+    "nivel": "I",
+    "sub": "El monte Otris",
+    "pregunta": "¿Qué dragón vigila el jardín de las Hespérides?",
+    "opciones": [
+     "Ladón",
+     "Peleo",
+     "Pitón",
+     "Tifón"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-033",
+    "nivel": "B",
+    "sub": "El monte Otris",
+    "pregunta": "¿Cuál es \"la maldición del titán\" del título?",
+    "opciones": [
+     "Envejecer de golpe",
+     "Convertirse en piedra",
+     "Olvidar quién eres",
+     "Sostener el peso del cielo"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-034",
+    "nivel": "I",
+    "sub": "El monte Otris",
+    "pregunta": "¿Qué marca les queda a Percy y a Annabeth después de sostener el cielo?",
+    "opciones": [
+     "Una cicatriz en el hombro",
+     "Los ojos plateados",
+     "Un mechón gris en el pelo",
+     "Una quemadura en las manos"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-035",
+    "nivel": "I",
+    "sub": "El monte Otris",
+    "pregunta": "¿En qué convierte Artemisa a Zoë después de su muerte?",
+    "opciones": [
+     "En un ciprés",
+     "En una constelación",
+     "En una cierva plateada",
+     "En una estatua de plata"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-036",
+    "nivel": "A",
+    "sub": "El monte Otris",
+    "pregunta": "¿Qué le pasa a Luke en el monte Otris?",
+    "opciones": [
+     "Atlas lo convierte en piedra",
+     "Thalia lo vence y cae por un acantilado",
+     "Percy lo hiere con Contracorriente",
+     "Se ahoga en el mar"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-037",
+    "nivel": "A",
+    "sub": "El monte Otris",
+    "pregunta": "¿Por qué decide Thalia unirse a las Cazadoras al final?",
+    "opciones": [
+     "Porque Artemisa se lo ordena",
+     "Porque Luke la traicionó",
+     "Para no cumplir dieciséis y evitar la Gran Profecía",
+     "Para reemplazar a Bianca"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-038",
+    "nivel": "B",
+    "sub": "El monte Otris",
+    "pregunta": "¿De qué dios es hijo Nico di Angelo?",
+    "opciones": [
+     "Zeus",
+     "Hades",
+     "Poseidón",
+     "Ares"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-039",
+    "nivel": "A",
+    "sub": "El monte Otris",
+    "pregunta": "¿Qué pide la Gran Profecía sobre el hijo de los Tres Grandes?",
+    "opciones": [
+     "Que al cumplir dieciséis salvará o destruirá el Olimpo",
+     "Que reinará en lugar de Zeus",
+     "Que será el último semidiós",
+     "Que liberará a los titanes del Tártaro"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-040",
+    "nivel": "I",
+    "sub": "El monte Otris",
+    "pregunta": "¿Por qué Nico culpa a Percy de lo que le pasó a Bianca?",
+    "opciones": [
+     "Percy la dejó sola en el depósito a propósito",
+     "Percy la convenció de unirse a las Cazadoras",
+     "Percy le había prometido cuidarla",
+     "Percy le quitó la figurita"
+    ],
+    "correcta": "c"
+   }
+  ]
+ },
+ {
+  "parte": 14,
+  "saga": "pjo",
+  "libro": 4,
+  "corto": "PJO 4",
+  "titulo": "La batalla del laberinto",
+  "preguntas": [
+   {
+    "id": "pjo4-001",
+    "nivel": "I",
+    "sub": "Goode y el campamento",
+    "pregunta": "¿Qué monstruos disfrazados de animadoras atacan a Percy en su nueva escuela?",
+    "opciones": [
+     "Empusas",
+     "Furias",
+     "Arpías",
+     "Sirenas"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-002",
+    "nivel": "I",
+    "sub": "Goode y el campamento",
+    "pregunta": "¿Qué amiga mortal aparece en la nueva escuela de Percy y lo ayuda a escapar?",
+    "opciones": [
+     "Nancy Bobofit",
+     "Rachel Elizabeth Dare",
+     "Silena Beauregard",
+     "Juniper"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-003",
+    "nivel": "I",
+    "sub": "Goode y el campamento",
+    "pregunta": "¿Qué mascota gigante tiene Quintus, el nuevo instructor de esgrima?",
+    "opciones": [
+     "Un pegaso negro",
+     "Una perra del infierno",
+     "Un grifo",
+     "Un dragón bebé"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-004",
+    "nivel": "B",
+    "sub": "Goode y el campamento",
+    "pregunta": "¿Dónde descubren Percy y Annabeth una entrada al Laberinto en el campamento?",
+    "opciones": [
+     "Bajo la Casa Grande",
+     "En el fondo del lago",
+     "En el Puño de Zeus, unas rocas del bosque",
+     "Dentro del pino de Thalia"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-005",
+    "nivel": "I",
+    "sub": "Goode y el campamento",
+    "pregunta": "¿Qué tiene de especial esta misión para Annabeth?",
+    "opciones": [
+     "Es la primera vez que sale del campamento",
+     "Su madre la acompaña",
+     "Debe hacerla sola",
+     "Es la primera que dirige ella"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-006",
+    "nivel": "A",
+    "sub": "Goode y el campamento",
+    "pregunta": "¿Cómo termina la profecía de la misión del Laberinto?",
+    "opciones": [
+     "Y al final no lograrás salvar lo más importante",
+     "Y perder un amor peor que la muerte",
+     "Y uno perecerá a manos de un padre",
+     "Y los enemigos en armas ante las puertas de la muerte"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-007",
+    "nivel": "I",
+    "sub": "Goode y el campamento",
+    "pregunta": "¿Quiénes integran la misión al Laberinto?",
+    "opciones": [
+     "Annabeth, Percy, Nico y Rachel",
+     "Annabeth, Clarisse, Percy y Grover",
+     "Annabeth, Percy, Grover y Tyson",
+     "Percy, Grover, Thalia y Tyson"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-008",
+    "nivel": "A",
+    "sub": "Goode y el campamento",
+    "pregunta": "¿Qué busca Luke en el Laberinto?",
+    "opciones": [
+     "El taller de Dédalo, para usar el Laberinto e invadir el campamento",
+     "El Vellocino de Oro",
+     "La tumba de Cronos",
+     "Una salida al Olimpo"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-009",
+    "nivel": "I",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿Qué dios de dos caras les hace elegir un camino en el Laberinto?",
+    "opciones": [
+     "Hermes",
+     "Hécate",
+     "Terminus",
+     "Jano"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-010",
+    "nivel": "I",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿Qué diosa se les aparece en el Laberinto y les ofrece ayuda?",
+    "opciones": [
+     "Hera",
+     "Atenea",
+     "Hestia",
+     "Deméter"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-011",
+    "nivel": "B",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿Qué gigante de cien manos rescatan en Alcatraz?",
+    "opciones": [
+     "Gerión",
+     "Anteo",
+     "Briares",
+     "Tifón"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-012",
+    "nivel": "A",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿Qué monstruo es la carcelera de Alcatraz?",
+    "opciones": [
+     "Equidna",
+     "Campe",
+     "Medusa",
+     "La Quimera"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-013",
+    "nivel": "I",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿Por qué se enfada Annabeth con la Esfinge?",
+    "opciones": [
+     "Porque se niega a hablar en griego",
+     "Porque hace trampa con las respuestas",
+     "Porque insulta a Atenea",
+     "Porque sus acertijos se volvieron un examen de memoria de datos"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-014",
+    "nivel": "I",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿En qué estado está el rancho de Gerión?",
+    "opciones": [
+     "Texas",
+     "Arizona",
+     "Nevada",
+     "Nuevo México"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-015",
+    "nivel": "A",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿Qué tiene de especial el cuerpo de Gerión?",
+    "opciones": [
+     "Tiene cien manos",
+     "Tiene un solo ojo",
+     "Tiene tres cuerpos unidos en uno",
+     "Tiene cola de serpiente"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-016",
+    "nivel": "A",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿Qué trabajo hace Percy en el rancho de Gerión, igual que Hércules?",
+    "opciones": [
+     "Domar un toro salvaje",
+     "Matar a un perro de dos cabezas",
+     "Limpiar los establos desviando un río",
+     "Robar ganado"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-017",
+    "nivel": "I",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿Cómo se llama el perro de dos cabezas del rancho?",
+    "opciones": [
+     "Cerbero",
+     "Argos",
+     "Laelaps",
+     "Ortro"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-018",
+    "nivel": "A",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿Cómo derrota Percy a Anteo en la arena?",
+    "opciones": [
+     "Lo ahoga en una fuente",
+     "Le corta la cabeza con Contracorriente",
+     "Lo encierra en un sarcófago",
+     "Lo deja colgando de las cadenas del techo, sin tocar la tierra"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-019",
+    "nivel": "I",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿En qué volcán está la fragua de Hefesto que visita Percy?",
+    "opciones": [
+     "El Vesubio",
+     "El monte Santa Helena",
+     "El Etna",
+     "El Kilauea"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-020",
+    "nivel": "A",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿Qué criaturas marinas con cabeza de perro trabajan en esa fragua?",
+    "opciones": [
+     "Los cíclopes",
+     "Los mirmekes",
+     "Los hipocampos",
+     "Los telquines"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-021",
+    "nivel": "I",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿Qué pasa justo antes de que Percy escape de la fragua del volcán?",
+    "opciones": [
+     "Hefesto le regala un escudo",
+     "Tyson se queda atrás",
+     "Annabeth lo besa por primera vez",
+     "Pierde a Contracorriente"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-022",
+    "nivel": "B",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿En qué isla despierta Percy tras la erupción?",
+    "opciones": [
+     "La isla de Circe",
+     "Ogigia",
+     "La isla de Polifemo",
+     "Delos"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-023",
+    "nivel": "I",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿Qué ninfa vive desterrada en esa isla?",
+    "opciones": [
+     "Eco",
+     "Juniper",
+     "Pérdix",
+     "Calipso"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-024",
+    "nivel": "E",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿Qué planta le regala Calipso a Percy?",
+    "opciones": [
+     "Una semilla de granada",
+     "Un ramo de lotos",
+     "Un esqueje de lazo de luna",
+     "Una rama de laurel"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-025",
+    "nivel": "I",
+    "sub": "Dentro del Laberinto",
+    "pregunta": "¿Qué hace Rachel en el Laberinto que nadie más puede?",
+    "opciones": [
+     "Hablar con Dédalo en sueños",
+     "Guiarlos sin perderse, porque ve el camino correcto",
+     "Abrir puertas cerradas con magia",
+     "Volverse invisible"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-026",
+    "nivel": "B",
+    "sub": "Dédalo, Pan y la batalla",
+    "pregunta": "¿Quién era en realidad Quintus?",
+    "opciones": [
+     "Cronos",
+     "Hermes",
+     "Dédalo",
+     "Minos"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-027",
+    "nivel": "A",
+    "sub": "Dédalo, Pan y la batalla",
+    "pregunta": "¿Cómo ha vivido Dédalo durante miles de años?",
+    "opciones": [
+     "Gracias al néctar de los dioses",
+     "Escondido en Ogigia",
+     "Bañándose en el río Estigio",
+     "Pasando su alma a cuerpos de autómata"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-028",
+    "nivel": "A",
+    "sub": "Dédalo, Pan y la batalla",
+    "pregunta": "¿A qué sobrino mató Dédalo por envidia, y cuyo castigo lleva como marca?",
+    "opciones": [
+     "Ícaro",
+     "Pérdix",
+     "Teseo",
+     "Talos"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-029",
+    "nivel": "I",
+    "sub": "Dédalo, Pan y la batalla",
+    "pregunta": "¿Qué regalo le deja Dédalo a Annabeth?",
+    "opciones": [
+     "Sus alas de cera",
+     "Un mapa del Laberinto",
+     "Su computador portátil con sus diseños",
+     "Un ovillo de hilo de Ariadna"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-030",
+    "nivel": "I",
+    "sub": "Dédalo, Pan y la batalla",
+    "pregunta": "¿Qué fantasma de un rey guía a Nico y desea vengarse de Dédalo?",
+    "opciones": [
+     "Minos",
+     "Midas",
+     "Edipo",
+     "Tántalo"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-031",
+    "nivel": "B",
+    "sub": "Dédalo, Pan y la batalla",
+    "pregunta": "¿Qué le ocurre al dios Pan cuando Grover lo encuentra?",
+    "opciones": [
+     "Muere y pide que todos carguen con su espíritu",
+     "Regresa al campamento con ellos",
+     "Se convierte en árbol",
+     "Es capturado por Luke"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-032",
+    "nivel": "I",
+    "sub": "Dédalo, Pan y la batalla",
+    "pregunta": "¿Quién es la novia dríade de Grover?",
+    "opciones": [
+     "Calipso",
+     "Juniper",
+     "Silena",
+     "Eco"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-033",
+    "nivel": "A",
+    "sub": "Dédalo, Pan y la batalla",
+    "pregunta": "¿Qué le sucede a Luke al final del libro?",
+    "opciones": [
+     "Su cuerpo se convierte en el anfitrión de Cronos",
+     "Muere en la batalla del campamento",
+     "Lo encierran en Alcatraz",
+     "Pierde la memoria"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-034",
+    "nivel": "A",
+    "sub": "Dédalo, Pan y la batalla",
+    "pregunta": "¿Qué semidiós con parche en el ojo es hijo de Némesis y sirve a Luke?",
+    "opciones": [
+     "Ethan Nakamura",
+     "Chris Rodríguez",
+     "Michael Yew",
+     "Lee Fletcher"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-035",
+    "nivel": "A",
+    "sub": "Dédalo, Pan y la batalla",
+    "pregunta": "¿Qué campista se volvió loco en el Laberinto y es cuidado por Clarisse?",
+    "opciones": [
+     "Ethan Nakamura",
+     "Beckendorf",
+     "Chris Rodríguez",
+     "Will Solace"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-036",
+    "nivel": "I",
+    "sub": "Dédalo, Pan y la batalla",
+    "pregunta": "¿Qué pasa con el Laberinto cuando muere Dédalo?",
+    "opciones": [
+     "Se derrumba, porque estaba ligado a su vida",
+     "Pasa a manos de Annabeth",
+     "Lo controla Cronos",
+     "Se llena de agua"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-037",
+    "nivel": "I",
+    "sub": "Dédalo, Pan y la batalla",
+    "pregunta": "¿Quién se queda con la perra del infierno de Quintus?",
+    "opciones": [
+     "Nico",
+     "Tyson",
+     "Annabeth",
+     "Percy"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-038",
+    "nivel": "I",
+    "sub": "Dédalo, Pan y la batalla",
+    "pregunta": "¿Qué profesor de Percy empieza a salir con Sally Jackson?",
+    "opciones": [
+     "El señor Brunner",
+     "Paul Blofis",
+     "Quintus",
+     "El doctor Espino"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-039",
+    "nivel": "E",
+    "sub": "Goode y el campamento",
+    "pregunta": "¿Cómo se llama la animadora empusa que ataca a Percy en Goode?",
+    "opciones": [
+     "Kelli",
+     "Nancy",
+     "Silena",
+     "Drew"
+    ],
+    "correcta": "a"
+   }
+  ]
+ },
+ {
+  "parte": 15,
+  "saga": "pjo",
+  "libro": 5,
+  "corto": "PJO 5",
+  "titulo": "El último héroe del Olimpo",
+  "preguntas": [
+   {
+    "id": "pjo5-001",
+    "nivel": "I",
+    "sub": "Antes de la guerra",
+    "pregunta": "¿Qué hacen Percy y Beckendorf al comienzo del libro?",
+    "opciones": [
+     "Buscan a Nico en el Inframundo",
+     "Intentan volar el Princesa Andrómeda",
+     "Defienden el puente de Williamsburg",
+     "Liberan a Tyson de Luke"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-002",
+    "nivel": "I",
+    "sub": "Antes de la guerra",
+    "pregunta": "¿Quién muere en esa misión?",
+    "opciones": [
+     "Charles Beckendorf",
+     "Silena Beauregard",
+     "Michael Yew",
+     "Lee Fletcher"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-003",
+    "nivel": "B",
+    "sub": "Antes de la guerra",
+    "pregunta": "¿Qué monstruo gigantesco marcha hacia Nueva York mientras los dioses lo combaten?",
+    "opciones": [
+     "Tifón",
+     "Equidna",
+     "Campe",
+     "Briares"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-004",
+    "nivel": "I",
+    "sub": "Antes de la guerra",
+    "pregunta": "¿Qué titán asedia el reino submarino de Poseidón?",
+    "opciones": [
+     "Hiperión",
+     "Océano",
+     "Atlas",
+     "Crío"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-005",
+    "nivel": "I",
+    "sub": "Antes de la guerra",
+    "pregunta": "¿Qué diosa encuentra Percy cuidando el fuego del hogar en el campamento?",
+    "opciones": [
+     "Deméter",
+     "Hera",
+     "Hestia",
+     "Hécate"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-006",
+    "nivel": "I",
+    "sub": "Antes de la guerra",
+    "pregunta": "¿Quién es la madre de Luke?",
+    "opciones": [
+     "Sally Jackson",
+     "Maria di Angelo",
+     "Hera",
+     "May Castellan"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-007",
+    "nivel": "A",
+    "sub": "Antes de la guerra",
+    "pregunta": "¿Por qué quedó trastornada la madre de Luke?",
+    "opciones": [
+     "Vio a Hermes en su forma divina",
+     "Intentó acoger al espíritu del Oráculo",
+     "Bebió agua del río Lete",
+     "La maldijo Hera"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-008",
+    "nivel": "B",
+    "sub": "La maldición de Aquiles",
+    "pregunta": "¿En qué río se baña Percy para volverse invulnerable?",
+    "opciones": [
+     "El Estigio",
+     "El Lete",
+     "El Aqueronte",
+     "El Flegetonte"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-009",
+    "nivel": "I",
+    "sub": "La maldición de Aquiles",
+    "pregunta": "¿Quién lleva a Percy al Inframundo para hacer ese baño?",
+    "opciones": [
+     "Nico di Angelo",
+     "Hades",
+     "Annabeth",
+     "Rachel"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-010",
+    "nivel": "I",
+    "sub": "La maldición de Aquiles",
+    "pregunta": "¿Qué fantasma le advierte a Percy de los riesgos de ese baño?",
+    "opciones": [
+     "Héctor",
+     "Teseo",
+     "Aquiles",
+     "Ulises"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-011",
+    "nivel": "A",
+    "sub": "La maldición de Aquiles",
+    "pregunta": "¿Dónde queda el único punto vulnerable de Percy?",
+    "opciones": [
+     "En el talón",
+     "En la parte baja de la espalda",
+     "En la nuca",
+     "En el corazón"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-012",
+    "nivel": "A",
+    "sub": "La maldición de Aquiles",
+    "pregunta": "¿En qué piensa Percy para no disolverse en el río?",
+    "opciones": [
+     "En su madre",
+     "En el mar",
+     "En Contracorriente",
+     "En Annabeth, que lo ayuda a anclarse"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-013",
+    "nivel": "I",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Qué dios hace dormir a todos los mortales de Nueva York?",
+    "opciones": [
+     "Hipnos",
+     "Tánatos",
+     "Morfeo",
+     "Hécate"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-014",
+    "nivel": "I",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Quién era la espía de Cronos dentro del campamento?",
+    "opciones": [
+     "Silena Beauregard",
+     "Clarisse La Rue",
+     "Juniper",
+     "Katie Gardner"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-015",
+    "nivel": "A",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Cómo convence Silena a la cabaña de Ares de entrar a la batalla?",
+    "opciones": [
+     "Les promete el carro de Ares",
+     "Se disfraza con la armadura de Clarisse",
+     "Les muestra un mensaje de Ares",
+     "Desafía a Clarisse a un duelo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-016",
+    "nivel": "A",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Qué monstruo mata Clarisse sola tras la muerte de Silena?",
+    "opciones": [
+     "El Minotauro",
+     "Una hidra",
+     "La Quimera",
+     "Un drakon"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-017",
+    "nivel": "A",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿En qué convierten Grover y los espíritus de la naturaleza al titán Hiperión?",
+    "opciones": [
+     "En piedra",
+     "En una estrella",
+     "En polvo dorado",
+     "En un árbol"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-018",
+    "nivel": "I",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Qué titán le entrega a Percy la vasija de Pandora?",
+    "opciones": [
+     "Prometeo",
+     "Atlas",
+     "Hiperión",
+     "Crío"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-019",
+    "nivel": "A",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Qué queda dentro de la vasija y a quién se la entrega Percy?",
+    "opciones": [
+     "Un rayo, y se la da a Zeus",
+     "La Esperanza, y se la da a Hestia",
+     "La Discordia, y se la da a Ares",
+     "La Muerte, y se la da a Hades"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-020",
+    "nivel": "A",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Por qué Ethan Nakamura se unió a Cronos?",
+    "opciones": [
+     "Porque los dioses menores no tenían cabañas ni reconocimiento",
+     "Porque Percy lo humilló",
+     "Porque su madre se lo ordenó",
+     "Porque Cronos le prometió inmortalidad"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-021",
+    "nivel": "I",
+    "sub": "El Olimpo",
+    "pregunta": "¿Con qué arma termina Luke con Cronos?",
+    "opciones": [
+     "Contracorriente",
+     "La guadaña de Cronos",
+     "El cuchillo de Annabeth",
+     "Una flecha de Artemisa"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-022",
+    "nivel": "A",
+    "sub": "El Olimpo",
+    "pregunta": "¿Dónde estaba el punto débil de Luke?",
+    "opciones": [
+     "Bajo el brazo",
+     "En el talón",
+     "En la espalda",
+     "En el cuello"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-023",
+    "nivel": "I",
+    "sub": "El Olimpo",
+    "pregunta": "Al final, ¿quién resulta ser el héroe de la Gran Profecía cuya alma segará la hoja maldita?",
+    "opciones": [
+     "Percy",
+     "Nico",
+     "Ethan",
+     "Luke"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-024",
+    "nivel": "B",
+    "sub": "El Olimpo",
+    "pregunta": "¿Qué le ofrecen los dioses a Percy como recompensa y él rechaza?",
+    "opciones": [
+     "Un trono en el Olimpo para su madre",
+     "La espada de Cronos",
+     "Ser rey del Inframundo",
+     "Ser un dios inmortal"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-025",
+    "nivel": "I",
+    "sub": "El Olimpo",
+    "pregunta": "¿Qué pide Percy en lugar de esa recompensa?",
+    "opciones": [
+     "Que Luke vuelva a la vida",
+     "Que los dioses reconozcan a todos sus hijos antes de los trece años",
+     "Que Zeus perdone a Hades",
+     "Que el campamento tenga su propio dios"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-026",
+    "nivel": "I",
+    "sub": "El Olimpo",
+    "pregunta": "¿En qué se convierte Rachel al final del libro?",
+    "opciones": [
+     "En una Cazadora de Artemisa",
+     "En una semidiosa reconocida",
+     "En la directora del campamento",
+     "En el nuevo Oráculo de Delfos"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-027",
+    "nivel": "I",
+    "sub": "El Olimpo",
+    "pregunta": "¿Qué trabajo le dan a Annabeth en el Olimpo?",
+    "opciones": [
+     "Consejera de Atenea",
+     "Guardiana del fuego de Hestia",
+     "Arquitecta del Olimpo, para reconstruirlo",
+     "Mensajera de los dioses"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-028",
+    "nivel": "A",
+    "sub": "El Olimpo",
+    "pregunta": "¿Qué hacen los campistas cuando Percy y Annabeth por fin se besan?",
+    "opciones": [
+     "Les hacen una fiesta sorpresa",
+     "Los persiguen con flechas",
+     "Los tiran al lago de las canoas",
+     "Les cantan una canción de la fogata"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-029",
+    "nivel": "A",
+    "sub": "El Olimpo",
+    "pregunta": "¿Cuándo es el cumpleaños de Percy, el día en que cumple dieciséis?",
+    "opciones": [
+     "El 21 de junio",
+     "El 1 de julio",
+     "El 31 de octubre",
+     "El 18 de agosto"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-030",
+    "nivel": "E",
+    "sub": "El Olimpo",
+    "pregunta": "¿Con qué verso empieza la nueva profecía que pronuncia Rachel al final?",
+    "opciones": [
+     "Cinco buscarán a la diosa encadenada",
+     "Un mestizo de los dioses mayores",
+     "Siete mestizos responderán a la llamada",
+     "Navegarás en el barco de hierro"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-031",
+    "nivel": "B",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Cómo se llama el pegaso negro que llama \"jefe\" a Percy?",
+    "opciones": [
+     "Arión",
+     "Blackjack",
+     "Guido",
+     "Porkpie"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-032",
+    "nivel": "I",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Qué puente defiende Percy en una de las primeras batallas de Manhattan?",
+    "opciones": [
+     "El puente de Brooklyn",
+     "El puente de Williamsburg",
+     "El puente George Washington",
+     "El puente de Manhattan"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-033",
+    "nivel": "A",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Qué hotel usan los campistas como cuartel general?",
+    "opciones": [
+     "El Waldorf Astoria",
+     "El Ritz",
+     "El Plaza",
+     "El Hotel Loto"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-034",
+    "nivel": "I",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿A qué dios convence Nico de unirse a la defensa del Olimpo?",
+    "opciones": [
+     "Ares",
+     "Dioniso",
+     "Hades",
+     "Hefesto"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-035",
+    "nivel": "A",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Quién lidera al ejército de cíclopes que llega a combatir a Tifón?",
+    "opciones": [
+     "Polifemo",
+     "Brontes",
+     "Hefesto",
+     "Tyson"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-036",
+    "nivel": "I",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Quién recibe una puñalada para proteger el punto débil de Percy?",
+    "opciones": [
+     "Grover",
+     "Thalia",
+     "Annabeth",
+     "Nico"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-037",
+    "nivel": "A",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Qué hace Rachel con las visiones que tiene?",
+    "opciones": [
+     "Las pinta",
+     "Las escribe en un diario",
+     "Las canta",
+     "Las cuenta a Quirón en cartas"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-038",
+    "nivel": "E",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Qué título recibe Grover al final del libro?",
+    "opciones": [
+     "Señor de lo Salvaje",
+     "Rey de los Sátiros",
+     "Guardián de Pan",
+     "Jefe de los Buscadores"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-039",
+    "nivel": "A",
+    "sub": "La batalla de Manhattan",
+    "pregunta": "¿Qué dios deja su reino asediado para ayudar a vencer a Tifón?",
+    "opciones": [
+     "Hades",
+     "Poseidón, su padre",
+     "Hefesto",
+     "Ares"
+    ],
+    "correcta": "b"
+   }
+  ]
+ },
+ {
+  "parte": 91,
+  "saga": "tv",
+  "libro": 1,
+  "corto": "Serie T1",
+  "titulo": "Basada en El ladrón del rayo",
+  "preguntas": [
+   {
+    "id": "tv1-001",
+    "nivel": "B",
+    "sub": "Episodios 1-2",
+    "pregunta": "¿En qué plataforma se estrenó la serie de Percy Jackson y los dioses del Olimpo?",
+    "opciones": [
+     "Netflix",
+     "Prime Video",
+     "HBO Max",
+     "Disney+"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv1-002",
+    "nivel": "B",
+    "sub": "Episodios 1-2",
+    "pregunta": "¿Cuántos episodios tiene la primera temporada?",
+    "opciones": [
+     "8",
+     "10",
+     "6",
+     "12"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv1-003",
+    "nivel": "B",
+    "sub": "Episodios 1-2",
+    "pregunta": "¿Qué libro adapta la primera temporada?",
+    "opciones": [
+     "El Mar de los Monstruos",
+     "El ladrón del rayo",
+     "La maldición del titán",
+     "Los archivos del semidiós"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv1-004",
+    "nivel": "I",
+    "sub": "Episodios 1-2",
+    "pregunta": "En la serie, ¿qué pasa justo antes de que Poseidón reconozca a Percy?",
+    "opciones": [
+     "Lo ataca un perro del infierno en el bosque",
+     "Annabeth lo empuja al lago tras ganar captura la bandera",
+     "Pelea con Clarisse en el arroyo",
+     "Toca el pino de Thalia"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv1-005",
+    "nivel": "I",
+    "sub": "Episodios 1-2",
+    "pregunta": "En el episodio 2, ¿dónde usa Percy por primera vez sus poderes de agua contra unos abusones?",
+    "opciones": [
+     "En el lago de las canoas",
+     "En el comedor",
+     "En el arroyo del bosque",
+     "En el baño"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv1-006",
+    "nivel": "I",
+    "sub": "Episodios 3-4",
+    "pregunta": "En la serie, ¿qué dos Furias atacan el autobús en Nueva Jersey?",
+    "opciones": [
+     "Alecto y Megera",
+     "Megera y Tisífone",
+     "Alecto y Tisífone",
+     "Las tres Furias"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv1-007",
+    "nivel": "I",
+    "sub": "Episodios 3-4",
+    "pregunta": "En la serie, ¿qué le pide Medusa a Percy en su casa?",
+    "opciones": [
+     "Que traicione a sus amigos",
+     "Que le devuelva su belleza",
+     "Que la lleve al Olimpo",
+     "Que le entregue a Contracorriente"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv1-008",
+    "nivel": "E",
+    "sub": "Episodios 3-4",
+    "pregunta": "En la serie, ¿a quién petrifica Percy con la cabeza de Medusa antes de enviarla al Olimpo?",
+    "opciones": [
+     "A Gabe",
+     "A Alecto",
+     "A Equidna",
+     "A Procusto"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv1-009",
+    "nivel": "I",
+    "sub": "Episodios 3-4",
+    "pregunta": "¿En qué medio de transporte viajan hacia el oeste en el episodio 4?",
+    "opciones": [
+     "En avión",
+     "En un camión de zoológico",
+     "En el auto de Hermes",
+     "En tren"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv1-010",
+    "nivel": "A",
+    "sub": "Episodios 3-4",
+    "pregunta": "En la serie, ¿qué diosa le permitió a Equidna entrar al Arco Gateway?",
+    "opciones": [
+     "Hera",
+     "Artemisa",
+     "Atenea",
+     "Afrodita"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv1-011",
+    "nivel": "I",
+    "sub": "Episodios 3-4",
+    "pregunta": "¿Qué le enseña la nereida a Percy en el río Misisipi?",
+    "opciones": [
+     "A controlar las olas",
+     "A hablar con los caballos",
+     "A respirar bajo el agua",
+     "A curarse con agua"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv1-012",
+    "nivel": "A",
+    "sub": "Episodios 5-6",
+    "pregunta": "En la serie, ¿quién ve a la Moira Átropos cortar un hilo, señal de una muerte cercana?",
+    "opciones": [
+     "Percy",
+     "Grover",
+     "Sally",
+     "Annabeth"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv1-013",
+    "nivel": "I",
+    "sub": "Episodios 5-6",
+    "pregunta": "En la serie, ¿en qué trampa de Hefesto cae Percy en Waterland?",
+    "opciones": [
+     "Una red de bronce en un juego del túnel del amor",
+     "Un trono de oro",
+     "Una jaula de arañas mecánicas",
+     "Un tobogán que lo lleva al Tártaro"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv1-014",
+    "nivel": "A",
+    "sub": "Episodios 5-6",
+    "pregunta": "En la serie, ¿qué le promete Hefesto a Annabeth después de Waterland?",
+    "opciones": [
+     "Forjarle una espada de bronce celestial",
+     "Hablar bien de ella con Atenea",
+     "Llevarla al Olimpo",
+     "Revelarle quién robó el rayo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv1-015",
+    "nivel": "I",
+    "sub": "Episodios 5-6",
+    "pregunta": "¿Qué dios aparece en Las Vegas en la serie, aunque en el primer libro no sale?",
+    "opciones": [
+     "Hermes",
+     "Apolo",
+     "Dioniso",
+     "Hades"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv1-016",
+    "nivel": "A",
+    "sub": "Episodios 5-6",
+    "pregunta": "En el Casino Loto de la serie, ¿quién le dice a Grover que encontró a Pan?",
+    "opciones": [
+     "Augustus, un sátiro atrapado allí",
+     "Hermes",
+     "Darrin, un chico de los setenta",
+     "Un empleado del casino"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv1-017",
+    "nivel": "I",
+    "sub": "Episodios 5-6",
+    "pregunta": "En la serie, ¿cuántas perlas le da la nereida a Percy?",
+    "opciones": [
+     "Tres",
+     "Dos",
+     "Cinco",
+     "Cuatro"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv1-018",
+    "nivel": "A",
+    "sub": "Episodios 7-8",
+    "pregunta": "En un recuerdo de la serie, ¿qué le aconseja Poseidón a Sally?",
+    "opciones": [
+     "No enviar a Percy al Campamento Mestizo",
+     "Casarse con Gabe para ocultar el olor de Percy",
+     "Llevar a Percy a vivir al mar",
+     "Contarle la verdad a Percy de inmediato"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv1-019",
+    "nivel": "A",
+    "sub": "Episodios 7-8",
+    "pregunta": "En la serie, ¿qué papel tiene Procusto?",
+    "opciones": [
+     "Es el dueño del Casino Loto",
+     "Trabaja para Ares en Waterland",
+     "Vigila un pasaje secreto hacia el Inframundo",
+     "Conduce el taxi de las Hermanas Grises"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv1-020",
+    "nivel": "A",
+    "sub": "Episodios 7-8",
+    "pregunta": "En la serie, ¿qué le pasa a la perla de Grover en el Inframundo?",
+    "opciones": [
+     "La pierde",
+     "Se la quita Hades",
+     "La usa para salvar a Sally",
+     "Se la come Cerbero"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv1-021",
+    "nivel": "I",
+    "sub": "Episodios 7-8",
+    "pregunta": "¿Quién se da cuenta, en el Inframundo, de que Cronos estuvo detrás de los robos?",
+    "opciones": [
+     "Percy",
+     "Hades",
+     "Annabeth",
+     "Grover"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv1-022",
+    "nivel": "I",
+    "sub": "Episodios 7-8",
+    "pregunta": "En la serie, ¿dónde se enfrenta Percy a Ares?",
+    "opciones": [
+     "En la playa de Santa Mónica",
+     "En Montauk",
+     "En el Empire State",
+     "En el Campamento Mestizo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv1-023",
+    "nivel": "A",
+    "sub": "Episodios 7-8",
+    "pregunta": "¿Cuál es la regla del duelo entre Percy y Ares en la serie?",
+    "opciones": [
+     "Gana quien desarme al otro",
+     "Gana quien saque al otro del agua",
+     "Gana el primero que haga sangrar al otro",
+     "Pelean hasta que salga el sol"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv1-024",
+    "nivel": "I",
+    "sub": "Episodios 7-8",
+    "pregunta": "En la serie, ¿a cambio de qué le entrega Percy el yelmo de oscuridad a Alecto?",
+    "opciones": [
+     "Que Ares sea castigado",
+     "La libertad de su madre",
+     "Un pasaje al Olimpo",
+     "La cabeza de Medusa"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv1-025",
+    "nivel": "A",
+    "sub": "Episodios 7-8",
+    "pregunta": "En el Olimpo de la serie, ¿quién interviene cuando Zeus está a punto de atacar a Percy?",
+    "opciones": [
+     "Atenea",
+     "Hades",
+     "Poseidón",
+     "Hermes"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv1-026",
+    "nivel": "I",
+    "sub": "Episodios 7-8",
+    "pregunta": "En la serie, ¿qué detalle hace que Percy descubra que Luke robó el rayo?",
+    "opciones": [
+     "Una cicatriz nueva",
+     "Un escorpión en su cabaña",
+     "Una carta de Cronos",
+     "Las zapatillas aladas"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv1-027",
+    "nivel": "I",
+    "sub": "Episodios 7-8",
+    "pregunta": "En la serie, ¿qué detiene a Luke cuando somete a Percy en el campamento?",
+    "opciones": [
+     "Quirón llega a galope",
+     "Grover toca su flauta",
+     "Annabeth lo oye todo y se deja ver",
+     "Clarisse lo ataca"
+    ],
+    "correcta": "c"
+   }
+  ]
+ },
+ {
+  "parte": 92,
+  "saga": "tv",
+  "libro": 2,
+  "corto": "Serie T2",
+  "titulo": "Basada en El Mar de los Monstruos",
+  "preguntas": [
+   {
+    "id": "tv2-001",
+    "nivel": "B",
+    "sub": "Episodios 9-10",
+    "pregunta": "¿Qué libro adapta la segunda temporada?",
+    "opciones": [
+     "El ladrón del rayo",
+     "El Mar de los Monstruos",
+     "La maldición del titán",
+     "La batalla del laberinto"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv2-002",
+    "nivel": "I",
+    "sub": "Episodios 9-10",
+    "pregunta": "En la serie, ¿a quién recogen las Hermanas Grises en su taxi el último día de clases?",
+    "opciones": [
+     "A Percy y Tyson",
+     "A Percy y Annabeth",
+     "A Annabeth y Grover",
+     "A Percy y Sally"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv2-003",
+    "nivel": "I",
+    "sub": "Episodios 9-10",
+    "pregunta": "En la serie, ¿en qué momento reconoce Poseidón a Tyson?",
+    "opciones": [
+     "Durante la carrera de carros",
+     "Al llegar a la isla de Polifemo",
+     "En la fogata de la primera noche",
+     "Cuando Clarisse y Tántalo lo amenazan"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv2-004",
+    "nivel": "A",
+    "sub": "Episodios 9-10",
+    "pregunta": "En la serie, ¿a quiénes elige Clarisse para acompañarla en su misión?",
+    "opciones": [
+     "A Annabeth y Chris",
+     "A Percy y Tyson",
+     "A sus hermanos de Ares",
+     "A nadie"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv2-005",
+    "nivel": "I",
+    "sub": "Episodios 9-10",
+    "pregunta": "En la serie, ¿por qué Quirón dice que Percy no puede salir de misión?",
+    "opciones": [
+     "Porque está castigado por Tántalo",
+     "Porque Poseidón lo prohibió",
+     "Porque aún no cumple trece años",
+     "Por la Gran Profecía"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv2-006",
+    "nivel": "I",
+    "sub": "Episodios 9-10",
+    "pregunta": "¿Cómo ahuyentan Percy, Annabeth y Tyson a las aves del Estínfalo en la serie?",
+    "opciones": [
+     "Con sonidos muy agudos",
+     "Con fuego",
+     "Con una red",
+     "Con agua del lago"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv2-007",
+    "nivel": "A",
+    "sub": "Episodios 11-12",
+    "pregunta": "¿Qué semidiosa del bando de Luke cae por la borda del Princesa Andrómeda?",
+    "opciones": [
+     "Silena Beauregard",
+     "Katie Yoon",
+     "Hylla",
+     "Alison Simms"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv2-008",
+    "nivel": "I",
+    "sub": "Episodios 11-12",
+    "pregunta": "¿Qué símbolo ve Percy en el barco y le revela quién está detrás?",
+    "opciones": [
+     "El tridente de Poseidón",
+     "La lechuza de Atenea",
+     "La guadaña de Cronos",
+     "El caduceo de Hermes"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv2-009",
+    "nivel": "A",
+    "sub": "Episodios 11-12",
+    "pregunta": "En la serie, ¿qué descubre Clarisse sobre las coordenadas que le dio Tántalo?",
+    "opciones": [
+     "Que eran falsas",
+     "Que llevaban al Inframundo",
+     "Que eran de la isla de Circe",
+     "Que Luke las escribió"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv2-010",
+    "nivel": "I",
+    "sub": "Episodios 11-12",
+    "pregunta": "En la serie, ¿quién le cuenta a Percy la Gran Profecía a bordo del Princesa Andrómeda?",
+    "opciones": [
+     "Luke",
+     "Tyson",
+     "Annabeth",
+     "Quirón"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv2-011",
+    "nivel": "I",
+    "sub": "Episodios 11-12",
+    "pregunta": "En el recuerdo del episodio 12, ¿quiénes atacan a Grover, Annabeth, Luke y Thalia?",
+    "opciones": [
+     "Perros del infierno, y luego Ares",
+     "Unos cíclopes, y luego las Furias",
+     "Lestrigones, y luego Equidna",
+     "Esqueletos guerreros"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv2-012",
+    "nivel": "A",
+    "sub": "Episodios 11-12",
+    "pregunta": "En la serie, ¿cómo deciden quién va al Mar de los Monstruos?",
+    "opciones": [
+     "Lo sortean con una moneda",
+     "Percy y Clarisse se baten en duelo",
+     "Lo decide el Oráculo",
+     "Vota la tripulación"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv2-013",
+    "nivel": "A",
+    "sub": "Episodios 11-12",
+    "pregunta": "En la serie, ¿qué termina de destruir el barco de hierro de Clarisse?",
+    "opciones": [
+     "La caldera, que explota",
+     "La Hidra",
+     "Un ciclón: el termo de los vientos se abre",
+     "Los cañones de Barbanegra"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv2-014",
+    "nivel": "I",
+    "sub": "Episodios 13-14",
+    "pregunta": "En la serie, ¿quién le dice a Percy que su defecto fatal son sus amigos?",
+    "opciones": [
+     "Circe",
+     "Atenea",
+     "Annabeth",
+     "Luke"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv2-015",
+    "nivel": "E",
+    "sub": "Episodios 13-14",
+    "pregunta": "¿Qué futura reina de las amazonas aparece en el balneario de C.C.?",
+    "opciones": [
+     "Alison Simms",
+     "Zoë Belladona",
+     "Hylla Ramírez-Arellano",
+     "Katie Yoon"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv2-016",
+    "nivel": "B",
+    "sub": "Episodios 13-14",
+    "pregunta": "¿Cómo deshace Annabeth la transformación de Percy en conejillo de Indias?",
+    "opciones": [
+     "Con un beso",
+     "Con las vitaminas de Hermes",
+     "Rompiendo la varita de Circe",
+     "Con agua del mar"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv2-017",
+    "nivel": "A",
+    "sub": "Episodios 13-14",
+    "pregunta": "¿Qué usa Polifemo para atraerlos en la serie?",
+    "opciones": [
+     "Un canto de sirena",
+     "La imitación de voces",
+     "Ovejas parlantes",
+     "Una ilusión del Vellocino"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv2-018",
+    "nivel": "I",
+    "sub": "Episodios 13-14",
+    "pregunta": "En la serie, ¿de qué se disfrazan Percy y Annabeth en la isla de Polifemo?",
+    "opciones": [
+     "De cíclopes",
+     "De piratas",
+     "De ninfas",
+     "De ovejas"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv2-019",
+    "nivel": "A",
+    "sub": "Episodios 13-14",
+    "pregunta": "¿Qué sorpresa se llevan con el primer Vellocino que encuentran en la isla?",
+    "opciones": [
+     "Está maldito",
+     "Es de Circe",
+     "Es falso, una carnada",
+     "Ya no tiene poder"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv2-020",
+    "nivel": "A",
+    "sub": "Episodios 13-14",
+    "pregunta": "En la serie, ¿quién se lleva a Annabeth y al Vellocino de la isla?",
+    "opciones": [
+     "Luke",
+     "Polifemo",
+     "Clarisse",
+     "Circe"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv2-021",
+    "nivel": "I",
+    "sub": "Episodios 15-16",
+    "pregunta": "¿Qué salva a Percy cuando Luke lo apuñala en el barco?",
+    "opciones": [
+     "Su invulnerabilidad",
+     "Una perla de su padre",
+     "Néctar que lleva Annabeth",
+     "El Vellocino de Oro lo cura"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv2-022",
+    "nivel": "I",
+    "sub": "Episodios 15-16",
+    "pregunta": "En la serie, ¿cómo lleva Clarisse el Vellocino al campamento?",
+    "opciones": [
+     "En avión",
+     "En el taxi de las Hermanas Grises",
+     "Por el Laberinto",
+     "Montando a Blackjack, el pegaso de Luke"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv2-023",
+    "nivel": "A",
+    "sub": "Episodios 15-16",
+    "pregunta": "En la serie, ¿qué le pasa a Tántalo?",
+    "opciones": [
+     "Lo matan los lestrigones",
+     "Lo devuelven al Inframundo",
+     "Se une a Luke",
+     "Lo convierten en árbol"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv2-024",
+    "nivel": "A",
+    "sub": "Episodios 15-16",
+    "pregunta": "¿Qué descubre Clarisse sobre Chris en el último episodio de la temporada?",
+    "opciones": [
+     "Que es hijo de Hermes",
+     "Que perdió la cordura en el Laberinto",
+     "Que se puso del lado de Cronos",
+     "Que salvó el árbol"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv2-025",
+    "nivel": "I",
+    "sub": "Episodios 15-16",
+    "pregunta": "¿Qué hace Thalia al revivir junto a su árbol?",
+    "opciones": [
+     "Abraza a Luke",
+     "Lanza un rayo que deja fuera de combate a Percy",
+     "Se une a las Cazadoras",
+     "Vuelve a convertirse en pino"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv2-026",
+    "nivel": "E",
+    "sub": "Episodios 15-16",
+    "pregunta": "Al final de la temporada, ¿qué revela Quirón sobre la muerte de Thalia?",
+    "opciones": [
+     "Que Luke la traicionó",
+     "Que Zeus la mató a propósito",
+     "Que las Furias en realidad nunca la mataron",
+     "Que fue un sacrificio pedido por Hades"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv2-027",
+    "nivel": "A",
+    "sub": "Episodios 15-16",
+    "pregunta": "Según Quirón, ¿para qué quería Cronos a Thalia?",
+    "opciones": [
+     "Para que fuera su anfitriona",
+     "Para que fuera su campeona",
+     "Para abrir el Tártaro",
+     "Para gobernar el campamento"
+    ],
+    "correcta": "b"
+   }
+  ]
+ }
+]

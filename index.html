@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Percy Jackson Quest</title>
+<meta name="description" content="El Cuestionario Definitivo de Percy Jackson y más tests del mundo de Rick Riordan. The ultimate Percy Jackson quiz and more Riordanverse tests.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Alegreya+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="comun.css">
+<style>
+.tests{display:flex;flex-direction:column;gap:14px;margin-top:30px}
+.test{display:block;text-decoration:none;color:inherit;background:var(--panel);border:2px solid var(--line);border-left:6px solid var(--bronze);border-radius:6px 14px 14px 6px;padding:18px 18px 20px;transition:border-color .15s,transform .1s}
+a.test:hover{border-color:var(--bronze)}
+a.test:active{transform:scale(.99)}
+.test .state{font-size:15px;font-weight:700;color:var(--bronze)}
+.test h2{font-family:var(--display);font-weight:600;font-size:26px;line-height:1.15;margin:4px 0 6px}
+.test p{margin:0;color:var(--muted)}
+.test .go{display:inline-block;margin-top:14px;font-weight:800;color:var(--camp)}
+.test.soon{border-style:dashed;border-left-style:solid;border-left-color:var(--line)}
+.test.soon .state{color:var(--muted)}
+.foot{margin-top:34px;color:var(--muted);font-size:15px}
+</style>
+<script src="comun.js"></script>
+</head>
+<body>
+<main class="wrap">
+  <nav class="langbar">
+    <span></span>
+    <div class="langs" id="langs" role="group" aria-label="Idioma / Language"></div>
+  </nav>
+
+  <div class="title-block">
+    <div class="glyphs" id="glyphs"></div>
+    <h1><span class="small" data-i18n="t1"></span><span data-i18n="t2"></span></h1>
+    <div class="meander" aria-hidden="true"></div>
+    <p class="lede" data-i18n="lede"></p>
+  </div>
+
+  <div class="tests">
+    <a class="test" href="quiz/">
+      <span class="state" data-i18n="quiz_k"></span>
+      <h2 data-i18n="quiz_h"></h2>
+      <p data-i18n="quiz_p"></p>
+      <span class="go" data-i18n="quiz_go"></span>
+    </a>
+    <div class="test soon">
+      <span class="state" data-i18n="god_k"></span>
+      <h2 data-i18n="god_h"></h2>
+      <p data-i18n="god_p"></p>
+    </div>
+  </div>
+
+  <p class="foot" data-i18n="foot"></p>
+</main>
+<script>
+const TEXT = {
+  es: {
+    title: "Percy Jackson Quest",
+    t1: "El mundo de", t2: "Percy Jackson",
+    lede: "Tests para mestizos de todas las sagas de Rick Riordan. Con un mismo nick y PIN guardas tus resultados en todos.",
+    quiz_k: "Disponible",
+    quiz_h: "El Cuestionario Definitivo",
+    quiz_p: "Preguntas de alternativas libro por libro y de la serie, con ranking global. Eliges solo lo que ya leíste o viste, así no te encuentras spoilers.",
+    quiz_go: "Jugar",
+    god_k: "Próximamente",
+    god_h: "¿De qué dios serías hijo o hija?",
+    god_p: "Un test de personalidad para saber qué cabaña te reclamaría.",
+    foot: "Proyecto de fans sin fines de lucro. Percy Jackson y sus personajes pertenecen a Rick Riordan y a sus editoriales; la serie, a Disney."
+  },
+  en: {
+    title: "Percy Jackson Quest",
+    t1: "The world of", t2: "Percy Jackson",
+    lede: "Tests for half-bloods from every Rick Riordan saga. One nickname and PIN keep your results across all of them.",
+    quiz_k: "Available",
+    quiz_h: "The Ultimate Quiz",
+    quiz_p: "Multiple-choice questions book by book and on the series, with a global leaderboard. Pick only what you've already read or watched, so no spoilers.",
+    quiz_go: "Play",
+    god_k: "Coming soon",
+    god_h: "Whose demigod child would you be?",
+    god_p: "A personality test to find out which cabin would claim you.",
+    foot: "Non-profit fan project. Percy Jackson and its characters belong to Rick Riordan and his publishers; the series belongs to Disney."
+  }
+};
+let LANG = PJ.pickLang(Object.keys(TEXT));
+function render(){
+  document.documentElement.lang = LANG;
+  document.title = TEXT[LANG].title;
+  document.querySelectorAll("[data-i18n]").forEach(el => el.textContent = TEXT[LANG][el.dataset.i18n]);
+  const box = document.getElementById("langs"); box.innerHTML = "";
+  Object.keys(TEXT).forEach(code => {
+    const b = document.createElement("button");
+    b.className = "langbtn" + (code === LANG ? " on" : "");
+    b.textContent = code.toUpperCase(); b.setAttribute("aria-pressed", code === LANG);
+    b.addEventListener("click", () => { LANG = code; PJ.saveLang(code); render(); });
+    box.appendChild(b);
+  });
+}
+document.getElementById("glyphs").innerHTML = ["pjo","hoo","toa","kane","mag","tv"].map(s => PJ.glyph(s)).join("");
+render();
+</script>
+</body>
+</html>

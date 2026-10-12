@@ -1,0 +1,3614 @@
+[
+ {
+  "parte": 11,
+  "saga": "pjo",
+  "libro": 1,
+  "corto": "PJO 1",
+  "titulo": "The Lightning Thief",
+  "preguntas": [
+   {
+    "id": "pjo1-001",
+    "nivel": "B",
+    "sub": "Yancy Academy",
+    "pregunta": "Which museum does Percy's class visit at the start of the book?",
+    "opciones": [
+     "The Metropolitan Museum of Art",
+     "The Museum of Natural History",
+     "The British Museum",
+     "The Guggenheim Museum"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-002",
+    "nivel": "B",
+    "sub": "Yancy Academy",
+    "pregunta": "What does Mrs. Dodds turn into when she attacks Percy at the museum?",
+    "opciones": [
+     "A harpy",
+     "A Fury",
+     "An empousa",
+     "A gorgon"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-003",
+    "nivel": "B",
+    "sub": "Yancy Academy",
+    "pregunta": "What does Mr. Brunner throw to Percy so he can defend himself from Mrs. Dodds?",
+    "opciones": [
+     "A bow and arrows",
+     "A bronze shield",
+     "An electric spear",
+     "A pen that turns into a sword"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-004",
+    "nivel": "I",
+    "sub": "Yancy Academy",
+    "pregunta": "What subject does Mr. Brunner teach at Yancy Academy?",
+    "opciones": [
+     "Math",
+     "American history",
+     "Gym",
+     "Latin"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-005",
+    "nivel": "I",
+    "sub": "Yancy Academy",
+    "pregunta": "What's the name of the classmate who bullies Percy and ends up soaked in the museum fountain?",
+    "opciones": [
+     "Nancy Bobofit",
+     "Clarisse La Rue",
+     "Kelli",
+     "Rachel Elizabeth Dare"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-006",
+    "nivel": "B",
+    "sub": "Yancy Academy",
+    "pregunta": "Which two diagnoses does Percy have that are actually signs of being a demigod?",
+    "opciones": [
+     "Asthma and nearsightedness",
+     "Dyslexia and ADHD",
+     "Insomnia and anxiety",
+     "Color blindness and dyslexia"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-007",
+    "nivel": "A",
+    "sub": "Yancy Academy",
+    "pregunta": "According to the book, why do demigods struggle to read English?",
+    "opciones": [
+     "The Mist clouds their vision",
+     "Their brains are hardwired for Ancient Greek",
+     "Because of a curse from Hera",
+     "Monsters distract them when they read"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-008",
+    "nivel": "B",
+    "sub": "From home to camp",
+    "pregunta": "What is the name of Percy's stepfather?",
+    "opciones": [
+     "Gabe Ugliano",
+     "Paul Blofis",
+     "Frederick Chase",
+     "Gabe Castellan"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-009",
+    "nivel": "I",
+    "sub": "From home to camp",
+    "pregunta": "Why does Sally Jackson cook blue food?",
+    "opciones": [
+     "Because blue is Poseidon's color and it honors him",
+     "To spite Gabe, who said there was no such thing as blue food",
+     "To protect Percy from monsters",
+     "Because Percy refuses to eat other colors"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-010",
+    "nivel": "I",
+    "sub": "From home to camp",
+    "pregunta": "Which beach place are Percy and his mom visiting when the Minotaur shows up?",
+    "opciones": [
+     "A house in Santa Monica",
+     "A hotel in Miami",
+     "A cabin in Montauk",
+     "A lighthouse in Maine"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-011",
+    "nivel": "I",
+    "sub": "From home to camp",
+    "pregunta": "What does Percy use to kill the Minotaur?",
+    "opciones": [
+     "Riptide",
+     "A branch from Thalia's pine",
+     "One of the Minotaur's own horns",
+     "One of Annabeth's arrows"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-012",
+    "nivel": "B",
+    "sub": "From home to camp",
+    "pregunta": "What is Grover Underwood really?",
+    "opciones": [
+     "A satyr",
+     "A centaur",
+     "A Roman faun",
+     "A Cyclops"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-013",
+    "nivel": "B",
+    "sub": "From home to camp",
+    "pregunta": "What kind of creature is Chiron?",
+    "opciones": [
+     "A satyr",
+     "A centaur",
+     "A Titan",
+     "A tame minotaur"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-014",
+    "nivel": "B",
+    "sub": "From home to camp",
+    "pregunta": "Which god runs Camp Half-Blood as a punishment?",
+    "opciones": [
+     "Dionysus",
+     "Hermes",
+     "Apollo",
+     "Ares"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-015",
+    "nivel": "I",
+    "sub": "From home to camp",
+    "pregunta": "What does Mr. D call Percy, deliberately getting his name wrong?",
+    "opciones": [
+     "Perry Johansson",
+     "Peter Johnson",
+     "Percival Jones",
+     "Paul Jackson"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-016",
+    "nivel": "A",
+    "sub": "From home to camp",
+    "pregunta": "Why did Zeus punish Dionysus by making him run the camp?",
+    "opciones": [
+     "For turning Hera into a grapevine",
+     "For stealing nectar from Olympus",
+     "For chasing an off-limits wood nymph",
+     "For losing a bet against Apollo"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-017",
+    "nivel": "I",
+    "sub": "From home to camp",
+    "pregunta": "Where is Camp Half-Blood?",
+    "opciones": [
+     "On Long Island",
+     "On Staten Island",
+     "In the mountains of Maine",
+     "In New Jersey"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-018",
+    "nivel": "I",
+    "sub": "From home to camp",
+    "pregunta": "Which cabin houses the campers who haven't been claimed by their godly parent yet?",
+    "opciones": [
+     "Hestia's",
+     "Dionysus's",
+     "Athena's",
+     "Hermes's"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-019",
+    "nivel": "B",
+    "sub": "From home to camp",
+    "pregunta": "Who is the head counselor of the Hermes cabin when Percy arrives?",
+    "opciones": [
+     "Luke Castellan",
+     "Travis Stoll",
+     "Charles Beckendorf",
+     "Michael Yew"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-020",
+    "nivel": "B",
+    "sub": "From home to camp",
+    "pregunta": "Whose daughter is Annabeth Chase?",
+    "opciones": [
+     "Aphrodite",
+     "Artemis",
+     "Demeter",
+     "Athena"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-021",
+    "nivel": "I",
+    "sub": "From home to camp",
+    "pregunta": "What does Percy do to Clarisse and her friends in the camp bathroom?",
+    "opciones": [
+     "Makes the toilet water explode and soaks them",
+     "Padlocks them inside",
+     "Dumps a bucket of mud on them",
+     "Scares them with a snake"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-022",
+    "nivel": "I",
+    "sub": "From home to camp",
+    "pregunta": "Which creature guards the camp and has eyes all over its body?",
+    "opciones": [
+     "Ladon",
+     "Cerberus",
+     "Typhon",
+     "Argus"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-023",
+    "nivel": "I",
+    "sub": "From home to camp",
+    "pregunta": "What stands on top of Half-Blood Hill and protects the camp's borders?",
+    "opciones": [
+     "A statue of Athena",
+     "The Golden Fleece",
+     "Thalia's pine tree",
+     "A sacred oak of Zeus"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-024",
+    "nivel": "I",
+    "sub": "From home to camp",
+    "pregunta": "What sign appears over Percy's head when his father claims him?",
+    "opciones": [
+     "A blue wave",
+     "A golden horse",
+     "A bolt of white light",
+     "A glowing green trident"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-025",
+    "nivel": "A",
+    "sub": "From home to camp",
+    "pregunta": "What happens when Percy steps into the creek during capture the flag?",
+    "opciones": [
+     "He freezes in place",
+     "A naiad shows up to fight for him",
+     "The creek suddenly dries up",
+     "The water restores his strength and heals him"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-026",
+    "nivel": "A",
+    "sub": "From home to camp",
+    "pregunta": "What did the Big Three agree on after World War II?",
+    "opciones": [
+     "To have no more children with mortals",
+     "Never to set foot on Olympus again",
+     "To divide the world up again",
+     "To lock Kronos in Tartarus"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-027",
+    "nivel": "I",
+    "sub": "From home to camp",
+    "pregunta": "Where does the camp's Oracle live?",
+    "opciones": [
+     "In a cave by the lake",
+     "Under Thalia's pine tree",
+     "In the attic of the Big House",
+     "In Cabin 2"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-028",
+    "nivel": "B",
+    "sub": "The quest",
+    "pregunta": "What is Percy accused of stealing?",
+    "opciones": [
+     "Poseidon's trident",
+     "The Golden Fleece",
+     "Zeus's master bolt",
+     "Apollo's lyre"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-029",
+    "nivel": "I",
+    "sub": "The quest",
+    "pregunta": "What deadline does Percy have to return what was stolen before war breaks out?",
+    "opciones": [
+     "The summer solstice",
+     "The autumn equinox",
+     "His thirteenth birthday",
+     "The next full moon"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-030",
+    "nivel": "A",
+    "sub": "The quest",
+    "pregunta": "What does the last line of Percy's prophecy say?",
+    "opciones": [
+     "That one shall perish by a parent's hand",
+     "That he will lose a love to worse than death",
+     "That he will fail to save what matters most in the end",
+     "That a single choice shall end his days"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-031",
+    "nivel": "B",
+    "sub": "The quest",
+    "pregunta": "What is the name of Percy's sword?",
+    "opciones": [
+     "Wavebreaker",
+     "High Tide",
+     "Riptide",
+     "Tempest"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-032",
+    "nivel": "I",
+    "sub": "The quest",
+    "pregunta": "What magical item does Annabeth have that makes her invisible?",
+    "opciones": [
+     "A lion-skin cloak",
+     "A silver ring",
+     "A bronze helmet",
+     "A Yankees cap"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-033",
+    "nivel": "I",
+    "sub": "The quest",
+    "pregunta": "What gift does Luke give Percy before he leaves?",
+    "opciones": [
+     "A folding shield",
+     "A pair of winged sneakers",
+     "A thermos of winds",
+     "A compass that points west"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-034",
+    "nivel": "I",
+    "sub": "The quest",
+    "pregunta": "Who is \"Aunty Em\", who welcomes them into her garden-statue shop?",
+    "opciones": [
+     "Echidna",
+     "Circe",
+     "One of the Furies",
+     "Medusa"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-035",
+    "nivel": "A",
+    "sub": "The quest",
+    "pregunta": "What does Percy do with Medusa's head after defeating her?",
+    "opciones": [
+     "Mails it to the gods on Olympus",
+     "Buries it in the desert",
+     "Gives it to Annabeth as a trophy",
+     "Throws it into the Mississippi River"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-036",
+    "nivel": "I",
+    "sub": "The quest",
+    "pregunta": "At which St. Louis landmark do Echidna and the Chimera attack them?",
+    "opciones": [
+     "The Statue of Liberty",
+     "The baseball stadium",
+     "The bridge over the Mississippi",
+     "The Gateway Arch"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-037",
+    "nivel": "A",
+    "sub": "The quest",
+    "pregunta": "What form does the Chimera take when it first appears next to Echidna?",
+    "opciones": [
+     "A black cat",
+     "A pit bull",
+     "A Chihuahua",
+     "A parrot"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-038",
+    "nivel": "I",
+    "sub": "The quest",
+    "pregunta": "Which god asks them to retrieve his shield from an abandoned water park?",
+    "opciones": [
+     "Hephaestus",
+     "Ares",
+     "Hermes",
+     "Apollo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-039",
+    "nivel": "A",
+    "sub": "The quest",
+    "pregunta": "Which trap do they find at the water park that terrifies Annabeth in particular?",
+    "opciones": [
+     "Bronze snakes",
+     "Mechanical spiders",
+     "Giant bats",
+     "Pit scorpions"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-040",
+    "nivel": "I",
+    "sub": "The quest",
+    "pregunta": "Which animals do they free from the truck they ride west in?",
+    "opciones": [
+     "A zebra, a lion and an antelope",
+     "Three horses and a pony",
+     "A bear, a wolf and an eagle",
+     "Two tigers and an elephant"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-041",
+    "nivel": "B",
+    "sub": "The quest",
+    "pregunta": "Which city is the Lotus Hotel and Casino in?",
+    "opciones": [
+     "Los Angeles",
+     "Denver",
+     "Phoenix",
+     "Las Vegas"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-042",
+    "nivel": "A",
+    "sub": "The quest",
+    "pregunta": "How much time passed outside while they were at the Lotus Casino?",
+    "opciones": [
+     "One hour",
+     "Five days",
+     "Three months",
+     "A year"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-043",
+    "nivel": "E",
+    "sub": "The quest",
+    "pregunta": "Which mythical figure, owner of a waterbed store, wants to make the heroes \"fit\" his beds?",
+    "opciones": [
+     "Antaeus",
+     "Geryon",
+     "Sisyphus",
+     "Procrustes (Crusty)"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-044",
+    "nivel": "I",
+    "sub": "The quest",
+    "pregunta": "What does the Nereid at the Santa Monica pier give Percy?",
+    "opciones": [
+     "Three pearls",
+     "A conch shell",
+     "A small trident",
+     "A jar of seawater"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-045",
+    "nivel": "I",
+    "sub": "The Underworld and the ending",
+    "pregunta": "Where is the entrance to the Underworld in Los Angeles?",
+    "opciones": [
+     "Under the Hollywood sign",
+     "In a Beverly Hills cemetery",
+     "At DOA Recording Studios",
+     "At the Santa Monica pier"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-046",
+    "nivel": "B",
+    "sub": "The Underworld and the ending",
+    "pregunta": "Who ferries souls across the River Styx?",
+    "opciones": [
+     "Hades",
+     "Thanatos",
+     "Hermes",
+     "Charon"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-047",
+    "nivel": "I",
+    "sub": "The Underworld and the ending",
+    "pregunta": "How does Annabeth get past Cerberus?",
+    "opciones": [
+     "By feeding him minotaur meat",
+     "By playing fetch with him with a red rubber ball",
+     "By singing him a lullaby",
+     "By turning invisible with her cap"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-048",
+    "nivel": "A",
+    "sub": "The Underworld and the ending",
+    "pregunta": "What do the winged shoes try to do to Grover in the Underworld?",
+    "opciones": [
+     "Fly him back to camp",
+     "Carry him up to Olympus",
+     "Drag him down into Tartarus",
+     "Burn his hooves"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-049",
+    "nivel": "I",
+    "sub": "The Underworld and the ending",
+    "pregunta": "What has been stolen from Hades?",
+    "opciones": [
+     "His scepter",
+     "His skull ring",
+     "His chariot",
+     "His Helm of Darkness"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-050",
+    "nivel": "A",
+    "sub": "The Underworld and the ending",
+    "pregunta": "Where was the master bolt hidden during the quest?",
+    "opciones": [
+     "In Luke's sneakers",
+     "In the backpack Ares gave them",
+     "In the box with Medusa's head",
+     "Inside Riptide"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-051",
+    "nivel": "I",
+    "sub": "The Underworld and the ending",
+    "pregunta": "How many pearls can they use, and why doesn't Percy rescue his mother?",
+    "opciones": [
+     "Only three, one per quest member",
+     "Only two, and Grover needs one",
+     "Only one, and it breaks",
+     "Four, but Hades won't let Sally leave"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-052",
+    "nivel": "I",
+    "sub": "The Underworld and the ending",
+    "pregunta": "Where does Percy wound Ares on the beach?",
+    "opciones": [
+     "In the shoulder",
+     "In his sword hand",
+     "In the face",
+     "In the heel"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo1-053",
+    "nivel": "A",
+    "sub": "The Underworld and the ending",
+    "pregunta": "What curse does Ares put on Percy after their fight?",
+    "opciones": [
+     "That he will never cross the sea again",
+     "That all his friends will betray him",
+     "That his sword will fail him when he needs it most",
+     "That his dreams will always be nightmares"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-054",
+    "nivel": "B",
+    "sub": "The Underworld and the ending",
+    "pregunta": "Which building holds the entrance to Olympus?",
+    "opciones": [
+     "The Empire State Building",
+     "The Chrysler Building",
+     "Trump Tower",
+     "Rockefeller Center"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo1-055",
+    "nivel": "I",
+    "sub": "The Underworld and the ending",
+    "pregunta": "Which secret floor do you have to reach to get to Olympus?",
+    "opciones": [
+     "The 100th floor",
+     "The 600th floor",
+     "The 13th floor",
+     "The 1,000th floor"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-056",
+    "nivel": "B",
+    "sub": "The Underworld and the ending",
+    "pregunta": "Who is the real lightning thief?",
+    "opciones": [
+     "Ares",
+     "Clarisse La Rue",
+     "Luke Castellan",
+     "Hades"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-057",
+    "nivel": "I",
+    "sub": "The Underworld and the ending",
+    "pregunta": "What does Luke use to try to kill Percy at the end of the book?",
+    "opciones": [
+     "A poisoned sword",
+     "A hellhound",
+     "A pit scorpion",
+     "A coral snake"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-058",
+    "nivel": "A",
+    "sub": "The Underworld and the ending",
+    "pregunta": "Who is Luke secretly working for?",
+    "opciones": [
+     "Hades",
+     "Kronos",
+     "Ares",
+     "Typhon"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo1-059",
+    "nivel": "I",
+    "sub": "The Underworld and the ending",
+    "pregunta": "What does Sally Jackson do with Medusa's head at the end?",
+    "opciones": [
+     "She returns it to Olympus",
+     "She buries it in Montauk",
+     "She turns Gabe into a statue",
+     "She throws it into the sea"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo1-060",
+    "nivel": "A",
+    "sub": "The Underworld and the ending",
+    "pregunta": "What does Grover receive for his bravery at the end of the book?",
+    "opciones": [
+     "A seat on the Council of Cloven Elders",
+     "His searcher's license to look for Pan",
+     "A new pair of winged shoes",
+     "Pan's pipes"
+    ],
+    "correcta": "b"
+   }
+  ]
+ },
+ {
+  "parte": 12,
+  "saga": "pjo",
+  "libro": 2,
+  "corto": "PJO 2",
+  "titulo": "The Sea of Monsters",
+  "preguntas": [
+   {
+    "id": "pjo2-001",
+    "nivel": "B",
+    "sub": "School and a camp in danger",
+    "pregunta": "Which of Percy's school friends turns out to be a Cyclops?",
+    "opciones": [
+     "Grover",
+     "Nico",
+     "Tyson",
+     "Ethan"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-002",
+    "nivel": "I",
+    "sub": "School and a camp in danger",
+    "pregunta": "During which gym-class game do cannibal giants attack Percy?",
+    "opciones": [
+     "Basketball",
+     "Football",
+     "Relay races",
+     "Dodgeball"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-003",
+    "nivel": "E",
+    "sub": "School and a camp in danger",
+    "pregunta": "What kind of giants attack Percy in the gym?",
+    "opciones": [
+     "Laistrygonians",
+     "Hyperboreans",
+     "Telkhines",
+     "Frost giants"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-004",
+    "nivel": "B",
+    "sub": "School and a camp in danger",
+    "pregunta": "Whose son is Tyson?",
+    "opciones": [
+     "Hephaestus",
+     "Zeus",
+     "Hades",
+     "Poseidon"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-005",
+    "nivel": "I",
+    "sub": "School and a camp in danger",
+    "pregunta": "What is happening to Thalia's pine tree at the beginning of the book?",
+    "opciones": [
+     "It was split by lightning",
+     "It turned to stone",
+     "It was poisoned and is dying",
+     "It was pulled up by the roots"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-006",
+    "nivel": "I",
+    "sub": "School and a camp in danger",
+    "pregunta": "What attacks the camp's border when Percy, Annabeth and Tyson arrive?",
+    "opciones": [
+     "A bronze dragon",
+     "A pack of hellhounds",
+     "Two bronze Colchis bulls",
+     "A griffin"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-007",
+    "nivel": "I",
+    "sub": "School and a camp in danger",
+    "pregunta": "Who is blamed for poisoning the tree and fired from the camp?",
+    "opciones": [
+     "Mr. D",
+     "Argus",
+     "Luke",
+     "Chiron"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-008",
+    "nivel": "I",
+    "sub": "School and a camp in danger",
+    "pregunta": "Who replaces Chiron as activities director?",
+    "opciones": [
+     "Tantalus",
+     "Sisyphus",
+     "Quintus",
+     "Daedalus"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-009",
+    "nivel": "A",
+    "sub": "School and a camp in danger",
+    "pregunta": "What eternal punishment does Tantalus keep suffering at camp?",
+    "opciones": [
+     "He must push a boulder uphill",
+     "Food and drink always escape his grasp",
+     "An eagle eats his liver",
+     "He can never sleep"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-010",
+    "nivel": "I",
+    "sub": "School and a camp in danger",
+    "pregunta": "Which birds attack during the chariot race?",
+    "opciones": [
+     "Harpies",
+     "Sirens",
+     "The Stymphalian birds",
+     "Zeus's eagles"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-011",
+    "nivel": "I",
+    "sub": "School and a camp in danger",
+    "pregunta": "How do they drive those birds away during the race?",
+    "opciones": [
+     "With Greek fire",
+     "With silver arrows",
+     "With a dog whistle",
+     "With loud music they can't stand"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-012",
+    "nivel": "B",
+    "sub": "The quest for the Fleece",
+    "pregunta": "Which object can save Thalia's tree?",
+    "opciones": [
+     "The Golden Fleece",
+     "The master bolt",
+     "Pandora's jar",
+     "The Helm of Darkness"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-013",
+    "nivel": "I",
+    "sub": "The quest for the Fleece",
+    "pregunta": "Who does Tantalus officially give the Fleece quest to?",
+    "opciones": [
+     "Percy",
+     "Annabeth",
+     "Luke",
+     "Clarisse"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-014",
+    "nivel": "A",
+    "sub": "The quest for the Fleece",
+    "pregunta": "How does Clarisse's prophecy begin?",
+    "opciones": [
+     "You shall go west and face the god",
+     "You shall sail the iron ship with warriors of bone",
+     "Five shall go west to the goddess in chains",
+     "You shall delve in the darkness of the endless maze"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-015",
+    "nivel": "I",
+    "sub": "The quest for the Fleece",
+    "pregunta": "How does Percy know Grover is in danger?",
+    "opciones": [
+     "Through an Iris-message",
+     "Through dreams, via an empathy link",
+     "Through a letter from Chiron",
+     "Through a warning from Hermes"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-016",
+    "nivel": "A",
+    "sub": "The quest for the Fleece",
+    "pregunta": "How does Grover disguise himself so his captor won't eat him?",
+    "opciones": [
+     "As a Cyclops bride, in a wedding dress",
+     "As a sheep",
+     "As a stone statue",
+     "As a bush"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-017",
+    "nivel": "I",
+    "sub": "The quest for the Fleece",
+    "pregunta": "Which god appears to help Percy before the quest?",
+    "opciones": [
+     "Poseidon",
+     "Hermes",
+     "Apollo",
+     "Dionysus"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-018",
+    "nivel": "A",
+    "sub": "The quest for the Fleece",
+    "pregunta": "What two gifts does that god give Percy?",
+    "opciones": [
+     "Winged shoes and a map",
+     "A thermos of winds and some vitamins",
+     "A conch and a pearl",
+     "A lyre and a bow"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-019",
+    "nivel": "I",
+    "sub": "The quest for the Fleece",
+    "pregunta": "Who drives the taxi that takes Percy, Annabeth and Tyson back to camp?",
+    "opciones": [
+     "The Gray Sisters",
+     "The Furies",
+     "The Fates",
+     "The Gorgons"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-020",
+    "nivel": "A",
+    "sub": "The quest for the Fleece",
+    "pregunta": "What do those three sisters have to share?",
+    "opciones": [
+     "A single hand",
+     "A single heart",
+     "A single eye",
+     "One tooth and one ear"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-021",
+    "nivel": "A",
+    "sub": "The quest for the Fleece",
+    "pregunta": "What do the sisters give them in exchange for getting back what was taken?",
+    "opciones": [
+     "A golden thread",
+     "A set of coordinates",
+     "An Underworld coin",
+     "A map of the Labyrinth"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-022",
+    "nivel": "B",
+    "sub": "The quest for the Fleece",
+    "pregunta": "What's the name of Luke's monster-filled cruise ship?",
+    "opciones": [
+     "Queen Hera",
+     "Star of Atlas",
+     "Black Pearl",
+     "Princess Andromeda"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-023",
+    "nivel": "I",
+    "sub": "The quest for the Fleece",
+    "pregunta": "What does Luke keep in a golden coffin aboard his ship?",
+    "opciones": [
+     "Kronos's remains, slowly re-forming",
+     "Thalia's body",
+     "The Golden Fleece",
+     "Medusa's head"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-024",
+    "nivel": "A",
+    "sub": "The quest for the Fleece",
+    "pregunta": "Which monster attacks them in Charleston and forces them onto Clarisse's ship?",
+    "opciones": [
+     "Scylla",
+     "The Minotaur",
+     "The Hydra",
+     "A sea dragon"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-025",
+    "nivel": "E",
+    "sub": "The quest for the Fleece",
+    "pregunta": "Who crews Clarisse's ironclad ship?",
+    "opciones": [
+     "Campers from the Ares cabin",
+     "Spartan skeletons",
+     "Zombie Confederate soldiers",
+     "Sailor satyrs"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-026",
+    "nivel": "I",
+    "sub": "The quest for the Fleece",
+    "pregunta": "Which two sea monsters destroy Clarisse's ship?",
+    "opciones": [
+     "Scylla and Charybdis",
+     "The Hydra and Ceto",
+     "The Sirens and Scylla",
+     "Charybdis and the Kraken"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-027",
+    "nivel": "B",
+    "sub": "The quest for the Fleece",
+    "pregunta": "What animal does Circe turn Percy into?",
+    "opciones": [
+     "A pig",
+     "A hamster",
+     "A mouse",
+     "A guinea pig"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-028",
+    "nivel": "A",
+    "sub": "The quest for the Fleece",
+    "pregunta": "How does Annabeth undo Percy's transformation?",
+    "opciones": [
+     "With Hermes's vitamins",
+     "With seawater",
+     "With a kiss",
+     "With a magic pearl"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-029",
+    "nivel": "A",
+    "sub": "The quest for the Fleece",
+    "pregunta": "Which famous prisoners do they free on Circe's island?",
+    "opciones": [
+     "Blackbeard and his pirates",
+     "The Argonauts",
+     "Odysseus and his crew",
+     "Ares's children"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-030",
+    "nivel": "I",
+    "sub": "The quest for the Fleece",
+    "pregunta": "What does Annabeth do to hear the Sirens' song without dying?",
+    "opciones": [
+     "Plugs her ears with wax",
+     "Has herself tied to the mast",
+     "Turns invisible",
+     "Dives underwater"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-031",
+    "nivel": "A",
+    "sub": "The quest for the Fleece",
+    "pregunta": "According to Annabeth, what is her fatal flaw?",
+    "opciones": [
+     "Hubris, deadly pride",
+     "Too much loyalty",
+     "Anger",
+     "Envy"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-032",
+    "nivel": "B",
+    "sub": "Polyphemus's island and the return",
+    "pregunta": "Which Cyclops is holding Grover prisoner?",
+    "opciones": [
+     "Brontes",
+     "Argus",
+     "Cyclone",
+     "Polyphemus"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-033",
+    "nivel": "A",
+    "sub": "Polyphemus's island and the return",
+    "pregunta": "What fake name does Annabeth give Polyphemus, just like Odysseus?",
+    "opciones": [
+     "Somebody",
+     "Nobody",
+     "No one",
+     "Odysseus"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-034",
+    "nivel": "I",
+    "sub": "Polyphemus's island and the return",
+    "pregunta": "Which animals guard the Fleece on Polyphemus's island?",
+    "opciones": [
+     "Man-eating sheep",
+     "Three-headed dogs",
+     "Sea serpents",
+     "Giant goats"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo2-035",
+    "nivel": "A",
+    "sub": "Polyphemus's island and the return",
+    "pregunta": "What's the name of Tyson's hippocampus friend?",
+    "opciones": [
+     "Blackjack",
+     "Rainbow",
+     "Foam",
+     "Gallop"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-036",
+    "nivel": "I",
+    "sub": "Polyphemus's island and the return",
+    "pregunta": "Who takes the Fleece back to camp by plane?",
+    "opciones": [
+     "Annabeth",
+     "Tyson",
+     "Clarisse",
+     "Grover"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-037",
+    "nivel": "A",
+    "sub": "Polyphemus's island and the return",
+    "pregunta": "How does Percy clear Chiron's name?",
+    "opciones": [
+     "He shows Tantalus a letter from Luke",
+     "He asks Poseidon to testify",
+     "He gets Luke to confess on an Iris-message the whole camp sees",
+     "He finds the poison in the Hermes cabin"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo2-038",
+    "nivel": "A",
+    "sub": "Polyphemus's island and the return",
+    "pregunta": "Which of Chiron's relatives come to the rescue in Miami?",
+    "opciones": [
+     "The forest centaurs",
+     "The children of Hermes",
+     "The Hunters of Artemis",
+     "The Party Ponies"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-039",
+    "nivel": "B",
+    "sub": "Polyphemus's island and the return",
+    "pregunta": "What unexpected effect does the Fleece have when it heals the tree?",
+    "opciones": [
+     "The camp turns invisible",
+     "Thalia comes back to life",
+     "Luke loses his powers",
+     "Chiron grows young again"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo2-040",
+    "nivel": "I",
+    "sub": "Polyphemus's island and the return",
+    "pregunta": "Where does Tyson go to work at the end of the book?",
+    "opciones": [
+     "In Hephaestus's forge",
+     "In the camp kitchen",
+     "On Olympus as a guard",
+     "In Poseidon's undersea forges"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo2-041",
+    "nivel": "A",
+    "sub": "Polyphemus's island and the return",
+    "pregunta": "What happens to Tantalus once the truth comes out?",
+    "opciones": [
+     "He's turned into a tree",
+     "He's made camp director",
+     "He's sent back to the Underworld",
+     "He runs off with Luke"
+    ],
+    "correcta": "c"
+   }
+  ]
+ },
+ {
+  "parte": 13,
+  "saga": "pjo",
+  "libro": 3,
+  "corto": "PJO 3",
+  "titulo": "The Titan's Curse",
+  "preguntas": [
+   {
+    "id": "pjo3-001",
+    "nivel": "I",
+    "sub": "Westover Hall",
+    "pregunta": "Which state is Westover Hall boarding school in?",
+    "opciones": [
+     "New York",
+     "Maine",
+     "Vermont",
+     "California"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-002",
+    "nivel": "B",
+    "sub": "Westover Hall",
+    "pregunta": "Which two demigod siblings does Grover find at Westover Hall?",
+    "opciones": [
+     "Travis and Connor Stoll",
+     "Lee and Michael Fletcher",
+     "Nico and Bianca di Angelo",
+     "Jason and Thalia Grace"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-003",
+    "nivel": "I",
+    "sub": "Westover Hall",
+    "pregunta": "Which monster poses as the vice principal, Dr. Thorn?",
+    "opciones": [
+     "A sphinx",
+     "A chimera",
+     "A manticore",
+     "A griffin"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-004",
+    "nivel": "I",
+    "sub": "Westover Hall",
+    "pregunta": "Which card game is Nico obsessed with?",
+    "opciones": [
+     "Pokémon",
+     "Yu-Gi-Oh!",
+     "Pai Sho",
+     "Mythomagic"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-005",
+    "nivel": "B",
+    "sub": "Westover Hall",
+    "pregunta": "Which group arrives to rescue them at Westover Hall?",
+    "opciones": [
+     "The Ares campers",
+     "The Party Ponies",
+     "The Hunters of Artemis",
+     "The wood nymphs"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-006",
+    "nivel": "I",
+    "sub": "Westover Hall",
+    "pregunta": "Who disappears off the cliff together with the manticore?",
+    "opciones": [
+     "Annabeth",
+     "Thalia",
+     "Bianca",
+     "Grover"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-007",
+    "nivel": "I",
+    "sub": "Westover Hall",
+    "pregunta": "What do the Hunters of Artemis have to swear?",
+    "opciones": [
+     "Never to speak to men again",
+     "Never to use bronze weapons",
+     "To live in the woods and never leave",
+     "To give up romantic love forever"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-008",
+    "nivel": "I",
+    "sub": "Westover Hall",
+    "pregunta": "Who decides to join the Hunters after the rescue?",
+    "opciones": [
+     "Annabeth",
+     "Thalia",
+     "Clarisse",
+     "Bianca di Angelo"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-009",
+    "nivel": "I",
+    "sub": "The sun god and the prophecy",
+    "pregunta": "What does Apollo's sun chariot look like when Percy meets him?",
+    "opciones": [
+     "A school bus",
+     "A golden motorcycle",
+     "A red sports car",
+     "A carriage drawn by fiery horses"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-010",
+    "nivel": "A",
+    "sub": "The sun god and the prophecy",
+    "pregunta": "Who ends up driving the sun chariot despite being afraid of heights?",
+    "opciones": [
+     "Thalia",
+     "Percy",
+     "Zoë",
+     "Grover"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-011",
+    "nivel": "A",
+    "sub": "The sun god and the prophecy",
+    "pregunta": "What kind of poems does Apollo like to recite?",
+    "opciones": [
+     "Sonnets",
+     "Limericks",
+     "Odes",
+     "Haikus"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-012",
+    "nivel": "B",
+    "sub": "The sun god and the prophecy",
+    "pregunta": "Who is the lieutenant of the Hunters?",
+    "opciones": [
+     "Thalia Grace",
+     "Zoë Nightshade",
+     "Phoebe",
+     "Bianca di Angelo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-013",
+    "nivel": "I",
+    "sub": "The sun god and the prophecy",
+    "pregunta": "Which goddess is kidnapped in this book?",
+    "opciones": [
+     "Athena",
+     "Hera",
+     "Demeter",
+     "Artemis"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-014",
+    "nivel": "A",
+    "sub": "The sun god and the prophecy",
+    "pregunta": "How does Zoë's prophecy begin?",
+    "opciones": [
+     "You shall go west and face the god",
+     "Seven half-bloods shall answer the call",
+     "You shall sail the iron ship",
+     "Five shall go west to the goddess in chains"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-015",
+    "nivel": "A",
+    "sub": "The sun god and the prophecy",
+    "pregunta": "According to the prophecy, how will one of the quest members perish?",
+    "opciones": [
+     "By a parent's hand",
+     "Drowned at sea",
+     "Beneath a mountain",
+     "By a scorpion's venom"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-016",
+    "nivel": "I",
+    "sub": "The sun god and the prophecy",
+    "pregunta": "Who are the official members of the quest to rescue the goddess?",
+    "opciones": [
+     "Zoë, Bianca, Thalia, Grover and Phoebe",
+     "Percy, Annabeth, Grover, Thalia and Nico",
+     "Zoë, Thalia, Percy, Luke and Grover",
+     "Bianca, Nico, Percy, Zoë and Clarisse"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-017",
+    "nivel": "A",
+    "sub": "The sun god and the prophecy",
+    "pregunta": "Why can't Phoebe go on the quest, so that Percy takes her place?",
+    "opciones": [
+     "She breaks her leg in capture the flag",
+     "Artemis forbids her to go",
+     "She puts on a T-shirt laced with centaur blood left by the Stolls",
+     "A hellhound bites her"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-018",
+    "nivel": "I",
+    "sub": "The sun god and the prophecy",
+    "pregunta": "Which sea creature with a cow's body and a serpent's tail does Percy protect?",
+    "opciones": [
+     "The Ophiotaurus, whom he calls Bessie",
+     "A hippocampus named Rainbow",
+     "A baby kraken",
+     "A Nereid"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-019",
+    "nivel": "A",
+    "sub": "The sun god and the prophecy",
+    "pregunta": "Why is that creature so dangerous if it falls into the wrong hands?",
+    "opciones": [
+     "Its blood revives the Titans",
+     "Its milk grants immortality",
+     "Its breath poisons the sea",
+     "Whoever burns its entrails gains the power to destroy Olympus"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-020",
+    "nivel": "I",
+    "sub": "The quest west",
+    "pregunta": "Which monster do they fight at the Air and Space Museum in Washington?",
+    "opciones": [
+     "The Hydra",
+     "The Erymanthian Boar",
+     "The Minotaur",
+     "The Nemean Lion"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-021",
+    "nivel": "A",
+    "sub": "The quest west",
+    "pregunta": "How does Percy beat that monster with impenetrable hide?",
+    "opciones": [
+     "He shoves astronaut food in its mouth so they can strike inside",
+     "He strangles it like Hercules",
+     "He drowns it in a fountain",
+     "He stabs Riptide into its eye"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-022",
+    "nivel": "I",
+    "sub": "The quest west",
+    "pregunta": "Which warriors chase the quest after growing from teeth sown in the ground?",
+    "opciones": [
+     "Confederate zombies",
+     "Skeleton warriors (the Spartoi)",
+     "Myrmidons",
+     "Telkhines"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-023",
+    "nivel": "I",
+    "sub": "The quest west",
+    "pregunta": "What does Bianca take from the gods' junkyard for her brother?",
+    "opciones": [
+     "A bronze sword",
+     "A helmet",
+     "A little figurine of a god",
+     "A gold coin"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-024",
+    "nivel": "I",
+    "sub": "The quest west",
+    "pregunta": "What does Bianca wake up in the junkyard by taking that object?",
+    "opciones": [
+     "A metal dragon",
+     "A bronze giant, like Talos",
+     "An army of automatons",
+     "A sleeping Cyclops"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-025",
+    "nivel": "B",
+    "sub": "The quest west",
+    "pregunta": "What happens to Bianca di Angelo?",
+    "opciones": [
+     "She dies stopping the bronze giant",
+     "Luke captures her",
+     "She becomes a star",
+     "She goes back to the Lotus Hotel"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-026",
+    "nivel": "I",
+    "sub": "The quest west",
+    "pregunta": "At which great engineering landmark do they meet Rachel Elizabeth Dare?",
+    "opciones": [
+     "Hoover Dam",
+     "The Golden Gate Bridge",
+     "The Statue of Liberty",
+     "The Grand Canyon"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-027",
+    "nivel": "A",
+    "sub": "The quest west",
+    "pregunta": "What's special about Rachel even though she's mortal?",
+    "opciones": [
+     "She can talk to animals",
+     "She can see through the Mist",
+     "She's immune to monsters",
+     "She has dreamed the future since childhood"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-028",
+    "nivel": "I",
+    "sub": "The quest west",
+    "pregunta": "Who was the original owner of Riptide?",
+    "opciones": [
+     "Hercules",
+     "Theseus",
+     "Annabeth",
+     "Zoë Nightshade"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-029",
+    "nivel": "A",
+    "sub": "The quest west",
+    "pregunta": "To which hero did Zoë give that sword, before he betrayed her?",
+    "opciones": [
+     "Theseus",
+     "Jason",
+     "Heracles (Hercules)",
+     "Perseus"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-030",
+    "nivel": "A",
+    "sub": "The quest west",
+    "pregunta": "Whose daughter is Zoë Nightshade?",
+    "opciones": [
+     "Kronos's",
+     "Atlas's",
+     "Hyperion's",
+     "Prometheus's"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-031",
+    "nivel": "I",
+    "sub": "Mount Othrys",
+    "pregunta": "Which California mountain is the base of the Titans' Mount Othrys?",
+    "opciones": [
+     "Mount Shasta",
+     "Mount Tamalpais",
+     "Mount Whitney",
+     "Mount St. Helens"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-032",
+    "nivel": "I",
+    "sub": "Mount Othrys",
+    "pregunta": "Which dragon guards the Garden of the Hesperides?",
+    "opciones": [
+     "Ladon",
+     "Peleus",
+     "Python",
+     "Typhon"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-033",
+    "nivel": "B",
+    "sub": "Mount Othrys",
+    "pregunta": "What is the \"Titan's curse\" in the title?",
+    "opciones": [
+     "Aging all at once",
+     "Turning to stone",
+     "Forgetting who you are",
+     "Holding up the weight of the sky"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo3-034",
+    "nivel": "I",
+    "sub": "Mount Othrys",
+    "pregunta": "What mark do Percy and Annabeth keep after holding up the sky?",
+    "opciones": [
+     "A scar on the shoulder",
+     "Silver eyes",
+     "A gray streak in their hair",
+     "A burn on their hands"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-035",
+    "nivel": "I",
+    "sub": "Mount Othrys",
+    "pregunta": "What does Artemis turn Zoë into after her death?",
+    "opciones": [
+     "A cypress tree",
+     "A constellation",
+     "A silver deer",
+     "A silver statue"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-036",
+    "nivel": "A",
+    "sub": "Mount Othrys",
+    "pregunta": "What happens to Luke on Mount Othrys?",
+    "opciones": [
+     "Atlas turns him to stone",
+     "Thalia beats him and he falls off a cliff",
+     "Percy wounds him with Riptide",
+     "He drowns at sea"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-037",
+    "nivel": "A",
+    "sub": "Mount Othrys",
+    "pregunta": "Why does Thalia decide to join the Hunters at the end?",
+    "opciones": [
+     "Because Artemis orders her to",
+     "Because Luke betrayed her",
+     "To never turn sixteen and dodge the Great Prophecy",
+     "To replace Bianca"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo3-038",
+    "nivel": "B",
+    "sub": "Mount Othrys",
+    "pregunta": "Which god is Nico di Angelo's father?",
+    "opciones": [
+     "Zeus",
+     "Hades",
+     "Poseidon",
+     "Ares"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo3-039",
+    "nivel": "A",
+    "sub": "Mount Othrys",
+    "pregunta": "What does the Great Prophecy say about a child of the Big Three?",
+    "opciones": [
+     "That at sixteen they'll save or destroy Olympus",
+     "That they'll rule in Zeus's place",
+     "That they'll be the last demigod",
+     "That they'll free the Titans from Tartarus"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo3-040",
+    "nivel": "I",
+    "sub": "Mount Othrys",
+    "pregunta": "Why does Nico blame Percy for what happened to Bianca?",
+    "opciones": [
+     "Percy left her alone in the junkyard on purpose",
+     "Percy talked her into joining the Hunters",
+     "Percy had promised to keep her safe",
+     "Percy took the figurine from her"
+    ],
+    "correcta": "c"
+   }
+  ]
+ },
+ {
+  "parte": 14,
+  "saga": "pjo",
+  "libro": 4,
+  "corto": "PJO 4",
+  "titulo": "The Battle of the Labyrinth",
+  "preguntas": [
+   {
+    "id": "pjo4-001",
+    "nivel": "I",
+    "sub": "Goode and the camp",
+    "pregunta": "Which monsters disguised as cheerleaders attack Percy at his new school?",
+    "opciones": [
+     "Empousai",
+     "Furies",
+     "Harpies",
+     "Sirens"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-002",
+    "nivel": "I",
+    "sub": "Goode and the camp",
+    "pregunta": "Which mortal friend shows up at Percy's new school and helps him escape?",
+    "opciones": [
+     "Nancy Bobofit",
+     "Rachel Elizabeth Dare",
+     "Silena Beauregard",
+     "Juniper"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-003",
+    "nivel": "I",
+    "sub": "Goode and the camp",
+    "pregunta": "What giant pet does Quintus, the new swordsmanship instructor, have?",
+    "opciones": [
+     "A black pegasus",
+     "A hellhound",
+     "A griffin",
+     "A baby dragon"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-004",
+    "nivel": "B",
+    "sub": "Goode and the camp",
+    "pregunta": "Where do Percy and Annabeth find an entrance to the Labyrinth at camp?",
+    "opciones": [
+     "Under the Big House",
+     "At the bottom of the lake",
+     "At Zeus's Fist, a rock pile in the woods",
+     "Inside Thalia's pine"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-005",
+    "nivel": "I",
+    "sub": "Goode and the camp",
+    "pregunta": "What makes this quest special for Annabeth?",
+    "opciones": [
+     "It's her first time leaving camp",
+     "Her mother goes with her",
+     "She has to do it alone",
+     "It's the first quest she leads"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-006",
+    "nivel": "A",
+    "sub": "Goode and the camp",
+    "pregunta": "How does the Labyrinth quest prophecy end?",
+    "opciones": [
+     "And you shall fail to save what matters most in the end",
+     "And lose a love to worse than death",
+     "And one shall perish by a parent's hand",
+     "And foes bear arms to the Doors of Death"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-007",
+    "nivel": "I",
+    "sub": "Goode and the camp",
+    "pregunta": "Who makes up the Labyrinth quest?",
+    "opciones": [
+     "Annabeth, Percy, Nico and Rachel",
+     "Annabeth, Clarisse, Percy and Grover",
+     "Annabeth, Percy, Grover and Tyson",
+     "Percy, Grover, Thalia and Tyson"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-008",
+    "nivel": "A",
+    "sub": "Goode and the camp",
+    "pregunta": "What is Luke looking for in the Labyrinth?",
+    "opciones": [
+     "Daedalus's workshop, to use the Labyrinth to invade the camp",
+     "The Golden Fleece",
+     "Kronos's tomb",
+     "A way into Olympus"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-009",
+    "nivel": "I",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "Which two-faced god makes them choose a path in the Labyrinth?",
+    "opciones": [
+     "Hermes",
+     "Hecate",
+     "Terminus",
+     "Janus"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-010",
+    "nivel": "I",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "Which goddess appears in the Labyrinth and offers them help?",
+    "opciones": [
+     "Hera",
+     "Athena",
+     "Hestia",
+     "Demeter"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-011",
+    "nivel": "B",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "Which hundred-handed giant do they rescue at Alcatraz?",
+    "opciones": [
+     "Geryon",
+     "Antaeus",
+     "Briares",
+     "Typhon"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-012",
+    "nivel": "A",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "Which monster is the jailer at Alcatraz?",
+    "opciones": [
+     "Echidna",
+     "Kampê",
+     "Medusa",
+     "The Chimera"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-013",
+    "nivel": "I",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "Why does Annabeth get angry at the Sphinx?",
+    "opciones": [
+     "Because it refuses to speak Greek",
+     "Because it cheats on the answers",
+     "Because it insults Athena",
+     "Because its riddles have become a rote-memory trivia test"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-014",
+    "nivel": "I",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "Which state is Geryon's ranch in?",
+    "opciones": [
+     "Texas",
+     "Arizona",
+     "Nevada",
+     "New Mexico"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-015",
+    "nivel": "A",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "What's special about Geryon's body?",
+    "opciones": [
+     "He has a hundred hands",
+     "He has a single eye",
+     "He has three bodies joined into one",
+     "He has a serpent's tail"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-016",
+    "nivel": "A",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "What job does Percy do at Geryon's ranch, just like Hercules?",
+    "opciones": [
+     "Taming a wild bull",
+     "Killing a two-headed dog",
+     "Cleaning the stables by diverting a river",
+     "Stealing cattle"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-017",
+    "nivel": "I",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "What's the name of the ranch's two-headed dog?",
+    "opciones": [
+     "Cerberus",
+     "Argus",
+     "Laelaps",
+     "Orthus"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-018",
+    "nivel": "A",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "How does Percy defeat Antaeus in the arena?",
+    "opciones": [
+     "He drowns him in a fountain",
+     "He beheads him with Riptide",
+     "He locks him in a sarcophagus",
+     "He leaves him hanging from the ceiling chains, off the ground"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-019",
+    "nivel": "I",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "Which volcano holds the forge of Hephaestus that Percy visits?",
+    "opciones": [
+     "Vesuvius",
+     "Mount St. Helens",
+     "Mount Etna",
+     "Kilauea"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-020",
+    "nivel": "A",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "Which dog-headed sea creatures work in that forge?",
+    "opciones": [
+     "The Cyclopes",
+     "The myrmekes",
+     "The hippocampi",
+     "The telkhines"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-021",
+    "nivel": "I",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "What happens right before Percy escapes the volcano's forge?",
+    "opciones": [
+     "Hephaestus gives him a shield",
+     "Tyson stays behind",
+     "Annabeth kisses him for the first time",
+     "He loses Riptide"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-022",
+    "nivel": "B",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "On which island does Percy wake up after the eruption?",
+    "opciones": [
+     "Circe's island",
+     "Ogygia",
+     "Polyphemus's island",
+     "Delos"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-023",
+    "nivel": "I",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "Which nymph lives exiled on that island?",
+    "opciones": [
+     "Echo",
+     "Juniper",
+     "Perdix",
+     "Calypso"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-024",
+    "nivel": "E",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "Which plant does Calypso give Percy?",
+    "opciones": [
+     "A pomegranate seed",
+     "A bunch of lotus flowers",
+     "A moonlace cutting",
+     "A laurel branch"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-025",
+    "nivel": "I",
+    "sub": "Inside the Labyrinth",
+    "pregunta": "What can Rachel do in the Labyrinth that no one else can?",
+    "opciones": [
+     "Talk with Daedalus in dreams",
+     "Guide them without getting lost, because she sees the right way",
+     "Open locked doors with magic",
+     "Turn invisible"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-026",
+    "nivel": "B",
+    "sub": "Daedalus, Pan and the battle",
+    "pregunta": "Who was Quintus really?",
+    "opciones": [
+     "Kronos",
+     "Hermes",
+     "Daedalus",
+     "Minos"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-027",
+    "nivel": "A",
+    "sub": "Daedalus, Pan and the battle",
+    "pregunta": "How has Daedalus lived for thousands of years?",
+    "opciones": [
+     "Thanks to the gods' nectar",
+     "By hiding on Ogygia",
+     "By bathing in the River Styx",
+     "By moving his soul into automaton bodies"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-028",
+    "nivel": "A",
+    "sub": "Daedalus, Pan and the battle",
+    "pregunta": "Which nephew did Daedalus kill out of envy, a crime whose mark he still bears?",
+    "opciones": [
+     "Icarus",
+     "Perdix",
+     "Theseus",
+     "Talos"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-029",
+    "nivel": "I",
+    "sub": "Daedalus, Pan and the battle",
+    "pregunta": "What gift does Daedalus leave Annabeth?",
+    "opciones": [
+     "His wax wings",
+     "A map of the Labyrinth",
+     "His laptop full of his designs",
+     "A ball of Ariadne's thread"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-030",
+    "nivel": "I",
+    "sub": "Daedalus, Pan and the battle",
+    "pregunta": "Which king's ghost guides Nico and wants revenge on Daedalus?",
+    "opciones": [
+     "Minos",
+     "Midas",
+     "Oedipus",
+     "Tantalus"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-031",
+    "nivel": "B",
+    "sub": "Daedalus, Pan and the battle",
+    "pregunta": "What happens to the god Pan when Grover finds him?",
+    "opciones": [
+     "He dies and asks everyone to carry his spirit",
+     "He goes back to camp with them",
+     "He turns into a tree",
+     "He's captured by Luke"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-032",
+    "nivel": "I",
+    "sub": "Daedalus, Pan and the battle",
+    "pregunta": "Who is Grover's dryad girlfriend?",
+    "opciones": [
+     "Calypso",
+     "Juniper",
+     "Silena",
+     "Echo"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-033",
+    "nivel": "A",
+    "sub": "Daedalus, Pan and the battle",
+    "pregunta": "What happens to Luke at the end of the book?",
+    "opciones": [
+     "His body becomes Kronos's host",
+     "He dies in the camp battle",
+     "He's locked up in Alcatraz",
+     "He loses his memory"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-034",
+    "nivel": "A",
+    "sub": "Daedalus, Pan and the battle",
+    "pregunta": "Which eye-patched demigod is a son of Nemesis serving Luke?",
+    "opciones": [
+     "Ethan Nakamura",
+     "Chris Rodriguez",
+     "Michael Yew",
+     "Lee Fletcher"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-035",
+    "nivel": "A",
+    "sub": "Daedalus, Pan and the battle",
+    "pregunta": "Which camper went mad in the Labyrinth and is cared for by Clarisse?",
+    "opciones": [
+     "Ethan Nakamura",
+     "Beckendorf",
+     "Chris Rodriguez",
+     "Will Solace"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo4-036",
+    "nivel": "I",
+    "sub": "Daedalus, Pan and the battle",
+    "pregunta": "What happens to the Labyrinth when Daedalus dies?",
+    "opciones": [
+     "It collapses, because it was bound to his life",
+     "It passes to Annabeth",
+     "Kronos takes control of it",
+     "It floods"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo4-037",
+    "nivel": "I",
+    "sub": "Daedalus, Pan and the battle",
+    "pregunta": "Who ends up with Quintus's hellhound?",
+    "opciones": [
+     "Nico",
+     "Tyson",
+     "Annabeth",
+     "Percy"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo4-038",
+    "nivel": "I",
+    "sub": "Daedalus, Pan and the battle",
+    "pregunta": "Which of Percy's teachers starts dating Sally Jackson?",
+    "opciones": [
+     "Mr. Brunner",
+     "Paul Blofis",
+     "Quintus",
+     "Dr. Thorn"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo4-039",
+    "nivel": "E",
+    "sub": "Goode and the camp",
+    "pregunta": "What's the name of the empousa cheerleader who attacks Percy at Goode?",
+    "opciones": [
+     "Kelli",
+     "Nancy",
+     "Silena",
+     "Drew"
+    ],
+    "correcta": "a"
+   }
+  ]
+ },
+ {
+  "parte": 15,
+  "saga": "pjo",
+  "libro": 5,
+  "corto": "PJO 5",
+  "titulo": "The Last Olympian",
+  "preguntas": [
+   {
+    "id": "pjo5-001",
+    "nivel": "I",
+    "sub": "Before the war",
+    "pregunta": "What are Percy and Beckendorf doing at the start of the book?",
+    "opciones": [
+     "Looking for Nico in the Underworld",
+     "Trying to blow up the Princess Andromeda",
+     "Defending the Williamsburg Bridge",
+     "Freeing Tyson from Luke"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-002",
+    "nivel": "I",
+    "sub": "Before the war",
+    "pregunta": "Who dies on that mission?",
+    "opciones": [
+     "Charles Beckendorf",
+     "Silena Beauregard",
+     "Michael Yew",
+     "Lee Fletcher"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-003",
+    "nivel": "B",
+    "sub": "Before the war",
+    "pregunta": "Which colossal monster marches on New York while the gods fight it?",
+    "opciones": [
+     "Typhon",
+     "Echidna",
+     "Kampê",
+     "Briares"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-004",
+    "nivel": "I",
+    "sub": "Before the war",
+    "pregunta": "Which Titan is besieging Poseidon's undersea kingdom?",
+    "opciones": [
+     "Hyperion",
+     "Oceanus",
+     "Atlas",
+     "Krios"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-005",
+    "nivel": "I",
+    "sub": "Before the war",
+    "pregunta": "Which goddess does Percy find tending the hearth fire at camp?",
+    "opciones": [
+     "Demeter",
+     "Hera",
+     "Hestia",
+     "Hecate"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-006",
+    "nivel": "I",
+    "sub": "Before the war",
+    "pregunta": "Who is Luke's mother?",
+    "opciones": [
+     "Sally Jackson",
+     "Maria di Angelo",
+     "Hera",
+     "May Castellan"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-007",
+    "nivel": "A",
+    "sub": "Before the war",
+    "pregunta": "Why was Luke's mother left unstable?",
+    "opciones": [
+     "She saw Hermes in his true form",
+     "She tried to host the spirit of the Oracle",
+     "She drank from the River Lethe",
+     "Hera cursed her"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-008",
+    "nivel": "B",
+    "sub": "The curse of Achilles",
+    "pregunta": "In which river does Percy bathe to become invulnerable?",
+    "opciones": [
+     "The Styx",
+     "The Lethe",
+     "The Acheron",
+     "The Phlegethon"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-009",
+    "nivel": "I",
+    "sub": "The curse of Achilles",
+    "pregunta": "Who takes Percy to the Underworld for that bath?",
+    "opciones": [
+     "Nico di Angelo",
+     "Hades",
+     "Annabeth",
+     "Rachel"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-010",
+    "nivel": "I",
+    "sub": "The curse of Achilles",
+    "pregunta": "Which ghost warns Percy about the risks of that bath?",
+    "opciones": [
+     "Hector",
+     "Theseus",
+     "Achilles",
+     "Odysseus"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-011",
+    "nivel": "A",
+    "sub": "The curse of Achilles",
+    "pregunta": "Where is Percy's one vulnerable spot?",
+    "opciones": [
+     "His heel",
+     "The small of his back",
+     "The back of his neck",
+     "His heart"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-012",
+    "nivel": "A",
+    "sub": "The curse of Achilles",
+    "pregunta": "What does Percy focus on so he doesn't dissolve in the river?",
+    "opciones": [
+     "His mother",
+     "The sea",
+     "Riptide",
+     "Annabeth, who helps anchor him"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-013",
+    "nivel": "I",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "Which god puts all of New York's mortals to sleep?",
+    "opciones": [
+     "Hypnos",
+     "Thanatos",
+     "Morpheus",
+     "Hecate"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-014",
+    "nivel": "I",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "Who was Kronos's spy inside the camp?",
+    "opciones": [
+     "Silena Beauregard",
+     "Clarisse La Rue",
+     "Juniper",
+     "Katie Gardner"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-015",
+    "nivel": "A",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "How does Silena get the Ares cabin to join the battle?",
+    "opciones": [
+     "She promises them Ares's chariot",
+     "She disguises herself in Clarisse's armor",
+     "She shows them a message from Ares",
+     "She challenges Clarisse to a duel"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-016",
+    "nivel": "A",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "Which monster does Clarisse kill on her own after Silena dies?",
+    "opciones": [
+     "The Minotaur",
+     "A hydra",
+     "The Chimera",
+     "A drakon"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-017",
+    "nivel": "A",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "What do Grover and the nature spirits turn the Titan Hyperion into?",
+    "opciones": [
+     "Stone",
+     "A star",
+     "Golden dust",
+     "A tree"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-018",
+    "nivel": "I",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "Which Titan gives Percy Pandora's jar?",
+    "opciones": [
+     "Prometheus",
+     "Atlas",
+     "Hyperion",
+     "Krios"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-019",
+    "nivel": "A",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "What is left inside the jar, and who does Percy give it to?",
+    "opciones": [
+     "A thunderbolt, and he gives it to Zeus",
+     "Hope, and he gives it to Hestia",
+     "Discord, and he gives it to Ares",
+     "Death, and he gives it to Hades"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-020",
+    "nivel": "A",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "Why did Ethan Nakamura join Kronos?",
+    "opciones": [
+     "Because the minor gods had no cabins or recognition",
+     "Because Percy humiliated him",
+     "Because his mother ordered him to",
+     "Because Kronos promised him immortality"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-021",
+    "nivel": "I",
+    "sub": "Olympus",
+    "pregunta": "What weapon does Luke use to end Kronos?",
+    "opciones": [
+     "Riptide",
+     "Kronos's scythe",
+     "Annabeth's knife",
+     "An arrow from Artemis"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-022",
+    "nivel": "A",
+    "sub": "Olympus",
+    "pregunta": "Where was Luke's weak spot?",
+    "opciones": [
+     "Under his arm",
+     "In his heel",
+     "In his back",
+     "In his neck"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-023",
+    "nivel": "I",
+    "sub": "Olympus",
+    "pregunta": "In the end, who turns out to be the hero whose soul the cursed blade shall reap?",
+    "opciones": [
+     "Percy",
+     "Nico",
+     "Ethan",
+     "Luke"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-024",
+    "nivel": "B",
+    "sub": "Olympus",
+    "pregunta": "What do the gods offer Percy as a reward that he turns down?",
+    "opciones": [
+     "A throne on Olympus for his mother",
+     "Kronos's sword",
+     "To be king of the Underworld",
+     "To become an immortal god"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-025",
+    "nivel": "I",
+    "sub": "Olympus",
+    "pregunta": "What does Percy ask for instead of that reward?",
+    "opciones": [
+     "That Luke come back to life",
+     "That the gods claim all their children by age thirteen",
+     "That Zeus forgive Hades",
+     "That the camp get its own god"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-026",
+    "nivel": "I",
+    "sub": "Olympus",
+    "pregunta": "What does Rachel become at the end of the book?",
+    "opciones": [
+     "A Hunter of Artemis",
+     "A claimed demigod",
+     "The camp director",
+     "The new Oracle of Delphi"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-027",
+    "nivel": "I",
+    "sub": "Olympus",
+    "pregunta": "What job is Annabeth given on Olympus?",
+    "opciones": [
+     "Athena's advisor",
+     "Keeper of Hestia's fire",
+     "Architect of Olympus, to rebuild it",
+     "Messenger of the gods"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-028",
+    "nivel": "A",
+    "sub": "Olympus",
+    "pregunta": "What do the campers do when Percy and Annabeth finally kiss?",
+    "opciones": [
+     "Throw them a surprise party",
+     "Chase them with arrows",
+     "Throw them into the canoe lake",
+     "Sing them a campfire song"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-029",
+    "nivel": "A",
+    "sub": "Olympus",
+    "pregunta": "When is Percy's birthday, the day he turns sixteen?",
+    "opciones": [
+     "June 21",
+     "July 1",
+     "October 31",
+     "August 18"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-030",
+    "nivel": "E",
+    "sub": "Olympus",
+    "pregunta": "Which line opens the new prophecy Rachel speaks at the end?",
+    "opciones": [
+     "Five shall go west to the goddess in chains",
+     "A half-blood of the eldest gods",
+     "Seven half-bloods shall answer the call",
+     "You shall sail the iron ship"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-031",
+    "nivel": "B",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "What's the name of the black pegasus who calls Percy \"boss\"?",
+    "opciones": [
+     "Arion",
+     "Blackjack",
+     "Guido",
+     "Porkpie"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-032",
+    "nivel": "I",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "Which bridge does Percy defend in one of the first fights in Manhattan?",
+    "opciones": [
+     "The Brooklyn Bridge",
+     "The Williamsburg Bridge",
+     "The George Washington Bridge",
+     "The Manhattan Bridge"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "pjo5-033",
+    "nivel": "A",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "Which hotel do the campers use as their headquarters?",
+    "opciones": [
+     "The Waldorf Astoria",
+     "The Ritz",
+     "The Plaza",
+     "The Lotus Hotel"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-034",
+    "nivel": "I",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "Which god does Nico convince to join the defense of Olympus?",
+    "opciones": [
+     "Ares",
+     "Dionysus",
+     "Hades",
+     "Hephaestus"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-035",
+    "nivel": "A",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "Who leads the Cyclops army that arrives to fight Typhon?",
+    "opciones": [
+     "Polyphemus",
+     "Brontes",
+     "Hephaestus",
+     "Tyson"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "pjo5-036",
+    "nivel": "I",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "Who takes a knife to protect Percy's weak spot?",
+    "opciones": [
+     "Grover",
+     "Thalia",
+     "Annabeth",
+     "Nico"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "pjo5-037",
+    "nivel": "A",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "What does Rachel do with the visions she has?",
+    "opciones": [
+     "She paints them",
+     "She writes them in a diary",
+     "She sings them",
+     "She tells Chiron about them in letters"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-038",
+    "nivel": "E",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "What title does Grover receive at the end of the book?",
+    "opciones": [
+     "Lord of the Wild",
+     "King of the Satyrs",
+     "Keeper of Pan",
+     "Chief Searcher"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "pjo5-039",
+    "nivel": "A",
+    "sub": "The Battle of Manhattan",
+    "pregunta": "Which god leaves his besieged kingdom to help defeat Typhon?",
+    "opciones": [
+     "Hades",
+     "Poseidon, his father",
+     "Hephaestus",
+     "Ares"
+    ],
+    "correcta": "b"
+   }
+  ]
+ },
+ {
+  "parte": 91,
+  "saga": "tv",
+  "libro": 1,
+  "corto": "Series S1",
+  "titulo": "Based on The Lightning Thief",
+  "preguntas": [
+   {
+    "id": "tv1-001",
+    "nivel": "B",
+    "sub": "Episodes 1-2",
+    "pregunta": "Which platform did the Percy Jackson and the Olympians series premiere on?",
+    "opciones": [
+     "Netflix",
+     "Prime Video",
+     "HBO Max",
+     "Disney+"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv1-002",
+    "nivel": "B",
+    "sub": "Episodes 1-2",
+    "pregunta": "How many episodes does the first season have?",
+    "opciones": [
+     "8",
+     "10",
+     "6",
+     "12"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv1-003",
+    "nivel": "B",
+    "sub": "Episodes 1-2",
+    "pregunta": "Which book does the first season adapt?",
+    "opciones": [
+     "The Sea of Monsters",
+     "The Lightning Thief",
+     "The Titan's Curse",
+     "The Demigod Files"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv1-004",
+    "nivel": "I",
+    "sub": "Episodes 1-2",
+    "pregunta": "In the series, what happens right before Poseidon claims Percy?",
+    "opciones": [
+     "A hellhound attacks him in the woods",
+     "Annabeth pushes him into the lake after they win capture the flag",
+     "He fights Clarisse in the creek",
+     "He touches Thalia's pine"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv1-005",
+    "nivel": "I",
+    "sub": "Episodes 1-2",
+    "pregunta": "In episode 2, where does Percy first use his water powers against some bullies?",
+    "opciones": [
+     "In the canoe lake",
+     "In the dining pavilion",
+     "In the forest creek",
+     "In the bathroom"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv1-006",
+    "nivel": "I",
+    "sub": "Episodes 3-4",
+    "pregunta": "In the series, which two Furies attack the bus in New Jersey?",
+    "opciones": [
+     "Alecto and Megaera",
+     "Megaera and Tisiphone",
+     "Alecto and Tisiphone",
+     "All three Furies"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv1-007",
+    "nivel": "I",
+    "sub": "Episodes 3-4",
+    "pregunta": "In the series, what does Medusa ask Percy to do at her home?",
+    "opciones": [
+     "To betray his friends",
+     "To restore her beauty",
+     "To take her to Olympus",
+     "To hand over Riptide"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv1-008",
+    "nivel": "E",
+    "sub": "Episodes 3-4",
+    "pregunta": "In the series, who does Percy petrify with Medusa's head before sending it to Olympus?",
+    "opciones": [
+     "Gabe",
+     "Alecto",
+     "Echidna",
+     "Procrustes"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv1-009",
+    "nivel": "I",
+    "sub": "Episodes 3-4",
+    "pregunta": "How do they travel west in episode 4?",
+    "opciones": [
+     "By plane",
+     "In a zoo truck",
+     "In Hermes's car",
+     "By train"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv1-010",
+    "nivel": "A",
+    "sub": "Episodes 3-4",
+    "pregunta": "In the series, which goddess allowed Echidna into the Gateway Arch?",
+    "opciones": [
+     "Hera",
+     "Artemis",
+     "Athena",
+     "Aphrodite"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv1-011",
+    "nivel": "I",
+    "sub": "Episodes 3-4",
+    "pregunta": "What does the Nereid teach Percy in the Mississippi River?",
+    "opciones": [
+     "To control waves",
+     "To talk to horses",
+     "To breathe underwater",
+     "To heal himself with water"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv1-012",
+    "nivel": "A",
+    "sub": "Episodes 5-6",
+    "pregunta": "In the series, who sees the Fate Atropos cutting a thread, a sign of coming death?",
+    "opciones": [
+     "Percy",
+     "Grover",
+     "Sally",
+     "Annabeth"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv1-013",
+    "nivel": "I",
+    "sub": "Episodes 5-6",
+    "pregunta": "In the series, which of Hephaestus's traps catches Percy at Waterland?",
+    "opciones": [
+     "A bronze net on a tunnel-of-love ride",
+     "A golden throne",
+     "A cage of mechanical spiders",
+     "A slide down to Tartarus"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv1-014",
+    "nivel": "A",
+    "sub": "Episodes 5-6",
+    "pregunta": "In the series, what does Hephaestus promise Annabeth after Waterland?",
+    "opciones": [
+     "To forge her a celestial bronze sword",
+     "To speak well of her to Athena",
+     "To take her to Olympus",
+     "To tell her who stole the bolt"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv1-015",
+    "nivel": "I",
+    "sub": "Episodes 5-6",
+    "pregunta": "Which god shows up in Las Vegas in the series, even though he doesn't appear in the first book?",
+    "opciones": [
+     "Hermes",
+     "Apollo",
+     "Dionysus",
+     "Hades"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv1-016",
+    "nivel": "A",
+    "sub": "Episodes 5-6",
+    "pregunta": "At the series' Lotus Casino, who tells Grover he has found Pan?",
+    "opciones": [
+     "Augustus, a satyr trapped there",
+     "Hermes",
+     "Darrin, a kid from the seventies",
+     "A casino employee"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv1-017",
+    "nivel": "I",
+    "sub": "Episodes 5-6",
+    "pregunta": "In the series, how many pearls does the Nereid give Percy?",
+    "opciones": [
+     "Three",
+     "Two",
+     "Five",
+     "Four"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv1-018",
+    "nivel": "A",
+    "sub": "Episodes 7-8",
+    "pregunta": "In a series flashback, what does Poseidon advise Sally?",
+    "opciones": [
+     "Not to send Percy to Camp Half-Blood",
+     "To marry Gabe to hide Percy's scent",
+     "To take Percy to live in the sea",
+     "To tell Percy the truth right away"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv1-019",
+    "nivel": "A",
+    "sub": "Episodes 7-8",
+    "pregunta": "In the series, what role does Procrustes play?",
+    "opciones": [
+     "He owns the Lotus Casino",
+     "He works for Ares at Waterland",
+     "He guards a secret passage into the Underworld",
+     "He drives the Gray Sisters' taxi"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv1-020",
+    "nivel": "A",
+    "sub": "Episodes 7-8",
+    "pregunta": "In the series, what happens to Grover's pearl in the Underworld?",
+    "opciones": [
+     "He loses it",
+     "Hades takes it",
+     "He uses it to save Sally",
+     "Cerberus eats it"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv1-021",
+    "nivel": "I",
+    "sub": "Episodes 7-8",
+    "pregunta": "Who realizes in the Underworld that Kronos was behind the thefts?",
+    "opciones": [
+     "Percy",
+     "Hades",
+     "Annabeth",
+     "Grover"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv1-022",
+    "nivel": "I",
+    "sub": "Episodes 7-8",
+    "pregunta": "In the series, where does Percy face Ares?",
+    "opciones": [
+     "On Santa Monica beach",
+     "In Montauk",
+     "At the Empire State Building",
+     "At Camp Half-Blood"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv1-023",
+    "nivel": "A",
+    "sub": "Episodes 7-8",
+    "pregunta": "What's the rule of the duel between Percy and Ares in the series?",
+    "opciones": [
+     "Whoever disarms the other wins",
+     "Whoever forces the other out of the water wins",
+     "The first to draw blood wins",
+     "They fight until sunrise"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv1-024",
+    "nivel": "I",
+    "sub": "Episodes 7-8",
+    "pregunta": "In the series, what does Percy get in exchange for giving Alecto the Helm of Darkness?",
+    "opciones": [
+     "Ares's punishment",
+     "His mother's freedom",
+     "Passage to Olympus",
+     "Medusa's head"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv1-025",
+    "nivel": "A",
+    "sub": "Episodes 7-8",
+    "pregunta": "On the series' Olympus, who steps in when Zeus is about to strike Percy?",
+    "opciones": [
+     "Athena",
+     "Hades",
+     "Poseidon",
+     "Hermes"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv1-026",
+    "nivel": "I",
+    "sub": "Episodes 7-8",
+    "pregunta": "In the series, what detail makes Percy figure out that Luke stole the bolt?",
+    "opciones": [
+     "A new scar",
+     "A scorpion in his cabin",
+     "A letter from Kronos",
+     "The winged shoes"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv1-027",
+    "nivel": "I",
+    "sub": "Episodes 7-8",
+    "pregunta": "In the series, what stops Luke after he overpowers Percy at camp?",
+    "opciones": [
+     "Chiron gallops in",
+     "Grover plays his pipes",
+     "Annabeth overhears and reveals herself",
+     "Clarisse attacks him"
+    ],
+    "correcta": "c"
+   }
+  ]
+ },
+ {
+  "parte": 92,
+  "saga": "tv",
+  "libro": 2,
+  "corto": "Series S2",
+  "titulo": "Based on The Sea of Monsters",
+  "preguntas": [
+   {
+    "id": "tv2-001",
+    "nivel": "B",
+    "sub": "Episodes 9-10",
+    "pregunta": "Which book does the second season adapt?",
+    "opciones": [
+     "The Lightning Thief",
+     "The Sea of Monsters",
+     "The Titan's Curse",
+     "The Battle of the Labyrinth"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv2-002",
+    "nivel": "I",
+    "sub": "Episodes 9-10",
+    "pregunta": "In the series, who do the Gray Sisters pick up in their taxi on the last day of school?",
+    "opciones": [
+     "Percy and Tyson",
+     "Percy and Annabeth",
+     "Annabeth and Grover",
+     "Percy and Sally"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv2-003",
+    "nivel": "I",
+    "sub": "Episodes 9-10",
+    "pregunta": "In the series, when does Poseidon claim Tyson?",
+    "opciones": [
+     "During the chariot race",
+     "On reaching Polyphemus's island",
+     "At the first night's campfire",
+     "When Clarisse and Tantalus threaten him"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv2-004",
+    "nivel": "A",
+    "sub": "Episodes 9-10",
+    "pregunta": "In the series, who does Clarisse choose to come with her on her quest?",
+    "opciones": [
+     "Annabeth and Chris",
+     "Percy and Tyson",
+     "Her Ares siblings",
+     "No one"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv2-005",
+    "nivel": "I",
+    "sub": "Episodes 9-10",
+    "pregunta": "In the series, why does Chiron say Percy can't go on a quest?",
+    "opciones": [
+     "Because Tantalus has punished him",
+     "Because Poseidon forbade it",
+     "Because he's not thirteen yet",
+     "Because of the Great Prophecy"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv2-006",
+    "nivel": "I",
+    "sub": "Episodes 9-10",
+    "pregunta": "How do Percy, Annabeth and Tyson drive off the Stymphalian birds in the series?",
+    "opciones": [
+     "With high-pitched sounds",
+     "With fire",
+     "With a net",
+     "With lake water"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv2-007",
+    "nivel": "A",
+    "sub": "Episodes 11-12",
+    "pregunta": "Which demigod on Luke's side goes overboard from the Princess Andromeda?",
+    "opciones": [
+     "Silena Beauregard",
+     "Katie Yoon",
+     "Hylla",
+     "Alison Simms"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv2-008",
+    "nivel": "I",
+    "sub": "Episodes 11-12",
+    "pregunta": "Which emblem does Percy spot on the ship that reveals who's behind it?",
+    "opciones": [
+     "Poseidon's trident",
+     "Athena's owl",
+     "Kronos's scythe",
+     "Hermes's caduceus"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv2-009",
+    "nivel": "A",
+    "sub": "Episodes 11-12",
+    "pregunta": "In the series, what does Clarisse find out about the coordinates Tantalus gave her?",
+    "opciones": [
+     "They were false",
+     "They led to the Underworld",
+     "They pointed to Circe's island",
+     "Luke wrote them"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv2-010",
+    "nivel": "I",
+    "sub": "Episodes 11-12",
+    "pregunta": "In the series, who tells Percy about the Great Prophecy aboard the Princess Andromeda?",
+    "opciones": [
+     "Luke",
+     "Tyson",
+     "Annabeth",
+     "Chiron"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv2-011",
+    "nivel": "I",
+    "sub": "Episodes 11-12",
+    "pregunta": "In the episode 12 flashback, who attacks Grover, Annabeth, Luke and Thalia?",
+    "opciones": [
+     "Hellhounds, and then Ares",
+     "Cyclopes, and then the Furies",
+     "Laistrygonians, and then Echidna",
+     "Skeleton warriors"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv2-012",
+    "nivel": "A",
+    "sub": "Episodes 11-12",
+    "pregunta": "In the series, how do they decide who goes to the Sea of Monsters?",
+    "opciones": [
+     "They flip a coin",
+     "Percy and Clarisse duel",
+     "The Oracle decides",
+     "The crew votes"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv2-013",
+    "nivel": "A",
+    "sub": "Episodes 11-12",
+    "pregunta": "In the series, what finishes off Clarisse's ironclad?",
+    "opciones": [
+     "The boiler, which explodes",
+     "The Hydra",
+     "A cyclone: the thermos of winds bursts open",
+     "Blackbeard's cannons"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv2-014",
+    "nivel": "I",
+    "sub": "Episodes 13-14",
+    "pregunta": "In the series, who tells Percy that his fatal flaw is his friends?",
+    "opciones": [
+     "Circe",
+     "Athena",
+     "Annabeth",
+     "Luke"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv2-015",
+    "nivel": "E",
+    "sub": "Episodes 13-14",
+    "pregunta": "Which future queen of the Amazons appears at C.C.'s spa?",
+    "opciones": [
+     "Alison Simms",
+     "Zoë Nightshade",
+     "Hylla Ramírez-Arellano",
+     "Katie Yoon"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv2-016",
+    "nivel": "B",
+    "sub": "Episodes 13-14",
+    "pregunta": "How does Annabeth undo Percy's guinea-pig transformation?",
+    "opciones": [
+     "With a kiss",
+     "With Hermes's vitamins",
+     "By breaking Circe's wand",
+     "With seawater"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv2-017",
+    "nivel": "A",
+    "sub": "Episodes 13-14",
+    "pregunta": "What does Polyphemus use to lure them in the series?",
+    "opciones": [
+     "A siren song",
+     "Voice mimicry",
+     "Talking sheep",
+     "An illusion of the Fleece"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv2-018",
+    "nivel": "I",
+    "sub": "Episodes 13-14",
+    "pregunta": "In the series, what do Percy and Annabeth disguise themselves as on Polyphemus's island?",
+    "opciones": [
+     "Cyclopes",
+     "Pirates",
+     "Nymphs",
+     "Sheep"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv2-019",
+    "nivel": "A",
+    "sub": "Episodes 13-14",
+    "pregunta": "What surprise do they get with the first Fleece they find on the island?",
+    "opciones": [
+     "It's cursed",
+     "It belongs to Circe",
+     "It's a fake, planted as bait",
+     "It has lost its power"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv2-020",
+    "nivel": "A",
+    "sub": "Episodes 13-14",
+    "pregunta": "In the series, who takes Annabeth and the Fleece off the island?",
+    "opciones": [
+     "Luke",
+     "Polyphemus",
+     "Clarisse",
+     "Circe"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv2-021",
+    "nivel": "I",
+    "sub": "Episodes 15-16",
+    "pregunta": "What saves Percy when Luke stabs him on the ship?",
+    "opciones": [
+     "His invulnerability",
+     "A pearl from his father",
+     "Nectar Annabeth carries",
+     "The Golden Fleece heals him"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv2-022",
+    "nivel": "I",
+    "sub": "Episodes 15-16",
+    "pregunta": "In the series, how does Clarisse take the Fleece to camp?",
+    "opciones": [
+     "By plane",
+     "In the Gray Sisters' taxi",
+     "Through the Labyrinth",
+     "Riding Blackjack, Luke's pegasus"
+    ],
+    "correcta": "d"
+   },
+   {
+    "id": "tv2-023",
+    "nivel": "A",
+    "sub": "Episodes 15-16",
+    "pregunta": "In the series, what happens to Tantalus?",
+    "opciones": [
+     "The Laistrygonians kill him",
+     "He's sent back to the Underworld",
+     "He joins Luke",
+     "He's turned into a tree"
+    ],
+    "correcta": "a"
+   },
+   {
+    "id": "tv2-024",
+    "nivel": "A",
+    "sub": "Episodes 15-16",
+    "pregunta": "What does Clarisse find out about Chris in the season finale?",
+    "opciones": [
+     "That he's a son of Hermes",
+     "That he lost his mind in the Labyrinth",
+     "That he sided with Kronos",
+     "That he saved the tree"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv2-025",
+    "nivel": "I",
+    "sub": "Episodes 15-16",
+    "pregunta": "What does Thalia do when she comes back to life at her tree?",
+    "opciones": [
+     "Hugs Luke",
+     "Unleashes a bolt that knocks Percy out",
+     "Joins the Hunters",
+     "Turns back into a pine"
+    ],
+    "correcta": "b"
+   },
+   {
+    "id": "tv2-026",
+    "nivel": "E",
+    "sub": "Episodes 15-16",
+    "pregunta": "At the end of the season, what does Chiron reveal about Thalia's death?",
+    "opciones": [
+     "That Luke betrayed her",
+     "That Zeus killed her on purpose",
+     "That the Furies never actually killed her",
+     "That Hades demanded the sacrifice"
+    ],
+    "correcta": "c"
+   },
+   {
+    "id": "tv2-027",
+    "nivel": "A",
+    "sub": "Episodes 15-16",
+    "pregunta": "According to Chiron, what did Kronos want Thalia for?",
+    "opciones": [
+     "To be his host",
+     "To be his champion",
+     "To open Tartarus",
+     "To rule the camp"
+    ],
+    "correcta": "b"
+   }
+  ]
+ }
+]
