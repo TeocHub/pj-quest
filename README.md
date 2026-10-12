@@ -4,7 +4,7 @@ Tests para fans del universo de Rick Riordan. Todo corre gratis en **GitHub Page
 
 | Test | Estado | Carpeta |
 | --- | --- | --- |
-| El Cuestionario Definitivo de Percy Jackson | Disponible: 493 preguntas (5 libros + 2 temporadas) | `quiz/` |
+| El Cuestionario Definitivo de Percy Jackson | Disponible: 841 preguntas (10 libros + 2 temporadas) | `quiz/` |
 | ¿De qué dios serías hijo o hija? | Próximamente | — |
 
 ## Archivos
@@ -48,7 +48,7 @@ Cada libro o temporada es una "parte". El número nunca cambia, porque el rankin
 | --- | --- | --- |
 | 11-15 | Percy Jackson y los dioses del Olimpo | Disponible (96, 79, 80, 79 y 79 preguntas) |
 | 16-19 | Extras de PJO: Los archivos del semidiós y los libros nuevos de Percy | Pendiente |
-| 21-25 | Héroes del Olimpo | Pendiente |
+| 21-25 | Héroes del Olimpo | Disponible (82, 81, 69, 60 y 56 preguntas) |
 | 31-35 | Las pruebas de Apolo | Pendiente |
 | 41-43 | Las crónicas de los Kane | Pendiente |
 | 51-53 | Magnus Chase | Pendiente |
@@ -58,7 +58,7 @@ Cada libro o temporada es una "parte". El número nunca cambia, porque el rankin
 
 - Las películas de Fox (2010 y 2013) quedan fuera a propósito: se consideran una franquicia aparte.
 - Las preguntas de la serie se centran en lo que cambia respecto de los libros y se armaron contrastando con resúmenes publicados de cada episodio.
-- Algunos nombres en español (por ejemplo, "Procusto", "Tisífone" o "Arcoíris") podrían diferir de la edición de Salamandra o del doblaje: corrígelos si conoces el término exacto.
+- Algunos nombres en español (por ejemplo, "Procusto", "Tisífone", "Arcoíris", "Quíone" o "Cimopolea") podrían diferir de la edición de Salamandra o del doblaje: corrígelos si conoces el término exacto.
 
 ## Agregar o corregir preguntas
 
@@ -77,7 +77,7 @@ Cada libro o temporada es una "parte". El número nunca cambia, porque el rankin
 
    - `id` único y que nunca cambie (el ranking lo usa).
    - `nivel`: `B` (básico), `I` (intermedio), `A` (avanzado) o `E` (experto).
-   - Para un **libro nuevo**, agrega un bloque con `parte` (según la tabla de arriba), `saga` (`pjo`, `hoo`, `toa`, `kane`, `mag`, `x` o `tv`), `libro` (su número dentro de la saga), `corto`, `titulo` y `preguntas`. La página agrupa sola los libros por saga.
+   - Para un **libro nuevo**, agrega un bloque con `parte` (según la tabla de arriba), `saga` (`pjo`, `hoo`, `toa`, `kane`, `mag`, `x` o `tv`; el nombre corto de cada saga se define en la herramienta que genera el banco o a mano en `corto`), `libro` (su número dentro de la saga), `corto`, `titulo` y `preguntas`. La página agrupa sola los libros por saga.
 
 2. Ejecuta `python generar_respuestas.py`.
 3. Ejecuta el nuevo `supabase/2_respuestas.sql` en el SQL Editor de Supabase.
