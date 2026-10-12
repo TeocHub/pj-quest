@@ -4,7 +4,7 @@ Tests para fans del universo de Rick Riordan. Todo corre gratis en **GitHub Page
 
 | Test | Estado | Carpeta |
 | --- | --- | --- |
-| El Cuestionario Definitivo de Percy Jackson | Disponible: 273 preguntas (5 libros + 2 temporadas) | `quiz/` |
+| El Cuestionario Definitivo de Percy Jackson | Disponible: 493 preguntas (5 libros + 2 temporadas) | `quiz/` |
 | ¿De qué dios serías hijo o hija? | Próximamente | — |
 
 ## Archivos
@@ -46,14 +46,14 @@ Cada libro o temporada es una "parte". El número nunca cambia, porque el rankin
 
 | Partes | Saga | Estado |
 | --- | --- | --- |
-| 11-15 | Percy Jackson y los dioses del Olimpo | Disponible (60, 41, 40, 39 y 39 preguntas) |
+| 11-15 | Percy Jackson y los dioses del Olimpo | Disponible (96, 79, 80, 79 y 79 preguntas) |
 | 16-19 | Extras de PJO: Los archivos del semidiós y los libros nuevos de Percy | Pendiente |
 | 21-25 | Héroes del Olimpo | Pendiente |
 | 31-35 | Las pruebas de Apolo | Pendiente |
 | 41-43 | Las crónicas de los Kane | Pendiente |
 | 51-53 | Magnus Chase | Pendiente |
 | 61-69 | Cruces y otros (Semidioses y magos, El sol y la estrella…) | Pendiente |
-| 91-92 | Serie de Disney+, temporadas 1 y 2 | Disponible (27 y 27 preguntas) |
+| 91-92 | Serie de Disney+, temporadas 1 y 2 | Disponible (40 y 40 preguntas) |
 | 93 | Serie de Disney+, temporada 3 | Cuando se estrene (20 de noviembre de 2026) |
 
 - Las películas de Fox (2010 y 2013) quedan fuera a propósito: se consideran una franquicia aparte.
@@ -66,7 +66,7 @@ Cada libro o temporada es una "parte". El número nunca cambia, porque el rankin
 
 ```json
 {
-  "id": "pjo1-061",
+  "id": "pjo1-097",
   "nivel": "I",
   "sub": "La misión",
   "pregunta": "¿Pregunta?",
