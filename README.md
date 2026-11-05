@@ -5,7 +5,7 @@ Tests para fans del universo de Rick Riordan. Todo corre gratis en **GitHub Page
 | Test | Estado | Carpeta |
 | --- | --- | --- |
 | El Cuestionario Definitivo de Percy Jackson | Disponible: 1379 preguntas (18 libros + 2 temporadas) | `quiz/` |
-| ¿De qué dios serías hijo o hija? | Próximamente | — |
+| ¿De qué dios serías hijo o hija? | Disponible: 130 afirmaciones + desempate, 47 deidades | `deidad/` |
 
 ## Archivos
 
@@ -19,13 +19,18 @@ Tests para fans del universo de Rick Riordan. Todo corre gratis en **GitHub Page
 | `quiz/preguntas.en.json` | La versión en inglés, con los nombres originales |
 | `supabase/1_esquema.sql` | Tablas, reglas de seguridad, vistas del ranking (incluida la vista por saga) y funciones (prefijo `pj_`) |
 | `supabase/2_respuestas.sql` | La clave de respuestas que usa el servidor para corregir |
+| `deidad/index.html` | El test de deidad |
+| `deidad/preguntas.js` | Los 19 rasgos, las afirmaciones (6 por rasgo más 2 de reserva para el desempate) y los pares |
+| `deidad/deidades.js` | Las 47 deidades: perfil, símbolo, cabaña y textos del resultado |
+| `deidad/motor.js` | El cálculo del resultado (lo usan la página y las simulaciones) |
+| `supabase/3_deidad.sql` | Tabla, estadísticas públicas y función para guardar el resultado del test de deidad |
 | `generar_respuestas.py` | Regenera `2_respuestas.sql` y revisa que la traducción coincida |
 
 ## Publicar (GitHub Pages)
 
 En el repositorio: **Settings → Pages**, publicar desde la rama `main`, carpeta `/ (root)`. Queda en `https://teochub.github.io/pj-quest/`.
 
-El backend ya está creado en Supabase y la clave de respuestas ya está cargada. Si alguna vez hay que recrearlo, ejecuta en el SQL Editor `supabase/1_esquema.sql` y después `supabase/2_respuestas.sql`.
+El backend ya está creado en Supabase y la clave de respuestas ya está cargada. Si alguna vez hay que recrearlo, ejecuta en el SQL Editor `supabase/1_esquema.sql`, después `supabase/2_respuestas.sql` y por último `supabase/3_deidad.sql`.
 
 ## Filtro de spoilers
 
@@ -94,3 +99,18 @@ Cada libro o temporada es una "parte". El número nunca cambia, porque el rankin
 ## Plan gratuito
 
 Un proyecto gratuito de Supabase **se pausa tras una semana sin actividad**. Como FNAF, Avatar y Percy Jackson comparten proyecto, cualquiera de los tres lo mantiene activo. Si se pausa, se reactiva desde el panel con un clic.
+
+## Test de deidad
+
+**Qué decide.** Un solo progenitor divino, griego o romano, y además tu resultado en cada mundo: tu cabaña en el Campamento Mestizo, tu progenitor en el Campamento Júpiter y tu senda de mago en la Casa de Brooklyn.
+
+**Por qué así (canon).**
+- Al final de *El último olimpo*, Percy pide que todos los dioses reconozcan a sus hijos y que los dioses menores tengan cabaña. Por eso salen las 20 cabañas del Campamento Mestizo, salvo Hera (2) y Artemisa (8), que son honorarias porque no tienen hijos semidioses.
+- Griegos y romanos son los mismos dioses en dos aspectos (Zeus y Júpiter). Un mismo dios no puede salir dos veces: el rasgo *Deber* decide el aspecto.
+- En el lado romano solo salen dioses con hijos o descendientes confirmados en el Campamento Júpiter, incluidas las musas Terpsícore y Euterpe.
+- En *Las crónicas de Kane* no hay semidioses: los magos siguen la senda del dios que encaja con su personalidad, sus dotes y sus intereses. Por eso lo egipcio es una senda y nunca un progenitor.
+- Los nórdicos de Magnus Chase se agregarán cuando se verifique en los libros qué dioses tienen hijos confirmados.
+
+**Cómo calcula.** Cada persona obtiene un puntaje en 19 rasgos de conducta (6 afirmaciones por rasgo, 2 de ellas invertidas, y 16 pares de elección). Cada deidad es un perfil sobre esos rasgos, basado en cómo describe Riordan a sus hijos. La afinidad es la correlación entre ambos perfiles, así que compara la forma del perfil y no si alguien responde todo alto o todo bajo. Si las dos primeras deidades quedan a menos de 0,08, hay una ronda de desempate con 6 afirmaciones de los rasgos que más las separan. El resultado muestra qué tan nítido salió y avisa si las respuestas sobre un mismo rasgo se contradicen.
+
+**Si cambias perfiles o preguntas**, vuelve a simular: todas las deidades deben poder salir y ninguna debería superar el 6 % como progenitor con perfiles al azar.

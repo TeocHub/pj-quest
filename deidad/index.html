@@ -1,0 +1,1048 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>¿De qué dios serías hijo o hija?</title>
+<meta name="description" content="Un test de personalidad del mundo de Rick Riordan: qué dios te reclamaría, tu cabaña en el Campamento Mestizo, tu progenitor romano y tu senda egipcia.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Alegreya+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../comun.css">
+<style>
+:root{ --pg:#c9560c; --pr:#6b3aa6; --pe:#1f5fa8; --night:#0a1626; --night-2:#13243a; --star:#e9eef5; }
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){ --pg:#ff8a33; --pr:#b48be8; --pe:#6fa0ea; --night:#050c16; --night-2:#0f1d30; } }
+:root[data-theme="dark"]{ --pg:#ff8a33; --pr:#b48be8; --pe:#6fa0ea; --night:#050c16; --night-2:#0f1d30; }
+
+/* símbolos de deidades */
+.dg{display:inline-grid;place-items:center;border-radius:50%;border:2px solid currentColor;flex:0 0 auto}
+.dg svg{fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.p-g{color:var(--pg)} .p-r{color:var(--pr)} .p-e{color:var(--pe)}
+
+/* ---------- inicio ---------- */
+.trio{display:flex;gap:10px;margin-top:2px}
+.trio .dg{width:44px;height:44px} .trio .dg svg{width:24px;height:24px}
+.facts{display:flex;gap:26px;flex-wrap:wrap;margin:24px 0 0}
+.facts div b{display:block;font-family:var(--display);font-weight:600;font-size:30px;line-height:1.05}
+.facts div span{color:var(--muted);font-size:15px}
+.rules{margin:26px 0 0;border-left:3px solid var(--line);padding:2px 0 2px 16px;color:var(--muted)}
+.rules p{margin:0 0 10px} .rules p:last-child{margin:0} .rules b{color:var(--text)}
+
+/* ---------- etapa ---------- */
+.stage{padding-top:7vh}
+.stage .step{font-weight:700;color:var(--bronze);font-size:16px}
+.stage h2{font-family:var(--display);font-weight:600;font-size:clamp(34px,8.5vw,52px);line-height:1.05;margin:8px 0 8px}
+.ladder{display:flex;gap:6px;margin-bottom:22px}
+.ladder i{flex:1;height:6px;border-radius:3px;background:var(--panel-2);border:1px solid var(--line)}
+.ladder i.on{background:var(--bronze);border-color:var(--bronze)}
+.duel{display:flex;align-items:center;gap:14px;margin:6px 0 18px}
+.duel .dg{width:64px;height:64px} .duel .dg svg{width:34px;height:34px}
+.duel .vs{font-family:var(--display);font-size:22px;color:var(--muted)}
+
+/* ---------- pregunta ---------- */
+.hud{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding:10px 0 8px}
+.hudrow{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.hudrow b{font-family:var(--display);font-weight:600;font-size:19px}
+.hudrow span{color:var(--muted);font-size:15px;white-space:nowrap}
+.segs{display:grid;grid-template-columns:repeat(6,1fr);gap:4px;margin-top:10px}
+.segs.tie{grid-template-columns:1fr}
+.seg{height:7px;background:var(--panel-2);border-radius:99px;overflow:hidden;border:1px solid var(--line)}
+.seg i{display:block;height:100%;width:0;transition:width .3s;background:var(--bronze)}
+.prompt{color:var(--muted);font-size:16px;margin:24px 0 4px}
+.stmt{font-family:var(--body);font-weight:700;font-size:clamp(25px,6.4vw,32px);line-height:1.22;margin:4px 0 24px;min-height:3.7em;max-width:30ch}
+.scale{display:grid;grid-template-columns:repeat(5,1fr);gap:6px}
+.lk{display:flex;flex-direction:column;align-items:center;gap:8px;padding:12px 4px 10px;border:2px solid var(--line);border-radius:10px;background:var(--panel);cursor:pointer;font-size:14px;line-height:1.2;text-align:center;transition:border-color .12s,background .12s}
+.lk:hover{border-color:var(--bronze)}
+.lk .dot{border-radius:50%;border:2px solid var(--muted);transition:background .12s,border-color .12s}
+.lk.sel{border-color:var(--bronze);background:var(--panel-2)}
+.lk.sel .dot{background:var(--bronze);border-color:var(--bronze)}
+.scale-ends{display:flex;justify-content:space-between;color:var(--muted);font-size:14px;margin-top:8px}
+@media (max-width:420px){ .lk span:last-child{display:none} .lk{padding:14px 2px} }
+@media (min-width:421px){ .scale-ends{display:none} }
+.pair{display:flex;flex-direction:column;gap:10px}
+.pc{display:block;width:100%;text-align:left;padding:20px 18px;border:2px solid var(--line);border-radius:12px;background:var(--panel);cursor:pointer;font-weight:700;font-size:clamp(21px,5.3vw,24px);line-height:1.25;transition:border-color .12s,background .12s}
+.pc:hover{border-color:var(--bronze)}
+.pc.sel{border-color:var(--bronze);background:var(--panel-2)}
+.or{text-align:center;color:var(--muted);font-size:15px}
+.qnav{display:flex;justify-content:space-between;margin-top:20px}
+
+/* ---------- resultado: el reclamo ---------- */
+.claim{position:relative;margin:6px -16px 0;padding:36px 22px 30px;background:radial-gradient(ellipse at 50% 18%,var(--night-2),var(--night) 70%);color:var(--star);overflow:hidden}
+@media (min-width:692px){ .claim{margin:6px 0 0;border-radius:14px} }
+.claim .sky{position:absolute;inset:0;pointer-events:none}
+.sign{position:relative;width:128px;height:128px;margin:0 auto;display:grid;place-items:center}
+.sign .halo{position:absolute;inset:-26px;border-radius:50%;background:radial-gradient(circle,var(--glow) 0%,transparent 62%);opacity:.55}
+.sign .dg{width:128px;height:128px;border-width:2.5px;color:var(--glow);background:rgba(255,255,255,.03)}
+.sign .dg svg{width:66px;height:66px;stroke-width:1.5}
+.claim .who{position:relative;text-align:center;margin-top:20px}
+.claim .who small{display:block;font-size:17px;color:#b9c6d6}
+.claim .who h1{font-family:var(--display);font-weight:600;font-size:clamp(46px,13vw,78px);line-height:1;margin:6px 0 6px;color:#fff}
+.claim .who .title{font-size:18px;color:#d8e1ec}
+.claim .where{position:relative;margin:22px auto 0;max-width:46ch;text-align:center;font-size:17px;color:#d8e1ec}
+.claim .where b{color:var(--glow);font-weight:800}
+@media (prefers-reduced-motion: no-preference){
+  .claim.reveal .sign{animation:rise 1.6s cubic-bezier(.2,.7,.2,1) both}
+  .claim.reveal .halo{animation:pulse 1.6s ease-out both}
+  .claim.reveal .who{animation:appear .8s .9s both}
+  .claim.reveal .where{animation:appear .8s 1.2s both}
+}
+@keyframes rise{0%{opacity:0;transform:translateY(26px) scale(.7)}60%{opacity:1}100%{transform:none}}
+@keyframes pulse{0%{opacity:0;transform:scale(.4)}55%{opacity:.95}100%{opacity:.55;transform:none}}
+@keyframes appear{from{opacity:0}to{opacity:1}}
+
+.reading{margin-top:28px}
+.reading .lede{color:var(--text);font-size:20px;margin:0}
+.why{margin:14px 0 0;color:var(--muted)}
+.why b{color:var(--text)}
+.light-shadow{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:22px}
+@media (max-width:520px){.light-shadow{grid-template-columns:1fr}}
+.light-shadow h3{font-family:var(--display);font-weight:600;font-size:21px;margin:0 0 4px}
+.light-shadow p{margin:0;color:var(--muted)}
+.light-shadow .sh h3{color:var(--muted)}
+
+/* ---------- puertas de panteón ---------- */
+.doors{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:14px}
+.door{position:relative;display:flex;flex-direction:column;align-items:center;gap:8px;padding:16px 6px 14px;border:2px solid var(--line);border-bottom-width:4px;border-radius:40px 40px 8px 8px;background:var(--panel);cursor:pointer;text-align:center;transition:border-color .15s,background .15s}
+.door .dg{width:46px;height:46px} .door .dg svg{width:25px;height:25px}
+.door b{font-family:var(--display);font-weight:600;font-size:17px;line-height:1.1}
+.door .sub{font-size:13px;color:var(--muted);line-height:1.2}
+.door.on{background:var(--panel-2)}
+.door.d-g.on{border-color:var(--pg)} .door.d-r.on{border-color:var(--pr)} .door.d-e.on{border-color:var(--pe)}
+.door .mark{position:absolute;top:-11px;left:50%;transform:translateX(-50%);background:var(--bronze);color:var(--bg);font-size:12px;font-weight:800;padding:1px 9px;border-radius:99px;white-space:nowrap}
+.room{margin-top:10px;padding:18px 18px 18px;border-radius:8px;background:var(--panel);border:2px solid var(--line)}
+.room .place{font-weight:700;font-size:16px}
+.room h3{font-family:var(--display);font-weight:600;font-size:28px;line-height:1.1;margin:4px 0 2px}
+.room .ttl{color:var(--muted);margin:0 0 10px}
+.room p{margin:0 0 8px}
+.room .kin{color:var(--muted);font-size:16px;margin:0}
+.room .note{margin-top:10px}
+
+/* ---------- constelación de rasgos ---------- */
+.sky-wrap{margin-top:14px;display:grid;grid-template-columns:minmax(0,1fr);gap:4px;justify-items:center}
+#const{width:100%;max-width:520px;height:auto;touch-action:manipulation}
+#const .ring{fill:none;stroke:var(--line);stroke-width:1}
+#const .spoke{stroke:var(--line);stroke-width:1}
+#const .shape{fill:var(--bronze);fill-opacity:.12;stroke:var(--bronze);stroke-width:2;stroke-linejoin:round}
+#const .node{fill:var(--panel);stroke:var(--bronze);stroke-width:2;cursor:pointer}
+#const .node.key{fill:var(--bronze)}
+#const .node.sel{stroke:var(--text);stroke-width:3}
+#const text{font-family:var(--body);font-size:12.5px;fill:var(--muted);cursor:pointer}
+#const text.sel{fill:var(--text);font-weight:700}
+#const text.grp{font-family:var(--display);font-size:11px;fill:var(--bronze)}
+.facet-read{min-height:5.2em;max-width:440px;width:100%;text-align:center}
+.facet-read b{font-family:var(--display);font-weight:600;font-size:20px;display:block}
+.facet-read span{color:var(--muted)}
+.aspect{margin-top:20px}
+.aspect .ends{display:flex;justify-content:space-between;font-weight:700;font-size:16px}
+.aspect .ends .g{color:var(--pg)} .aspect .ends .r{color:var(--pr)}
+.aspect .rail{position:relative;height:10px;border-radius:99px;margin:8px 0 6px;background:linear-gradient(90deg,var(--pg),var(--panel-2) 50%,var(--pr))}
+.aspect .rail i{position:absolute;top:50%;width:22px;height:22px;margin:-11px 0 0 -11px;border-radius:50%;background:var(--bg);border:3px solid var(--text)}
+.aspect p{margin:0;color:var(--muted);font-size:16px}
+
+/* ---------- otros dioses y certeza ---------- */
+.others{display:flex;gap:10px;overflow-x:auto;padding:10px 2px 6px;margin-top:4px;scrollbar-width:thin}
+.other{flex:0 0 auto;display:flex;align-items:center;gap:10px;padding:8px 14px 8px 8px;border:2px solid var(--line);border-radius:99px;background:var(--panel)}
+.other .dg{width:34px;height:34px} .other .dg svg{width:18px;height:18px}
+.other b{display:block;font-size:16px;line-height:1.1}
+.other .sub{font-size:13px;color:var(--muted)}
+.certainty{margin-top:16px;color:var(--muted)}
+.certainty b{color:var(--text)}
+
+/* ---------- mapa de cabañas ---------- */
+.camp{margin-top:14px}
+.cabins{display:grid;grid-template-columns:repeat(10,1fr);gap:5px}
+.cabin{aspect-ratio:3/4;border:2px solid var(--line);border-radius:4px 4px 2px 2px;background:var(--panel);display:flex;flex-direction:column;justify-content:flex-end;align-items:center;padding-bottom:3px;font-size:12px;font-weight:700;color:var(--muted);cursor:pointer;position:relative;overflow:hidden}
+.cabin i{position:absolute;left:0;right:0;bottom:0;background:var(--pg);opacity:.28}
+.cabin span{position:relative}
+.cabin.hon{border-style:dashed;cursor:default;opacity:.6}
+.cabin.me{border-color:var(--pg);color:var(--text)}
+.cabin.sel{outline:3px solid var(--text);outline-offset:1px}
+.camp-read{margin:10px 0 0;min-height:3em;color:var(--muted)}
+.camp-read b{color:var(--text)}
+
+/* ---------- guardar y compartir ---------- */
+.block{margin-top:34px}
+.block h2.sec{margin-top:0}
+.pubbox{margin-top:34px;border:2px solid var(--line);border-radius:12px;padding:16px;background:var(--panel)}
+.pubbox h2.sec{margin-top:0}
+.pubbox input[type=text],.pubbox input[type=password]{background:var(--bg)}
+.pubbox input[type=password]{letter-spacing:.3em}
+.pubbox label.field{margin-top:14px}
+.share-preview{margin-top:16px;border-radius:10px;overflow:hidden;border:2px solid var(--line);background:var(--panel)}
+.share-preview img{display:block;width:100%;height:auto}
+.disclaimer{font-size:14px;color:var(--muted);margin-top:24px;line-height:1.45}
+.fade{animation:fade .3s ease-out}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+</style>
+<script src="../config.js"></script>
+<script src="../comun.js"></script>
+<script src="preguntas.js"></script>
+<script src="deidades.js"></script>
+<script src="motor.js"></script>
+</head>
+<body>
+<main class="wrap">
+
+<nav class="langbar">
+  <a class="link" href="../" data-i18n="home"></a>
+  <div class="langs" id="langs" role="group" aria-label="Idioma / Language"></div>
+</nav>
+
+<!-- INICIO -->
+<section id="start" class="hidden">
+  <div class="title-block">
+    <div class="trio" id="titleTrio"></div>
+    <h1><span class="small" data-i18n="title1"></span><span data-i18n="title2"></span></h1>
+    <div class="meander" aria-hidden="true"></div>
+    <p class="lede" data-i18n="lede"></p>
+  </div>
+  <div class="facts">
+    <div><b id="nItems">130</b><span data-i18n="f_items"></span></div>
+    <div><b>~18</b><span data-i18n="f_min"></span></div>
+    <div><b id="nGods">47</b><span data-i18n="f_gods"></span></div>
+  </div>
+  <div class="rules">
+    <p data-i18n-html="how1"></p>
+    <p data-i18n-html="how2"></p>
+    <p data-i18n-html="how3"></p>
+  </div>
+  <div id="resumeBox" class="hidden">
+    <button class="cta" id="resumeBtn" data-i18n="resume"></button>
+    <p class="note" id="resumeNote"></p>
+  </div>
+  <button class="cta" id="startBtn" data-i18n="start"></button>
+  <button class="ghost hidden" id="lastBtn" data-i18n="last_result"></button>
+</section>
+
+<!-- ETAPA -->
+<section id="stage" class="hidden stage">
+  <div class="ladder" id="ladder"></div>
+  <div class="duel hidden" id="duel"></div>
+  <div class="step" id="stageKick"></div>
+  <h2 id="stageTitle"></h2>
+  <p class="lede" id="stageDesc"></p>
+  <button class="cta" id="stageGo" data-i18n="continue"></button>
+</section>
+
+<!-- PREGUNTA -->
+<section id="item" class="hidden">
+  <div class="hud">
+    <div class="hudrow"><b id="hudStage"></b><span id="hudCount"></span></div>
+    <div class="segs" id="segs"></div>
+  </div>
+  <div id="qbox"></div>
+  <div class="qnav"><button class="link" id="backBtn" data-i18n="back"></button><span></span></div>
+</section>
+
+<!-- RESULTADO -->
+<section id="result" class="hidden">
+  <div class="claim" id="claim">
+    <svg class="sky" id="sky" aria-hidden="true"></svg>
+    <div class="sign"><div class="halo"></div><div id="sign"></div></div>
+    <div class="who">
+      <small id="claimKick"></small>
+      <h1 id="godName"></h1>
+      <div class="title" id="godTitle"></div>
+    </div>
+    <p class="where" id="godWhere"></p>
+  </div>
+
+  <div class="reading">
+    <p class="lede" id="godLede"></p>
+    <p class="why" id="godWhy"></p>
+    <div class="light-shadow">
+      <div><h3 data-i18n="r_light"></h3><p id="godLight"></p></div>
+      <div class="sh"><h3 data-i18n="r_shadow"></h3><p id="godShadow"></p></div>
+    </div>
+  </div>
+
+  <div class="block">
+    <h2 class="sec" data-i18n="r_pantheons"></h2>
+    <p class="hint" data-i18n="r_pantheons_hint"></p>
+    <div class="doors" id="doors" role="tablist"></div>
+    <div class="room" id="room" role="tabpanel" aria-live="polite"></div>
+  </div>
+
+  <div class="block">
+    <h2 class="sec" data-i18n="r_profile"></h2>
+    <p class="hint" data-i18n="r_profile_hint"></p>
+    <div class="sky-wrap">
+      <svg id="const" viewBox="-78 -6 596 452" role="img"></svg>
+      <div class="facet-read" id="facetRead" aria-live="polite"></div>
+    </div>
+    <div class="aspect">
+      <div class="ends"><span class="g" data-i18n="asp_g"></span><span class="r" data-i18n="asp_r"></span></div>
+      <div class="rail"><i id="aspDot"></i></div>
+      <p id="aspText"></p>
+    </div>
+  </div>
+
+  <div class="block">
+    <h2 class="sec" data-i18n="r_others"></h2>
+    <div class="others" id="others"></div>
+    <p class="certainty" id="certainty"></p>
+  </div>
+
+  <div class="pubbox" id="pubBox">
+    <h2 class="sec" data-i18n="pub_h"></h2>
+    <p class="hint" data-i18n="pub_hint"></p>
+    <label class="field" for="pubNick" data-i18n="nick"></label>
+    <input type="text" id="pubNick" maxlength="20" autocomplete="nickname">
+    <p class="form-msg info" id="nickMsg"></p>
+    <label class="field" for="pubPin" data-i18n="pin"></label>
+    <input type="password" id="pubPin" inputmode="numeric" pattern="[0-9]*" maxlength="6" autocomplete="current-password" placeholder="••••••">
+    <p class="form-msg info" data-i18n="pin_note"></p>
+    <button class="cta" id="pubBtn" data-i18n="pub_btn"></button>
+    <p class="form-msg" id="pubMsg" aria-live="polite"></p>
+  </div>
+
+  <div class="block" id="statsBlock">
+    <h2 class="sec" data-i18n="r_stats"></h2>
+    <p class="hint" data-i18n="r_stats_hint"></p>
+    <div class="camp"><div class="cabins" id="cabins"></div><p class="camp-read" id="campRead"></p></div>
+    <p class="note" id="statNote"></p>
+  </div>
+
+  <button class="cta" id="makeImg" data-i18n="make_img"></button>
+  <div id="shareBox" class="hidden">
+    <div class="share-preview"><img id="shareImg" alt=""></div>
+    <button class="cta" id="saveImg" data-i18n="save_img"></button>
+    <button class="ghost" id="shareBtn" data-i18n="share"></button>
+    <p class="note" id="shareNote"></p>
+  </div>
+  <button class="ghost" id="againBtn" data-i18n="again"></button>
+  <a class="ghost" href="../quiz/" style="text-align:center;text-decoration:none;color:inherit" data-i18n="to_quiz"></a>
+  <p class="disclaimer" data-i18n="disclaimer"></p>
+</section>
+
+</main>
+<div class="toast hidden" id="toast" role="status"></div>
+<script>
+const Q = window.DEI_Q, D = window.DEI, E = window.DEI_ENGINE;
+const TEXT = {
+es: {
+  html_title: "¿De qué dios serías hijo o hija?",
+  home: "Inicio",
+  title1: "¿De qué dios serías", title2: "hijo o hija?",
+  lede: "Un test sobre cómo eres de verdad. Al final sabrás qué dios te reclamaría, tu cabaña en el Campamento Mestizo, tu progenitor en el Campamento Júpiter y la senda que seguirías como mago egipcio.",
+  f_items: "afirmaciones sobre ti", f_min: "minutos", f_gods: "dioses posibles",
+  how1: "<b>Piensa en cómo eres ahora</b>, en tus últimas semanas, no en cómo te gustaría ser. El test no te pregunta qué harías en una aventura: mira lo que haces de verdad.",
+  how2: "<b>Solo un dios puede ser tu progenitor.</b> Griegos y romanos son los mismos dioses en dos aspectos, así que el test decide también cuál de los dos eres. Lo egipcio va aparte: en ese mundo no hay semidioses, sino magos que siguen la senda de un dios.",
+  how3: "<b>Si dos dioses quedan muy parejos</b>, habrá una ronda corta de desempate. Tu avance se guarda solo.",
+  start: "Comenzar", resume: "Continuar donde quedé",
+  resume_note: "Vas en la afirmación {i} de {n}.",
+  last_result: "Ver mi último resultado",
+  stage_kick: "Etapa {n} de 6", continue: "Continuar",
+  tie_kick: "Desempate",
+  tie_title: "Dos dioses quieren reclamarte",
+  tie_desc: "Quedaron casi empatados. Responde {n} afirmaciones más sobre los rasgos que mejor los separan.",
+  tie_hud: "Desempate",
+  count: "{i} de {n}", back: "← Anterior",
+  likert_prompt: "¿Cuánto te describe esto?",
+  pair_prompt: "¿Cuál te describe mejor?",
+  or: "o",
+  scale: ["Nada", "Poco", "A medias", "Bastante", "Totalmente"],
+  scale_lo: "Nada que ver conmigo", scale_hi: "Totalmente yo",
+  claim_kick: "El dios que te reclama",
+  claim_kick_g: "Eres hijo o hija de",
+  where_g: "Aspecto griego: tu lugar es la <b>cabaña {c}</b> del Campamento Mestizo.",
+  where_r: "Aspecto romano: tu lugar es el <b>Campamento Júpiter</b>, en la Nueva Roma.",
+  why: "Te reclamó por {list}.",
+  and: "y",
+  r_light: "Tu don", r_shadow: "Tu defecto fatal",
+  r_pantheons: "Tu resultado en cada mundo",
+  r_pantheons_hint: "Solo un dios es tu progenitor, pero así te verían en cada uno de los tres mundos.",
+  door_g: "Campamento Mestizo", door_r: "Campamento Júpiter", door_e: "Casa de Brooklyn",
+  door_mark: "Tu progenitor",
+  room_g_place: "Cabaña {c} del Campamento Mestizo",
+  room_r_place: "Campamento Júpiter",
+  room_e_place: "Tu senda como mago",
+  room_g_note: "Si tu progenitor fuera griego, esta sería tu cabaña.",
+  room_r_note: "Si tu progenitor fuera romano, así te reclamaría la legión.",
+  room_e_note: "Los dioses egipcios no tienen hijos semidioses. Si tuvieras sangre de faraones, esta sería la senda que seguirías: la que mejor encaja con tu personalidad, tus dotes y tus intereses.",
+  room_aff: "Afinidad: {p} %",
+  r_profile: "Tu perfil",
+  r_profile_hint: "Diecinueve rasgos en seis etapas. Toca un punto para leerlo.",
+  facet_val: "{v} de 100",
+  key_facet: "Rasgo que más te une a tu progenitor.",
+  asp_g: "Griego", asp_r: "Romano",
+  asp_text_g: "Tu Deber está en {v} de 100: te mueves por tu cuenta, con creatividad e individualidad. Por eso tu dios te reclama en su aspecto griego.",
+  asp_text_r: "Tu Deber está en {v} de 100: valoras la disciplina, el orden y el grupo. Por eso tu dios te reclama en su aspecto romano.",
+  r_others: "Otros dioses que te miraron",
+  cert_high: "<b>Resultado nítido.</b> {a} te reclamó con clara ventaja sobre {b}.",
+  cert_mid: "<b>Resultado claro.</b> {a} va por delante, pero {b} también te miraba.",
+  cert_low: "<b>Resultado ajustado.</b> {a} y {b} estuvieron muy cerca: tienes algo de los dos.",
+  coh_low: " Algunas de tus respuestas sobre un mismo rasgo se contradicen; si respondiste rápido, prueba otra vez con calma.",
+  pub_h: "Guarda tu resultado",
+  pub_hint: "Usa el mismo nick y PIN del Cuestionario Definitivo. Si el nick es nuevo, queda registrado con este PIN. Tu resultado se suma a las estadísticas del campamento (solo se muestran totales, nunca tu nick).",
+  nick: "Nick", pin: "PIN de 6 dígitos", pin_note: "Guárdalo: no se puede recuperar.",
+  pub_btn: "Guardar mi resultado", publishing: "Guardando…",
+  saved: "Resultado guardado como {nick}.", saved_new: "Nick registrado y resultado guardado como {nick}.",
+  nick_rules: "De 3 a 20 caracteres: letras, números, punto, guion o guion bajo.",
+  nick_taken: "Este nick ya está registrado. Si es tuyo, escribe tu PIN.",
+  nick_free: "Nick disponible. Quedará registrado con el PIN que elijas.",
+  nick_banned: "Ese nick no está permitido. Elige otro.",
+  err_nick_invalido: "El nick debe tener de 3 a 20 caracteres: letras, números, punto, guion o guion bajo.",
+  err_nick_no_permitido: "Ese nick no está permitido. Elige otro.",
+  err_pin_invalido: "El PIN debe tener exactamente 6 dígitos.",
+  err_resultado_invalido: "No se pudo leer tu resultado. Recarga la página e inténtalo otra vez.",
+  err_reintentar: "Alguien registró ese nick en este mismo instante. Inténtalo de nuevo.",
+  err_generic: "No se pudo guardar. Inténtalo otra vez.",
+  pin_wrong: "PIN incorrecto para ese nick. Te quedan {n} intentos antes de un bloqueo de 15 minutos.",
+  locked: "Demasiados intentos fallidos con ese nick. Espera 15 minutos o usa otro nick.",
+  network: "No hay conexión con el servidor. Revisa tu internet e inténtalo otra vez.",
+  r_stats: "El campamento",
+  r_stats_hint: "Cuántos mestizos ha reclamado cada cabaña. Toca una para verla.",
+  cabin_read: "<b>Cabaña {c}: {g}.</b> {n} mestizos ({p} %).",
+  cabin_read_me: "<b>Cabaña {c}: {g}.</b> {n} mestizos ({p} %). Es tu cabaña.",
+  cabin_hon: "<b>Cabaña {c}: {g}.</b> Es honoraria: {g} no tiene hijos semidioses.",
+  stat_note: "{n} personas guardaron su resultado. {r} % fueron reclamadas en el aspecto romano. La senda egipcia más seguida es la de {e}.",
+  stat_empty: "Todavía no hay resultados guardados. Guarda el tuyo y estrena el campamento.",
+  stat_err: "No se pudieron cargar las estadísticas.",
+  hera: "Hera", artemis: "Artemisa",
+  make_img: "Crear imagen para compartir", revealing: "Creando la imagen…",
+  save_img: "Descargar imagen", share: "Compartir",
+  save_note: "Si no se descargó, mantén presionada la imagen (o clic derecho) para guardarla.",
+  copied: "Texto copiado: pégalo junto a tu imagen",
+  img_alt: "Imagen con tu resultado",
+  img_title: "¿De qué dios serías hijo o hija?",
+  img_cta: "Descubre el tuyo:",
+  img_g: "Griego", img_r: "Romano", img_e: "Senda egipcia",
+  share_text: "Me reclamó {g} ({w}). Mi senda egipcia es la de {e}. ¿Quién te reclama a ti?{site}",
+  share_w_g: "cabaña {c} del Campamento Mestizo", share_w_r: "Campamento Júpiter",
+  again: "Hacer el test de nuevo", to_quiz: "Ir al Cuestionario Definitivo",
+  again_confirm: "Toca otra vez para borrar tus respuestas y empezar de cero",
+  disclaimer: "Este test se inspira en modelos de la psicología de la personalidad (los Cinco Grandes, los valores de Schwartz y los intereses de Holland) y en cómo Rick Riordan describe a los hijos de cada dios. Es un juego de autoconocimiento, no una evaluación psicológica ni un diagnóstico."
+},
+en: {
+  html_title: "Whose demigod child would you be?",
+  home: "Home",
+  title1: "Whose demigod", title2: "child would you be?",
+  lede: "A test about who you really are. At the end you'll know which god would claim you, your cabin at Camp Half-Blood, your parent at Camp Jupiter and the path you'd follow as an Egyptian magician.",
+  f_items: "statements about you", f_min: "minutes", f_gods: "possible gods",
+  how1: "<b>Think about how you are now</b>, over the last few weeks, not how you'd like to be. The test doesn't ask what you'd do on a quest: it looks at what you actually do.",
+  how2: "<b>Only one god can be your parent.</b> Greeks and Romans are the same gods in two aspects, so the test also decides which one you are. The Egyptian side is separate: that world has no demigods, only magicians who follow a god's path.",
+  how3: "<b>If two gods end up very close</b>, there's a short tiebreaker round. Your progress saves automatically.",
+  start: "Begin", resume: "Continue where I left off",
+  resume_note: "You're on statement {i} of {n}.",
+  last_result: "See my last result",
+  stage_kick: "Stage {n} of 6", continue: "Continue",
+  tie_kick: "Tiebreaker",
+  tie_title: "Two gods want to claim you",
+  tie_desc: "They ended up almost tied. Answer {n} more statements about the traits that best tell them apart.",
+  tie_hud: "Tiebreaker",
+  count: "{i} of {n}", back: "← Back",
+  likert_prompt: "How much does this describe you?",
+  pair_prompt: "Which describes you better?",
+  or: "or",
+  scale: ["Not at all", "A little", "Halfway", "Quite a lot", "Totally"],
+  scale_lo: "Not me at all", scale_hi: "Totally me",
+  claim_kick: "The god who claims you",
+  claim_kick_g: "You are the child of",
+  where_g: "Greek aspect: your place is <b>Cabin {c}</b> at Camp Half-Blood.",
+  where_r: "Roman aspect: your place is <b>Camp Jupiter</b>, in New Rome.",
+  why: "You were claimed for your {list}.",
+  and: "and",
+  r_light: "Your gift", r_shadow: "Your fatal flaw",
+  r_pantheons: "Your result in each world",
+  r_pantheons_hint: "Only one god is your parent, but this is how each of the three worlds would see you.",
+  door_g: "Camp Half-Blood", door_r: "Camp Jupiter", door_e: "Brooklyn House",
+  door_mark: "Your parent",
+  room_g_place: "Cabin {c} at Camp Half-Blood",
+  room_r_place: "Camp Jupiter",
+  room_e_place: "Your path as a magician",
+  room_g_note: "If your godly parent were Greek, this would be your cabin.",
+  room_r_note: "If your godly parent were Roman, this is how the legion would see you claimed.",
+  room_e_note: "Egyptian gods don't have demigod children. If you had the blood of the pharaohs, this is the path you'd follow: the one that best fits your personality, your gifts and your interests.",
+  room_aff: "Affinity: {p}%",
+  r_profile: "Your profile",
+  r_profile_hint: "Nineteen traits across six stages. Tap a point to read it.",
+  facet_val: "{v} out of 100",
+  key_facet: "A trait that ties you most to your godly parent.",
+  asp_g: "Greek", asp_r: "Roman",
+  asp_text_g: "Your Duty is at {v} out of 100: you go your own way, with creativity and individuality. That's why your god claims you in their Greek aspect.",
+  asp_text_r: "Your Duty is at {v} out of 100: you value discipline, order and the group. That's why your god claims you in their Roman aspect.",
+  r_others: "Other gods who were watching you",
+  cert_high: "<b>Clear-cut result.</b> {a} claimed you well ahead of {b}.",
+  cert_mid: "<b>Clear result.</b> {a} is ahead, but {b} was watching you too.",
+  cert_low: "<b>Close result.</b> {a} and {b} were neck and neck: you have something of both.",
+  coh_low: " Some of your answers about the same trait contradict each other; if you answered quickly, try again calmly.",
+  pub_h: "Save your result",
+  pub_hint: "Use the same nickname and PIN as the Ultimate Quiz. If the nickname is new, it's registered with this PIN. Your result adds to the camp stats (only totals are shown, never your nickname).",
+  nick: "Nickname", pin: "6-digit PIN", pin_note: "Keep it safe: it can't be recovered.",
+  pub_btn: "Save my result", publishing: "Saving…",
+  saved: "Result saved as {nick}.", saved_new: "Nickname registered and result saved as {nick}.",
+  nick_rules: "3 to 20 characters: letters, numbers, period, hyphen or underscore.",
+  nick_taken: "This nickname is already registered. If it's yours, enter your PIN.",
+  nick_free: "Nickname available. It will be registered with the PIN you choose.",
+  nick_banned: "That nickname isn't allowed. Choose another one.",
+  err_nick_invalido: "The nickname must be 3 to 20 characters: letters, numbers, period, hyphen or underscore.",
+  err_nick_no_permitido: "That nickname isn't allowed. Choose another one.",
+  err_pin_invalido: "The PIN must be exactly 6 digits.",
+  err_resultado_invalido: "Your result couldn't be read. Reload the page and try again.",
+  err_reintentar: "Someone registered that nickname at the same moment. Try again.",
+  err_generic: "Your result couldn't be saved. Try again.",
+  pin_wrong: "Wrong PIN for that nickname. {n} attempts left before a 15-minute lock.",
+  locked: "Too many failed attempts with that nickname. Wait 15 minutes or use another nickname.",
+  network: "Can't reach the server. Check your connection and try again.",
+  r_stats: "The camp",
+  r_stats_hint: "How many half-bloods each cabin has claimed. Tap one to see it.",
+  cabin_read: "<b>Cabin {c}: {g}.</b> {n} half-bloods ({p}%).",
+  cabin_read_me: "<b>Cabin {c}: {g}.</b> {n} half-bloods ({p}%). It's your cabin.",
+  cabin_hon: "<b>Cabin {c}: {g}.</b> It's honorary: {g} has no demigod children.",
+  stat_note: "{n} people saved their result. {r}% were claimed in the Roman aspect. The most followed Egyptian path is {e}'s.",
+  stat_empty: "No saved results yet. Save yours and open the camp.",
+  stat_err: "The stats couldn't be loaded.",
+  hera: "Hera", artemis: "Artemis",
+  make_img: "Create an image to share", revealing: "Creating the image…",
+  save_img: "Download image", share: "Share",
+  save_note: "If it didn't download, press and hold the image (or right-click it) to save it.",
+  copied: "Text copied: paste it with your image",
+  img_alt: "Image with your result",
+  img_title: "Whose demigod child would you be?",
+  img_cta: "Find yours:",
+  img_g: "Greek", img_r: "Roman", img_e: "Egyptian path",
+  share_text: "I was claimed by {g} ({w}). My Egyptian path is {e}'s. Who claims you?{site}",
+  share_w_g: "Cabin {c} at Camp Half-Blood", share_w_r: "Camp Jupiter",
+  again: "Take the test again", to_quiz: "Go to the Ultimate Quiz",
+  again_confirm: "Tap again to erase your answers and start over",
+  disclaimer: "This test draws on personality psychology models (the Big Five, Schwartz's values and Holland's interests) and on how Rick Riordan describes each god's children. It's a self-discovery game, not a psychological assessment or diagnosis."
+}
+};
+
+const CFG = window.PJ_CONFIG || {};
+const API = (CFG.SUPABASE_URL || "").replace(/\/+$/, "");
+const KEYAPI = CFG.SUPABASE_KEY || "";
+const ONLINE = !!(API && KEYAPI);
+const KEY = "pj-deidad-v1";
+const NICK_RE = /^[A-Za-z0-9_.ÁÉÍÓÚÜÑáéíóúüñ-]{3,20}$/;
+const PIN_RE = /^[0-9]{6}$/;
+const ITEMS = E.ITEMS, N = ITEMS.length;
+const TIE_BY_ID = {}; Object.values(E.TIE).forEach(a => a.forEach(it => TIE_BY_ID[it.id] = it));
+const PCOL = { g: "--pg", r: "--pr", e: "--pe" };
+
+let LANG = PJ.pickLang(Object.keys(TEXT));
+const $ = s => document.querySelector(s);
+const screens = ["start","stage","item","result"];
+function show(id){ screens.forEach(s => $("#"+s).classList.toggle("hidden", s !== id)); window.scrollTo(0,0); }
+function t(key, vars){
+  let s = (TEXT[LANG] && TEXT[LANG][key]) ?? TEXT.es[key] ?? key;
+  if (typeof s === "string" && vars) s = s.replace(/\{(\w+)\}/g, (_, k) => (k in vars ? vars[k] : ""));
+  return s;
+}
+function L(obj){ return obj[LANG] || obj.es; }
+function esc(s){ return String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+function toast(msg){const el=$("#toast");el.textContent=msg;el.classList.remove("hidden");clearTimeout(el._h);el._h=setTimeout(()=>el.classList.add("hidden"),2800);}
+function store(v){ try{ localStorage.setItem(KEY, JSON.stringify(v)); }catch(e){} }
+function loadState(){ try{ return JSON.parse(localStorage.getItem(KEY) || "null"); }catch(e){ return null; } }
+function cssVar(name){ return getComputedStyle(document.documentElement).getPropertyValue(name).trim(); }
+
+/* Símbolo de una deidad (SVG). */
+function dg(id, size){
+  const g = D.GODS[id], paths = D.GLYPHS[g.g] || [];
+  const s = size || 44;
+  return `<span class="dg p-${g.pan}" style="width:${s}px;height:${s}px" aria-hidden="true"><svg viewBox="0 0 24 24" style="width:${Math.round(s*.55)}px;height:${Math.round(s*.55)}px">${paths.map(p => `<path d="${p}"/>`).join("")}</svg></span>`;
+}
+function drawDg(g, id, x, y, size, color){
+  const paths = D.GLYPHS[D.GODS[id].g] || [], s = size / 24;
+  g.save(); g.translate(x - size / 2, y - size / 2); g.scale(s, s);
+  g.strokeStyle = color; g.lineWidth = 1.6; g.lineCap = "round"; g.lineJoin = "round";
+  paths.forEach(p => g.stroke(new Path2D(p))); g.restore();
+}
+function godName(id){ return L(D.GODS[id]).name; }
+
+/* Estado: respuestas, posición, desempate */
+function fresh(){ return { answers:{}, pos:0, seenStage:-1, tie:null, tpos:0, tieSeen:false, done:false, saved:null }; }
+let S = loadState() || fresh();
+if (!S.answers) S = fresh();
+function save(){ store(S); }
+
+/* ---------- idioma ---------- */
+function applyStatic(){
+  document.documentElement.lang = LANG;
+  document.title = t("html_title");
+  document.querySelectorAll("[data-i18n]").forEach(el => el.textContent = t(el.dataset.i18n));
+  document.querySelectorAll("[data-i18n-html]").forEach(el => el.innerHTML = t(el.dataset.i18nHtml));
+  $("#shareImg").alt = t("img_alt");
+  $("#nItems").textContent = N;
+  $("#nGods").textContent = Object.keys(D.GODS).length;
+  const box = $("#langs"); box.innerHTML = "";
+  Object.keys(TEXT).forEach(code => {
+    const b = document.createElement("button");
+    b.className = "langbtn" + (code === LANG ? " on" : "");
+    b.textContent = code.toUpperCase(); b.setAttribute("aria-pressed", code === LANG);
+    b.addEventListener("click", () => { LANG = code; PJ.saveLang(code); applyStatic(); rerender(); });
+    box.appendChild(b);
+  });
+}
+function rerender(){
+  const cur = screens.find(s => !$("#"+s).classList.contains("hidden"));
+  if (cur === "start") renderStart();
+  else if (cur === "stage") step();
+  else if (cur === "item") renderItem();
+  else if (cur === "result") renderResult(false);
+}
+
+/* ---------- inicio ---------- */
+function answeredCount(){ return ITEMS.filter(it => it.id in S.answers).length; }
+function renderStart(){
+  const inProgress = !S.done && answeredCount() > 0;
+  $("#resumeBox").classList.toggle("hidden", !inProgress);
+  if (inProgress) $("#resumeNote").textContent = t("resume_note", {i: Math.min(S.pos + 1, N), n: N});
+  $("#startBtn").className = inProgress ? "ghost" : "cta";
+  $("#lastBtn").classList.toggle("hidden", !S.done);
+  show("start");
+}
+$("#startBtn").addEventListener("click", () => { S = fresh(); save(); step(); });
+$("#resumeBtn").addEventListener("click", () => step());
+$("#lastBtn").addEventListener("click", () => { show("result"); renderResult(true); });
+
+/* ---------- flujo ---------- */
+function inTie(){ return S.pos >= N; }
+function current(){ return inTie() ? TIE_BY_ID[S.tie[S.tpos]] : ITEMS[S.pos]; }
+function step(){
+  if (S.pos < N) {
+    const st = ITEMS[S.pos].s;
+    const first = S.pos === 0 || ITEMS[S.pos - 1].s !== st;
+    if (first && S.seenStage < st) { showStage(st); return; }
+    renderItem(); return;
+  }
+  if (S.tie === null) { S.tie = E.tieItems(S.answers).map(it => it.id); S.tpos = 0; save(); }
+  if (S.tpos < S.tie.length) {
+    if (!S.tieSeen) { showTie(); return; }
+    renderItem(); return;
+  }
+  finish();
+}
+function ladder(n){ $("#ladder").innerHTML = Array.from({length:6}, (_, i) => `<i class="${i <= n ? "on" : ""}"></i>`).join(""); }
+function showStage(st){
+  const sd = L(Q.STAGES[st]);
+  ladder(st);
+  $("#duel").classList.add("hidden");
+  $("#stageKick").textContent = t("stage_kick", {n: st + 1});
+  $("#stageTitle").textContent = sd.t;
+  $("#stageDesc").textContent = sd.d;
+  show("stage"); $("#stageGo").focus();
+}
+function showTie(){
+  ladder(5);
+  const top = E.rank(E.facets(S.answers).fv, ["g","r"]);
+  const duel = $("#duel"); duel.classList.remove("hidden");
+  duel.innerHTML = dg(top[0].id, 64) + `<span class="vs">${esc(t("or"))}</span>` + dg(top[1].id, 64);
+  $("#stageKick").textContent = t("tie_kick");
+  $("#stageTitle").textContent = t("tie_title");
+  $("#stageDesc").textContent = t("tie_desc", {n: S.tie.length});
+  show("stage"); $("#stageGo").focus();
+}
+$("#stageGo").addEventListener("click", () => {
+  if (inTie()) S.tieSeen = true; else S.seenStage = ITEMS[S.pos].s;
+  save(); renderItem();
+});
+
+function renderItem(){
+  show("item");
+  const it = current();
+  const segs = $("#segs");
+  if (inTie()) {
+    $("#hudStage").textContent = t("tie_hud");
+    $("#hudCount").textContent = t("count", {i: S.tpos + 1, n: S.tie.length});
+    segs.className = "segs tie";
+    segs.innerHTML = `<div class="seg"><i style="width:${S.tpos / S.tie.length * 100}%"></i></div>`;
+  } else {
+    $("#hudStage").textContent = L(Q.STAGES[it.s]).t;
+    $("#hudCount").textContent = t("count", {i: S.pos + 1, n: N});
+    segs.className = "segs";
+    segs.innerHTML = [0,1,2,3,4,5].map(st => {
+      const inSt = ITEMS.filter(x => x.s === st);
+      const done = inSt.filter(x => ITEMS.indexOf(x) < S.pos).length;
+      return `<div class="seg"><i style="width:${done / inSt.length * 100}%"></i></div>`;
+    }).join("");
+  }
+  const box = $("#qbox"); box.innerHTML = ""; box.className = "fade";
+  const prev = S.answers[it.id];
+  if (it.t === "l") {
+    const p = document.createElement("p"); p.className = "prompt"; p.textContent = t("likert_prompt");
+    const h = document.createElement("h2"); h.className = "stmt"; h.textContent = L(it);
+    const sc = document.createElement("div"); sc.className = "scale"; sc.setAttribute("role", "group");
+    t("scale").forEach((label, i) => {
+      const v = i + 1, size = [12, 15, 18, 21, 24][i];
+      const b = document.createElement("button");
+      b.className = "lk" + (prev === v ? " sel" : "");
+      b.setAttribute("aria-label", label);
+      b.innerHTML = `<span class="dot" style="width:${size}px;height:${size}px"></span><span></span>`;
+      b.lastChild.textContent = label;
+      b.addEventListener("click", () => answer(v, b));
+      sc.appendChild(b);
+    });
+    const ends = document.createElement("div"); ends.className = "scale-ends";
+    ends.innerHTML = `<span></span><span></span>`;
+    ends.firstChild.textContent = t("scale_lo"); ends.lastChild.textContent = t("scale_hi");
+    box.append(p, h, sc, ends);
+  } else {
+    const p = document.createElement("p"); p.className = "prompt"; p.textContent = t("pair_prompt");
+    const pr = document.createElement("div"); pr.className = "pair";
+    ["a","b"].forEach((k, i) => {
+      if (i === 1) { const o = document.createElement("div"); o.className = "or"; o.textContent = t("or"); pr.appendChild(o); }
+      const b = document.createElement("button");
+      b.className = "pc" + (prev === k ? " sel" : "");
+      b.textContent = L(it[k]);
+      b.addEventListener("click", () => answer(k, b));
+      pr.appendChild(b);
+    });
+    box.append(p, pr);
+  }
+  $("#backBtn").style.visibility = (S.pos > 0 || S.tpos > 0) ? "visible" : "hidden";
+}
+let advancing = false;
+function answer(v, btn){
+  if (advancing) return;
+  advancing = true;
+  S.answers[current().id] = v;
+  document.querySelectorAll(".lk,.pc").forEach(b => b.classList.remove("sel"));
+  btn.classList.add("sel");
+  if (inTie()) S.tpos++; else S.pos++;
+  save();
+  setTimeout(() => { advancing = false; step(); }, 220);
+}
+$("#backBtn").addEventListener("click", () => {
+  if (inTie() && S.tpos > 0) { S.tpos--; save(); renderItem(); return; }
+  if (inTie()) { S.tie = null; S.tieSeen = false; S.tpos = 0; }   // volver a la última de la etapa 6
+  if (S.pos === 0) return;
+  S.pos--; S.seenStage = Math.max(S.seenStage, ITEMS[S.pos].s); save(); renderItem();
+});
+document.addEventListener("keydown", e => {
+  if ($("#item").classList.contains("hidden") || advancing) return;
+  const it = current();
+  if (it.t === "l" && /^[1-5]$/.test(e.key)) document.querySelectorAll(".lk")[+e.key - 1].click();
+  if (it.t === "p" && (e.key === "1" || e.key.toLowerCase() === "a")) document.querySelectorAll(".pc")[0].click();
+  if (it.t === "p" && (e.key === "2" || e.key.toLowerCase() === "b")) document.querySelectorAll(".pc")[1].click();
+});
+
+/* ---------- resultado ---------- */
+let R = null, lastBlob = null, lastUrl = null, door = null, facetSel = null;
+function finish(){ S.done = true; save(); show("result"); renderResult(true); }
+function joinList(arr){ return arr.length < 2 ? arr.join("") : arr.slice(0, -1).join(", ") + " " + t("and") + " " + arr[arr.length - 1]; }
+function placeFor(id){
+  const g = D.GODS[id];
+  if (g.pan === "g") return t("room_g_place", {c: g.cabin});
+  if (g.pan === "r") return t("room_r_place");
+  return t("room_e_place");
+}
+function renderResult(isFresh){
+  R = E.compute(S.answers);
+  const P = D.GODS[R.parent], LP = L(P);
+  // reclamo
+  const claim = $("#claim");
+  claim.style.setProperty("--glow", cssVar(PCOL[P.pan]) || "#ff8a33");
+  $("#sign").innerHTML = dg(R.parent, 128);
+  $("#claimKick").textContent = t("claim_kick_g");
+  $("#godName").textContent = LP.name;
+  $("#godTitle").textContent = LP.title;
+  $("#godWhere").innerHTML = P.pan === "g" ? t("where_g", {c: P.cabin}) : t("where_r");
+  drawSky();
+  if (isFresh) { claim.classList.remove("reveal"); void claim.offsetWidth; claim.classList.add("reveal"); }
+  // lectura
+  $("#godLede").textContent = LP.lede;
+  const why = R.why.map((f, i) => (LANG === "es" ? "tu " : "") + L({es: Q.FACETS[f].es.toLowerCase(), en: Q.FACETS[f].en.toLowerCase()}));
+  $("#godWhy").textContent = why.length ? t("why", {list: joinList(why)}) : "";
+  $("#godLight").textContent = LP.strength;
+  $("#godShadow").textContent = LP.shadow;
+  // puertas
+  if (isFresh || !door) door = P.pan;
+  renderDoors();
+  // perfil
+  renderConstellation();
+  const duty = Math.round(R.duty * 100);
+  $("#aspDot").style.left = duty + "%";
+  $("#aspText").textContent = t(P.pan === "r" ? "asp_text_r" : "asp_text_g", {v: duty});
+  // otros
+  const others = R.ranks.gr.slice(1, 6);
+  $("#others").innerHTML = others.map(o => `<div class="other">${dg(o.id, 34)}<div><b>${esc(godName(o.id))}</b><span class="sub">${esc(t("room_aff", {p: R.pct(o.r)}))}</span></div></div>`).join("");
+  const ab = {a: esc(LP.name), b: esc(godName(R.runner))};
+  $("#certainty").innerHTML = t("cert_" + R.clarity, ab) + (R.coherence < 0.55 ? esc(t("coh_low")) : "");
+  if (isFresh) { $("#shareBox").classList.add("hidden"); $("#makeImg").classList.remove("hidden"); lastBlob = null; }
+  else if (!$("#shareBox").classList.contains("hidden")) redrawImage();
+  setupPublish(isFresh);
+  loadStats();
+}
+
+/* cielo estrellado del reclamo (fijo para cada resultado) */
+function drawSky(){
+  const svg = $("#sky"), w = 600, h = 420;
+  svg.setAttribute("viewBox", `0 0 ${w} ${h}`); svg.setAttribute("preserveAspectRatio", "xMidYMid slice");
+  let seed = [...R.parent].reduce((s, c) => s * 31 + c.charCodeAt(0), 7) >>> 0;
+  const rnd = () => (seed = (seed * 1664525 + 1013904223) >>> 0) / 4294967296;
+  let out = "";
+  for (let i = 0; i < 70; i++) out += `<circle cx="${(rnd()*w).toFixed(1)}" cy="${(rnd()*h).toFixed(1)}" r="${(0.4 + rnd()*1.2).toFixed(2)}" fill="#fff" opacity="${(0.15 + rnd()*0.5).toFixed(2)}"/>`;
+  svg.innerHTML = out;
+}
+
+function renderDoors(){
+  const box = $("#doors"); box.innerHTML = "";
+  const pick = { g: R.greek, r: R.roman, e: R.egypt };
+  ["g","r","e"].forEach(p => {
+    const id = pick[p];
+    const b = document.createElement("button");
+    b.className = `door d-${p}` + (door === p ? " on" : "");
+    b.setAttribute("role", "tab"); b.setAttribute("aria-selected", door === p);
+    const isParent = id === R.parent;
+    b.innerHTML = (isParent ? `<span class="mark">${esc(t("door_mark"))}</span>` : "") + dg(id, 46) + `<b>${esc(godName(id))}</b><span class="sub">${esc(t("door_" + p))}</span>`;
+    b.addEventListener("click", () => { door = p; renderDoors(); });
+    box.appendChild(b);
+  });
+  const id = pick[door], g = D.GODS[id], Lg = L(g);
+  const rk = (door === "g" ? R.ranks.greek : door === "r" ? R.ranks.roman : R.ranks.egypt).find(x => x.id === id);
+  const room = $("#room");
+  room.style.borderColor = `var(${PCOL[door]})`;
+  room.innerHTML = `<div class="place p-${door}"></div><h3></h3><p class="ttl"></p><p class="ld"></p><p class="kin"></p><p class="note"></p>`;
+  room.querySelector(".place").textContent = placeFor(id);
+  room.querySelector(".ttl").dataset.aff = t("room_aff", {p: R.pct(rk.r)});
+  room.querySelector("h3").textContent = Lg.name;
+  room.querySelector(".ttl").textContent = Lg.title + ". " + room.querySelector(".ttl").dataset.aff + ".";
+  room.querySelector(".ld").textContent = Lg.lede;
+  room.querySelector(".kin").textContent = Lg.kin;
+  room.querySelector(".note").textContent = t("room_" + door + "_note");
+}
+
+function renderConstellation(){
+  const svg = $("#const"), cx = 220, cy = 220, R0 = 52, R1 = 150;
+  const fs = Q.STAGES.flatMap(s => s.f);           // 18 rasgos, sin Deber
+  const n = fs.length, key = new Set(R.why);
+  const ang = i => -Math.PI / 2 + i * 2 * Math.PI / n;
+  const pt = (i, v) => [cx + Math.cos(ang(i)) * (R0 + (R1 - R0) * v), cy + Math.sin(ang(i)) * (R0 + (R1 - R0) * v)];
+  let s = "";
+  [0, 0.5, 1].forEach(v => s += `<circle class="ring" cx="${cx}" cy="${cy}" r="${R0 + (R1 - R0) * v}"/>`);
+  fs.forEach((f, i) => { const [x, y] = pt(i, 1); const [x0, y0] = pt(i, 0); s += `<line class="spoke" x1="${x0}" y1="${y0}" x2="${x}" y2="${y}"/>`; });
+  s += `<polygon class="shape" points="${fs.map((f, i) => pt(i, R.fv[f]).map(v => v.toFixed(1)).join(",")).join(" ")}"/>`;
+  // etapas: nombre en el arco interior
+  Q.STAGES.forEach((st, k) => {
+    const mid = ang(k * 3 + 1), rr = R0 - 16;
+    s += `<text class="grp" text-anchor="middle" x="${(cx + Math.cos(mid) * rr).toFixed(1)}" y="${(cy + Math.sin(mid) * rr + 4).toFixed(1)}">${k + 1}</text>`;
+  });
+  fs.forEach((f, i) => {
+    const [x, y] = pt(i, R.fv[f]);
+    const sel = facetSel === f;
+    s += `<circle class="node${key.has(f) ? " key" : ""}${sel ? " sel" : ""}" data-f="${f}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${sel ? 8 : 6.5}" tabindex="0" role="button" aria-label="${esc(L({es: Q.FACETS[f].es, en: Q.FACETS[f].en}))}"/>`;
+    const a = ang(i), lx = cx + Math.cos(a) * (R1 + 22), ly = cy + Math.sin(a) * (R1 + 22);
+    const anchor = Math.abs(Math.cos(a)) < 0.3 ? "middle" : (Math.cos(a) > 0 ? "start" : "end");
+    s += `<text data-f="${f}" class="${sel ? "sel" : ""}" text-anchor="${anchor}" x="${lx.toFixed(1)}" y="${(ly + 4).toFixed(1)}">${esc(L({es: Q.FACETS[f].es, en: Q.FACETS[f].en}))}</text>`;
+  });
+  svg.innerHTML = s;
+  svg.setAttribute("aria-label", t("r_profile"));
+  svg.querySelectorAll("[data-f]").forEach(el => {
+    const go = () => { facetSel = el.dataset.f; renderConstellation(); };
+    el.addEventListener("click", go);
+    el.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); go(); } });
+  });
+  const f = facetSel || R.why[0] || fs[0];
+  const F = Q.FACETS[f];
+  $("#facetRead").innerHTML = `<b>${esc(L({es: F.es, en: F.en}))}: ${esc(t("facet_val", {v: Math.round(R.fv[f] * 100)}))}</b><span>${esc(L({es: F.d_es, en: F.d_en}))}${key.has(f) ? " " + esc(t("key_facet")) : ""}</span>`;
+}
+
+/* ---------- guardar ---------- */
+function headers(){
+  const h = {"Content-Type":"application/json","apikey":KEYAPI};
+  if (KEYAPI.startsWith("eyJ")) h["Authorization"] = "Bearer " + KEYAPI;
+  return h;
+}
+async function rpc(fn, body){
+  const r = await fetch(`${API}/rest/v1/rpc/${fn}`, {method:"POST", headers:headers(), body:JSON.stringify(body)});
+  if (!r.ok) throw new Error("http_" + r.status);
+  return r.json();
+}
+function resultKey(){ return [R.parent, R.greek, R.roman, R.egypt].join("|"); }
+function setupPublish(isFresh){
+  const box = $("#pubBox");
+  if (!ONLINE) { box.classList.add("hidden"); return; }
+  box.classList.remove("hidden");
+  if (isFresh) { $("#pubNick").value = PJ.readNick(); $("#pubPin").value = ""; }
+  if (S.saved && S.saved.key === resultKey()) {
+    lockPublish(t("saved", {nick: S.saved.nick}), "ok");
+  } else {
+    $("#pubBtn").disabled = false; $("#pubNick").disabled = false; $("#pubPin").disabled = false;
+    if (isFresh) { $("#pubMsg").textContent = ""; $("#pubMsg").className = "form-msg"; }
+    checkNick();
+  }
+}
+function lockPublish(msg, cls){
+  $("#nickMsg").textContent = "";
+  $("#pubBtn").disabled = true; $("#pubNick").disabled = true; $("#pubPin").disabled = true;
+  $("#pubMsg").textContent = msg; $("#pubMsg").className = "form-msg " + cls;
+}
+let nickTimer = null;
+async function checkNick(){
+  const nick = $("#pubNick").value.trim(), m = $("#nickMsg");
+  if (!NICK_RE.test(nick)) { m.textContent = t("nick_rules"); m.className = "form-msg info"; return; }
+  try {
+    const st = await rpc("pj_nick_status", {p_nick: nick});
+    if (nick !== $("#pubNick").value.trim()) return;
+    if (st === "no_permitido") { m.textContent = t("nick_banned"); m.className = "form-msg bad"; }
+    else if (st === "ocupado") { m.textContent = t("nick_taken"); m.className = "form-msg info"; }
+    else { m.textContent = t("nick_free"); m.className = "form-msg ok"; }
+  } catch(e) { m.textContent = t("nick_rules"); m.className = "form-msg info"; }
+}
+$("#pubNick").addEventListener("input", () => { clearTimeout(nickTimer); nickTimer = setTimeout(checkNick, 450); });
+$("#pubPin").addEventListener("input", e => { const v = e.target.value.replace(/\D/g, "").slice(0, 6); if (v !== e.target.value) e.target.value = v; });
+$("#pubBtn").addEventListener("click", async () => {
+  const nick = $("#pubNick").value.trim(), pin = $("#pubPin").value, msg = $("#pubMsg");
+  if (!NICK_RE.test(nick)) { msg.textContent = t("err_nick_invalido"); msg.className = "form-msg bad"; return; }
+  if (!PIN_RE.test(pin)) { msg.textContent = t("err_pin_invalido"); msg.className = "form-msg bad"; return; }
+  const scores = {};
+  E.FACETS.forEach(f => scores[f] = Math.round(R.fv[f] * 100));
+  scores.gap = Math.round(R.gap * 1000);
+  $("#pubBtn").disabled = true; msg.textContent = t("publishing"); msg.className = "form-msg info";
+  try {
+    const r = await rpc("pj_save_god", {
+      p_nick: nick, p_pin: pin, p_parent: R.parent, p_aspect: R.aspect,
+      p_greek: R.greek, p_roman: R.roman, p_egypt: R.egypt, p_scores: scores
+    });
+    if (r.ok) {
+      PJ.saveNick(nick);
+      S.saved = {nick, key: resultKey()}; save();
+      lockPublish(t(r.nuevo ? "saved_new" : "saved", {nick}), "ok");
+      loadStats();
+      return;
+    }
+    $("#pubBtn").disabled = false;
+    if (r.error === "pin_incorrecto") msg.textContent = t("pin_wrong", {n: r.intentos_restantes});
+    else if (r.error === "bloqueado") msg.textContent = t("locked");
+    else msg.textContent = t("err_" + r.error) !== ("err_" + r.error) ? t("err_" + r.error) : t("err_generic");
+    msg.className = "form-msg bad";
+  } catch(e) {
+    $("#pubBtn").disabled = false; msg.textContent = t("network"); msg.className = "form-msg bad";
+  }
+});
+
+/* ---------- estadísticas: mapa de cabañas ---------- */
+let STATS = null, cabinSel = null;
+const CABINS = (() => {
+  const m = {}; Object.entries(D.GODS).forEach(([id, g]) => { if (g.pan === "g") m[g.cabin] = id; });
+  return m;
+})();
+async function loadStats(){
+  const block = $("#statsBlock");
+  if (!ONLINE) { block.classList.add("hidden"); return; }
+  block.classList.remove("hidden");
+  try {
+    const r = await fetch(`${API}/rest/v1/pj_god_stats?select=kind,god,players`, {headers: headers()});
+    if (!r.ok) throw new Error();
+    const rows = await r.json();
+    STATS = { parent:{}, greek:{}, roman:{}, egypt:{} };
+    rows.forEach(x => { if (STATS[x.kind]) STATS[x.kind][x.god] = x.players; });
+    renderCabins();
+  } catch(e) { STATS = null; renderCabins(); $("#statNote").textContent = t("stat_err"); }
+}
+function renderCabins(){
+  const box = $("#cabins"), read = $("#campRead");
+  const greek = STATS ? STATS.greek : {};
+  const total = Object.values(greek).reduce((s, x) => s + x, 0);
+  const max = Math.max(1, ...Object.values(greek));
+  box.innerHTML = "";
+  for (let c = 1; c <= 20; c++) {
+    const id = CABINS[c], hon = !id;
+    const n = id ? (greek[id] || 0) : 0;
+    const b = document.createElement("button");
+    b.className = "cabin" + (hon ? " hon" : "") + (R && id === R.greek ? " me" : "") + (cabinSel === c ? " sel" : "");
+    b.innerHTML = `<i style="height:${hon ? 0 : Math.round(n / max * 100)}%"></i><span>${c}</span>`;
+    b.setAttribute("aria-label", (hon ? t(c === 2 ? "hera" : "artemis") : godName(id)) + ", " + c);
+    b.addEventListener("click", () => { cabinSel = c; renderCabins(); });
+    box.appendChild(b);
+  }
+  const c = cabinSel || (R ? D.GODS[R.greek].cabin : 1), id = CABINS[c];
+  if (!id) {
+    const g = t(c === 2 ? "hera" : "artemis");
+    read.innerHTML = t("cabin_hon", {c, g: esc(g)});
+  } else {
+    const n = greek[id] || 0;
+    read.innerHTML = t(R && id === R.greek ? "cabin_read_me" : "cabin_read", {c, g: esc(godName(id)), n, p: total ? Math.round(n / total * 100) : 0});
+  }
+  const note = $("#statNote");
+  if (!STATS) return;
+  const people = Object.values(STATS.parent).reduce((s, x) => s + x, 0);
+  if (!people) { note.textContent = t("stat_empty"); return; }
+  const roman = Object.entries(STATS.parent).filter(([id]) => D.GODS[id] && D.GODS[id].pan === "r").reduce((s, [, x]) => s + x, 0);
+  const topE = Object.entries(STATS.egypt).sort((a, b) => b[1] - a[1])[0];
+  note.textContent = t("stat_note", {n: people, r: Math.round(roman / people * 100), e: topE && D.GODS[topE[0]] ? godName(topE[0]) : "—"});
+}
+
+/* ---------- imagen ---------- */
+function siteText(){ return /^https?:/.test(location.protocol) ? (location.host + location.pathname.replace(/index\.html$/, "")).replace(/\/$/, "") : ""; }
+function fitText(g, text, max, size, font){ let s = size; g.font = font(s); while (g.measureText(text).width > max && s > 20) { s -= 2; g.font = font(s); } return s; }
+async function drawCard(){
+  try { await Promise.all([document.fonts.load('600 80px "Cinzel"'), document.fonts.load('700 30px "Alegreya Sans"')]); } catch(e) {}
+  const W = 1080, H = 1350, c = document.createElement("canvas"); c.width = W; c.height = H; const g = c.getContext("2d");
+  const P = D.GODS[R.parent], col = { g:"#ff8a33", r:"#b48be8", e:"#6fa0ea" };
+  g.fillStyle = "#07111d"; g.fillRect(0, 0, W, H);
+  const grad = g.createRadialGradient(W/2, 300, 30, W/2, 300, 620);
+  grad.addColorStop(0, col[P.pan] + "40"); grad.addColorStop(1, "rgba(0,0,0,0)");
+  g.fillStyle = grad; g.fillRect(0, 0, W, H);
+  let seed = 99; const rnd = () => (seed = (seed * 1664525 + 1013904223) >>> 0) / 4294967296;
+  for (let i = 0; i < 110; i++) { g.globalAlpha = 0.15 + rnd() * 0.5; g.fillStyle = "#fff"; g.beginPath(); g.arc(rnd() * W, rnd() * 760, 0.8 + rnd() * 2, 0, Math.PI * 2); g.fill(); }
+  g.globalAlpha = 1;
+  g.beginPath(); g.arc(W/2, 290, 140, 0, Math.PI*2); g.strokeStyle = col[P.pan]; g.lineWidth = 6; g.stroke();
+  drawDg(g, R.parent, W/2, 290, 160, col[P.pan]);
+  g.textAlign = "center";
+  g.fillStyle = "#b9c6d6"; g.font = '700 38px "Alegreya Sans", sans-serif'; g.fillText(t("claim_kick_g"), W/2, 510);
+  const nm = L(P).name; fitText(g, nm, W - 140, 130, s => `600 ${s}px "Cinzel", serif`);
+  g.fillStyle = "#ffffff"; g.fillText(nm, W/2, 650);
+  g.fillStyle = "#d8e1ec"; fitText(g, L(P).title, W - 160, 40, s => `500 ${s}px "Alegreya Sans", sans-serif`); g.fillText(L(P).title, W/2, 714);
+  const where = P.pan === "g" ? t("share_w_g", {c: P.cabin}) : t("share_w_r");
+  g.fillStyle = col[P.pan]; g.font = '800 36px "Alegreya Sans", sans-serif'; g.fillText(where, W/2, 772);
+  // tres mundos
+  const rows = [["img_g", R.greek, "g"], ["img_r", R.roman, "r"], ["img_e", R.egypt, "e"]];
+  let y = 880;
+  rows.forEach(([k, id, p]) => {
+    g.beginPath(); g.arc(150, y - 12, 34, 0, Math.PI*2); g.strokeStyle = col[p]; g.lineWidth = 3; g.stroke();
+    drawDg(g, id, 150, y - 12, 40, col[p]);
+    g.textAlign = "left"; g.fillStyle = "#93a6bc"; g.font = '700 28px "Alegreya Sans", sans-serif'; g.fillText(t(k), 210, y - 22);
+    g.fillStyle = "#f1f5fa"; g.font = '600 40px "Cinzel", serif'; g.fillText(godName(id), 210, y + 20);
+    y += 110;
+  });
+  g.textAlign = "left";
+  g.fillStyle = "#ff8a33"; fitText(g, t("img_title"), W - 180, 46, s => `600 ${s}px "Cinzel", serif`); g.fillText(t("img_title"), 90, H - 96);
+  g.fillStyle = "#93a6bc"; g.font = '700 28px "Alegreya Sans", sans-serif';
+  const site = siteText(); g.fillText(t("img_cta") + (site ? " " + site : ""), 90, H - 54);
+  return new Promise(r => c.toBlob(r, "image/png"));
+}
+async function redrawImage(){
+  lastBlob = await drawCard();
+  if (lastUrl) URL.revokeObjectURL(lastUrl);
+  lastUrl = URL.createObjectURL(lastBlob); $("#shareImg").src = lastUrl;
+}
+$("#makeImg").addEventListener("click", async () => {
+  $("#makeImg").textContent = t("revealing"); await redrawImage();
+  $("#shareBox").classList.remove("hidden"); $("#makeImg").classList.add("hidden"); $("#makeImg").textContent = t("make_img");
+});
+$("#saveImg").addEventListener("click", () => {
+  if (!lastUrl) return;
+  const a = document.createElement("a"); a.href = lastUrl; a.download = "pj-deidad.png"; document.body.appendChild(a); a.click(); a.remove();
+  $("#shareNote").textContent = t("save_note");
+});
+$("#shareBtn").addEventListener("click", async () => {
+  const P = D.GODS[R.parent];
+  const site = /^https?:/.test(location.protocol) ? " " + location.href.split("#")[0] : "";
+  const w = P.pan === "g" ? t("share_w_g", {c: P.cabin}) : t("share_w_r");
+  const text = t("share_text", {g: L(P).name, w, e: godName(R.egypt), site});
+  if (lastBlob && navigator.canShare) {
+    const file = new File([lastBlob], "pj-deidad.png", {type: "image/png"});
+    if (navigator.canShare({files: [file]})) { try { await navigator.share({files: [file], text}); return; } catch(e) { if (e && e.name === "AbortError") return; } }
+  }
+  if (navigator.share) { try { await navigator.share({text}); return; } catch(e) { if (e && e.name === "AbortError") return; } }
+  try { await navigator.clipboard.writeText(text); toast(t("copied")); } catch(e) { $("#shareNote").textContent = text; }
+});
+$("#againBtn").addEventListener("click", function(){
+  if (this.dataset.armed === "1") {
+    S = fresh(); save(); this.dataset.armed = ""; this.textContent = t("again"); step(); return;
+  }
+  this.dataset.armed = "1"; this.textContent = t("again_confirm");
+  setTimeout(() => { this.dataset.armed = ""; this.textContent = t("again"); }, 4000);
+});
+
+/* ---------- arranque ---------- */
+applyStatic();
+$("#titleTrio").innerHTML = dg("zeus", 44) + dg("jupiter", 44) + dg("horus", 44);
+if (S.done && answeredCount() === N) { show("result"); renderResult(true); }
+else renderStart();
+</script>
+</body>
+</html>
